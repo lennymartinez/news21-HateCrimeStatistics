@@ -265,3 +265,91 @@ Year,State,Agency type,Agency name,quarter01,quarter02,quarter03,quarter04,Popul
 2010,CALIFORNIA,Cities,Westminster,2,2,2,1,89604
 2010,CALIFORNIA,Cities,Whittier,0,0,1,0,81611
 2010,CALIFORNIA,Cities,Yorba Linda,0,0,1,0,66813
+2010, CALIFORNIA, Metropolitan Counties,Butte,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Contra Costa,0,0,0,2,
+2010, CALIFORNIA, Metropolitan Counties,El Dorado,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Kern,1,1,1,2,
+2010, CALIFORNIA, Metropolitan Counties,Los Angeles,9,7,12,13,
+2010, CALIFORNIA, Metropolitan Counties,Madera,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Monterey,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Orange,1,0,1,1,
+2010, CALIFORNIA, Metropolitan Counties,Riverside,5,2,2,1,
+2010, CALIFORNIA, Metropolitan Counties,Sacramento,5,2,2,4,
+2010, CALIFORNIA, Metropolitan Counties,San Bernardino,0,1,1,0,
+2010, CALIFORNIA, Metropolitan Counties,San Diego,6,8,10,4,
+2010, CALIFORNIA, Metropolitan Counties,San Joaquin,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,San Mateo,1,0,0,0,
+2010, CALIFORNIA, Metropolitan Counties,Santa Barbara,0,1,0,0,
+2010, CALIFORNIA, Metropolitan Counties,Santa Clara,1,1,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Santa Cruz,0,0,0,1,
+2010, CALIFORNIA, Metropolitan Counties,Shasta,1,0,0,0,
+2010, CALIFORNIA, Metropolitan Counties,Sonoma,1,0,0,1,
+2010, CALIFORNIA, Metropolitan Counties,Stanislaus,0,1,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Ventura,0,0,1,0,
+2010, CALIFORNIA, Nonmetropolitan Counties,Colusa,0,0,1,0,
+2010, CALIFORNIA, Nonmetropolitan Counties,Lake,1,1,2,0,
+2010, CALIFORNIA, Nonmetropolitan Counties,Mariposa,0,0,1,0,
+2010, CALIFORNIA, Nonmetropolitan Counties,Mendocino,2,0,1,1,
+2010, CALIFORNIA, Other Agencies,Los Angeles Transportation Services Bureau,0,1,2,3,
+2010, CALIFORNIA, Other Agencies,"San Francisco Bay Area Rapid Transit, San Francisco County",0,0,0,1,
+2010, CALIFORNIA, Other Agencies,Santa Clara Transit District,0,1,2,1,
+2010,WYOMING,Cities,Afton,0,0,0,0,1960
+2010,WYOMING,Cities,Alpine,0,0,0,0,882
+2010,WYOMING,Cities,Basin,0,0,0,0,1328
+2010,WYOMING,Cities,Buffalo,0,0,0,0,5123
+2010,WYOMING,Cities,Casper,0,0,0,0,56813
+2010,WYOMING,Cities,Cheyenne,0,0,0,0,59361
+2010,WYOMING,Cities,Cody,0,0,0,0,9730
+2010,WYOMING,Cities,Diamondville,0,0,0,0,693
+2010,WYOMING,Cities,Douglas,0,0,0,0,6468
+2010,WYOMING,Cities,Evanston,0,0,0,0,12311
+2010,WYOMING,Cities,Evansville,0,0,0,0,2594
+2010,WYOMING,Cities,Gillette,0,0,0,0,30473
+2010,WYOMING,Cities,Glenrock,0,0,0,0,2552
+2010,WYOMING,Cities,Green River,0,0,0,0,12793
+2010,WYOMING,Cities,Greybull,0,0,0,0,1816
+2010,WYOMING,Cities,Guernsey,0,0,0,0,1084
+2010,WYOMING,Cities,Hanna,0,0,0,0,893
+2010,WYOMING,Cities,Hulett,0,0,0,0,538
+2010,WYOMING,Cities,Jackson,0,0,0,0,10301
+2010,WYOMING,Cities,Kemmerer,0,0,0,0,2563
+2010,WYOMING,Cities,Lander,0,0,0,0,7622
+2010,WYOMING,Cities,Laramie,0,0,0,0,29742
+2010,WYOMING,Cities,Lovell,0,0,0,0,2381
+2010,WYOMING,Cities,Lusk,0,0,0,0,1465
+2010,WYOMING,Cities,Mills,0,0,0,0,3707
+2010,WYOMING,Cities,Moorcroft,0,0,0,0,961
+2010,WYOMING,Cities,Newcastle,0,0,0,0,3505
+2010,WYOMING,Cities,Pine Bluffs,0,0,0,0,1198
+2010,WYOMING,Cities,Powell,0,0,0,0,5953
+2010,WYOMING,Cities,Rawlins,0,0,0,0,8993
+2010,WYOMING,Cities,Riverton,0,0,0,0,10613
+2010,WYOMING,Cities,Rock Springs,0,0,0,0,21689
+2010,WYOMING,Cities,Saratoga,0,0,0,0,1829
+2010,WYOMING,Cities,Sheridan,0,0,0,0,18070
+2010,WYOMING,Cities,Sundance,0,0,0,0,1387
+2010,WYOMING,Cities,Thermopolis,0,0,0,0,3002
+2010,WYOMING,Cities,Torrington,0,0,0,0,5816
+2010,WYOMING,Cities,Wheatland,0,0,0,0,3290
+2010,WYOMING,Cities,Worland,0,0,0,0,5157
+2010,WYOMING,Metropolitan Counties,Natrona,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Albany,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Big Horn,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Campbell,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Carbon,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Converse,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Crook,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Fremont,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Goshen,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Hot Springs,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Johnson,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Lincoln,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Park,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Platte,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Sheridan,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Sublette,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Sweetwater,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Teton,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Uinta,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Washakie,0,0,0,0,
+2010,WYOMING,Nonmetropolitan Counties,Weston,0,0,0,0,
