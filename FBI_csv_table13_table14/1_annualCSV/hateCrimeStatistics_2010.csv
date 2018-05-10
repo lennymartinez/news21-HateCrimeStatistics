@@ -1,4 +1,4 @@
-Year,State,Agency type,Agency name,"quarter01","quarter02","quarter03","quarter04",Population2
+Year,State,Agency type,Agency name,quarter01,quarter02,quarter03,quarter04,Population2
 2010,ALABAMA,Cities,Decatur,0,0,1,2,57153
 2010,ALABAMA,Cities,Hoover,0,1,0,1,74687
 2010,ALABAMA,Cities,Jasper,0,1,0,0,14138
@@ -265,673 +265,651 @@ Year,State,Agency type,Agency name,"quarter01","quarter02","quarter03","quarter0
 2010,CALIFORNIA,Cities,Westminster,2,2,2,1,89604
 2010,CALIFORNIA,Cities,Whittier,0,0,1,0,81611
 2010,CALIFORNIA,Cities,Yorba Linda,0,0,1,0,66813
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Butte,0,0,1,0,
-2010, Nan, Nan,Contra Costa,0,0,0,2,
-2010, Nan, Nan,El Dorado,0,0,1,0,
-2010, Nan, Nan,Kern,1,1,1,2,
-2010, Nan, Nan,Los Angeles,9,7,12,13,
-2010, Nan, Nan,Madera,0,0,1,0,
-2010, Nan, Nan,Monterey,0,0,1,0,
-2010, Nan, Nan,Orange,1,0,1,1,
-2010, Nan, Nan,Riverside,5,2,2,1,
-2010, Nan, Nan,Sacramento,5,2,2,4,
-2010, Nan, Nan,San Bernardino,0,1,1,0,
-2010, Nan, Nan,San Diego,6,8,10,4,
-2010, Nan, Nan,San Joaquin,0,0,1,0,
-2010, Nan, Nan,San Mateo,1,0,0,0,
-2010, Nan, Nan,Santa Barbara,0,1,0,0,
-2010, Nan, Nan,Santa Clara,1,1,1,0,
-2010, Nan, Nan,Santa Cruz,0,0,0,1,
-2010, Nan, Nan,Shasta,1,0,0,0,
-2010, Nan, Nan,Sonoma,1,0,0,1,
-2010, Nan, Nan,Stanislaus,0,1,1,0,
-2010, Nan, Nan,Ventura,0,0,1,0,
-2010, Nan,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Colusa,0,0,1,0,
-2010, Nan, Nan,Lake,1,1,2,0,
-2010, Nan, Nan,Mariposa,0,0,1,0,
-2010, Nan, Nan,Mendocino,2,0,1,1,
-2010, Nan,Other Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Los Angeles Transportation Services Bureau,0,1,2,3,
-2010, Nan, Nan,"San Francisco Bay Area Rapid Transit, San Francisco County",0,0,0,1,
-2010, Nan, Nan,Santa Clara Transit District,0,1,2,1,
-2010,COLORADO,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Arvada,0,0,1,0,107227
-2010, Nan, Nan,Aspen,1,1,0,1,6012
-2010, Nan, Nan,Aurora,1,3,1,0,323483
-2010, Nan, Nan,Boulder,0,0,2,1,99255
-2010, Nan, Nan,Breckenridge,0,0,0,1,3557
-2010, Nan, Nan,Centennial,1,1,1,0,98902
-2010, Nan, Nan,Colorado Springs,3,4,2,6,397886
-2010, Nan, Nan,Commerce City,0,1,1,1,46771
-2010, Nan, Nan,Denver,14,5,11,13,607051
-2010, Nan, Nan,Evans,0,0,0,1,20440
-2010, Nan, Nan,Florence,0,0,0,1,3533
-2010, Nan, Nan,Fort Collins,3,2,1,1,138689
-2010, Nan, Nan,Frederick,0,0,1,0,9196
-2010, Nan, Nan,Fruita,1,0,0,0,12848
-2010, Nan, Nan,Golden,2,0,0,0,17226
-2010, Nan, Nan,Grand Junction,0,0,3,0,59029
-2010, Nan, Nan,Greeley,2,1,0,0,92804
-2010, Nan, Nan,Greenwood Village,0,1,0,0,14430
-2010, Nan, Nan,Lafayette,0,1,1,0,26055
-2010, Nan, Nan,Lakewood,0,1,0,0,139615
-2010, Nan, Nan,Littleton,1,0,0,0,40544
-2010, Nan, Nan,Longmont,0,0,3,0,88913
-2010, Nan, Nan,Louisville,0,1,0,0,19429
-2010, Nan, Nan,Loveland,1,1,2,0,66857
-2010, Nan, Nan,Montrose,0,0,1,0,18758
-2010, Nan, Nan,Monument,0,1,0,0,5257
-2010, Nan, Nan,Northglenn,1,0,0,0,34467
-2010, Nan, Nan,Pagosa Springs,1,0,0,0,1814
-2010, Nan, Nan,Pueblo,1,1,0,3,103612
-2010, Nan, Nan,Steamboat Springs,0,0,0,1,12426
-2010, Nan, Nan,Thornton,0,1,0,0,119989
-2010, Nan, Nan,Trinidad,0,0,1,0,8933
-2010, Nan, Nan,Wheat Ridge,1,0,2,0,30400
-2010, Nan, Nan,Yuma,0,0,1,0,3240
-,,,,,,,,
-2010, Nan,Metropolitan Counties,Adams,1,0,1,0,
-2010, Nan,Metropolitan Counties,Arapahoe,1,3,2,0,
-2010, Nan,Metropolitan Counties,Douglas,3,4,5,1,
-2010, Nan,Metropolitan Counties,Jefferson,0,0,0,1,
-2010, Nan,Metropolitan Counties,Larimer,0,0,0,1,
-2010, Nan,Metropolitan Counties,Mesa,0,0,0,1,
-,,,,,,,,
-2010, Nan,Nonmetropolitan Counties,Montezuma,1,0,0,1,
-2010, Nan,Nonmetropolitan Counties,Summit,1,0,0,0,
-,,,,,,,,
-2010, Nan,State Police Agencies,Colorado State Patrol,1,0,0,0,
-,,,,,,,,
-,,,,,,,,
+2010, CALIFORNIA, Metropolitan Counties,Butte,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Contra Costa,0,0,0,2,
+2010, CALIFORNIA, Metropolitan Counties,El Dorado,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Kern,1,1,1,2,
+2010, CALIFORNIA, Metropolitan Counties,Los Angeles,9,7,12,13,
+2010, CALIFORNIA, Metropolitan Counties,Madera,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Monterey,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Orange,1,0,1,1,
+2010, CALIFORNIA, Metropolitan Counties,Riverside,5,2,2,1,
+2010, CALIFORNIA, Metropolitan Counties,Sacramento,5,2,2,4,
+2010, CALIFORNIA, Metropolitan Counties,San Bernardino,0,1,1,0,
+2010, CALIFORNIA, Metropolitan Counties,San Diego,6,8,10,4,
+2010, CALIFORNIA, Metropolitan Counties,San Joaquin,0,0,1,0,
+2010, CALIFORNIA, Metropolitan Counties,San Mateo,1,0,0,0,
+2010, CALIFORNIA, Metropolitan Counties,Santa Barbara,0,1,0,0,
+2010, CALIFORNIA, Metropolitan Counties,Santa Clara,1,1,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Santa Cruz,0,0,0,1,
+2010, CALIFORNIA, Metropolitan Counties,Shasta,1,0,0,0,
+2010, CALIFORNIA, Metropolitan Counties,Sonoma,1,0,0,1,
+2010, CALIFORNIA, Metropolitan Counties,Stanislaus,0,1,1,0,
+2010, CALIFORNIA, Metropolitan Counties,Ventura,0,0,1,0,
+2010, CALIFORNIA, Nonmetropolitan Counties,Colusa,0,0,1,0,
+2010, CALIFORNIA, Nonmetropolitan Counties,Lake,1,1,2,0,
+2010, CALIFORNIA, Nonmetropolitan Counties,Mariposa,0,0,1,0,
+2010, CALIFORNIA, Nonmetropolitan Counties,Mendocino,2,0,1,1,
+2010, CALIFORNIA, Other Agencies,Los Angeles Transportation Services Bureau,0,1,2,3,
+2010, CALIFORNIA, Other Agencies,"San Francisco Bay Area Rapid Transit, San Francisco County",0,0,0,1,
+2010, CALIFORNIA, Other Agencies,Santa Clara Transit District,0,1,2,1,
+2010, COLORADO,Cities,Arvada,0,0,1,0,107227
+2010, COLORADO,Cities,Aspen,1,1,0,1,6012
+2010, COLORADO,Cities,Aurora,1,3,1,0,323483
+2010, COLORADO,Cities,Boulder,0,0,2,1,99255
+2010, COLORADO,Cities,Breckenridge,0,0,0,1,3557
+2010, COLORADO,Cities,Centennial,1,1,1,0,98902
+2010, COLORADO,Cities,Colorado Springs,3,4,2,6,397886
+2010, COLORADO,Cities,Commerce City,0,1,1,1,46771
+2010, COLORADO,Cities,Denver,14,5,11,13,607051
+2010, COLORADO,Cities,Evans,0,0,0,1,20440
+2010, COLORADO,Cities,Florence,0,0,0,1,3533
+2010, COLORADO,Cities,Fort Collins,3,2,1,1,138689
+2010, COLORADO,Cities,Frederick,0,0,1,0,9196
+2010, COLORADO,Cities,Fruita,1,0,0,0,12848
+2010, COLORADO,Cities,Golden,2,0,0,0,17226
+2010, COLORADO,Cities,Grand Junction,0,0,3,0,59029
+2010, COLORADO,Cities,Greeley,2,1,0,0,92804
+2010, COLORADO,Cities,Greenwood Village,0,1,0,0,14430
+2010, COLORADO,Cities,Lafayette,0,1,1,0,26055
+2010, COLORADO,Cities,Lakewood,0,1,0,0,139615
+2010, COLORADO,Cities,Littleton,1,0,0,0,40544
+2010, COLORADO,Cities,Longmont,0,0,3,0,88913
+2010, COLORADO,Cities,Louisville,0,1,0,0,19429
+2010, COLORADO,Cities,Loveland,1,1,2,0,66857
+2010, COLORADO,Cities,Montrose,0,0,1,0,18758
+2010, COLORADO,Cities,Monument,0,1,0,0,5257
+2010, COLORADO,Cities,Northglenn,1,0,0,0,34467
+2010, COLORADO,Cities,Pagosa Springs,1,0,0,0,1814
+2010, COLORADO,Cities,Pueblo,1,1,0,3,103612
+2010, COLORADO,Cities,Steamboat Springs,0,0,0,1,12426
+2010, COLORADO,Cities,Thornton,0,1,0,0,119989
+2010, COLORADO,Cities,Trinidad,0,0,1,0,8933
+2010, COLORADO,Cities,Wheat Ridge,1,0,2,0,30400
+2010, COLORADO,Cities,Yuma,0,0,1,0,3240
+2010, COLORADO,Metropolitan Counties,Adams,1,0,1,0,
+2010, COLORADO,Metropolitan Counties,Arapahoe,1,3,2,0,
+2010, COLORADO,Metropolitan Counties,Douglas,3,4,5,1,
+2010, COLORADO,Metropolitan Counties,Jefferson,0,0,0,1,
+2010, COLORADO,Metropolitan Counties,Larimer,0,0,0,1,
+2010, COLORADO,Metropolitan Counties,Mesa,0,0,0,1,
+2010, COLORADO,Nonmetropolitan Counties,Montezuma,1,0,0,1,
+2010, COLORADO,Nonmetropolitan Counties,Summit,1,0,0,0,
+2010, COLORADO,State Police Agencies,Colorado State Patrol,1,0,0,0,
 2010,CONNECTICUT,Cities,Bridgeport,2,0,2,1,138810
 2010,CONNECTICUT,Cities,Coventry,3,2,1,0,12546
 2010,CONNECTICUT,Cities,Cromwell,1,0,0,1,13919
 2010,CONNECTICUT,Cities,Enfield,2,0,0,0,45837
 2010,CONNECTICUT,Cities,Fairfield,0,0,0,1,58331
 2010,CONNECTICUT,Cities,Glastonbury,0,2,1,0,33921
-2010, Nan, Nan,Greenwich,0,1,0,0,63281
-2010, Nan, Nan,Groton Town,0,0,1,1,29842
-2010, Nan, Nan,Hartford,2,6,1,3,125626
-2010, Nan, Nan,Manchester,5,4,4,5,57271
-2010, Nan, Nan,Middletown,1,1,1,0,49281
-2010, Nan, Nan,Milford,0,0,3,0,57565
-2010, Nan, Nan,Naugatuck,0,0,2,1,32529
-2010, Nan, Nan,New Britain,1,0,1,0,71344
-2010, Nan, Nan,New Canaan,0,2,1,0,20312
-2010, Nan, Nan,New Haven,1,1,0,2,124856
-2010, Nan, Nan,Newington,1,1,3,1,30246
-2010, Nan, Nan,New London,1,0,0,2,26517
-2010, Nan, Nan,Newtown,0,2,2,0,27366
-2010, Nan, Nan,Norwalk,1,6,3,2,84944
-2010, Nan, Nan,Norwich,0,0,1,0,37157
-2010, Nan, Nan,Old Saybrook,0,0,1, Nan,10696
-2010, Nan, Nan,Seymour,0,1,0,1,16616
-2010, Nan, Nan,Shelton,2,0,0,1,41037
-2010, Nan, Nan,Simsbury,1,0,0,0,23988
-2010, Nan, Nan,Southington,1,1,1,1,43354
-2010, Nan, Nan,South Windsor,0,2,0,0,26781
-2010, Nan, Nan,Stonington,0,0,0,1,18807
-2010, Nan, Nan,Torrington,2,1,1,1,35876
-2010, Nan, Nan,Trumbull,1,1,0,0,35425
-2010, Nan, Nan,Wallingford,0,0,1,0,45636
-2010, Nan, Nan,Waterford,0,0,0,1,19161
-2010, Nan, Nan,West Hartford,1,1,2,1,61603
-2010, Nan, Nan,West Haven,2,0,2,0,53746
-2010, Nan, Nan,Weston,0,0,1,0,10344
-2010, Nan, Nan,Windsor Locks,2,1,0,0,12722
-2010, Nan, Nan,Wolcott,0,0,1,0,16799
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Eastern Connecticut State University,0,1,0,0,5610
-2010, Nan, Nan,Southern Connecticut State University,0,0,1,0,11815
-2010, Nan, Nan,"University of Connecticut, Storrs, Avery Point, and Hartford3",1,2,0,2,
-2010, Nan, Nan,Western Connecticut State University,0,1,0,0,6617
-2010, Nan,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Connecticut State Police,2,1,1,1,
-2010, Nan,Other Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Metropolitan Transportation Authority,0,0,0,1,
+2010,CONNECTICUT,Cities,Greenwich,0,1,0,0,63281
+2010,CONNECTICUT,Cities,Groton Town,0,0,1,1,29842
+2010,CONNECTICUT,Cities,Hartford,2,6,1,3,125626
+2010,CONNECTICUT,Cities,Manchester,5,4,4,5,57271
+2010,CONNECTICUT,Cities,Middletown,1,1,1,0,49281
+2010,CONNECTICUT,Cities,Milford,0,0,3,0,57565
+2010,CONNECTICUT,Cities,Naugatuck,0,0,2,1,32529
+2010,CONNECTICUT,Cities,New Britain,1,0,1,0,71344
+2010,CONNECTICUT,Cities,New Canaan,0,2,1,0,20312
+2010,CONNECTICUT,Cities,New Haven,1,1,0,2,124856
+2010,CONNECTICUT,Cities,Newington,1,1,3,1,30246
+2010,CONNECTICUT,Cities,New London,1,0,0,2,26517
+2010,CONNECTICUT,Cities,Newtown,0,2,2,0,27366
+2010,CONNECTICUT,Cities,Norwalk,1,6,3,2,84944
+2010,CONNECTICUT,Cities,Norwich,0,0,1,0,37157
+2010,CONNECTICUT,Cities,Old Saybrook,0,0,1, Nan,10696
+2010,CONNECTICUT,Cities,Seymour,0,1,0,1,16616
+2010,CONNECTICUT,Cities,Shelton,2,0,0,1,41037
+2010,CONNECTICUT,Cities,Simsbury,1,0,0,0,23988
+2010,CONNECTICUT,Cities,Southington,1,1,1,1,43354
+2010,CONNECTICUT,Cities,South Windsor,0,2,0,0,26781
+2010,CONNECTICUT,Cities,Stonington,0,0,0,1,18807
+2010,CONNECTICUT,Cities,Torrington,2,1,1,1,35876
+2010,CONNECTICUT,Cities,Trumbull,1,1,0,0,35425
+2010,CONNECTICUT,Cities,Wallingford,0,0,1,0,45636
+2010,CONNECTICUT,Cities,Waterford,0,0,0,1,19161
+2010,CONNECTICUT,Cities,West Hartford,1,1,2,1,61603
+2010,CONNECTICUT,Cities,West Haven,2,0,2,0,53746
+2010,CONNECTICUT,Cities,Weston,0,0,1,0,10344
+2010,CONNECTICUT,Cities,Windsor Locks,2,1,0,0,12722
+2010,CONNECTICUT,Cities,Wolcott,0,0,1,0,16799
+2010,CONNECTICUT,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,CONNECTICUT,State Police Agencies,Connecticut State Police,2,1,1,1,
+2010,CONNECTICUT,Other Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,CONNECTICUT,Other Agencies,Metropolitan Transportation Authority,0,0,0,1,
 2010,DELAWARE,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Bethany Beach,1,0,0,0,988
-2010, Nan, Nan,Delmar,1,0,0,0,1597
-2010, Nan, Nan,Newark,1,2,0,0,30543
-2010, Nan, Nan,Rehoboth Beach,0,0,1,0,1624
-2010, Nan, Nan,Smyrna,0,1,0,0,9322
-2010, Nan, Nan,Wilmington,1,0,0,0,73270
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,University of Delaware,2,1,1,1,21138
-2010, Nan,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,State Police:, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Kent County,0,0,1,0,
-2010, Nan, Nan,New Castle County,0,1,1,1,
-2010, Nan, Nan,Sussex County,0,1,2,0,
-2010,DISTRICT OF COLUMBIA,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Washington,7,16,14,20,601723
+2010,DELAWARE,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,DELAWARE,Cities,Bethany Beach,1,0,0,0,988
+2010,DELAWARE,Cities,Delmar,1,0,0,0,1597
+2010,DELAWARE,Cities,Newark,1,2,0,0,30543
+2010,DELAWARE,Cities,Rehoboth Beach,0,0,1,0,1624
+2010,DELAWARE,Cities,Smyrna,0,1,0,0,9322
+2010,DELAWARE,Cities,Wilmington,1,0,0,0,73270
+2010,DELAWARE, State Police Agencies, State Police:Kent County,0,0,1,0,
+2010,DELAWARE, State Police Agencies, State Police:New Castle County,0,1,1,1,
+2010,DELAWARE, State Police Agencies, State Police:Sussex County,0,1,2,0,
+2010, DISTRICT OF COLUMBIA, Cities,Washington,7,16,14,20,601723
 2010,FLORIDA,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Boca Raton,2,1,1,0,86707
-2010, Nan, Nan,Cape Coral,0,1,0,0,160432
-2010, Nan, Nan,Clearwater,1,0,1,1,105647
-2010, Nan, Nan,Coconut Creek,0,1,0,0,51184
-2010, Nan, Nan,Coral Springs,1,0,0,0,127113
-2010, Nan, Nan,Davie,1,0,0,0,92661
-2010, Nan, Nan,Daytona Beach,0,0,0,1,63736
-2010, Nan, Nan,Deland,1,0,0,1,27926
-2010, Nan, Nan,Fort Lauderdale,1,0,0,1,186170
-2010, Nan, Nan,Fort Myers,0,0,1,0,66053
-2010, Nan, Nan,Fort Pierce,0,0,0,1,42797
-2010, Nan, Nan,Fort Walton Beach,0,0,1,0,18432
-2010, Nan, Nan,Gainesville,1,5,2,3,116880
-2010, Nan, Nan,Hallandale,0,1,2,0,39359
-2010, Nan, Nan,Homestead,0,0,0,1,63761
-2010, Nan, Nan,Indian Shores,1,0,0,0,4213
-2010, Nan, Nan,Key Biscayne,0,0,0,1,10097
-2010, Nan, Nan,Key West,0,0,1,0,22167
-2010, Nan, Nan,Kissimmee, Nan,0,0,1,64122
-2010, Nan, Nan,Lake Worth,1,0,0,0,35977
-2010, Nan, Nan,Melbourne,0,2,0,0,77861
-2010, Nan, Nan,Miami Beach,0,0,0,1,87990
-2010, Nan, Nan,Miami Gardens,0,1,0,1,110130
-2010, Nan, Nan,Miramar,0,0,1,0,113385
-2010, Nan, Nan,New Port Richey,0,1,0,0,17634
-2010, Nan, Nan,North Miami,0,1,0,1,57796
-2010, Nan, Nan,North Port,0,2,1,1,59076
-2010, Nan, Nan,Ocoee,0,0,1,1,33650
-2010, Nan, Nan,Orlando,1,2,3,1,240222
-2010, Nan, Nan,Palm Bay,0,0,2,0,103350
-2010, Nan, Nan,Palm Beach Gardens,0,1,0,0,51458
-2010, Nan, Nan,Panama City,0,1,1,0,36593
-2010, Nan, Nan,Pompano Beach,1,0,0,0,102749
-2010, Nan, Nan,Port Richey,0,0,0,1,3426
-2010, Nan, Nan,Port St. Lucie,0,0,0,1,163089
-2010, Nan, Nan,Seminole,0,0,1,0,19055
-2010, Nan, Nan,St. Cloud,0,0,0,1,30245
-2010, Nan, Nan,Surfside,1,0,0,0,4684
-2010, Nan, Nan,Tallahassee,0,1,1,0,174516
-2010, Nan, Nan,Temple Terrace,1,0,0,0,22760
-2010, Nan, Nan,Treasure Island,0,0,0,1,7399
-2010, Nan, Nan,Wilton Manors,1,1,1,0,12873
-2010, Nan, Nan,Winter Haven,0,1,1,0,33981
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Alachua,1,1,1,0,
-2010, Nan, Nan,Brevard,0,1,0,0,
-2010, Nan, Nan,Broward,1,1,2,0,
-2010, Nan, Nan,Clay,1,1,0,0,
-2010, Nan, Nan,Collier,0,5,2,1,
-2010, Nan, Nan,Escambia,0,1,1,1,
-2010, Nan, Nan,Flagler,0,0,3,0,
-2010, Nan, Nan,Hillsborough,0,1,0,1,
-2010, Nan, Nan,Martin,0,3,0,0,
-2010, Nan, Nan,Miami-Dade,2,0,0,0,
-2010, Nan, Nan,Okaloosa,0,1,2,0,
-2010, Nan, Nan,Orange,1,0,1,2,
-2010, Nan, Nan,Osceola,0,1,0,0,
-2010, Nan, Nan,Palm Beach,1,0,1,0,
-2010, Nan, Nan,Pasco,0,1,0,0,
-2010, Nan, Nan,Pinellas,1,0,0,1,
-2010, Nan, Nan,Polk,1,0,0,0,
-2010, Nan, Nan,Santa Rosa,0,2,0,2,
-2010, Nan, Nan,Volusia,0,0,1,0,
-2010, Nan,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Highlands,0,0,2,1,
-2010, Nan,Tribal Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Seminole Tribal,0,0,0,1,
-2010, Nan,Other Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Palm Beach County School District,0,1,0,0,
+2010,FLORIDA,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,FLORIDA, Nan,Boca Raton,2,1,1,0,86707
+2010,FLORIDA, Nan,Cape Coral,0,1,0,0,160432
+2010,FLORIDA, Nan,Clearwater,1,0,1,1,105647
+2010,FLORIDA, Nan,Coconut Creek,0,1,0,0,51184
+2010,FLORIDA, Nan,Coral Springs,1,0,0,0,127113
+2010,FLORIDA, Nan,Davie,1,0,0,0,92661
+2010,FLORIDA, Nan,Daytona Beach,0,0,0,1,63736
+2010,FLORIDA, Nan,Deland,1,0,0,1,27926
+2010,FLORIDA, Nan,Fort Lauderdale,1,0,0,1,186170
+2010,FLORIDA, Nan,Fort Myers,0,0,1,0,66053
+2010,FLORIDA, Nan,Fort Pierce,0,0,0,1,42797
+2010,FLORIDA, Nan,Fort Walton Beach,0,0,1,0,18432
+2010,FLORIDA, Nan,Gainesville,1,5,2,3,116880
+2010,FLORIDA, Nan,Hallandale,0,1,2,0,39359
+2010,FLORIDA, Nan,Homestead,0,0,0,1,63761
+2010,FLORIDA, Nan,Indian Shores,1,0,0,0,4213
+2010,FLORIDA, Nan,Key Biscayne,0,0,0,1,10097
+2010,FLORIDA, Nan,Key West,0,0,1,0,22167
+2010,FLORIDA, Nan,Kissimmee, Nan,0,0,1,64122
+2010,FLORIDA, Nan,Lake Worth,1,0,0,0,35977
+2010,FLORIDA, Nan,Melbourne,0,2,0,0,77861
+2010,FLORIDA, Nan,Miami Beach,0,0,0,1,87990
+2010,FLORIDA, Nan,Miami Gardens,0,1,0,1,110130
+2010,FLORIDA, Nan,Miramar,0,0,1,0,113385
+2010,FLORIDA, Nan,New Port Richey,0,1,0,0,17634
+2010,FLORIDA, Nan,North Miami,0,1,0,1,57796
+2010,FLORIDA, Nan,North Port,0,2,1,1,59076
+2010,FLORIDA, Nan,Ocoee,0,0,1,1,33650
+2010,FLORIDA, Nan,Orlando,1,2,3,1,240222
+2010,FLORIDA, Nan,Palm Bay,0,0,2,0,103350
+2010,FLORIDA, Nan,Palm Beach Gardens,0,1,0,0,51458
+2010,FLORIDA, Nan,Panama City,0,1,1,0,36593
+2010,FLORIDA, Nan,Pompano Beach,1,0,0,0,102749
+2010,FLORIDA, Nan,Port Richey,0,0,0,1,3426
+2010,FLORIDA, Nan,Port St. Lucie,0,0,0,1,163089
+2010,FLORIDA, Nan,Seminole,0,0,1,0,19055
+2010,FLORIDA, Nan,St. Cloud,0,0,0,1,30245
+2010,FLORIDA, Nan,Surfside,1,0,0,0,4684
+2010,FLORIDA, Nan,Tallahassee,0,1,1,0,174516
+2010,FLORIDA, Nan,Temple Terrace,1,0,0,0,22760
+2010,FLORIDA, Nan,Treasure Island,0,0,0,1,7399
+2010,FLORIDA, Nan,Wilton Manors,1,1,1,0,12873
+2010,FLORIDA, Nan,Winter Haven,0,1,1,0,33981
+2010,FLORIDA,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,FLORIDA, Nan,Alachua,1,1,1,0,
+2010,FLORIDA, Nan,Brevard,0,1,0,0,
+2010,FLORIDA, Nan,Broward,1,1,2,0,
+2010,FLORIDA, Nan,Clay,1,1,0,0,
+2010,FLORIDA, Nan,Collier,0,5,2,1,
+2010,FLORIDA, Nan,Escambia,0,1,1,1,
+2010,FLORIDA, Nan,Flagler,0,0,3,0,
+2010,FLORIDA, Nan,Hillsborough,0,1,0,1,
+2010,FLORIDA, Nan,Martin,0,3,0,0,
+2010,FLORIDA, Nan,Miami-Dade,2,0,0,0,
+2010,FLORIDA, Nan,Okaloosa,0,1,2,0,
+2010,FLORIDA, Nan,Orange,1,0,1,2,
+2010,FLORIDA, Nan,Osceola,0,1,0,0,
+2010,FLORIDA, Nan,Palm Beach,1,0,1,0,
+2010,FLORIDA, Nan,Pasco,0,1,0,0,
+2010,FLORIDA, Nan,Pinellas,1,0,0,1,
+2010,FLORIDA, Nan,Polk,1,0,0,0,
+2010,FLORIDA, Nan,Santa Rosa,0,2,0,2,
+2010,FLORIDA, Nan,Volusia,0,0,1,0,
+2010,FLORIDA,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,FLORIDA, Nan,Highlands,0,0,2,1,
+2010,FLORIDA,Tribal Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,FLORIDA, Nan,Seminole Tribal,0,0,0,1,
+2010,FLORIDA,Other Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,FLORIDA, Nan,Palm Beach County School District,0,1,0,0,
 2010,GEORGIA,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Atlanta,0,0,1,3,536472
-2010, Nan, Nan,LaGrange,0,1,0,0,27712
-2010, Nan, Nan,Sylvania,1,0,0,0,2610
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Southern Polytechnic State University,1,0,0,0,5183
-2010, Nan, Nan,University of Georgia,3,0,0,0,34885
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Henry County Police Department,1,2,2,1,
-2010, Nan,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,White,0,0,1,0,
+2010,GEORGIA,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,GEORGIA, Nan,Atlanta,0,0,1,3,536472
+2010,GEORGIA, Nan,LaGrange,0,1,0,0,27712
+2010,GEORGIA, Nan,Sylvania,1,0,0,0,2610
+2010,GEORGIA,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,GEORGIA, Nan,Southern Polytechnic State University,1,0,0,0,5183
+2010,GEORGIA, Nan,University of Georgia,3,0,0,0,34885
+2010,GEORGIA,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,GEORGIA, Nan,Henry County Police Department,1,2,2,1,
+2010,GEORGIA,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,GEORGIA, Nan,White,0,0,1,0,
 2010,IDAHO,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Boise,1,2,2,1,205902
-2010, Nan, Nan,Coeur d'Alene4,3,0,3,0,44626
-2010, Nan, Nan,Hailey,0,0,1,0,8242
-2010, Nan, Nan,Idaho Falls,0,1,0,0,55524
-2010, Nan, Nan,Nampa,1,1,0,2,84179
-2010, Nan, Nan,Payette,1,1,1,0,7688
-2010, Nan, Nan,Twin Falls,1,0,0,1,43434
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Ada,1,0,0,0,
-2010, Nan, Nan,Bonneville,0,1,0,0,
-2010, Nan, Nan,Kootenai,0,1,0,1,
-2010, Nan,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Elmore,0,0,1,0,
+2010,IDAHO,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,IDAHO, Nan,Boise,1,2,2,1,205902
+2010,IDAHO, Nan,Coeur d'Alene4,3,0,3,0,44626
+2010,IDAHO, Nan,Hailey,0,0,1,0,8242
+2010,IDAHO, Nan,Idaho Falls,0,1,0,0,55524
+2010,IDAHO, Nan,Nampa,1,1,0,2,84179
+2010,IDAHO, Nan,Payette,1,1,1,0,7688
+2010,IDAHO, Nan,Twin Falls,1,0,0,1,43434
+2010,IDAHO,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,IDAHO, Nan,Ada,1,0,0,0,
+2010,IDAHO, Nan,Bonneville,0,1,0,0,
+2010,IDAHO, Nan,Kootenai,0,1,0,1,
+2010,IDAHO,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,IDAHO, Nan,Elmore,0,0,1,0,
 2010,ILLINOIS,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Aurora,0,1,0,0,174255
-2010, Nan, Nan,Bradley,0,0,1,0,15131
-2010, Nan, Nan,Burbank,0,0,0,1,27135
-2010, Nan, Nan,Cahokia,0,1,0,0,14826
-2010, Nan, Nan,Carol Stream,0,0,0,1,39577
-2010, Nan, Nan,Casey,0,0,1,0,2829
-2010, Nan, Nan,Centralia,0,1,0,0,13237
-2010, Nan, Nan,Champaign,0,0,0,1,80489
-2010, Nan, Nan,Chicago,6,2,4,5,2833649
-2010, Nan, Nan,Decatur,1,1,1,0,74857
-2010, Nan, Nan,Downers Grove,0,0,0,1,48574
-2010, Nan, Nan,East Peoria,1,0,0,0,22638
-2010, Nan, Nan,Evanston,1,2,0,2,77418
-2010, Nan, Nan,Evergreen Park,0,0,2,0,18888
-2010, Nan, Nan,Galesburg,0,0,0,1,30424
-2010, Nan, Nan,Grand Ridge,1,0,0,0,510
-2010, Nan, Nan,Marion,1, Nan, Nan, Nan,17405
-2010, Nan, Nan,Minooka,0,0,1,0,11652
-2010, Nan, Nan,Moline,0,1,0,0,42510
-2010, Nan, Nan,Nauvoo,1,0, Nan, Nan,1136
-2010, Nan, Nan,Normal,1,0,0,2,53014
-2010, Nan, Nan,Oak Lawn,0,1,0,0,52172
-2010, Nan, Nan,Pekin,2,0,0,0,33196
-2010, Nan, Nan,Peoria,0,1,0,0,114557
-2010, Nan, Nan,Rockford,0,1,0,0,156180
-2010, Nan, Nan,Rock Island,0,0,0,1,37534
-2010, Nan, Nan,Salem,0,1,0,0,7180
-2010, Nan, Nan,Skokie,1,1,2,0,66088
-2010, Nan, Nan,Springfield,1,1,2,1,117383
-2010, Nan, Nan,Sycamore,0,1,0,0,18283
-2010, Nan, Nan,Tinley Park,2,1,0,0,59607
-2010, Nan, Nan,Urbana,0,2,1,1,39784
-2010, Nan, Nan,Wood River,1,0,0,0,10787
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Illinois State University,0,0,2,0,21184
-2010, Nan, Nan,"Northwestern University, Evanston3", Nan, Nan, Nan,1,
-2010, Nan, Nan,Oakton Community College,0,1, Nan, Nan,12087
-2010, Nan, Nan,Western Illinois University,2,0,0,0,12679
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Du Page,3,2,1,0,
-2010, Nan, Nan,Macon,0,0,0,1,
-2010, Nan, Nan,Madison,1,0,0,0,
-2010, Nan, Nan,Peoria,0,2,1,1,
-2010, Nan, Nan,Sangamon,1,0,0,0,
-2010, Nan, Nan,Will,2,0,0,1,
-2010, Nan, Nan,Woodford,0,0,0,1,
+2010,ILLINOIS,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,ILLINOIS, Nan,Aurora,0,1,0,0,174255
+2010,ILLINOIS, Nan,Bradley,0,0,1,0,15131
+2010,ILLINOIS, Nan,Burbank,0,0,0,1,27135
+2010,ILLINOIS, Nan,Cahokia,0,1,0,0,14826
+2010,ILLINOIS, Nan,Carol Stream,0,0,0,1,39577
+2010,ILLINOIS, Nan,Casey,0,0,1,0,2829
+2010,ILLINOIS, Nan,Centralia,0,1,0,0,13237
+2010,ILLINOIS, Nan,Champaign,0,0,0,1,80489
+2010,ILLINOIS, Nan,Chicago,6,2,4,5,2833649
+2010,ILLINOIS, Nan,Decatur,1,1,1,0,74857
+2010,ILLINOIS, Nan,Downers Grove,0,0,0,1,48574
+2010,ILLINOIS, Nan,East Peoria,1,0,0,0,22638
+2010,ILLINOIS, Nan,Evanston,1,2,0,2,77418
+2010,ILLINOIS, Nan,Evergreen Park,0,0,2,0,18888
+2010,ILLINOIS, Nan,Galesburg,0,0,0,1,30424
+2010,ILLINOIS, Nan,Grand Ridge,1,0,0,0,510
+2010,ILLINOIS, Nan,Marion,1, Nan, Nan, Nan,17405
+2010,ILLINOIS, Nan,Minooka,0,0,1,0,11652
+2010,ILLINOIS, Nan,Moline,0,1,0,0,42510
+2010,ILLINOIS, Nan,Nauvoo,1,0, Nan, Nan,1136
+2010,ILLINOIS, Nan,Normal,1,0,0,2,53014
+2010,ILLINOIS, Nan,Oak Lawn,0,1,0,0,52172
+2010,ILLINOIS, Nan,Pekin,2,0,0,0,33196
+2010,ILLINOIS, Nan,Peoria,0,1,0,0,114557
+2010,ILLINOIS, Nan,Rockford,0,1,0,0,156180
+2010,ILLINOIS, Nan,Rock Island,0,0,0,1,37534
+2010,ILLINOIS, Nan,Salem,0,1,0,0,7180
+2010,ILLINOIS, Nan,Skokie,1,1,2,0,66088
+2010,ILLINOIS, Nan,Springfield,1,1,2,1,117383
+2010,ILLINOIS, Nan,Sycamore,0,1,0,0,18283
+2010,ILLINOIS, Nan,Tinley Park,2,1,0,0,59607
+2010,ILLINOIS, Nan,Urbana,0,2,1,1,39784
+2010,ILLINOIS, Nan,Wood River,1,0,0,0,10787
+2010,ILLINOIS,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,ILLINOIS, Nan,Illinois State University,0,0,2,0,21184
+2010,ILLINOIS, Nan,"Northwestern University, Evanston3", Nan, Nan, Nan,1,
+2010,ILLINOIS, Nan,Oakton Community College,0,1, Nan, Nan,12087
+2010,ILLINOIS, Nan,Western Illinois University,2,0,0,0,12679
+2010,ILLINOIS,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,ILLINOIS, Nan,Du Page,3,2,1,0,
+2010,ILLINOIS, Nan,Macon,0,0,0,1,
+2010,ILLINOIS, Nan,Madison,1,0,0,0,
+2010,ILLINOIS, Nan,Peoria,0,2,1,1,
+2010,ILLINOIS, Nan,Sangamon,1,0,0,0,
+2010,ILLINOIS, Nan,Will,2,0,0,1,
+2010,ILLINOIS, Nan,Woodford,0,0,0,1,
 2010,INDIANA,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Bloomington,3,6,6,3,72286
-2010, Nan, Nan,Fort Wayne,1,4,0,0,257009
-2010, Nan, Nan,Frankfort,0,1,0,0,16533
-2010, Nan, Nan,Goshen,0,1,0,0,32812
-2010, Nan, Nan,Greenwood,1,0,0,0,49847
-2010, Nan, Nan,Hammond,1,0,0,0,76216
-2010, Nan, Nan,Highland,0,1,0,0,22583
-2010, Nan, Nan,Indianapolis,10,9,16,8,822211
-2010, Nan, Nan,La Porte,0, Nan,2, Nan,21282
-2010, Nan, Nan,West Lafayette,0,0,0,1,31945
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Indiana State University,1,0,2,1,10534
-2010, Nan, Nan,Indiana University:, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Bloomington,0,0, Nan,1,42347
-2010, Nan, Nan,Indianapolis3,0,0,1,0,
-2010, Nan, Nan,Purdue University,6,3,1,1,41052
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Elkhart,0,1,0,0,
-2010, Nan,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Noble,0,1,0,0,
-2010, Nan,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Indiana State Police, Nan, Nan, Nan,1,
+2010,INDIANA,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,INDIANA, Nan,Bloomington,3,6,6,3,72286
+2010,INDIANA, Nan,Fort Wayne,1,4,0,0,257009
+2010,INDIANA, Nan,Frankfort,0,1,0,0,16533
+2010,INDIANA, Nan,Goshen,0,1,0,0,32812
+2010,INDIANA, Nan,Greenwood,1,0,0,0,49847
+2010,INDIANA, Nan,Hammond,1,0,0,0,76216
+2010,INDIANA, Nan,Highland,0,1,0,0,22583
+2010,INDIANA, Nan,Indianapolis,10,9,16,8,822211
+2010,INDIANA, Nan,La Porte,0, Nan,2, Nan,21282
+2010,INDIANA, Nan,West Lafayette,0,0,0,1,31945
+2010,INDIANA,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,INDIANA, Nan,Indiana State University,1,0,2,1,10534
+2010,INDIANA, Nan,Indiana University:, Nan, Nan, Nan, Nan,
+2010,INDIANA, Nan,Bloomington,0,0, Nan,1,42347
+2010,INDIANA, Nan,Indianapolis3,0,0,1,0,
+2010,INDIANA, Nan,Purdue University,6,3,1,1,41052
+2010,INDIANA,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,INDIANA, Nan,Elkhart,0,1,0,0,
+2010,INDIANA,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,INDIANA, Nan,Noble,0,1,0,0,
+2010,INDIANA,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,INDIANA, Nan,Indiana State Police, Nan, Nan, Nan,1,
 2010,IOWA,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Altoona,0,0,1,0,15012
-2010, Nan, Nan,Bettendorf,0,0,1,1,33690
-2010, Nan, Nan,Clarinda,0,1,0,0,5316
-2010, Nan, Nan,Council Bluffs,0,0,0,1,61181
-2010, Nan, Nan,Davenport,0,0,1,1,102628
-2010, Nan, Nan,Des Moines,0,1,1,0,202564
-2010, Nan, Nan,Dubuque,0,0,0,1,57744
-2010, Nan, Nan,Fairfield,0,1,0,0,9251
-2010, Nan, Nan,Grinnell,0,1,0,0,9147
-2010, Nan, Nan,Iowa City,1,0,0,0,70411
-2010, Nan, Nan,Manchester,0,0,0,1,4880
-2010, Nan, Nan,Pleasant Hill,0,0,1,0,8922
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Iowa State University,0,0,0,1,27945
-2010, Nan, Nan,University of Iowa,0,0,1,0,28987
+2010,IOWA,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,IOWA, Nan,Altoona,0,0,1,0,15012
+2010,IOWA, Nan,Bettendorf,0,0,1,1,33690
+2010,IOWA, Nan,Clarinda,0,1,0,0,5316
+2010,IOWA, Nan,Council Bluffs,0,0,0,1,61181
+2010,IOWA, Nan,Davenport,0,0,1,1,102628
+2010,IOWA, Nan,Des Moines,0,1,1,0,202564
+2010,IOWA, Nan,Dubuque,0,0,0,1,57744
+2010,IOWA, Nan,Fairfield,0,1,0,0,9251
+2010,IOWA, Nan,Grinnell,0,1,0,0,9147
+2010,IOWA, Nan,Iowa City,1,0,0,0,70411
+2010,IOWA, Nan,Manchester,0,0,0,1,4880
+2010,IOWA, Nan,Pleasant Hill,0,0,1,0,8922
+2010,IOWA,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,IOWA, Nan,Iowa State University,0,0,0,1,27945
+2010,IOWA, Nan,University of Iowa,0,0,1,0,28987
 2010,KANSAS,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Abilene,0,0,1,1,6284
-2010, Nan, Nan,Andover,0,1,0,0,11091
-2010, Nan, Nan,Atchison,0,0,0,1,10483
-2010, Nan, Nan,Bonner Springs,0,1,0,0,7349
-2010, Nan, Nan,Emporia,2,1,0,0,24856
-2010, Nan, Nan,Hays,0,0,1,2,20537
-2010, Nan, Nan,Hutchinson,0,1,0,0,40981
-2010, Nan, Nan,Independence,0,1,0,0,9203
-2010, Nan, Nan,Iola,0,1,1,0,5704
-2010, Nan, Nan,Lawrence,0,2,0,0,93945
-2010, Nan, Nan,Leavenworth,0,0,0,1,35290
-2010, Nan, Nan,Maize,0,0,0,1,3477
-2010, Nan, Nan,Salina,0,1,2,0,46547
-2010, Nan, Nan,Shawnee,0,0,1,0,63652
-2010, Nan, Nan,Wichita,3,4,7,6,376880
-2010, Nan, Nan,Winfield,0,1,0,0,11126
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Emporia State University,0,0,0,1,6314
-2010, Nan, Nan,Kansas State University,1,1,0,0,23581
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Johnson,0,2,2,0,
-2010, Nan, Nan,Riley County Police Department,0,0,0,1,
-2010, Nan, Nan,Sedgwick,0,0,1,0,
-2010, Nan, Nan,Shawnee,0,0,4,0,
-2010, Nan, Nan,Wyandotte,0,0,1,0,
+2010,KANSAS,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,KANSAS, Nan,Abilene,0,0,1,1,6284
+2010,KANSAS, Nan,Andover,0,1,0,0,11091
+2010,KANSAS, Nan,Atchison,0,0,0,1,10483
+2010,KANSAS, Nan,Bonner Springs,0,1,0,0,7349
+2010,KANSAS, Nan,Emporia,2,1,0,0,24856
+2010,KANSAS, Nan,Hays,0,0,1,2,20537
+2010,KANSAS, Nan,Hutchinson,0,1,0,0,40981
+2010,KANSAS, Nan,Independence,0,1,0,0,9203
+2010,KANSAS, Nan,Iola,0,1,1,0,5704
+2010,KANSAS, Nan,Lawrence,0,2,0,0,93945
+2010,KANSAS, Nan,Leavenworth,0,0,0,1,35290
+2010,KANSAS, Nan,Maize,0,0,0,1,3477
+2010,KANSAS, Nan,Salina,0,1,2,0,46547
+2010,KANSAS, Nan,Shawnee,0,0,1,0,63652
+2010,KANSAS, Nan,Wichita,3,4,7,6,376880
+2010,KANSAS, Nan,Winfield,0,1,0,0,11126
+2010,KANSAS,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,KANSAS, Nan,Emporia State University,0,0,0,1,6314
+2010,KANSAS, Nan,Kansas State University,1,1,0,0,23581
+2010,KANSAS,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,KANSAS, Nan,Johnson,0,2,2,0,
+2010,KANSAS, Nan,Riley County Police Department,0,0,0,1,
+2010,KANSAS, Nan,Sedgwick,0,0,1,0,
+2010,KANSAS, Nan,Shawnee,0,0,4,0,
+2010,KANSAS, Nan,Wyandotte,0,0,1,0,
 2010,KENTUCKY,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Ashland,1,1,0,0,21209
-2010, Nan, Nan,Bardstown,0,1,3,1,11339
-2010, Nan, Nan,Beaver Dam,0,0,0,1,3120
-2010, Nan, Nan,Bellevue,0,0,1,0,5822
-2010, Nan, Nan,Bowling Green,1,2,0,3,57308
-2010, Nan, Nan,Calvert City,0,1,0,0,2753
-2010, Nan, Nan,Campbellsville,0,0,2,0,11340
-2010, Nan, Nan,Covington,2,1,8,1,43054
-2010, Nan, Nan,Danville,0,1,1,0,15646
-2010, Nan, Nan,Dayton,1,0,0,0,5418
-2010, Nan, Nan,Elizabethtown,0,1,2,0,24712
-2010, Nan, Nan,Elsmere,0,0,1,0,7999
-2010, Nan, Nan,Eminence,0,0,0,2,2245
-2010, Nan, Nan,Flatwoods,2,0,0,1,7678
-2010, Nan, Nan,Florence,2,0,2,1,28869
-2010, Nan, Nan,Fort Mitchell,0,0,0,1,7539
-2010, Nan, Nan,Fort Thomas,0,1,0,0,15141
-2010, Nan, Nan,Glasgow,0,1,0,0,14381
-2010, Nan, Nan,Grayson,0,0,0,1,3871
-2010, Nan, Nan,Harrodsburg,0,2,0,0,8154
-2010, Nan, Nan,Hopkinsville,0,0,1,2,32265
-2010, Nan, Nan,Horse Cave,1,0,0,0,2292
-2010, Nan, Nan,Independence,0,0,0,2,22935
-2010, Nan, Nan,Irvine,0,0,1,0,2616
-2010, Nan, Nan,Leitchfield,0,0,1,0,6562
-2010, Nan, Nan,Louisa,0,0,1,0,2091
-2010, Nan, Nan,Ludlow,0,2,0,0,4845
-2010, Nan, Nan,Mayfield,0,0,0,1,10149
-2010, Nan, Nan,Morehead,0,0,1,1,7714
-2010, Nan, Nan,Newport,1,2,1,0,15738
-2010, Nan, Nan,Nicholasville,0,0,0,1,27686
-2010, Nan, Nan,Oak Grove,1,0,1,0,9673
-2010, Nan, Nan,Owensboro,0,4,1,1,55848
-2010, Nan, Nan,Paducah,0,1,2,0,25643
-2010, Nan, Nan,Pikeville,1,0,0,1,6407
-2010, Nan, Nan,Princeton,1,0,0,0,6366
-2010, Nan, Nan,Radcliff,0,0,0,1,22251
-2010, Nan, Nan,Richmond,1,1,1,1,34068
-2010, Nan, Nan,Shelbyville,0,1,0,0,11637
-2010, Nan, Nan,Shepherdsville,0,0,1,1,9424
-2010, Nan, Nan,Shively,0,0,1,0,16609
-2010, Nan, Nan,Somerset,1,0,0,0,12266
-2010, Nan, Nan,St. Matthews,0,0,0,1,18885
-2010, Nan, Nan,Taylor Mill,0,0,0,1,7123
-2010, Nan, Nan,Versailles,0,1,0,0,7924
-2010, Nan, Nan,Vine Grove,0,0,0,1,4558
-2010, Nan, Nan,Winchester,1,0,0,0,16754
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Eastern Kentucky University,1,0,0,0,16268
-2010, Nan, Nan,Morehead State University,1,0,0,1,8822
-2010, Nan, Nan,Murray State University,0,0,1,0,10071
-2010, Nan, Nan,Northern Kentucky University,0,0,4,0,15378
-2010, Nan, Nan,University of Kentucky,1,0,0,0,26295
-2010, Nan, Nan,University of Louisville,1,0,0,1,21016
-2010, Nan, Nan,Western Kentucky University,0,0,0,1,20712
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Boone,1,4,2,0,
-2010, Nan, Nan,Bourbon,1,0,0,0,
-2010, Nan, Nan,Boyd,0,0,1,0,
-2010, Nan, Nan,Bullitt,0,1,0,1,
-2010, Nan, Nan,Daviess,0,0,0,1,
-2010, Nan, Nan,Hardin,0,0,1,0,
-2010, Nan, Nan,Jessamine,0,0,0,1,
-2010, Nan, Nan,Kenton County Police Department,0,1,0,0,
-2010, Nan, Nan,Nelson,1,0,0,1,
-2010, Nan, Nan,Oldham,0,0,0,1,
-2010, Nan, Nan,Oldham County Police Department,0,0,2,0,
-2010, Nan, Nan,Shelby,1,0,0,0,
-2010, Nan, Nan,Warren,0,1,0,0,
-2010, Nan,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Ballard,0,0,1,0,
-2010, Nan, Nan,Bell,0,0,0,1,
-2010, Nan, Nan,Calloway,0,1,1,0,
-2010, Nan, Nan,Franklin,1,0,0,1,
-2010, Nan, Nan,Fulton,1,0,0,0,
-2010, Nan, Nan,Hopkins,0,3,0,0,
-2010, Nan, Nan,Knox,0,1,0,0,
-2010, Nan, Nan,Lawrence,0,0,1,0,
-2010, Nan, Nan,Madison,2,0,0,0,
-2010, Nan, Nan,Marshall,0,1,0,0,
-2010, Nan, Nan,McCracken,0,2,0,0,
-2010, Nan, Nan,Menifee,0,1,0,0,
-2010, Nan, Nan,Rowan,0,2,0,0,
-2010, Nan, Nan,Simpson,0,1,0,0,
-2010, Nan, Nan,Washington,0,0,1,0,
-2010, Nan,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,State Police:, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Bowling Green,1,1,0,0,
-2010, Nan, Nan,Dry Ridge,1,0,0,0,
-2010, Nan, Nan,Madisonville,2,1,1,0,
-2010, Nan, Nan,Mayfield,0,0,0,1,
-2010, Nan, Nan,Morehead,0,1,0,0,
-2010, Nan,Other Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Cincinnati-Northern Kentucky International Airport,0,0,1,0,
-2010, Nan, Nan,Fayette County Schools,0,0,1,0,
-2010, Nan, Nan,Jefferson County Board of Education,3,0,0,1,
-2010, Nan, Nan,McCracken County Public Schools,0,0,1,0,
+2010,KENTUCKY,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,KENTUCKY, Nan,Ashland,1,1,0,0,21209
+2010,KENTUCKY, Nan,Bardstown,0,1,3,1,11339
+2010,KENTUCKY, Nan,Beaver Dam,0,0,0,1,3120
+2010,KENTUCKY, Nan,Bellevue,0,0,1,0,5822
+2010,KENTUCKY, Nan,Bowling Green,1,2,0,3,57308
+2010,KENTUCKY, Nan,Calvert City,0,1,0,0,2753
+2010,KENTUCKY, Nan,Campbellsville,0,0,2,0,11340
+2010,KENTUCKY, Nan,Covington,2,1,8,1,43054
+2010,KENTUCKY, Nan,Danville,0,1,1,0,15646
+2010,KENTUCKY, Nan,Dayton,1,0,0,0,5418
+2010,KENTUCKY, Nan,Elizabethtown,0,1,2,0,24712
+2010,KENTUCKY, Nan,Elsmere,0,0,1,0,7999
+2010,KENTUCKY, Nan,Eminence,0,0,0,2,2245
+2010,KENTUCKY, Nan,Flatwoods,2,0,0,1,7678
+2010,KENTUCKY, Nan,Florence,2,0,2,1,28869
+2010,KENTUCKY, Nan,Fort Mitchell,0,0,0,1,7539
+2010,KENTUCKY, Nan,Fort Thomas,0,1,0,0,15141
+2010,KENTUCKY, Nan,Glasgow,0,1,0,0,14381
+2010,KENTUCKY, Nan,Grayson,0,0,0,1,3871
+2010,KENTUCKY, Nan,Harrodsburg,0,2,0,0,8154
+2010,KENTUCKY, Nan,Hopkinsville,0,0,1,2,32265
+2010,KENTUCKY, Nan,Horse Cave,1,0,0,0,2292
+2010,KENTUCKY, Nan,Independence,0,0,0,2,22935
+2010,KENTUCKY, Nan,Irvine,0,0,1,0,2616
+2010,KENTUCKY, Nan,Leitchfield,0,0,1,0,6562
+2010,KENTUCKY, Nan,Louisa,0,0,1,0,2091
+2010,KENTUCKY, Nan,Ludlow,0,2,0,0,4845
+2010,KENTUCKY, Nan,Mayfield,0,0,0,1,10149
+2010,KENTUCKY, Nan,Morehead,0,0,1,1,7714
+2010,KENTUCKY, Nan,Newport,1,2,1,0,15738
+2010,KENTUCKY, Nan,Nicholasville,0,0,0,1,27686
+2010,KENTUCKY, Nan,Oak Grove,1,0,1,0,9673
+2010,KENTUCKY, Nan,Owensboro,0,4,1,1,55848
+2010,KENTUCKY, Nan,Paducah,0,1,2,0,25643
+2010,KENTUCKY, Nan,Pikeville,1,0,0,1,6407
+2010,KENTUCKY, Nan,Princeton,1,0,0,0,6366
+2010,KENTUCKY, Nan,Radcliff,0,0,0,1,22251
+2010,KENTUCKY, Nan,Richmond,1,1,1,1,34068
+2010,KENTUCKY, Nan,Shelbyville,0,1,0,0,11637
+2010,KENTUCKY, Nan,Shepherdsville,0,0,1,1,9424
+2010,KENTUCKY, Nan,Shively,0,0,1,0,16609
+2010,KENTUCKY, Nan,Somerset,1,0,0,0,12266
+2010,KENTUCKY, Nan,St. Matthews,0,0,0,1,18885
+2010,KENTUCKY, Nan,Taylor Mill,0,0,0,1,7123
+2010,KENTUCKY, Nan,Versailles,0,1,0,0,7924
+2010,KENTUCKY, Nan,Vine Grove,0,0,0,1,4558
+2010,KENTUCKY, Nan,Winchester,1,0,0,0,16754
+2010,KENTUCKY,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,KENTUCKY, Nan,Eastern Kentucky University,1,0,0,0,16268
+2010,KENTUCKY, Nan,Morehead State University,1,0,0,1,8822
+2010,KENTUCKY, Nan,Murray State University,0,0,1,0,10071
+2010,KENTUCKY, Nan,Northern Kentucky University,0,0,4,0,15378
+2010,KENTUCKY, Nan,University of Kentucky,1,0,0,0,26295
+2010,KENTUCKY, Nan,University of Louisville,1,0,0,1,21016
+2010,KENTUCKY, Nan,Western Kentucky University,0,0,0,1,20712
+2010,KENTUCKY,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,KENTUCKY, Nan,Boone,1,4,2,0,
+2010,KENTUCKY, Nan,Bourbon,1,0,0,0,
+2010,KENTUCKY, Nan,Boyd,0,0,1,0,
+2010,KENTUCKY, Nan,Bullitt,0,1,0,1,
+2010,KENTUCKY, Nan,Daviess,0,0,0,1,
+2010,KENTUCKY, Nan,Hardin,0,0,1,0,
+2010,KENTUCKY, Nan,Jessamine,0,0,0,1,
+2010,KENTUCKY, Nan,Kenton County Police Department,0,1,0,0,
+2010,KENTUCKY, Nan,Nelson,1,0,0,1,
+2010,KENTUCKY, Nan,Oldham,0,0,0,1,
+2010,KENTUCKY, Nan,Oldham County Police Department,0,0,2,0,
+2010,KENTUCKY, Nan,Shelby,1,0,0,0,
+2010,KENTUCKY, Nan,Warren,0,1,0,0,
+2010,KENTUCKY,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,KENTUCKY, Nan,Ballard,0,0,1,0,
+2010,KENTUCKY, Nan,Bell,0,0,0,1,
+2010,KENTUCKY, Nan,Calloway,0,1,1,0,
+2010,KENTUCKY, Nan,Franklin,1,0,0,1,
+2010,KENTUCKY, Nan,Fulton,1,0,0,0,
+2010,KENTUCKY, Nan,Hopkins,0,3,0,0,
+2010,KENTUCKY, Nan,Knox,0,1,0,0,
+2010,KENTUCKY, Nan,Lawrence,0,0,1,0,
+2010,KENTUCKY, Nan,Madison,2,0,0,0,
+2010,KENTUCKY, Nan,Marshall,0,1,0,0,
+2010,KENTUCKY, Nan,McCracken,0,2,0,0,
+2010,KENTUCKY, Nan,Menifee,0,1,0,0,
+2010,KENTUCKY, Nan,Rowan,0,2,0,0,
+2010,KENTUCKY, Nan,Simpson,0,1,0,0,
+2010,KENTUCKY, Nan,Washington,0,0,1,0,
+2010,KENTUCKY,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,KENTUCKY, Nan,State Police:, Nan, Nan, Nan, Nan,
+2010,KENTUCKY, Nan,Bowling Green,1,1,0,0,
+2010,KENTUCKY, Nan,Dry Ridge,1,0,0,0,
+2010,KENTUCKY, Nan,Madisonville,2,1,1,0,
+2010,KENTUCKY, Nan,Mayfield,0,0,0,1,
+2010,KENTUCKY, Nan,Morehead,0,1,0,0,
+2010,KENTUCKY,Other Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,KENTUCKY, Nan,Cincinnati-Northern Kentucky International Airport,0,0,1,0,
+2010,KENTUCKY, Nan,Fayette County Schools,0,0,1,0,
+2010,KENTUCKY, Nan,Jefferson County Board of Education,3,0,0,1,
+2010,KENTUCKY, Nan,McCracken County Public Schools,0,0,1,0,
 2010,LOUISIANA,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Bossier City,0,0,1,0,64232
-2010, Nan, Nan,Plaquemine,0,0,0,1,6646
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Ascension,0,0,0,1,
-2010, Nan, Nan,Caddo,0,1,0,0,
-2010, Nan, Nan,Calcasieu,1,3,1,0,
-2010, Nan, Nan,Grant, Nan, Nan, Nan,1,
-2010, Nan, Nan,Lafayette, Nan,1,0,0,
-2010, Nan, Nan,Livingston,1, Nan, Nan, Nan,
-2010, Nan,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Madison,1,0,0,0,
+2010,LOUISIANA,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,LOUISIANA, Nan,Bossier City,0,0,1,0,64232
+2010,LOUISIANA, Nan,Plaquemine,0,0,0,1,6646
+2010,LOUISIANA,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,LOUISIANA, Nan,Ascension,0,0,0,1,
+2010,LOUISIANA, Nan,Caddo,0,1,0,0,
+2010,LOUISIANA, Nan,Calcasieu,1,3,1,0,
+2010,LOUISIANA, Nan,Grant, Nan, Nan, Nan,1,
+2010,LOUISIANA, Nan,Lafayette, Nan,1,0,0,
+2010,LOUISIANA, Nan,Livingston,1, Nan, Nan, Nan,
+2010,LOUISIANA,Nonmetropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,LOUISIANA, Nan,Madison,1,0,0,0,
 2010,MAINE,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Augusta,0,2,3,3,18514
-2010, Nan, Nan,Baileyville,0,1,0,0,1524
-2010, Nan, Nan,Bangor,1,0,0,0,31587
-2010, Nan, Nan,Bar Harbor,0,0,0,1,5243
-2010, Nan, Nan,Belfast,0,0,1,1,6748
-2010, Nan, Nan,Biddeford,0,0,2,1,21511
-2010, Nan, Nan,Bucksport,0,0,0,1,4951
-2010, Nan, Nan,Damariscotta,0,0,0,1,1905
-2010, Nan, Nan,Kittery,1,0,0,0,10632
-2010, Nan, Nan,Lewiston,1,0,0,0,35153
-2010, Nan, Nan,Livermore Falls,0,0,1,0,3134
-2010, Nan, Nan,Old Orchard Beach,0,0,2,0,9494
-2010, Nan, Nan,Paris,0,0,0,1,4942
-2010, Nan, Nan,Portland,1,4,2,0,63166
-2010, Nan, Nan,Rockland,0,0,0,1,7458
-2010, Nan, Nan,Saco,0,0,1,3,18417
-2010, Nan, Nan,Sanford,2,1,1,0,21216
-2010, Nan, Nan,South Portland,0,2,1,0,24144
-2010, Nan, Nan,Yarmouth,0,0,1,0,8157
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,University of Southern Maine,1,0,1,1,9655
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Androscoggin,0,0,1,0,
-2010, Nan, Nan,Cumberland,1,0,0,0,
-2010, Nan, Nan,Sagadahoc,1,1,1,0,
-2010, Nan,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,State Police:, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Androscoggin County,1,0,0,0,
-2010, Nan, Nan,Somerset County,0,3,0,0,
-2010, Nan, Nan,York County,2,0,2,1,
+2010,MAINE,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,MAINE, Nan,Augusta,0,2,3,3,18514
+2010,MAINE, Nan,Baileyville,0,1,0,0,1524
+2010,MAINE, Nan,Bangor,1,0,0,0,31587
+2010,MAINE, Nan,Bar Harbor,0,0,0,1,5243
+2010,MAINE, Nan,Belfast,0,0,1,1,6748
+2010,MAINE, Nan,Biddeford,0,0,2,1,21511
+2010,MAINE, Nan,Bucksport,0,0,0,1,4951
+2010,MAINE, Nan,Damariscotta,0,0,0,1,1905
+2010,MAINE, Nan,Kittery,1,0,0,0,10632
+2010,MAINE, Nan,Lewiston,1,0,0,0,35153
+2010,MAINE, Nan,Livermore Falls,0,0,1,0,3134
+2010,MAINE, Nan,Old Orchard Beach,0,0,2,0,9494
+2010,MAINE, Nan,Paris,0,0,0,1,4942
+2010,MAINE, Nan,Portland,1,4,2,0,63166
+2010,MAINE, Nan,Rockland,0,0,0,1,7458
+2010,MAINE, Nan,Saco,0,0,1,3,18417
+2010,MAINE, Nan,Sanford,2,1,1,0,21216
+2010,MAINE, Nan,South Portland,0,2,1,0,24144
+2010,MAINE, Nan,Yarmouth,0,0,1,0,8157
+2010,MAINE,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,MAINE, Nan,University of Southern Maine,1,0,1,1,9655
+2010,MAINE,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,MAINE, Nan,Androscoggin,0,0,1,0,
+2010,MAINE, Nan,Cumberland,1,0,0,0,
+2010,MAINE, Nan,Sagadahoc,1,1,1,0,
+2010,MAINE,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,MAINE, Nan,State Police:, Nan, Nan, Nan, Nan,
+2010,MAINE, Nan,Androscoggin County,1,0,0,0,
+2010,MAINE, Nan,Somerset County,0,3,0,0,
+2010,MAINE, Nan,York County,2,0,2,1,
 2010,MARYLAND,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Annapolis,0,1,0,0,37180
-2010, Nan, Nan,Baltimore,4,2,3,2,639929
-2010, Nan, Nan,Laurel,0,0,1,0,22960
-2010, Nan, Nan,Takoma Park,0,0,1,0,18200
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Salisbury University,0,1,0,0,8204
-2010, Nan, Nan,Towson University,0,0,0,1,21177
-2010, Nan, Nan,"University of Maryland, College Park",1,0,0,0,37195
-2010, Nan,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Anne Arundel County Police Department,0,0,0,1,
-2010, Nan, Nan,Baltimore County Police Department,16,8,2,4,
-2010, Nan, Nan,Calvert,0,1,0,0,
-2010, Nan, Nan,Frederick,1,3,1,0,
-2010, Nan, Nan,Harford,0,3,0,1,
-2010, Nan, Nan,Montgomery County Police Department,5,1,3,5,
-2010, Nan, Nan,Prince George's County Police Department,0,0,1,2,
-2010, Nan, Nan,Wicomico,0,1,0,0,
-2010, Nan,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,"State Police, Carroll County",0,2,2,0,
+2010,MARYLAND,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,MARYLAND, Nan,Annapolis,0,1,0,0,37180
+2010,MARYLAND, Nan,Baltimore,4,2,3,2,639929
+2010,MARYLAND, Nan,Laurel,0,0,1,0,22960
+2010,MARYLAND, Nan,Takoma Park,0,0,1,0,18200
+2010,MARYLAND,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,MARYLAND, Nan,Salisbury University,0,1,0,0,8204
+2010,MARYLAND, Nan,Towson University,0,0,0,1,21177
+2010,MARYLAND, Nan,"University of Maryland, College Park",1,0,0,0,37195
+2010,MARYLAND,Metropolitan Counties, Nan, Nan, Nan, Nan, Nan,
+2010,MARYLAND, Nan,Anne Arundel County Police Department,0,0,0,1,
+2010,MARYLAND, Nan,Baltimore County Police Department,16,8,2,4,
+2010,MARYLAND, Nan,Calvert,0,1,0,0,
+2010,MARYLAND, Nan,Frederick,1,3,1,0,
+2010,MARYLAND, Nan,Harford,0,3,0,1,
+2010,MARYLAND, Nan,Montgomery County Police Department,5,1,3,5,
+2010,MARYLAND, Nan,Prince George's County Police Department,0,0,1,2,
+2010,MARYLAND, Nan,Wicomico,0,1,0,0,
+2010,MARYLAND,State Police Agencies, Nan, Nan, Nan, Nan, Nan,
+2010,MARYLAND, Nan,"State Police, Carroll County",0,2,2,0,
 2010,MASSACHUSETTS,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Acton,1,0,0,2,21090
-2010, Nan, Nan,Amherst,0,2,1,0,36004
-2010, Nan, Nan,Andover,0,1,0,0,33505
-2010, Nan, Nan,Arlington,0,1,1,0,41212
-2010, Nan, Nan,Barnstable,2,0,1,2,45599
-2010, Nan, Nan,Belmont,1,0,0,0,23430
-2010, Nan, Nan,Berlin,0,0,1,0,2978
-2010, Nan, Nan,Beverly,0,1,1,0,39064
-2010, Nan, Nan,Billerica,0,0,1,1,39519
-2010, Nan, Nan,Boston,30,30,46,42,644064
-2010, Nan, Nan,Bourne,1,0,0,0,19239
-2010, Nan, Nan,Boylston,0,2,1,0,4384
-2010, Nan, Nan,Braintree,0,0,0,1,35298
-2010, Nan, Nan,Brockton,0,1,0,0,92383
-2010, Nan, Nan,Cambridge,1,1,2,3,108356
-2010, Nan, Nan,Chelsea,1,0,0,0,37335
-2010, Nan, Nan,Chicopee,0,0,0,1,55444
-2010, Nan, Nan,Danvers,0,0,1,1,27165
-2010, Nan, Nan,Dedham,0,1,0,0,24687
-2010, Nan, Nan,Dennis,0,0,1,0,15212
-2010, Nan, Nan,Douglas,0,1,0,0,8109
-2010, Nan, Nan,Duxbury,1,0,1,0,14222
-2010, Nan, Nan,Easthampton,0,0,1,0,16116
-2010, Nan, Nan,East Longmeadow,0,0,0,1,15916
-2010, Nan, Nan,Egremont, Nan,3,1, Nan,1329
-2010, Nan, Nan,Everett,0,2,0,0,37897
-2010, Nan, Nan,Great Barrington,0,0,0,1,7263
-2010, Nan, Nan,Greenfield,1,1,0,0,17625
-2010, Nan, Nan,Hampden,0,1,0,0,5346
-2010, Nan, Nan,Hinsdale, Nan, Nan,1, Nan,1890
-2010, Nan, Nan,Hudson,0,1,0,0,19985
-2010, Nan, Nan,Hull,0,1,1,0,11008
-2010, Nan, Nan,Ipswich,0,3,0,0,13307
-2010, Nan, Nan,Kingston,0,0,1,0,12419
-2010, Nan, Nan,Lee,0,0,0,1,5654
-2010, Nan, Nan,Lincoln,0,0,0,2,8622
-2010, Nan, Nan,Lynn,0,0,0,1,86340
-2010, Nan, Nan,Malden,2,0,0,0,55540
-2010, Nan, Nan,Marblehead,1,0,1,0,19705
-2010, Nan, Nan,Mashpee,0,1,0,0,14347
-2010, Nan, Nan,Medfield,1,0,0,0,12134
-2010, Nan, Nan,Medway,0,1,0,0,12820
-2010, Nan, Nan,Methuen,0,0,1,0,43938
-2010, Nan, Nan,Natick,0,1,1,0,32017
-2010, Nan, Nan,New Bedford,0,1,0,0,89613
-2010, Nan, Nan,Newton,2,0,1,0,83781
-2010, Nan, Nan,North Adams,2,0,0,0,13590
-2010, Nan, Nan,North Attleboro,0,0,1,0,27559
-2010, Nan, Nan,Norton,0,0,0,2,19217
-2010, Nan, Nan,Pittsfield,0,0,0,2,41666
-2010, Nan, Nan,Plymouth,2,2,0,1,56751
-2010, Nan, Nan,Quincy,0,0,4,1,90304
-2010, Nan, Nan,Revere,2,4,2,2,51597
-2010, Nan, Nan,Salem, Nan, Nan,2, Nan,41017
-2010, Nan, Nan,Sharon,0,0,1,0,17903
-2010, Nan, Nan,Southampton,0,0,1,0,5957
-2010, Nan, Nan,Southbridge,0,0,2,0,17305
-2010, Nan, Nan,Spencer,0,0,1,0,11909
-2010, Nan, Nan,Springfield,1,5,0,5,154314
-2010, Nan, Nan,Stoneham,0,0,0,1,21285
-2010, Nan, Nan,Stoughton,0,1,0,0,26866
-2010, Nan, Nan,Waltham,0,1,0,0,60106
-2010, Nan, Nan,Webster,0,0,0,1,16721
-2010, Nan, Nan,Wellesley,0,0,1,0,27143
-2010, Nan, Nan,West Bridgewater,0,0,0,1,6619
-2010, Nan, Nan,Westfield,0,0,0,1,41899
-2010, Nan, Nan,Weymouth,1,0,0,0,53400
-2010, Nan, Nan,Williamsburg,0,0,0,1,2491
-2010, Nan, Nan,Wilmington,0,0,0,1,22230
-2010, Nan, Nan,Winthrop,0,1,0,0,19127
-2010, Nan, Nan,Worcester,0,5,1,0,181908
-2010, Nan, Nan,Wrentham,0,1,0,0,11166
-2010, Nan,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Assumption College,0,0,0,1,2794
-2010, Nan, Nan,Bentley College,1, Nan, Nan, Nan,5628
-2010, Nan, Nan,Brandeis University,1, Nan, Nan, Nan,5598
-2010, Nan, Nan,Clark University,4, Nan,1,1,3416
-2010, Nan, Nan,Emerson College, Nan, Nan, Nan,1,4556
-2010, Nan, Nan,Harvard University, Nan, Nan,1,0,27651
-2010, Nan, Nan,Massachusetts Institute of Technology,1,0,0,0,10384
-2010, Nan, Nan,Merrimack College, Nan, Nan,1, Nan,2090
-2010, Nan, Nan,Northeastern University,3,1, Nan,3,27537
-2010, Nan, Nan,University of Massachusetts: , Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Amherst,2,1,0,0,27016
-2010, Nan, Nan,Dartmouth, Nan, Nan, Nan,1,9302
-2010, Nan,Other Agencies, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,"Massachusetts Bay Transportation Authority, Suffolk County", Nan, Nan, Nan,1,
+2010,MASSACHUSETTS,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,MASSACHUSETTS, Nan,Acton,1,0,0,2,21090
+2010,MASSACHUSETTS, Nan,Amherst,0,2,1,0,36004
+2010,MASSACHUSETTS, Nan,Andover,0,1,0,0,33505
+2010,MASSACHUSETTS, Nan,Arlington,0,1,1,0,41212
+2010,MASSACHUSETTS, Nan,Barnstable,2,0,1,2,45599
+2010,MASSACHUSETTS, Nan,Belmont,1,0,0,0,23430
+2010,MASSACHUSETTS, Nan,Berlin,0,0,1,0,2978
+2010,MASSACHUSETTS, Nan,Beverly,0,1,1,0,39064
+2010,MASSACHUSETTS, Nan,Billerica,0,0,1,1,39519
+2010,MASSACHUSETTS, Nan,Boston,30,30,46,42,644064
+2010,MASSACHUSETTS, Nan,Bourne,1,0,0,0,19239
+2010,MASSACHUSETTS, Nan,Boylston,0,2,1,0,4384
+2010,MASSACHUSETTS, Nan,Braintree,0,0,0,1,35298
+2010,MASSACHUSETTS, Nan,Brockton,0,1,0,0,92383
+2010,MASSACHUSETTS, Nan,Cambridge,1,1,2,3,108356
+2010,MASSACHUSETTS, Nan,Chelsea,1,0,0,0,37335
+2010,MASSACHUSETTS, Nan,Chicopee,0,0,0,1,55444
+2010,MASSACHUSETTS, Nan,Danvers,0,0,1,1,27165
+2010,MASSACHUSETTS, Nan,Dedham,0,1,0,0,24687
+2010,MASSACHUSETTS, Nan,Dennis,0,0,1,0,15212
+2010,MASSACHUSETTS, Nan,Douglas,0,1,0,0,8109
+2010,MASSACHUSETTS, Nan,Duxbury,1,0,1,0,14222
+2010,MASSACHUSETTS, Nan,Easthampton,0,0,1,0,16116
+2010,MASSACHUSETTS, Nan,East Longmeadow,0,0,0,1,15916
+2010,MASSACHUSETTS, Nan,Egremont, Nan,3,1, Nan,1329
+2010,MASSACHUSETTS, Nan,Everett,0,2,0,0,37897
+2010,MASSACHUSETTS, Nan,Great Barrington,0,0,0,1,7263
+2010,MASSACHUSETTS, Nan,Greenfield,1,1,0,0,17625
+2010,MASSACHUSETTS, Nan,Hampden,0,1,0,0,5346
+2010,MASSACHUSETTS, Nan,Hinsdale, Nan, Nan,1, Nan,1890
+2010,MASSACHUSETTS, Nan,Hudson,0,1,0,0,19985
+2010,MASSACHUSETTS, Nan,Hull,0,1,1,0,11008
+2010,MASSACHUSETTS, Nan,Ipswich,0,3,0,0,13307
+2010,MASSACHUSETTS, Nan,Kingston,0,0,1,0,12419
+2010,MASSACHUSETTS, Nan,Lee,0,0,0,1,5654
+2010,MASSACHUSETTS, Nan,Lincoln,0,0,0,2,8622
+2010,MASSACHUSETTS, Nan,Lynn,0,0,0,1,86340
+2010,MASSACHUSETTS, Nan,Malden,2,0,0,0,55540
+2010,MASSACHUSETTS, Nan,Marblehead,1,0,1,0,19705
+2010,MASSACHUSETTS, Nan,Mashpee,0,1,0,0,14347
+2010,MASSACHUSETTS, Nan,Medfield,1,0,0,0,12134
+2010,MASSACHUSETTS, Nan,Medway,0,1,0,0,12820
+2010,MASSACHUSETTS, Nan,Methuen,0,0,1,0,43938
+2010,MASSACHUSETTS, Nan,Natick,0,1,1,0,32017
+2010,MASSACHUSETTS, Nan,New Bedford,0,1,0,0,89613
+2010,MASSACHUSETTS, Nan,Newton,2,0,1,0,83781
+2010,MASSACHUSETTS, Nan,North Adams,2,0,0,0,13590
+2010,MASSACHUSETTS, Nan,North Attleboro,0,0,1,0,27559
+2010,MASSACHUSETTS, Nan,Norton,0,0,0,2,19217
+2010,MASSACHUSETTS, Nan,Pittsfield,0,0,0,2,41666
+2010,MASSACHUSETTS, Nan,Plymouth,2,2,0,1,56751
+2010,MASSACHUSETTS, Nan,Quincy,0,0,4,1,90304
+2010,MASSACHUSETTS, Nan,Revere,2,4,2,2,51597
+2010,MASSACHUSETTS, Nan,Salem, Nan, Nan,2, Nan,41017
+2010,MASSACHUSETTS, Nan,Sharon,0,0,1,0,17903
+2010,MASSACHUSETTS, Nan,Southampton,0,0,1,0,5957
+2010,MASSACHUSETTS, Nan,Southbridge,0,0,2,0,17305
+2010,MASSACHUSETTS, Nan,Spencer,0,0,1,0,11909
+2010,MASSACHUSETTS, Nan,Springfield,1,5,0,5,154314
+2010,MASSACHUSETTS, Nan,Stoneham,0,0,0,1,21285
+2010,MASSACHUSETTS, Nan,Stoughton,0,1,0,0,26866
+2010,MASSACHUSETTS, Nan,Waltham,0,1,0,0,60106
+2010,MASSACHUSETTS, Nan,Webster,0,0,0,1,16721
+2010,MASSACHUSETTS, Nan,Wellesley,0,0,1,0,27143
+2010,MASSACHUSETTS, Nan,West Bridgewater,0,0,0,1,6619
+2010,MASSACHUSETTS, Nan,Westfield,0,0,0,1,41899
+2010,MASSACHUSETTS, Nan,Weymouth,1,0,0,0,53400
+2010,MASSACHUSETTS, Nan,Williamsburg,0,0,0,1,2491
+2010,MASSACHUSETTS, Nan,Wilmington,0,0,0,1,22230
+2010,MASSACHUSETTS, Nan,Winthrop,0,1,0,0,19127
+2010,MASSACHUSETTS, Nan,Worcester,0,5,1,0,181908
+2010,MASSACHUSETTS, Nan,Wrentham,0,1,0,0,11166
+2010,MASSACHUSETTS,Universities and Colleges, Nan, Nan, Nan, Nan, Nan,
+2010,MASSACHUSETTS, Nan,Assumption College,0,0,0,1,2794
+2010,MASSACHUSETTS, Nan,Bentley College,1, Nan, Nan, Nan,5628
+2010,MASSACHUSETTS, Nan,Brandeis University,1, Nan, Nan, Nan,5598
+2010,MASSACHUSETTS, Nan,Clark University,4, Nan,1,1,3416
+2010,MASSACHUSETTS, Nan,Emerson College, Nan, Nan, Nan,1,4556
+2010,MASSACHUSETTS, Nan,Harvard University, Nan, Nan,1,0,27651
+2010,MASSACHUSETTS, Nan,Massachusetts Institute of Technology,1,0,0,0,10384
+2010,MASSACHUSETTS, Nan,Merrimack College, Nan, Nan,1, Nan,2090
+2010,MASSACHUSETTS, Nan,Northeastern University,3,1, Nan,3,27537
+2010,MASSACHUSETTS, Nan,University of Massachusetts: , Nan, Nan, Nan, Nan,
+2010,MASSACHUSETTS, Nan,Amherst,2,1,0,0,27016
+2010,MASSACHUSETTS, Nan,Dartmouth, Nan, Nan, Nan,1,9302
+2010,MASSACHUSETTS, Other Agencies,"Massachusetts Bay Transportation Authority, Suffolk County", Nan, Nan, Nan,1,
 2010,MICHIGAN,Total, Nan, Nan, Nan, Nan, Nan,
-2010, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Adrian,0,1,0, Nan,20997
-2010, Nan, Nan,Alpena,0,2,1,0,10184
-2010, Nan, Nan,Ann Arbor,0,1,3,0,111745
-2010, Nan, Nan,Auburn Hills,1,0,0,0,20870
-2010, Nan, Nan,Battle Creek,1,0,0,0,60386
-2010, Nan, Nan,Bay City,1,0,0,2,33200
-2010, Nan, Nan,Belleville,2,0,0,0,3392
-2010, Nan, Nan,Berkley,0,0,1,0,14609
-2010, Nan, Nan,Beverly Hills,0,1,0,0,9739
-2010, Nan, Nan,Birmingham,0,0,0,4,18823
-2010, Nan, Nan,Blackman Township,0,0,0,1,37751
-2010, Nan, Nan,Bloomfield Hills,0,1,0,0,3731
-2010, Nan, Nan,Bloomfield Township,0,0,1,1,40490
-2010, Nan, Nan,Boyne City,0,1,0,0,3049
-2010, Nan, Nan,Brown City,0,0,1, Nan,1203
-2010, Nan, Nan,Cadillac,2,1,0,4,10101
-2010, Nan, Nan,Canton Township,3,2,3,0,80039
-2010, Nan, Nan,Center Line,0,0,1,0,8017
-2010, Nan, Nan,Chelsea,1,0,0,0,5051
-2010, Nan, Nan,Chesterfield Township,0,0,3,4,45027
-2010, Nan, Nan,Clawson,0,0,0,1,12025
-2010, Nan, Nan,Clinton,0,0,1,0,2358
-2010, Nan, Nan,Clinton Township,0,2,3,1,95167
-2010, Nan, Nan,Clio,0,0,0,1,2434
-2010, Nan, Nan,Covert Township,0,0,1,0,3047
-2010, Nan, Nan,Davison Township,0,1,0,0,18214
-2010, Nan, Nan,Dearborn,1,4,1,2,82612
-2010, Nan, Nan,Dearborn Heights,0,0,2,0,49674
-2010, Nan, Nan,Decatur,0,1,0,0,1806
-2010, Nan, Nan,Detroit,0,1,1,2,899447
-2010, Nan, Nan,Dewitt Township,0,1,0,0,13074
-2010, Nan, Nan,East Lansing,0,1,0,0,45058
-2010, Nan, Nan,Eastpointe,1,1,3,1,32016
-2010, Nan, Nan,Elk Rapids,0,1,0,0,1630
-2010, Nan, Nan,Escanaba,1,0,2,0,11918
-2010, Nan, Nan,Ferndale,1,0,0,1,20847
-2010, Nan, Nan,Flint Township,0,0,0,1,30778
-2010, Nan, Nan,Flushing,0,0,0,1,7584
-2010, Nan, Nan,Fremont,0,1, Nan, Nan,4077
-2010, Nan, Nan,Genesee Township,0,0,1,0,22571
-2010, Nan, Nan,Grand Blanc Township,0,0,0,1,34634
-2010, Nan, Nan,Grand Rapids,3,0,1,3,191566
-2010, Nan, Nan,Greenville,0,1,0,0,7957
-2010, Nan, Nan,Hillsdale,0,1,0,0,7574
-2010, Nan, Nan,Holland,0,1,1,2,33652
-2010, Nan, Nan,Inkster,1,0,0,0,25428
-2010, Nan, Nan,Jackson,1,1,1,0,32741
-2010, Nan, Nan,Jonesville,0,1,1,0,2164
-2010, Nan, Nan,Kalamazoo,0,1,1,1,71775
-2010, Nan, Nan,Keego Harbor,0,0,0,1,2828
-2010, Nan, Nan,Laingsburg,0,1,0,0,1220
-2010, Nan, Nan,Lansing,2,1,0,1,112254
+2010,MICHIGAN,Cities, Nan, Nan, Nan, Nan, Nan,
+2010,MICHIGAN, Nan,Adrian,0,1,0, Nan,20997
+2010,MICHIGAN, Nan,Alpena,0,2,1,0,10184
+2010,MICHIGAN, Nan,Ann Arbor,0,1,3,0,111745
+2010,MICHIGAN, Nan,Auburn Hills,1,0,0,0,20870
+2010,MICHIGAN, Nan,Battle Creek,1,0,0,0,60386
+2010,MICHIGAN, Nan,Bay City,1,0,0,2,33200
+2010,MICHIGAN, Nan,Belleville,2,0,0,0,3392
+2010,MICHIGAN, Nan,Berkley,0,0,1,0,14609
+2010,MICHIGAN, Nan,Beverly Hills,0,1,0,0,9739
+2010,MICHIGAN, Nan,Birmingham,0,0,0,4,18823
+2010,MICHIGAN, Nan,Blackman Township,0,0,0,1,37751
+2010,MICHIGAN, Nan,Bloomfield Hills,0,1,0,0,3731
+2010,MICHIGAN, Nan,Bloomfield Township,0,0,1,1,40490
+2010,MICHIGAN, Nan,Boyne City,0,1,0,0,3049
+2010,MICHIGAN, Nan,Brown City,0,0,1, Nan,1203
+2010,MICHIGAN, Nan,Cadillac,2,1,0,4,10101
+2010,MICHIGAN, Nan,Canton Township,3,2,3,0,80039
+2010,MICHIGAN, Nan,Center Line,0,0,1,0,8017
+2010,MICHIGAN, Nan,Chelsea,1,0,0,0,5051
+2010,MICHIGAN, Nan,Chesterfield Township,0,0,3,4,45027
+2010,MICHIGAN, Nan,Clawson,0,0,0,1,12025
+2010,MICHIGAN, Nan,Clinton,0,0,1,0,2358
+2010,MICHIGAN, Nan,Clinton Township,0,2,3,1,95167
+2010,MICHIGAN, Nan,Clio,0,0,0,1,2434
+2010,MICHIGAN, Nan,Covert Township,0,0,1,0,3047
+2010,MICHIGAN, Nan,Davison Township,0,1,0,0,18214
+2010,MICHIGAN, Nan,Dearborn,1,4,1,2,82612
+2010,MICHIGAN, Nan,Dearborn Heights,0,0,2,0,49674
+2010,MICHIGAN, Nan,Decatur,0,1,0,0,1806
+2010,MICHIGAN, Nan,Detroit,0,1,1,2,899447
+2010,MICHIGAN, Nan,Dewitt Township,0,1,0,0,13074
+2010,MICHIGAN, Nan,East Lansing,0,1,0,0,45058
+2010,MICHIGAN, Nan,Eastpointe,1,1,3,1,32016
+2010,MICHIGAN, Nan,Elk Rapids,0,1,0,0,1630
+2010,MICHIGAN, Nan,Escanaba,1,0,2,0,11918
+2010,MICHIGAN, Nan,Ferndale,1,0,0,1,20847
+2010,MICHIGAN, Nan,Flint Township,0,0,0,1,30778
+2010,MICHIGAN, Nan,Flushing,0,0,0,1,7584
+2010,MICHIGAN, Nan,Fremont,0,1, Nan, Nan,4077
+2010,MICHIGAN, Nan,Genesee Township,0,0,1,0,22571
+2010,MICHIGAN, Nan,Grand Blanc Township,0,0,0,1,34634
+2010,MICHIGAN, Nan,Grand Rapids,3,0,1,3,191566
+2010,MICHIGAN, Nan,Greenville,0,1,0,0,7957
+2010,MICHIGAN, Nan,Hillsdale,0,1,0,0,7574
+2010,MICHIGAN, Nan,Holland,0,1,1,2,33652
+2010,MICHIGAN, Nan,Inkster,1,0,0,0,25428
+2010,MICHIGAN, Nan,Jackson,1,1,1,0,32741
+2010,MICHIGAN, Nan,Jonesville,0,1,1,0,2164
+2010,MICHIGAN, Nan,Kalamazoo,0,1,1,1,71775
+2010,MICHIGAN, Nan,Keego Harbor,0,0,0,1,2828
+2010,MICHIGAN, Nan,Laingsburg,0,1,0,0,1220
+2010,MICHIGAN, Nan,Lansing,2,1,0,1,112254
 2010, Nan, Nan,Lincoln Township,0,1, Nan, Nan,14281
 2010, Nan, Nan,Litchfield,1,0,0,0,1351
 2010, Nan, Nan,Livonia,0,4,1,0,87434
@@ -14523,143 +14501,138 @@ Year,State,Agency type,Agency name,"quarter01","quarter02","quarter03","quarter0
 2010, Nan, Nan,Yarrow Point,0,0,0,0,953
 2010, Nan, Nan,Yelm,0,0,0,0,6642
 2010, Nan, Nan,Zillah,0,0,0,0,2852
-2010, Nan,Universities and Colleges,Central Washington University,0,0,0,0,11357
-2010, Nan, Nan,Washington State University:, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Pullman,0,0,0,0,26101
-2010, Nan, Nan,Vancouver3,0,0,0,0,
-2010, Nan, Nan,Western Washington University,0,0,0,0,14575
 2010, Nan,Metropolitan Counties,Asotin,0,0,0,0,
-2010, Nan, Nan,Benton,0,0,0,0,
-2010, Nan, Nan,Cowlitz,0,0,0,0,
-2010, Nan, Nan,Douglas,0, Nan, Nan, Nan,
-2010, Nan, Nan,Franklin,0,0,0,0,
-2010, Nan, Nan,Skagit,0,0,0,0,
-2010, Nan, Nan,Skamania,0,0,0,0,
-2010, Nan, Nan,Snohomish,0,0,0,0,
-2010, Nan, Nan,Whatcom,0,0,0,0,
+2010, Nan,Metropolitan Counties,Benton,0,0,0,0,
+2010, Nan,Metropolitan Counties,Cowlitz,0,0,0,0,
+2010, Nan,Metropolitan Counties,Douglas,0, Nan, Nan, Nan,
+2010, Nan,Metropolitan Counties,Franklin,0,0,0,0,
+2010, Nan,Metropolitan Counties,Skagit,0,0,0,0,
+2010, Nan,Metropolitan Counties,Skamania,0,0,0,0,
+2010, Nan,Metropolitan Counties,Snohomish,0,0,0,0,
+2010, Nan,Metropolitan Counties,Whatcom,0,0,0,0,
 2010, Nan,Nonmetropolitan Counties,Columbia,0,0,0,0,
-2010, Nan, Nan,Ferry,0,0,0,0,
-2010, Nan, Nan,Garfield,0,0,0,0,
-2010, Nan, Nan,Grant,0,0,0,0,
-2010, Nan, Nan,Grays Harbor,0,0,0,0,
-2010, Nan, Nan,Island,0,0,0,0,
-2010, Nan, Nan,Jefferson,0,0,0,0,
-2010, Nan, Nan,Kittitas,0,0,0,0,
-2010, Nan, Nan,Klickitat,0,0,0,0,
-2010, Nan, Nan,Lewis,0,0,0,0,
-2010, Nan, Nan,Lincoln,0,0,0,0,
-2010, Nan, Nan,Mason,0,0,0,0,
-2010, Nan, Nan,Okanogan,0,0,0,0,
-2010, Nan, Nan,Pacific,0,0,0,0,
-2010, Nan, Nan,Pend Oreille,0,0,0,0,
-2010, Nan, Nan,San Juan,0,0,0,0,
-2010, Nan, Nan,Stevens,0,0,0,0,
-2010, Nan, Nan,Wahkiakum,0,0,0,0,
-2010, Nan, Nan,Whitman,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Ferry,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Garfield,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Grant,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Grays Harbor,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Island,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Jefferson,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Kittitas,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Klickitat,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Lewis,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Lincoln,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Mason,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Okanogan,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Pacific,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Pend Oreille,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,San Juan,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Stevens,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Wahkiakum,0,0,0,0,
+2010, Nan,Nonmetropolitan Counties,Whitman,0,0,0,0,
 2010, Nan,Tribal Agencies,Chehalis Tribal,0,0,0,0,
-2010, Nan, Nan,Lummi Tribal,0,0,0,0,
-2010, Nan, Nan,Makah Tribal,0,0,0,0,
-2010, Nan, Nan,Nisqually Tribal,0,0,0,0,
-2010, Nan, Nan,Nooksack Tribal,0,0,0,0,
-2010, Nan, Nan,Port Gamble S'Klallam Tribal,0,0,0,0,
-2010, Nan, Nan,Quinault Indian Nation,0,0,0,0,
-2010, Nan, Nan,Suquamish Tribal,0,0,0,0,
-2010, Nan, Nan,Swinomish Tribal,0,0,0,0,
+2010, Nan,Tribal Agencies,Lummi Tribal,0,0,0,0,
+2010, Nan,Tribal Agencies,Makah Tribal,0,0,0,0,
+2010, Nan,Tribal Agencies,Nisqually Tribal,0,0,0,0,
+2010, Nan,Tribal Agencies,Nooksack Tribal,0,0,0,0,
+2010, Nan,Tribal Agencies,Port Gamble S'Klallam Tribal,0,0,0,0,
+2010, Nan,Tribal Agencies,Quinault Indian Nation,0,0,0,0,
+2010, Nan,Tribal Agencies,Suquamish Tribal,0,0,0,0,
+2010, Nan,Tribal Agencies,Swinomish Tribal,0,0,0,0,
 2010, Nan,Other Agencies,"State Insurance Commissioner, Special Investigations Unit",0,0,0,0,
 2010,WEST VIRGINIA,Cities,Barboursville,0,0,0,0,3652
-2010, Nan, Nan,Belington,0,0,0,0,1843
-2010, Nan, Nan,Benwood,0,0,0,0,1424
-2010, Nan, Nan,Bethlehem,0,0,0,0,2504
-2010, Nan, Nan,Bluefield,0,0,0,0,11222
-2010, Nan, Nan,Bridgeport,0,0,0,0,8121
-2010, Nan, Nan,Cameron,0,0,0,0,1073
-2010, Nan, Nan,Chapmanville,0,0,0,0,1120
-2010, Nan, Nan,Charles Town,0,0,0,0,5183
-2010, Nan, Nan,Clearview,0,0, Nan, Nan,550
-2010, Nan, Nan,Dunbar,0,0,0,0,7718
-2010, Nan, Nan,East Bank,0,0,0, Nan,905
-2010, Nan, Nan,Eleanor,0,0,0,0,1581
-2010, Nan, Nan,Elkins,0,0,0,0,7114
-2010, Nan, Nan,Follansbee,0,0,0,0,2861
-2010, Nan, Nan,Glen Dale,0,0,0,0,1389
-2010, Nan, Nan,Glenville,0,0,0,0,1454
-2010, Nan, Nan,Grafton,0,0,0,0,5463
-2010, Nan, Nan,Granville,0,0,0,0,854
-2010, Nan, Nan,Hamlin, Nan,0,0,0,1094
-2010, Nan, Nan,Harpers Ferry/Bolivar,0,0,0,0,1414
-2010, Nan, Nan,Harrisville,0,0,0,0,1827
-2010, Nan, Nan,Hinton,0,0,0,0,2545
-2010, Nan, Nan,Hurricane,0,0,0,0,6463
-2010, Nan, Nan,Kenova,0,0,0,0,3297
-2010, Nan, Nan,Keyser,0,0,0,0,5349
-2010, Nan, Nan,Kingwood,0,0,0, Nan,3097
-2010, Nan, Nan,Lewisburg,0,0,0,0,3545
-2010, Nan, Nan,Logan,0,0,0,0,1500
-2010, Nan, Nan,Lumberport,0,0,0,0,985
-2010, Nan, Nan,Marmet,0,0,0,0,1628
-2010, Nan, Nan,Mason,0,0,0,0,1055
-2010, Nan, Nan,Matoaka,0,0,0,0,308
-2010, Nan, Nan,Milton,0,0,0,0,2489
-2010, Nan, Nan,Monongah,0,0,0,0,974
-2010, Nan, Nan,Montgomery,0,0,0,0,1943
-2010, Nan, Nan,Moorefield,0,0,0,0,2508
-2010, Nan, Nan,Morgantown,0,0,0,0,31247
-2010, Nan, Nan,Moundsville,0,0,0,0,9121
-2010, Nan, Nan,Mullens,0,0,0,0,1556
-2010, Nan, Nan,New Haven,0,0,0,0,1531
-2010, Nan, Nan,Nutter Fort,0,0,0,0,1648
-2010, Nan, Nan,Oak Hill,0, Nan, Nan, Nan,7231
-2010, Nan, Nan,Oceana,0,0,0,0,1401
-2010, Nan, Nan,Paden City,0,0,0,0,2575
-2010, Nan, Nan,Philippi,0,0,0,0,2833
-2010, Nan, Nan,Point Pleasant,0,0,0,0,4445
-2010, Nan, Nan,Princeton,0,0,0,0,6354
-2010, Nan, Nan,Ranson,0,0,0,0,5078
-2010, Nan, Nan,Ravenswood,0,0,0,0,3958
-2010, Nan, Nan,Ripley,0,0,0,0,3264
-2010, Nan, Nan,Romney,0,0,0,0,1936
-2010, Nan, Nan,Ronceverte,0,0,0,0,1520
-2010, Nan, Nan,Salem,0,0,0,0,2078
-2010, Nan, Nan,Shepherdstown,0,0,0,0,1173
-2010, Nan, Nan,Shinnston,0,0,0,0,2273
-2010, Nan, Nan,Spencer,0,0,0, Nan,2114
-2010, Nan, Nan,St. Albans,0,0,0,0,11117
-2010, Nan, Nan,Stonewood,0,0,0,0,1892
-2010, Nan, Nan,Summersville,0,0,0,0,3351
-2010, Nan, Nan,Vienna,0,0,0,0,10715
-2010, Nan, Nan,Wardensville,0,0, Nan, Nan,261
-2010, Nan, Nan,Wayne,0, Nan,0, Nan,1168
-2010, Nan, Nan,Weirton,0,0,0,0,18717
-2010, Nan, Nan,Welch,0,0,0,0,2174
-2010, Nan, Nan,Wellsburg,0,0,0,0,2585
-2010, Nan, Nan,West Logan,0,0,0,0,390
-2010, Nan, Nan,Weston,0,0,0,0,4362
-2010, Nan, Nan,West Union,0,0,0,0,785
-2010, Nan, Nan,White Sulphur Springs,0,0,0,0,2296
-2010, Nan, Nan,Williamson,0,0,0,0,3039
-2010, Nan,Universities and Colleges,Concord University,0,0,0,0,2882
-2010, Nan, Nan,Fairmont State University,0,0,0,0,4574
-2010, Nan, Nan,Marshall University,0,0,0,0,13776
-2010, Nan, Nan,Potomac State College,0,0,0,0,1810
-2010, Nan, Nan,Shepherd University,0,0,0,0,4256
-2010, Nan, Nan,West Virginia State University,0,0,0,0,4003
-2010, Nan, Nan,West Virginia Tech,0,0,0,0,1244
-2010, Nan,Metropolitan Counties,Boone,0,0,0,0,
-2010, Nan, Nan,Cabell,0,0,0,0,
-2010, Nan, Nan,Hampshire,0,0,0,0,
-2010, Nan, Nan,Hancock,0,0,0,0,
-2010, Nan, Nan,Jefferson,0,0,0,0,
-2010, Nan, Nan,Lincoln,0, Nan, Nan, Nan,
-2010, Nan, Nan,Marshall,0,0,0,0,
-2010, Nan, Nan,Mineral,0,0,0,0,
-2010, Nan, Nan,Monongalia,0,0,0,0,
-2010, Nan, Nan,Morgan,0,0,0,0,
-2010, Nan, Nan,Ohio,0,0,0,0,
-2010, Nan, Nan,Preston,0,0,0,0,
-2010, Nan, Nan,Putnam,0,0,0,0,
-2010, Nan, Nan,Wayne,0,0,0,0,
-2010, Nan, Nan,Wirt,0,0,0,0,
-2010, Nan, Nan,Wood,0,0,0,0,
+2010,WEST VIRGINIA,Cities,Belington,0,0,0,0,1843
+2010,WEST VIRGINIA,Cities,Benwood,0,0,0,0,1424
+2010,WEST VIRGINIA,Cities,Bethlehem,0,0,0,0,2504
+2010,WEST VIRGINIA,Cities,Bluefield,0,0,0,0,11222
+2010,WEST VIRGINIA,Cities,Bridgeport,0,0,0,0,8121
+2010,WEST VIRGINIA,Cities,Cameron,0,0,0,0,1073
+2010,WEST VIRGINIA,Cities,Chapmanville,0,0,0,0,1120
+2010,WEST VIRGINIA,Cities,Charles Town,0,0,0,0,5183
+2010,WEST VIRGINIA,Cities,Clearview,0,0, Nan, Nan,550
+2010,WEST VIRGINIA,Cities,Dunbar,0,0,0,0,7718
+2010,WEST VIRGINIA,Cities,East Bank,0,0,0, Nan,905
+2010,WEST VIRGINIA,Cities,Eleanor,0,0,0,0,1581
+2010,WEST VIRGINIA,Cities,Elkins,0,0,0,0,7114
+2010,WEST VIRGINIA,Cities,Follansbee,0,0,0,0,2861
+2010,WEST VIRGINIA,Cities,Glen Dale,0,0,0,0,1389
+2010,WEST VIRGINIA,Cities,Glenville,0,0,0,0,1454
+2010,WEST VIRGINIA,Cities,Grafton,0,0,0,0,5463
+2010,WEST VIRGINIA,Cities,Granville,0,0,0,0,854
+2010,WEST VIRGINIA,Cities,Hamlin, Nan,0,0,0,1094
+2010,WEST VIRGINIA,Cities,Harpers Ferry/Bolivar,0,0,0,0,1414
+2010,WEST VIRGINIA,Cities,Harrisville,0,0,0,0,1827
+2010,WEST VIRGINIA,Cities,Hinton,0,0,0,0,2545
+2010,WEST VIRGINIA,Cities,Hurricane,0,0,0,0,6463
+2010,WEST VIRGINIA,Cities,Kenova,0,0,0,0,3297
+2010,WEST VIRGINIA,Cities,Keyser,0,0,0,0,5349
+2010,WEST VIRGINIA,Cities,Kingwood,0,0,0, Nan,3097
+2010,WEST VIRGINIA,Cities,Lewisburg,0,0,0,0,3545
+2010,WEST VIRGINIA,Cities,Logan,0,0,0,0,1500
+2010,WEST VIRGINIA,Cities,Lumberport,0,0,0,0,985
+2010,WEST VIRGINIA,Cities,Marmet,0,0,0,0,1628
+2010,WEST VIRGINIA,Cities,Mason,0,0,0,0,1055
+2010,WEST VIRGINIA,Cities,Matoaka,0,0,0,0,308
+2010,WEST VIRGINIA,Cities,Milton,0,0,0,0,2489
+2010,WEST VIRGINIA,Cities,Monongah,0,0,0,0,974
+2010,WEST VIRGINIA,Cities,Montgomery,0,0,0,0,1943
+2010,WEST VIRGINIA,Cities,Moorefield,0,0,0,0,2508
+2010,WEST VIRGINIA,Cities,Morgantown,0,0,0,0,31247
+2010,WEST VIRGINIA,Cities,Moundsville,0,0,0,0,9121
+2010,WEST VIRGINIA,Cities,Mullens,0,0,0,0,1556
+2010,WEST VIRGINIA,Cities,New Haven,0,0,0,0,1531
+2010,WEST VIRGINIA,Cities,Nutter Fort,0,0,0,0,1648
+2010,WEST VIRGINIA,Cities,Oak Hill,0, Nan, Nan, Nan,7231
+2010,WEST VIRGINIA,Cities,Oceana,0,0,0,0,1401
+2010,WEST VIRGINIA,Cities,Paden City,0,0,0,0,2575
+2010,WEST VIRGINIA,Cities,Philippi,0,0,0,0,2833
+2010,WEST VIRGINIA,Cities,Point Pleasant,0,0,0,0,4445
+2010,WEST VIRGINIA,Cities,Princeton,0,0,0,0,6354
+2010,WEST VIRGINIA,Cities,Ranson,0,0,0,0,5078
+2010,WEST VIRGINIA,Cities,Ravenswood,0,0,0,0,3958
+2010,WEST VIRGINIA,Cities,Ripley,0,0,0,0,3264
+2010,WEST VIRGINIA,Cities,Romney,0,0,0,0,1936
+2010,WEST VIRGINIA,Cities,Ronceverte,0,0,0,0,1520
+2010,WEST VIRGINIA,Cities,Salem,0,0,0,0,2078
+2010,WEST VIRGINIA,Cities,Shepherdstown,0,0,0,0,1173
+2010,WEST VIRGINIA,Cities,Shinnston,0,0,0,0,2273
+2010,WEST VIRGINIA,Cities,Spencer,0,0,0, Nan,2114
+2010,WEST VIRGINIA,Cities,St. Albans,0,0,0,0,11117
+2010,WEST VIRGINIA,Cities,Stonewood,0,0,0,0,1892
+2010,WEST VIRGINIA,Cities,Summersville,0,0,0,0,3351
+2010,WEST VIRGINIA,Cities,Vienna,0,0,0,0,10715
+2010,WEST VIRGINIA,Cities,Wardensville,0,0, Nan, Nan,261
+2010,WEST VIRGINIA,Cities,Wayne,0, Nan,0, Nan,1168
+2010,WEST VIRGINIA,Cities,Weirton,0,0,0,0,18717
+2010,WEST VIRGINIA,Cities,Welch,0,0,0,0,2174
+2010,WEST VIRGINIA,Cities,Wellsburg,0,0,0,0,2585
+2010,WEST VIRGINIA,Cities,West Logan,0,0,0,0,390
+2010,WEST VIRGINIA,Cities,Weston,0,0,0,0,4362
+2010,WEST VIRGINIA,Cities,West Union,0,0,0,0,785
+2010,WEST VIRGINIA,Cities,White Sulphur Springs,0,0,0,0,2296
+2010,WEST VIRGINIA,Cities,Williamson,0,0,0,0,3039
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+2010,WEST VIRGINIA,Metropolitan Counties,Boone,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Cabell,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Hampshire,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Hancock,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Jefferson,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Lincoln,0, Nan, Nan, Nan,
+2010,WEST VIRGINIA,Metropolitan Counties,Marshall,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Mineral,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Monongalia,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Morgan,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Ohio,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Preston,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Putnam,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Wayne,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Wirt,0,0,0,0,
+2010,WEST VIRGINIA,Metropolitan Counties,Wood,0,0,0,0,
 2010, Nan,Nonmetropolitan Counties,Barbour,0,0,0,0,
 2010, Nan, Nan,Braxton,0,0,0,0,
 2010, Nan, Nan,Fayette,0,0,0,0,
@@ -14762,202 +14735,202 @@ Year,State,Agency type,Agency name,"quarter01","quarter02","quarter03","quarter0
 2010, Nan, Nan,Mercer County,0,0,0,0,
 2010, Nan, Nan,Raleigh County,0,0,0,0,
 2010, Nan,Other Agencies,Division of Natural Resources:, Nan, Nan, Nan, Nan,
-2010, Nan, Nan,Barbour County,0,0,0,0,
-2010, Nan, Nan,Berkeley County,0,0,0,0,
-2010, Nan, Nan,Boone County,0,0,0,0,
-2010, Nan, Nan,Braxton County,0,0,0,0,
-2010, Nan, Nan,Brooke County,0,0,0,0,
-2010, Nan, Nan,Cabell County,0,0,0,0,
-2010, Nan, Nan,Calhoun County,0,0,0,0,
-2010, Nan, Nan,Clay County,0, Nan,0,0,
-2010, Nan, Nan,Doddridge County,0,0,0,0,
-2010, Nan, Nan,Fayette County, Nan,0,0,0,
-2010, Nan, Nan,Gilmer County,0,0,0,0,
-2010, Nan, Nan,Grant County,0,0,0,0,
-2010, Nan, Nan,Greenbrier County,0,0,0,0,
-2010, Nan, Nan,Hampshire County,0,0,0,0,
-2010, Nan, Nan,Hancock County,0,0,0,0,
-2010, Nan, Nan,Hardy County,0,0,0,0,
-2010, Nan, Nan,Harrison County,0,0,0,0,
-2010, Nan, Nan,Jackson County,0,0,0,0,
-2010, Nan, Nan,Jefferson County,0,0,0,0,
-2010, Nan, Nan,Kanawha County,0,0,0,0,
-2010, Nan, Nan,Lewis County,0,0,0,0,
-2010, Nan, Nan,Lincoln County,0,0,0,0,
-2010, Nan, Nan,Logan County,0,0,0,0,
-2010, Nan, Nan,Marion County,0,0,0,0,
-2010, Nan, Nan,Marshall County,0,0,0,0,
-2010, Nan, Nan,Mason County,0,0,0,0,
-2010, Nan, Nan,McDowell County,0,0,0,0,
-2010, Nan, Nan,Mercer County,0,0,0,0,
-2010, Nan, Nan,Mineral County,0,0,0,0,
-2010, Nan, Nan,Mingo County,0,0,0,0,
-2010, Nan, Nan,Monongalia County,0,0,0,0,
-2010, Nan, Nan,Monroe County,0,0,0,0,
-2010, Nan, Nan,Morgan County,0,0,0,0,
-2010, Nan, Nan,Nicholas County,0,0,0,0,
-2010, Nan, Nan,Ohio County,0,0,0,0,
-2010, Nan, Nan,Pendleton County,0,0,0,0,
-2010, Nan, Nan,Pleasants County,0,0,0,0,
-2010, Nan, Nan,Pocahontas County,0,0,0,0,
-2010, Nan, Nan,Preston County,0,0,0,0,
-2010, Nan, Nan,Putnam County,0,0,0,0,
-2010, Nan, Nan,Raleigh County,0,0,0,0,
-2010, Nan, Nan,Randolph County,0,0,0,0,
-2010, Nan, Nan,Ritchie County,0,0,0,0,
-2010, Nan, Nan,Roane County,0,0,0,0,
-2010, Nan, Nan,Summers County,0,0,0,0,
-2010, Nan, Nan,Taylor County,0,0,0,0,
-2010, Nan, Nan,Tucker County,0,0,0,0,
-2010, Nan, Nan,Tyler County, Nan, Nan,0,0,
-2010, Nan, Nan,Upshur County,0,0,0,0,
-2010, Nan, Nan,Wayne County,0,0,0,0,
-2010, Nan, Nan,Webster County,0,0,0,0,
-2010, Nan, Nan,Wetzel County,0,0,0,0,
-2010, Nan, Nan,Wirt County,0,0,0,0,
-2010, Nan, Nan,Wood County,0,0,0,0,
-2010, Nan, Nan,Wyoming County,0,0,0,0,
-2010, Nan, Nan,Eastern Panhandle Drug and Violent Crime Task Force,0,0,0,0,
-2010, Nan, Nan,Greenbrier County Drug and Violent Crime Task Force,0,0,0,0,
-2010, Nan, Nan,Hancock-Brooke-Weirton Drug Task Force,0, Nan, Nan, Nan,
-2010, Nan, Nan,Harrison County Drug and Violent Crime Task Force,0,0,0,0,
-2010, Nan, Nan,Huntington Drug and Violent Crime Task Force,0,0,0,0,
-2010, Nan, Nan,Kanawha County Parks and Recreation,0,0,0,0,
-2010, Nan, Nan,Logan County Drug and Violent Crime Task Force,0,0,0,0,
-2010, Nan, Nan,Metropolitan Drug Enforcement Network Team,0,0,0,0,
-2010, Nan, Nan,Mon Valley Drug Task Force,0, Nan, Nan, Nan,
-2010, Nan, Nan,Ohio Valley Drug and Violent Crime Task Force,0,0,0,0,
-2010, Nan, Nan,Parkersburg Narcotics and Violent Crime Task Force,0, Nan, Nan, Nan,
-2010, Nan, Nan,Potomac Highlands Drug and Violent Crime Task Force,0,0,0,0,
-2010, Nan, Nan,Three Rivers Drug and Violent Crime Task Force,0,0,0,0,
+2010, Nan,Other Agencies,Barbour County,0,0,0,0,
+2010, Nan,Other Agencies,Berkeley County,0,0,0,0,
+2010, Nan,Other Agencies,Boone County,0,0,0,0,
+2010, Nan,Other Agencies,Braxton County,0,0,0,0,
+2010, Nan,Other Agencies,Brooke County,0,0,0,0,
+2010, Nan,Other Agencies,Cabell County,0,0,0,0,
+2010, Nan,Other Agencies,Calhoun County,0,0,0,0,
+2010, Nan,Other Agencies,Clay County,0, Nan,0,0,
+2010, Nan,Other Agencies,Doddridge County,0,0,0,0,
+2010, Nan,Other Agencies,Fayette County, Nan,0,0,0,
+2010, Nan,Other Agencies,Gilmer County,0,0,0,0,
+2010, Nan,Other Agencies,Grant County,0,0,0,0,
+2010, Nan,Other Agencies,Greenbrier County,0,0,0,0,
+2010, Nan,Other Agencies,Hampshire County,0,0,0,0,
+2010, Nan,Other Agencies,Hancock County,0,0,0,0,
+2010, Nan,Other Agencies,Hardy County,0,0,0,0,
+2010, Nan,Other Agencies,Harrison County,0,0,0,0,
+2010, Nan,Other Agencies,Jackson County,0,0,0,0,
+2010, Nan,Other Agencies,Jefferson County,0,0,0,0,
+2010, Nan,Other Agencies,Kanawha County,0,0,0,0,
+2010, Nan,Other Agencies,Lewis County,0,0,0,0,
+2010, Nan,Other Agencies,Lincoln County,0,0,0,0,
+2010, Nan,Other Agencies,Logan County,0,0,0,0,
+2010, Nan,Other Agencies,Marion County,0,0,0,0,
+2010, Nan,Other Agencies,Marshall County,0,0,0,0,
+2010, Nan,Other Agencies,Mason County,0,0,0,0,
+2010, Nan,Other Agencies,McDowell County,0,0,0,0,
+2010, Nan,Other Agencies,Mercer County,0,0,0,0,
+2010, Nan,Other Agencies,Mineral County,0,0,0,0,
+2010, Nan,Other Agencies,Mingo County,0,0,0,0,
+2010, Nan,Other Agencies,Monongalia County,0,0,0,0,
+2010, Nan,Other Agencies,Monroe County,0,0,0,0,
+2010, Nan,Other Agencies,Morgan County,0,0,0,0,
+2010, Nan,Other Agencies,Nicholas County,0,0,0,0,
+2010, Nan,Other Agencies,Ohio County,0,0,0,0,
+2010, Nan,Other Agencies,Pendleton County,0,0,0,0,
+2010, Nan,Other Agencies,Pleasants County,0,0,0,0,
+2010, Nan,Other Agencies,Pocahontas County,0,0,0,0,
+2010, Nan,Other Agencies,Preston County,0,0,0,0,
+2010, Nan,Other Agencies,Putnam County,0,0,0,0,
+2010, Nan,Other Agencies,Raleigh County,0,0,0,0,
+2010, Nan,Other Agencies,Randolph County,0,0,0,0,
+2010, Nan,Other Agencies,Ritchie County,0,0,0,0,
+2010, Nan,Other Agencies,Roane County,0,0,0,0,
+2010, Nan,Other Agencies,Summers County,0,0,0,0,
+2010, Nan,Other Agencies,Taylor County,0,0,0,0,
+2010, Nan,Other Agencies,Tucker County,0,0,0,0,
+2010, Nan,Other Agencies,Tyler County, Nan, Nan,0,0,
+2010, Nan,Other Agencies,Upshur County,0,0,0,0,
+2010, Nan,Other Agencies,Wayne County,0,0,0,0,
+2010, Nan,Other Agencies,Webster County,0,0,0,0,
+2010, Nan,Other Agencies,Wetzel County,0,0,0,0,
+2010, Nan,Other Agencies,Wirt County,0,0,0,0,
+2010, Nan,Other Agencies,Wood County,0,0,0,0,
+2010, Nan,Other Agencies,Wyoming County,0,0,0,0,
+2010, Nan,Other Agencies,Eastern Panhandle Drug and Violent Crime Task Force,0,0,0,0,
+2010, Nan,Other Agencies,Greenbrier County Drug and Violent Crime Task Force,0,0,0,0,
+2010, Nan,Other Agencies,Hancock-Brooke-Weirton Drug Task Force,0, Nan, Nan, Nan,
+2010, Nan,Other Agencies,Harrison County Drug and Violent Crime Task Force,0,0,0,0,
+2010, Nan,Other Agencies,Huntington Drug and Violent Crime Task Force,0,0,0,0,
+2010, Nan,Other Agencies,Kanawha County Parks and Recreation,0,0,0,0,
+2010, Nan,Other Agencies,Logan County Drug and Violent Crime Task Force,0,0,0,0,
+2010, Nan,Other Agencies,Metropolitan Drug Enforcement Network Team,0,0,0,0,
+2010, Nan,Other Agencies,Mon Valley Drug Task Force,0, Nan, Nan, Nan,
+2010, Nan,Other Agencies,Ohio Valley Drug and Violent Crime Task Force,0,0,0,0,
+2010, Nan,Other Agencies,Parkersburg Narcotics and Violent Crime Task Force,0, Nan, Nan, Nan,
+2010, Nan,Other Agencies,Potomac Highlands Drug and Violent Crime Task Force,0,0,0,0,
+2010, Nan,Other Agencies,Three Rivers Drug and Violent Crime Task Force,0,0,0,0,
 2010,WISCONSIN,Cities,Adams,0,0,0,0,1707
-2010, Nan, Nan,Albany,0,0,0,0,1105
-2010, Nan, Nan,Algoma,0,0,0,0,3130
-2010, Nan, Nan,Altoona,0,0,0,0,6658
-2010, Nan, Nan,Amery,0,0,0,0,2744
-2010, Nan, Nan,Antigo,0,0,0,0,7846
-2010, Nan, Nan,Arcadia,0,0,0,0,2325
-2010, Nan, Nan,Ashland,0,0,0,0,7886
-2010, Nan, Nan,Ashwaubenon,0,0,0,0,17601
-2010, Nan, Nan,Athens,0,0,0,0,1047
-2010, Nan, Nan,Avoca,0,0,0,0,578
-2010, Nan, Nan,Bangor,0,0,0,0,1392
-2010, Nan, Nan,Baraboo,0,0,0,0,11205
-2010, Nan, Nan,Barron,0,0,0,0,3078
-2010, Nan, Nan,Bayfield,0,0,0,0,545
-2010, Nan, Nan,Bayside,0,0,0,0,4455
-2010, Nan, Nan,Beaver Dam,0,0,0,0,15258
-2010, Nan, Nan,Belleville,0,0,0,0,2378
-2010, Nan, Nan,Beloit,0,0,0,0,36651
-2010, Nan, Nan,Beloit Town,0,0,0,0,7509
-2010, Nan, Nan,Big Bend,0,0,0,0,1326
-2010, Nan, Nan,Black River Falls,0,0,0,0,3382
-2010, Nan, Nan,Blair,0,0,0,0,1226
-2010, Nan, Nan,Bloomer,0,0,0,0,3317
-2010, Nan, Nan,Bloomfield,0,0,0,0,6382
-2010, Nan, Nan,Boscobel,0,0,0,0,3148
-2010, Nan, Nan,Brillion,0,0,0,0,2804
-2010, Nan, Nan,Brodhead,0,0,0,0,3092
-2010, Nan, Nan,Brookfield,0,0,0,0,39262
-2010, Nan, Nan,Brookfield Township,0,0,0,0,6202
-2010, Nan, Nan,Brown Deer,0,0,0,0,12111
-2010, Nan, Nan,Burlington,0,0,0,0,10628
-2010, Nan, Nan,Burlington Town,0,0,0,0,6616
-2010, Nan, Nan,Butler,0,0,0,0,1777
-2010, Nan, Nan,Caledonia,0,0,0,0,26154
-2010, Nan, Nan,Campbellsport,0,0,0,0,1947
-2010, Nan, Nan,Campbell Township,0,0,0,0,4575
-2010, Nan, Nan,Cashton,0,0,0,0,1052
-2010, Nan, Nan,Cedarburg,0,0,0,0,11079
-2010, Nan, Nan,Chenequa,0,0,0,0,595
-2010, Nan, Nan,Chetek,0,0,0,0,2144
-2010, Nan, Nan,Chilton,0,0,0,0,3678
-2010, Nan, Nan,Chippewa Falls,0,0,0,0,12862
-2010, Nan, Nan,Cleveland,0,0,0,0,1374
-2010, Nan, Nan,Clinton,0,0,0,0,2238
-2010, Nan, Nan,Clintonville,0,0,0,0,4289
-2010, Nan, Nan,Colby-Abbotsford,0,0,0,0,3606
-2010, Nan, Nan,Columbus,0,0,0,0,4967
-2010, Nan, Nan,Combined Locks,0,0,0,0,3327
-2010, Nan, Nan,Coon Valley,0,0,0,0,694
-2010, Nan, Nan,Cornell,0,0,0,0,1398
-2010, Nan, Nan,Cottage Grove,0,0,0,0,6223
-2010, Nan, Nan,Crandon,0,0,0,0,1806
-2010, Nan, Nan,Cross Plains,0,0,0,0,3664
-2010, Nan, Nan,Cuba City,0,0,0,0,1967
-2010, Nan, Nan,Cudahy,0,0,0,0,19048
-2010, Nan, Nan,Cumberland,0,0,0,0,2242
-2010, Nan, Nan,Dane,0,0,0,0,1026
-2010, Nan, Nan,Darien,0,0,0,0,1615
-2010, Nan, Nan,Darlington,0,0,0,0,2229
-2010, Nan, Nan,DeForest,0,0,0,0,9260
-2010, Nan, Nan,Delafield,0,0,0,0,6970
-2010, Nan, Nan,Delavan,0,0,0,0,8309
-2010, Nan, Nan,Delavan Town,0,0,0,0,4754
-2010, Nan, Nan,Denmark,0,0,0,0,2237
-2010, Nan, Nan,De Pere,0,0,0,0,23724
-2010, Nan, Nan,Dodgeville,0,0,0,0,4511
-2010, Nan, Nan,Durand,0,0,0,0,1829
-2010, Nan, Nan,Eagle River,0,0,0,0,1644
-2010, Nan, Nan,Eagle Village,0,0,0,0,1875
-2010, Nan, Nan,East Troy,0,0,0,0,4506
-2010, Nan, Nan,Eau Claire,0,0,0,0,66737
-2010, Nan, Nan,Edgar,0,0,0,0,1461
-2010, Nan, Nan,Edgerton,0,0,0,0,5384
-2010, Nan, Nan,Eleva,0,0,0,0,630
-2010, Nan, Nan,Elkhart Lake,0,0,0,0,1248
-2010, Nan, Nan,Elkhorn,0,0,0,0,9314
-2010, Nan, Nan,Elk Mound,0,0,0,0,806
-2010, Nan, Nan,Ellsworth,0,0,0,0,3116
-2010, Nan, Nan,Elm Grove,0,0,0,0,6016
-2010, Nan, Nan,Elroy,0,0,0,0,1419
-2010, Nan, Nan,Evansville,0,0,0,0,5081
-2010, Nan, Nan,Everest,0,0,0,0,16425
-2010, Nan, Nan,Fall Creek,0,0,0,0,1317
-2010, Nan, Nan,Fall River,0,0,0,0,1591
-2010, Nan, Nan,Fennimore,0,0,0,0,2181
-2010, Nan, Nan,Fitchburg,0,0,0,0,24537
-2010, Nan, Nan,Fontana,0,0,0,0,1837
-2010, Nan, Nan,Fort Atkinson,0,0,0,0,11961
-2010, Nan, Nan,Fountain City,0,0,0,0,945
-2010, Nan, Nan,Fox Lake,0,0,0,0,1453
-2010, Nan, Nan,Fox Point,0,0,0,0,6861
-2010, Nan, Nan,Fox Valley Metro,0,0,0,0,17757
-2010, Nan, Nan,Franklin,0,0,0,0,37832
-2010, Nan, Nan,Frederic,0,0,0,0,1181
-2010, Nan, Nan,Freedom,0,0,0,0,5896
-2010, Nan, Nan,Geneva Town,0,0,0,0,4692
-2010, Nan, Nan,Genoa City,0,0,0,0,2956
-2010, Nan, Nan,Germantown,0,0,0,0,19787
-2010, Nan, Nan,Glendale,0,0,0,0,13029
-2010, Nan, Nan,Grafton,0,0,0,0,11666
-2010, Nan, Nan,Grand Chute,0,0,0,0,21194
-2010, Nan, Nan,Grand Rapids,0,0,0,0,7640
-2010, Nan, Nan,Grantsburg,0,0,0,0,1384
-2010, Nan, Nan,Greendale,0,0,0,0,14102
-2010, Nan, Nan,Greenfield,0,0,0,0,36580
-2010, Nan, Nan,Green Lake,0,0,0,0,1120
-2010, Nan, Nan,Hales Corners,0,0,0,0,7775
-2010, Nan, Nan,Hartford,0,0,0,0,14507
-2010, Nan, Nan,Hartland,0,0,0,0,8772
-2010, Nan, Nan,Hayward,0,0,0,0,2260
-2010, Nan, Nan,Hazel Green,0,0,0,0,1097
-2010, Nan, Nan,Highland,0,0,0,0,817
-2010, Nan, Nan,Hillsboro,0,0,0,0,1315
-2010, Nan, Nan,Hobart-Lawrence,0,0,0,0,10975
-2010, Nan, Nan,Holmen,0,0,0,0,8644
-2010, Nan, Nan,Horicon,0,0,0,0,3499
-2010, Nan, Nan,Hortonville,0,0,0,0,2833
-2010, Nan, Nan,Hurley,0,0,0,0,1507
-2010, Nan, Nan,Independence,0,0,0,0,1222
-2010, Nan, Nan,Iron Ridge,0,0,0,0,992
-2010, Nan, Nan,Jackson,0,0,0,0,6686
-2010, Nan, Nan,Jefferson,0,0,0,0,7950
-2010, Nan, Nan,Juneau,0,0,0,0,2646
-2010, Nan, Nan,Kendall,0,0,0,0,458
-2010, Nan, Nan,Kewaskum,0,0,0,0,4268
-2010, Nan, Nan,Kewaunee,0,0,0,0,2740
-2010, Nan, Nan,Kiel,0,0,0,0,3516
+2010,WISCONSIN,Cities,Albany,0,0,0,0,1105
+2010,WISCONSIN,Cities,Algoma,0,0,0,0,3130
+2010,WISCONSIN,Cities,Altoona,0,0,0,0,6658
+2010,WISCONSIN,Cities,Amery,0,0,0,0,2744
+2010,WISCONSIN,Cities,Antigo,0,0,0,0,7846
+2010,WISCONSIN,Cities,Arcadia,0,0,0,0,2325
+2010,WISCONSIN,Cities,Ashland,0,0,0,0,7886
+2010,WISCONSIN,Cities,Ashwaubenon,0,0,0,0,17601
+2010,WISCONSIN,Cities,Athens,0,0,0,0,1047
+2010,WISCONSIN,Cities,Avoca,0,0,0,0,578
+2010,WISCONSIN,Cities,Bangor,0,0,0,0,1392
+2010,WISCONSIN,Cities,Baraboo,0,0,0,0,11205
+2010,WISCONSIN,Cities,Barron,0,0,0,0,3078
+2010,WISCONSIN,Cities,Bayfield,0,0,0,0,545
+2010,WISCONSIN,Cities,Bayside,0,0,0,0,4455
+2010,WISCONSIN,Cities,Beaver Dam,0,0,0,0,15258
+2010,WISCONSIN,Cities,Belleville,0,0,0,0,2378
+2010,WISCONSIN,Cities,Beloit,0,0,0,0,36651
+2010,WISCONSIN,Cities,Beloit Town,0,0,0,0,7509
+2010,WISCONSIN,Cities,Big Bend,0,0,0,0,1326
+2010,WISCONSIN,Cities,Black River Falls,0,0,0,0,3382
+2010,WISCONSIN,Cities,Blair,0,0,0,0,1226
+2010,WISCONSIN,Cities,Bloomer,0,0,0,0,3317
+2010,WISCONSIN,Cities,Bloomfield,0,0,0,0,6382
+2010,WISCONSIN,Cities,Boscobel,0,0,0,0,3148
+2010,WISCONSIN,Cities,Brillion,0,0,0,0,2804
+2010,WISCONSIN,Cities,Brodhead,0,0,0,0,3092
+2010,WISCONSIN,Cities,Brookfield,0,0,0,0,39262
+2010,WISCONSIN,Cities,Brookfield Township,0,0,0,0,6202
+2010,WISCONSIN,Cities,Brown Deer,0,0,0,0,12111
+2010,WISCONSIN,Cities,Burlington,0,0,0,0,10628
+2010,WISCONSIN,Cities,Burlington Town,0,0,0,0,6616
+2010,WISCONSIN,Cities,Butler,0,0,0,0,1777
+2010,WISCONSIN,Cities,Caledonia,0,0,0,0,26154
+2010,WISCONSIN,Cities,Campbellsport,0,0,0,0,1947
+2010,WISCONSIN,Cities,Campbell Township,0,0,0,0,4575
+2010,WISCONSIN,Cities,Cashton,0,0,0,0,1052
+2010,WISCONSIN,Cities,Cedarburg,0,0,0,0,11079
+2010,WISCONSIN,Cities,Chenequa,0,0,0,0,595
+2010,WISCONSIN,Cities,Chetek,0,0,0,0,2144
+2010,WISCONSIN,Cities,Chilton,0,0,0,0,3678
+2010,WISCONSIN,Cities,Chippewa Falls,0,0,0,0,12862
+2010,WISCONSIN,Cities,Cleveland,0,0,0,0,1374
+2010,WISCONSIN,Cities,Clinton,0,0,0,0,2238
+2010,WISCONSIN,Cities,Clintonville,0,0,0,0,4289
+2010,WISCONSIN,Cities,Colby-Abbotsford,0,0,0,0,3606
+2010,WISCONSIN,Cities,Columbus,0,0,0,0,4967
+2010,WISCONSIN,Cities,Combined Locks,0,0,0,0,3327
+2010,WISCONSIN,Cities,Coon Valley,0,0,0,0,694
+2010,WISCONSIN,Cities,Cornell,0,0,0,0,1398
+2010,WISCONSIN,Cities,Cottage Grove,0,0,0,0,6223
+2010,WISCONSIN,Cities,Crandon,0,0,0,0,1806
+2010,WISCONSIN,Cities,Cross Plains,0,0,0,0,3664
+2010,WISCONSIN,Cities,Cuba City,0,0,0,0,1967
+2010,WISCONSIN,Cities,Cudahy,0,0,0,0,19048
+2010,WISCONSIN,Cities,Cumberland,0,0,0,0,2242
+2010,WISCONSIN,Cities,Dane,0,0,0,0,1026
+2010,WISCONSIN,Cities,Darien,0,0,0,0,1615
+2010,WISCONSIN,Cities,Darlington,0,0,0,0,2229
+2010,WISCONSIN,Cities,DeForest,0,0,0,0,9260
+2010,WISCONSIN,Cities,Delafield,0,0,0,0,6970
+2010,WISCONSIN,Cities,Delavan,0,0,0,0,8309
+2010,WISCONSIN,Cities,Delavan Town,0,0,0,0,4754
+2010,WISCONSIN,Cities,Denmark,0,0,0,0,2237
+2010,WISCONSIN,Cities,De Pere,0,0,0,0,23724
+2010,WISCONSIN,Cities,Dodgeville,0,0,0,0,4511
+2010,WISCONSIN,Cities,Durand,0,0,0,0,1829
+2010,WISCONSIN,Cities,Eagle River,0,0,0,0,1644
+2010,WISCONSIN,Cities,Eagle Village,0,0,0,0,1875
+2010,WISCONSIN,Cities,East Troy,0,0,0,0,4506
+2010,WISCONSIN,Cities,Eau Claire,0,0,0,0,66737
+2010,WISCONSIN,Cities,Edgar,0,0,0,0,1461
+2010,WISCONSIN,Cities,Edgerton,0,0,0,0,5384
+2010,WISCONSIN,Cities,Eleva,0,0,0,0,630
+2010,WISCONSIN,Cities,Elkhart Lake,0,0,0,0,1248
+2010,WISCONSIN,Cities,Elkhorn,0,0,0,0,9314
+2010,WISCONSIN,Cities,Elk Mound,0,0,0,0,806
+2010,WISCONSIN,Cities,Ellsworth,0,0,0,0,3116
+2010,WISCONSIN,Cities,Elm Grove,0,0,0,0,6016
+2010,WISCONSIN,Cities,Elroy,0,0,0,0,1419
+2010,WISCONSIN,Cities,Evansville,0,0,0,0,5081
+2010,WISCONSIN,Cities,Everest,0,0,0,0,16425
+2010,WISCONSIN,Cities,Fall Creek,0,0,0,0,1317
+2010,WISCONSIN,Cities,Fall River,0,0,0,0,1591
+2010,WISCONSIN,Cities,Fennimore,0,0,0,0,2181
+2010,WISCONSIN,Cities,Fitchburg,0,0,0,0,24537
+2010,WISCONSIN,Cities,Fontana,0,0,0,0,1837
+2010,WISCONSIN,Cities,Fort Atkinson,0,0,0,0,11961
+2010,WISCONSIN,Cities,Fountain City,0,0,0,0,945
+2010,WISCONSIN,Cities,Fox Lake,0,0,0,0,1453
+2010,WISCONSIN,Cities,Fox Point,0,0,0,0,6861
+2010,WISCONSIN,Cities,Fox Valley Metro,0,0,0,0,17757
+2010,WISCONSIN,Cities,Franklin,0,0,0,0,37832
+2010,WISCONSIN,Cities,Frederic,0,0,0,0,1181
+2010,WISCONSIN,Cities,Freedom,0,0,0,0,5896
+2010,WISCONSIN,Cities,Geneva Town,0,0,0,0,4692
+2010,WISCONSIN,Cities,Genoa City,0,0,0,0,2956
+2010,WISCONSIN,Cities,Germantown,0,0,0,0,19787
+2010,WISCONSIN,Cities,Glendale,0,0,0,0,13029
+2010,WISCONSIN,Cities,Grafton,0,0,0,0,11666
+2010,WISCONSIN,Cities,Grand Chute,0,0,0,0,21194
+2010,WISCONSIN,Cities,Grand Rapids,0,0,0,0,7640
+2010,WISCONSIN,Cities,Grantsburg,0,0,0,0,1384
+2010,WISCONSIN,Cities,Greendale,0,0,0,0,14102
+2010,WISCONSIN,Cities,Greenfield,0,0,0,0,36580
+2010,WISCONSIN,Cities,Green Lake,0,0,0,0,1120
+2010,WISCONSIN,Cities,Hales Corners,0,0,0,0,7775
+2010,WISCONSIN,Cities,Hartford,0,0,0,0,14507
+2010,WISCONSIN,Cities,Hartland,0,0,0,0,8772
+2010,WISCONSIN,Cities,Hayward,0,0,0,0,2260
+2010,WISCONSIN,Cities,Hazel Green,0,0,0,0,1097
+2010,WISCONSIN,Cities,Highland,0,0,0,0,817
+2010,WISCONSIN,Cities,Hillsboro,0,0,0,0,1315
+2010,WISCONSIN,Cities,Hobart-Lawrence,0,0,0,0,10975
+2010,WISCONSIN,Cities,Holmen,0,0,0,0,8644
+2010,WISCONSIN,Cities,Horicon,0,0,0,0,3499
+2010,WISCONSIN,Cities,Hortonville,0,0,0,0,2833
+2010,WISCONSIN,Cities,Hurley,0,0,0,0,1507
+2010,WISCONSIN,Cities,Independence,0,0,0,0,1222
+2010,WISCONSIN,Cities,Iron Ridge,0,0,0,0,992
+2010,WISCONSIN,Cities,Jackson,0,0,0,0,6686
+2010,WISCONSIN,Cities,Jefferson,0,0,0,0,7950
+2010,WISCONSIN,Cities,Juneau,0,0,0,0,2646
+2010,WISCONSIN,Cities,Kendall,0,0,0,0,458
+2010,WISCONSIN,Cities,Kewaskum,0,0,0,0,4268
+2010,WISCONSIN,Cities,Kewaunee,0,0,0,0,2740
+2010,WISCONSIN,Cities,Kiel,0,0,0,0,3516
 2010, Nan, Nan,Kohler,0,0,0,0,1949
 2010, Nan, Nan,Kronenwetter,0,0,0,0,7109
 2010, Nan, Nan,Ladysmith,0,0,0,0,3209
@@ -15111,39 +15084,27 @@ Year,State,Agency type,Agency name,"quarter01","quarter02","quarter03","quarter0
 2010, Nan, Nan,Wisconsin Dells,0,0,0,0,2432
 2010, Nan, Nan,Wisconsin Rapids,0,0,0,0,17396
 2010, Nan, Nan,Woodruff,0,0,0,0,2000
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
 2010, Nan,Metropolitan Counties,Brown,0,0,0,0,
-2010, Nan, Nan,Calumet,0,0,0,0,
-2010, Nan, Nan,Chippewa,0,0,0,0,
-2010, Nan, Nan,Columbia,0,0,0,0,
-2010, Nan, Nan,Douglas,0,0,0,0,
-2010, Nan, Nan,Eau Claire,0,0,0,0,
-2010, Nan, Nan,Fond du Lac,0,0,0,0,
-2010, Nan, Nan,Kenosha,0,0,0,0,
-2010, Nan, Nan,Kewaunee,0,0,0,0,
-2010, Nan, Nan,La Crosse,0,0,0,0,
-2010, Nan, Nan,Marathon,0,0,0,0,
-2010, Nan, Nan,Milwaukee,0,0,0,0,
-2010, Nan, Nan,Oconto,0,0,0,0,
-2010, Nan, Nan,Ozaukee,0,0,0,0,
-2010, Nan, Nan,Pierce,0,0,0,0,
-2010, Nan, Nan,Rock,0,0,0,0,
-2010, Nan, Nan,Sheboygan,0,0,0,0,
-2010, Nan, Nan,St. Croix,0,0,0,0,
-2010, Nan, Nan,Washington,0,0,0,0,
-2010, Nan, Nan,Waukesha,0,0,0,0,
-2010, Nan, Nan,Winnebago,0,0,0,0,
+2010, Nan,Metropolitan Counties,Calumet,0,0,0,0,
+2010, Nan,Metropolitan Counties,Chippewa,0,0,0,0,
+2010, Nan,Metropolitan Counties,Columbia,0,0,0,0,
+2010, Nan,Metropolitan Counties,Douglas,0,0,0,0,
+2010, Nan,Metropolitan Counties,Eau Claire,0,0,0,0,
+2010, Nan,Metropolitan Counties,Fond du Lac,0,0,0,0,
+2010, Nan,Metropolitan Counties,Kenosha,0,0,0,0,
+2010, Nan,Metropolitan Counties,Kewaunee,0,0,0,0,
+2010, Nan,Metropolitan Counties,La Crosse,0,0,0,0,
+2010, Nan,Metropolitan Counties,Marathon,0,0,0,0,
+2010, Nan,Metropolitan Counties,Milwaukee,0,0,0,0,
+2010, Nan,Metropolitan Counties,Oconto,0,0,0,0,
+2010, Nan,Metropolitan Counties,Ozaukee,0,0,0,0,
+2010, Nan,Metropolitan Counties,Pierce,0,0,0,0,
+2010, Nan,Metropolitan Counties,Rock,0,0,0,0,
+2010, Nan,Metropolitan Counties,Sheboygan,0,0,0,0,
+2010, Nan,Metropolitan Counties,St. Croix,0,0,0,0,
+2010, Nan,Metropolitan Counties,Washington,0,0,0,0,
+2010, Nan,Metropolitan Counties,Waukesha,0,0,0,0,
+2010, Nan,Metropolitan Counties,Winnebago,0,0,0,0,
 2010, Nan,Nonmetropolitan Counties,Adams,0,0,0,0,
 2010, Nan, Nan,Ashland,0,0,0,0,
 2010, Nan, Nan,Barron,0,0,0,0,
