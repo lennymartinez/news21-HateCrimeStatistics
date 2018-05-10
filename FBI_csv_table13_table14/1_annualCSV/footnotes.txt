@@ -1,0 +1,87 @@
+Footnotes for the different excel files
+
+2015_Table13
+	1 Population figures are published only for the cities. The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2014 school year, the most recent available. The enrollment figures include full-time and part-time students.
+	2 Student enrollment figures were not available.
+	3 Includes one incident reported with more than one bias motivation.
+
+2015_Table14
+	1 Agencies published in this table indicated that no hate crimes occurred in their jurisdictions during the quarter(s) for which they submitted reports to the Hate Crime Statistics Program. Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities. The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2014 school year, the most recent available. The enrollment figures include full-time and part-time students.
+	3 Student enrollment figures were not available.
+
+2016_Table14
+	1 Agencies published in this table indicated that no hate crimes occurred in their jurisdictions during the quarter(s) for which they submitted reports to the Hate Crime Statistics Program. Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities. The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2015 school year, the most recent available. The enrollment figures include full-time and part-time students.
+	3 Student enrollment figures were not available.
+
+2016_Table13
+	1 Population figures are published only for the cities. The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2015 school year, the most recent available. The enrollment figures include full-time and part-time students.
+	2 Includes one incident reported with more than one bias motivation.
+	3 Student enrollment figures were not available
+
+2014_Table14
+	1 Agencies published in this table indicated that no hate crimes occurred in their jurisdictions during the quarter(s) for which they submitted reports to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2013 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	3 Student enrollment figures were not available.
+
+2014_Table13
+	1 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2013 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	2 Includes one incident reported with more than one bias motivation.
+	3 Student enrollment figures were not available.
+
+2013_Table14
+	1 Agencies published in this table indicated that no hate crimes occurred in their jurisdictions during the quarter(s) for which they submitted reports to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2012 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	3 Student enrollment figures were not available
+
+2013_Table13
+	1 Agencies published in this table indicated that at least one hate crime incident occurred in their respective jurisdictions during the quarter(s) for which they submitted a report to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2012 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	3 Includes one incident reported with more than one bias motivation.
+	4 Student enrollment figures were not available.
+
+2012_Table14
+	1 Agencies published in this table indicated that no hate crimes occurred in their jurisdictions during the quarter(s) for which they submitted reports to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2011 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	3 Student enrollment figures were not available.
+
+2012_Table14_Add
+	1 The data in this addendum were recieved after the publication deadline for Hate Crime Statistics, 2012.  Therefore, they are not included in either aggregate tables or in agency tables in the annual hate crime report for 2012.
+	2 Agencies published in this table indicated that no hate crimes occurred in their jurisdictions during the quarter(s) for which they submitted reports to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	3 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2011 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	4 Student enrollment figures were not available.
+
+
+2012_Table13
+	1 Agencies published in this table indicated that at least one hate crime incident occurred in their respective jurisdictions during the quarter(s) for which they submitted a report to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2011 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	3 Includes one incident reported with more than one bias motivation.
+	4 Student enrollment figures were not available.
+
+2012_Table13_Add
+	1 The data in this addendum were recieved after the publication deadline for Hate Crime Statistics, 2012.  Therefore, they are not included in either aggregate tables or in agency tables in the annual hate crime report for 2012.
+	2 Agencies published in this table indicated that at least one hate crime incident occurred in their respective jurisdictions during the quarter(s) for which they submitted a report to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	3 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2011 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+
+2010_Table14
+	1 Agencies published in this table indicated that no hate crimes occurred in their jurisdictions during the quarter(s) for which they submitted reports to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2009 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	3 Student enrollment figures were not available.
+
+2010_Table13
+	1 Agencies published in this table indicated that at least one hate crime incident occurred in their respective jurisdictions during the quarter(s) for which they submitted a report to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2009 school year, the most recent available.  The enrollment figures include full-time and part-time students.
+	3 Student enrollment figures were not available.
+	4 Includes one incident reported with more than one bias motivation.
+
+2011_Table14
+	1 Agencies published in this table indicated that no hate crimes occurred in their jurisdictions during the quarter(s) for which they submitted reports to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.
+	2 Population figures are published only for the cities. The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2010 school year, the most recent available. The enrollment figures include full-time and part-time students.
+	3 Student enrollment figures were not available.
+
+2011_Table13
+1 Agencies published in this table indicated that at least one hate crime incident occurred in their respective jurisdictions during the quarter(s) for which they submitted a report to the Hate Crime Statistics Program.  Blanks indicate quarters for which agencies did not submit reports.,,,,,,,,,,,,
+"2 Population figures are published only for the cities.  The figures listed for the universities and colleges are student enrollment and were provided by the United States Department of Education for the 2010 school year, the most recent available.  The enrollment figures include full-time and part-time students.",,,,,,,,,,,,
+3 Includes one incident reported with more than one bias motivation.,,,,,,,,,,,,
+4 Student enrollment figures were not available.,,,,,,,,,,,,
