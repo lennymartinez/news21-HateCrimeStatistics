@@ -1,16 +1,10 @@
-2015,Alabama,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Alabama,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Alabama,Cities,Birmingham,1,1,1,2,212291
 2015,Alabama,Cities,Hoover,0,3,1,0,85163
 2015,Alabama,Cities,Prattville,0,1, Nan,0,35637
-2015,Alaska,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Alaska,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Alaska,Cities,Anchorage,1,1,2,1,301239
 2015,Alaska,Cities,Kotzebue,0,1,0,0,3304
 2015,Alaska,Cities,North Pole,0,1,0,0,2190
 2015,Alaska,Cities,Soldotna,0,0,0,1,4512
-2015,Arizona,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Arizona,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Arizona,Cities,Apache Junction,1,1,0,0,38519
 2015,Arizona,Cities,Avondale,0,0,0,2,80533
 2015,Arizona,Cities,Chandler,0,0,1,0,258875
@@ -26,25 +20,15 @@
 2015,Arizona,Cities,Tucson,2,0,1,1,529675
 2015,Arizona,Cities,Williams,0,1, Nan, Nan,3110
 2015,Arizona,Cities,Yuma,0,2,1,1,93923
-2015,Arizona,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Arizona,Universities and Colleges,"Arizona State University, Main Campus",1,1,0,0,83260
-2015,Arizona,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Arizona,Metropolitan Counties,Maricopa,1,0,0,0,
 2015,Arizona,Metropolitan Counties,Pima,0,2,0,0,
 2015,Arizona,Metropolitan Counties,Pinal, Nan,1, Nan, Nan,
 2015,Arizona,Metropolitan Counties,Yavapai,1,0,0,0,
-2015,Arizona,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Arizona,Nonmetropolitan Counties,Graham,1,0,0,0,
-2015,Arkansas,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Arkansas,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Arkansas,Cities,Bryant,1,0,0,0,20404
 2015,Arkansas,Cities,Fort Smith,1,0,0,1,87603
-2015,Arkansas,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Arkansas,Metropolitan Counties,Sebastian,0,1,0,0,
-2015,Arkansas,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Arkansas,Nonmetropolitan Counties,Boone,1,0,0,0,
-2015,California,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,California,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,California,Cities,Alameda,1,0,1,0,78613
 2015,California,Cities,Alhambra,0,0,1,0,86175
 2015,California,Cities,Antioch,2,1,2,3,110537
@@ -215,22 +199,6 @@
 2015,California,Cities,West Covina,2,0,0,0,109030
 2015,California,Cities,West Hollywood,2,1,2,1,36256
 2015,California,Cities,Westminster,0,1,1,0,92640
-2015,California,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,California,Universities and Colleges,"California State Polytechnic University, San Luis Obispo",0,0,0,2,20186
-2015,California,Universities and Colleges,California State University:, Nan, Nan, Nan, Nan,
-2015,California,Universities and Colleges,Dominguez Hills,0,0,0,1,14687
-2015,California,Universities and Colleges,Fullerton,1,0,0,0,38128
-2015,California,Universities and Colleges,Northridge,0,0,1,0,40131
-2015,California,Universities and Colleges,San Jose,1,0,0,1,32713
-2015,California,Universities and Colleges,Humboldt State University,0,1,1,1,8485
-2015,California,Universities and Colleges,San Diego State University,0,0,1,1,33483
-2015,California,Universities and Colleges,University of California:, Nan, Nan, Nan, Nan,
-2015,California,Universities and Colleges,Berkeley,1,0,1,0,37565
-2015,California,Universities and Colleges,Davis,0,1,3,1,34508
-2015,California,Universities and Colleges,Los Angeles,3,1,2,1,41845
-2015,California,Universities and Colleges,Santa Cruz,1,0,0,0,17866
-2015,California,Universities and Colleges,Ventura County Community College District,0,0,1,0,33956
-2015,California,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,California,Metropolitan Counties,Kern,0,2,1,1,
 2015,California,Metropolitan Counties,Kings,0,0,0,1,
 2015,California,Metropolitan Counties,Los Angeles,4,12,8,4,
@@ -248,7 +216,6 @@
 2015,California,Metropolitan Counties,Sonoma,0,0,0,2,
 2015,California,Metropolitan Counties,Stanislaus,1,0,0,0,
 2015,California,Metropolitan Counties,Ventura,0,1,0,0,
-2015,California,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,California,Nonmetropolitan Counties,Amador,0,2,0,0,
 2015,California,Nonmetropolitan Counties,Calaveras,0,0,0,1,
 2015,California,Nonmetropolitan Counties,Colusa,0,1,0,0,
@@ -256,7 +223,6 @@
 2015,California,Nonmetropolitan Counties,Lake,0,1,1,0,
 2015,California,Nonmetropolitan Counties,Mendocino,1,0,0,0,
 2015,California,Nonmetropolitan Counties,Nevada,0,0,2,0,
-2015,California,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,California,Other Agencies,"East Bay Regional Parks, Alameda County",0,0,0,1,
 2015,California,Other Agencies,Los Angeles Transportation Services Bureau,7,7,2,1,
 2015,California,Other Agencies,Port of San Diego Harbor,0,0,0,1,
@@ -265,8 +231,6 @@
 2015,California,Other Agencies,Contra Costa County,1,0,1,0,
 2015,California,Other Agencies,San Francisco County,0,1,0,0,
 2015,California,Other Agencies,San Mateo County,1,0,0,1,
-2015,Colorado,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Colorado,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Colorado,Cities,Arvada,1,0,1,0,115379
 2015,Colorado,Cities,Aspen,0,0,0,1,6841
 2015,Colorado,Cities,Aurora,0,2,2,2,360237
@@ -294,12 +258,6 @@
 2015,Colorado,Cities,Sterling,1,0,0,0,14574
 2015,Colorado,Cities,Trinidad,0,1,0,0,7995
 2015,Colorado,Cities,Walsenburg,0,1,1,0,2861
-2015,Colorado,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Colorado,Universities and Colleges,Auraria Higher Education Center2,1,0,0,0,
-2015,Colorado,Universities and Colleges,University of Colorado:, Nan, Nan, Nan, Nan,
-2015,Colorado,Universities and Colleges,Boulder,0,1,0,0,32432
-2015,Colorado,Universities and Colleges,Colorado Springs,0,0,0,1,11761
-2015,Colorado,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Colorado,Metropolitan Counties,Adams,0,0,1,0,
 2015,Colorado,Metropolitan Counties,Arapahoe,1,1,3,4,
 2015,Colorado,Metropolitan Counties,Boulder,0,1,3,0,
@@ -309,12 +267,9 @@
 2015,Colorado,Metropolitan Counties,Mesa,0,1,0,0,
 2015,Colorado,Metropolitan Counties,Pueblo,0,1,0,0,
 2015,Colorado,Metropolitan Counties,Weld,0,0,2,0,
-2015,Colorado,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Colorado,Nonmetropolitan Counties,Garfield,0,2,0,0,
 2015,Colorado,Nonmetropolitan Counties,La Plata,1,0,0,0,
 2015,Colorado,Nonmetropolitan Counties,Pitkin,1,0,0,0,
-2015,Connecticut,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Connecticut,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Connecticut,Cities,Bethel,0,0,0,1,19560
 2015,Connecticut,Cities,Bloomfield,0,0,2,0,20901
 2015,Connecticut,Cities,Bridgeport,1,3,1,1,148313
@@ -355,31 +310,16 @@
 2015,Connecticut,Cities,Westport,1,1,0,0,27848
 2015,Connecticut,Cities,Winchester,2,0,0,1,10855
 2015,Connecticut,Cities,Windsor,1,0,0,0,29063
-2015,Connecticut,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Connecticut,Universities and Colleges,Central Connecticut State University,1,0,1,0,12037
-2015,Connecticut,Universities and Colleges,"University of Connecticut, Storrs, Avery Point and Hartford2",0,0,1,0,
-2015,Connecticut,Universities and Colleges,Western Connecticut State University,1,0,0,1,5952
-2015,Connecticut,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Connecticut,State Police Agencies,Connecticut State Police,1,0,1,1,524558
-2015,Delaware,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Delaware,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Delaware,Cities,Laurel,0,0,1,0,4051
 2015,Delaware,Cities,Milford,0,0,0,1,10331
 2015,Delaware,Cities,Milton,1,0,0,0,2805
 2015,Delaware,Cities,Wilmington,1,0,0,1,72078
-2015,Delaware,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Delaware,Metropolitan Counties,New Castle County Police Department,1,1,0,1,
-2015,Delaware,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Delaware,State Police Agencies,"State Police, Sussex County",0,2,0,0,
-2015,Delaware,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Delaware,Other Agencies,Park Rangers,0,1,0,0,
-2015,District of Columbia,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,District of Columbia,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,District of Columbia,Cities,Washington,13,13,18,20,672228
-2015,District of Columbia,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,District of Columbia,Other Agencies,Metro Transit Police,0,1,0,0,
-2015,Florida,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Florida,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Florida,Cities,Clearwater, Nan,2, Nan, Nan,111316
 2015,Florida,Cities,Coral Springs, Nan, Nan,1, Nan,129631
 2015,Florida,Cities,Daytona Beach Shores, Nan, Nan,1, Nan,4336
@@ -402,9 +342,6 @@
 2015,Florida,Cities,Venice, Nan, Nan,1, Nan,21980
 2015,Florida,Cities,West Palm Beach,1, Nan, Nan, Nan,104919
 2015,Florida,Cities,Winter Garden, Nan, Nan, Nan,1,39783
-2015,Florida,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Florida,Universities and Colleges,"University of South Florida, Tampa",1, Nan, Nan, Nan,41938
-2015,Florida,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Florida,Metropolitan Counties,Charlotte, Nan, Nan, Nan,1,
 2015,Florida,Metropolitan Counties,Clay, Nan,1,1,1,
 2015,Florida,Metropolitan Counties,Collier, Nan,1,1, Nan,
@@ -418,19 +355,11 @@
 2015,Florida,Metropolitan Counties,St. Johns, Nan,2, Nan, Nan,
 2015,Florida,Metropolitan Counties,Volusia,1,2,2,1,
 2015,Florida,Metropolitan Counties,Walton, Nan,1, Nan, Nan,
-2015,Georgia,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Georgia,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Georgia,Cities,Athens-Clarke County,1,0,0,0,120858
 2015,Georgia,Cities,Atlanta,0,4,0,0,464710
-2015,Georgia,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Georgia,Universities and Colleges,Georgia Institute of Technology,0,0,1,1,23109
-2015,Georgia,Universities and Colleges,University of Georgia,2,1,0,0,35197
-2015,Georgia,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Georgia,Metropolitan Counties,Cobb County Police Department,5,8,13,4,
 2015,Georgia,Metropolitan Counties,Gwinnett County Police Department,0,0,1,0,
 2015,Georgia,Metropolitan Counties,Henry County Police Department,0,1,1,1,
-2015,Idaho,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Idaho,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Idaho,Cities,Boise,1,1,2,1,218844
 2015,Idaho,Cities,Caldwell,1,0,0,0,51206
 2015,Idaho,Cities,Coeur d'Alene,1,0,0,0,48871
@@ -446,14 +375,10 @@
 2015,Idaho,Cities,Spirit Lake,1,0,0,0,2067
 2015,Idaho,Cities,St. Maries,0,1,0,0,2334
 2015,Idaho,Cities,Twin Falls,0,0,0,2,47048
-2015,Idaho,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Idaho,Metropolitan Counties,Canyon,0,1,0,0,
 2015,Idaho,Metropolitan Counties,Kootenai,2,1,0,0,
-2015,Idaho,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Idaho,Nonmetropolitan Counties,Cassia,0,0,0,1,
 2015,Idaho,Nonmetropolitan Counties,Elmore,0,7,0,0,
-2015,Illinois,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Illinois,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Illinois,Cities,Addison,0,1,0,0,37370
 2015,Illinois,Cities,Aurora,1,0,0,0,201034
 2015,Illinois,Cities,Beecher,1,0,0,0,4483
@@ -493,14 +418,9 @@
 2015,Illinois,Cities,Tuscola,0,1,0,0,4458
 2015,Illinois,Cities,Urbana,2,0,0,0,42169
 2015,Illinois,Cities,Wheeling,0,0,1,0,38092
-2015,Illinois,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Illinois,Universities and Colleges,Northern Illinois University,0,0,0,1,20611
-2015,Illinois,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Illinois,Metropolitan Counties,Champaign,0,1,0,0,
 2015,Illinois,Metropolitan Counties,DuPage,0,1,0,0,
 2015,Illinois,Metropolitan Counties,Sangamon,0,0,1,0,
-2015,Indiana,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Indiana,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Indiana,Cities,Bloomington3,2,1,6,1,84015
 2015,Indiana,Cities,Fort Wayne,0,0,1,0,259712
 2015,Indiana,Cities,Hammond,0,2,0,0,77803
@@ -509,14 +429,8 @@
 2015,Indiana,Cities,Plainfield,0,0,0,1,31123
 2015,Indiana,Cities,Shelbyville,0,1,0,0,19176
 2015,Indiana,Cities,South Bend,2,3, Nan,1,101240
-2015,Indiana,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Indiana,Universities and Colleges,Indiana University:, Nan, Nan, Nan, Nan,
-2015,Indiana,Universities and Colleges,Bloomington3, Nan, Nan,2, Nan,46416
-2015,Indiana,Universities and Colleges,Indianapolis, Nan, Nan, Nan,1,30690
-2015,Indiana,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Indiana,Metropolitan Counties,Clark3, Nan, Nan,1, Nan,
 2015,Indiana,Metropolitan Counties,Morgan3, Nan, Nan, Nan,1,
-2015,Indiana,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Indiana,State Police Agencies,State Police:, Nan, Nan, Nan, Nan,
 2015,Indiana,State Police Agencies,Decatur County,1,0,0,1,
 2015,Indiana,State Police Agencies,Miami County,1,0,0,0,
@@ -524,17 +438,10 @@
 2015,Indiana,State Police Agencies,Rush County,1,1,0,0,
 2015,Indiana,State Police Agencies,Scott County,1,0,0,0,
 2015,Indiana,State Police Agencies,Wayne County,0,0,0,1,
-2015,Iowa,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Iowa,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Iowa,Cities,Cedar Rapids,0,1,0,0,129863
 2015,Iowa,Cities,Des Moines,0,0,0,1,210403
 2015,Iowa,Cities,De Witt,0,1,1,0,5236
-2015,Iowa,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Iowa,Universities and Colleges,Iowa State University,0,0,0,1,34435
-2015,Iowa,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Iowa,Metropolitan Counties,Scott,0,0,1,0,
-2015,Kansas,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Kansas,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kansas,Cities,Baxter Springs,0,1,0,0,4035
 2015,Kansas,Cities,Clay Center,0,0,0,1,4136
 2015,Kansas,Cities,Colby,0,0,1,0,5381
@@ -555,27 +462,18 @@
 2015,Kansas,Cities,Valley Center,0,1,0,0,7113
 2015,Kansas,Cities,Wichita,2,1,10,2,389824
 2015,Kansas,Cities,Winfield,0,0,1,0,12235
-2015,Kansas,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Kansas,Universities and Colleges,Kansas State University,1,0,0,0,24766
-2015,Kansas,Universities and Colleges,"University of Kansas, Medical Center2",0,0,0,1,
-2015,Kansas,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kansas,Metropolitan Counties,Riley County Police Department,0,1,0,0,
 2015,Kansas,Metropolitan Counties,Sedgwick,0,1,0,0,
 2015,Kansas,Metropolitan Counties,Shawnee,0,1,0,0,
 2015,Kansas,Metropolitan Counties,Sumner,0,0,1,0,
 2015,Kansas,Metropolitan Counties,Wyandotte,0,0,0,1,
-2015,Kansas,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kansas,Nonmetropolitan Counties,Cowley,0,0,0,1,
 2015,Kansas,Nonmetropolitan Counties,Crawford,1,0,0,0,
 2015,Kansas,Nonmetropolitan Counties,Ellis,0,0,1,0,
 2015,Kansas,Nonmetropolitan Counties,Ford,1,0,0,0,
 2015,Kansas,Nonmetropolitan Counties,Gray,0,0,1,0,
-2015,Kansas,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kansas,State Police Agencies,Kansas Highway Patrol,1,0,0,0,
-2015,Kansas,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kansas,Other Agencies,Blue Valley School District,0,1,0,0,
-2015,Kentucky,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Kentucky,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kentucky,Cities,Alexandria,0,1,0,0,8860
 2015,Kentucky,Cities,Anchorage,0,0,1,0,2422
 2015,Kentucky,Cities,Ashland,0,4,1,0,21232
@@ -623,13 +521,6 @@
 2015,Kentucky,Cities,Versailles,0,2,0,0,9105
 2015,Kentucky,Cities,West Buechel,1,0,0,0,1272
 2015,Kentucky,Cities,Winchester,0,0,0,2,18462
-2015,Kentucky,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Kentucky,Universities and Colleges,Eastern Kentucky University,0,1,0,0,16305
-2015,Kentucky,Universities and Colleges,Murray State University,1,1,0,0,11207
-2015,Kentucky,Universities and Colleges,Northern Kentucky University,1,0,0,0,15090
-2015,Kentucky,Universities and Colleges,University of Kentucky,0,0,2,0,29203
-2015,Kentucky,Universities and Colleges,University of Louisville,0,0,1,0,21561
-2015,Kentucky,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kentucky,Metropolitan Counties,Boone,0,0,2,0,
 2015,Kentucky,Metropolitan Counties,Bracken,0,1,0,0,
 2015,Kentucky,Metropolitan Counties,Bullitt,0,0,0,1,
@@ -639,7 +530,6 @@
 2015,Kentucky,Metropolitan Counties,Scott,1,0,0,0,
 2015,Kentucky,Metropolitan Counties,Shelby,0,1,0,0,
 2015,Kentucky,Metropolitan Counties,Warren,1,0,1,1,
-2015,Kentucky,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kentucky,Nonmetropolitan Counties,Anderson,0,1,0,0,
 2015,Kentucky,Nonmetropolitan Counties,Ballard,0,0,0,1,
 2015,Kentucky,Nonmetropolitan Counties,Bell,0,1,0,0,
@@ -651,7 +541,6 @@
 2015,Kentucky,Nonmetropolitan Counties,Mason,0,1,0,0,
 2015,Kentucky,Nonmetropolitan Counties,Union,0,0,1,0,
 2015,Kentucky,Nonmetropolitan Counties,Webster,0,0,1,1,
-2015,Kentucky,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kentucky,State Police Agencies,State Police:, Nan, Nan, Nan, Nan,
 2015,Kentucky,State Police Agencies,Ashland,0,0,1,1,
 2015,Kentucky,State Police Agencies,Bowling Green,1,0,0,0,
@@ -662,18 +551,14 @@
 2015,Kentucky,State Police Agencies,Mayfield,0,0,1,0,
 2015,Kentucky,State Police Agencies,Morehead,0,1,0,0,
 2015,Kentucky,State Police Agencies,Pikeville,0,0,1,0,
-2015,Kentucky,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Kentucky,Other Agencies,Fayette County Schools,1,0,0,0,
 2015,Kentucky,Other Agencies,Jefferson County School District,1,0,0,1,
-2015,Louisiana,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Louisiana,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Louisiana,Cities,Mamou,0,1,0,0,3173
 2015,Louisiana,Cities,Natchitoches,1,0,0,0,18350
 2015,Louisiana,Cities,New Orleans,0,1,2,2,393447
 2015,Louisiana,Cities,Shreveport,0,0,0,1,197592
 2015,Louisiana,Cities,Vinton,0,1, Nan, Nan,3353
 2015,Louisiana,Cities,Westlake,1,0,0,0,4625
-2015,Louisiana,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Louisiana,Metropolitan Counties,Bossier,0,0,0,2,
 2015,Louisiana,Metropolitan Counties,Calcasieu,3,2,3,2,
 2015,Louisiana,Metropolitan Counties,East Feliciana,0,0,1,0,
@@ -682,10 +567,7 @@
 2015,Louisiana,Metropolitan Counties,Ouachita, Nan, Nan,0,1,
 2015,Louisiana,Metropolitan Counties,St. Charles, Nan, Nan,1,0,
 2015,Louisiana,Metropolitan Counties,St. Helena,0,1,0,0,
-2015,Louisiana,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Louisiana,Nonmetropolitan Counties,Madison,1,0,0,1,
-2015,Maine,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Maine,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Maine,Cities,Augusta,1,0,1,2,18608
 2015,Maine,Cities,Brewer,0,1,0,0,9279
 2015,Maine,Cities,Islesboro,0,2,0,0,568
@@ -698,28 +580,18 @@
 2015,Maine,Cities,Scarborough,0,1,1,0,19682
 2015,Maine,Cities,South Portland,0,3,1,0,25540
 2015,Maine,Cities,Topsham,0,0,1,0,8703
-2015,Maine,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Maine,Metropolitan Counties,Sagadahoc,0,2,0,0,
-2015,Maine,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Maine,State Police Agencies,"State Police, Franklin County",0,0,0,1,
-2015,Maryland,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Maryland,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Maryland,Cities,Baltimore,2,0,2, Nan,621252
 2015,Maryland,Cities,Bowie,1,0,0,0,58304
 2015,Maryland,Cities,Frederick,1,0,0,0,69162
 2015,Maryland,Cities,Greenbelt,0,0,2,1,24385
 2015,Maryland,Cities,Laurel,0,0,4,0,26406
-2015,Maryland,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Maryland,Universities and Colleges,Towson University,1,0,0,0,22285
-2015,Maryland,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Maryland,Metropolitan Counties,Baltimore County Police Department,1,0,1,0,
 2015,Maryland,Metropolitan Counties,Frederick,0,2,0,0,
 2015,Maryland,Metropolitan Counties,Harford,1,0,0,0,
 2015,Maryland,Metropolitan Counties,Montgomery County Police Department3,5,6,2,7,
-2015,Maryland,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Maryland,State Police Agencies,"State Police, Carroll County",0,0,2,0,
-2015,Massachusetts,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Massachusetts,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Massachusetts,Cities,Acton3,4,2,2,1,23573
 2015,Massachusetts,Cities,Agawam,0,0,2,0,28853
 2015,Massachusetts,Cities,Amesbury,0,1,0,1,16922
@@ -794,21 +666,7 @@
 2015,Massachusetts,Cities,Watertown,2,0,0,0,34701
 2015,Massachusetts,Cities,Woburn,1,0,0,0,39539
 2015,Massachusetts,Cities,Worcester,1,2,1,0,183377
-2015,Massachusetts,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Massachusetts,Universities and Colleges,Bentley University,0,0,1,0,5565
-2015,Massachusetts,Universities and Colleges,Boston University,1,1,2,1,32112
-2015,Massachusetts,Universities and Colleges,Bristol Community College,1,0,0,0,9189
-2015,Massachusetts,Universities and Colleges,Clark University,0,0,1,1,3423
-2015,Massachusetts,Universities and Colleges,Emerson College,1,0,0,0,4545
-2015,Massachusetts,Universities and Colleges,Endicott College,0,0,0,1,4429
-2015,Massachusetts,Universities and Colleges,Framingham State University,0,0,1,0,6499
-2015,Massachusetts,Universities and Colleges,Massachusetts Institute of Technology,2,1,0,0,11319
-2015,Massachusetts,Universities and Colleges,Northeastern University,4,0,1,6,19798
-2015,Massachusetts,Universities and Colleges,Springfield Technical Community College,0,1,0,0,6622
-2015,Massachusetts,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Massachusetts,Other Agencies,Massachusetts General Hospital,0,1,1,1,
-2015,Michigan,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Michigan,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Michigan,Cities,Adrian,0,0,1,0,20762
 2015,Michigan,Cities,Albion,1,0,0,4,8184
 2015,Michigan,Cities,Ann Arbor,3,1,3,1,118730
@@ -905,12 +763,6 @@
 2015,Michigan,Cities,Wixom,0,0,1,0,13806
 2015,Michigan,Cities,Yale,0,0,1,0,1909
 2015,Michigan,Cities,Ypsilanti,0,2,0,0,20208
-2015,Michigan,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Michigan,Universities and Colleges,Eastern Michigan University,0,0,0,1,22401
-2015,Michigan,Universities and Colleges,Ferris State University,1,0,0,0,14600
-2015,Michigan,Universities and Colleges,Michigan State University,1,2,0,0,50081
-2015,Michigan,Universities and Colleges,"University of Michigan, Ann Arbor",0,1,0,1,43625
-2015,Michigan,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Michigan,Metropolitan Counties,Calhoun,0,0,1,0,
 2015,Michigan,Metropolitan Counties,Eaton,0,1,0,2,
 2015,Michigan,Metropolitan Counties,Genesee,0,1,0,0,
@@ -926,7 +778,6 @@
 2015,Michigan,Metropolitan Counties,Ottawa,0,1,1,0,
 2015,Michigan,Metropolitan Counties,Van Buren,0,0,2,0,
 2015,Michigan,Metropolitan Counties,Washtenaw,2,3,0,1,
-2015,Michigan,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Michigan,Nonmetropolitan Counties,Allegan,0,0,1,0,
 2015,Michigan,Nonmetropolitan Counties,Cheboygan,0,0,0,1,
 2015,Michigan,Nonmetropolitan Counties,Emmet,0,1,1,0,
@@ -934,16 +785,12 @@
 2015,Michigan,Nonmetropolitan Counties,Ionia,0,0,0,1,
 2015,Michigan,Nonmetropolitan Counties,Missaukee,1,0,0,2,
 2015,Michigan,Nonmetropolitan Counties,Oceana,0,1,0,0,
-2015,Michigan,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Michigan,State Police Agencies,State Police:, Nan, Nan, Nan, Nan,
 2015,Michigan,State Police Agencies,Kent County,0,0,0,1,
 2015,Michigan,State Police Agencies,Monroe County,0,0,1,0,
 2015,Michigan,State Police Agencies,Montcalm County,0,0,0,1,
 2015,Michigan,State Police Agencies,Oakland County,0,0,1,0,
-2015,Michigan,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Michigan,Other Agencies,Wayne County Airport,0,1,0,0,
-2015,Minnesota,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Minnesota,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Minnesota,Cities,Blaine,1,0,0,0,62177
 2015,Minnesota,Cities,Brooklyn Park,1,4,0,3,79433
 2015,Minnesota,Cities,Coon Rapids,0,1,0,1,62256
@@ -969,11 +816,8 @@
 2015,Minnesota,Cities,St. Paul,2,5,9,1,300721
 2015,Minnesota,Cities,Wadena,0,0,2,0,4107
 2015,Minnesota,Cities,Worthington,0,1,0,0,12969
-2015,Minnesota,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Minnesota,Metropolitan Counties,Nicollet,0,0,1,0,
 2015,Minnesota,Metropolitan Counties,Wright,0,0,0,1,
-2015,Missouri,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Missouri,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Missouri,Cities,Columbia,0,1,2,1,118911
 2015,Missouri,Cities,Fredericktown,0,0,1,0,4078
 2015,Missouri,Cities,Gladstone,0,1,0,0,27141
@@ -992,22 +836,13 @@
 2015,Missouri,Cities,St. Peters,0,0,0,1,56923
 2015,Missouri,Cities,University City,0,3,0,2,35058
 2015,Missouri,Cities,Warrenton,0,0,1,0,8109
-2015,Missouri,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Missouri,Universities and Colleges,Northwest Missouri State University,0,1,0,0,6720
-2015,Missouri,Universities and Colleges,"St. Louis Community College, Meramec",0,1,0,0,21218
-2015,Missouri,Universities and Colleges,"University of Missouri, Columbia",1,1,1,3,35425
-2015,Missouri,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Missouri,Metropolitan Counties,St. Louis County Police Department,2,1,0,2,
-2015,Missouri,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Missouri,Nonmetropolitan Counties,Laclede,0,0,1,0,
 2015,Missouri,Nonmetropolitan Counties,Nodaway,0,1,0,0,
 2015,Missouri,Nonmetropolitan Counties,Schuyler,1,0,0,0,
 2015,Missouri,Nonmetropolitan Counties,Taney,0,0,1,0,
 2015,Missouri,Nonmetropolitan Counties,Worth,0,0,1,0,
-2015,Missouri,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Missouri,State Police Agencies,"State Highway Patrol, Jefferson City",0,0,0,1,
-2015,Montana,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Montana,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Montana,Cities,Billings,1,0,2,0,109997
 2015,Montana,Cities,Helena,0,3,1,1,30363
 2015,Montana,Cities,Kalispell,1,1,0,0,21932
@@ -1015,31 +850,18 @@
 2015,Montana,Cities,Ronan City,0,1,0,0,1942
 2015,Montana,Cities,Sidney,0,0,1,0,6817
 2015,Montana,Cities,Stevensville,0,0,0,1,1925
-2015,Montana,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Montana,Metropolitan Counties,Yellowstone,3,3,11,1,
-2015,Montana,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Montana,Nonmetropolitan Counties,Flathead,0,1,1,0,
 2015,Montana,Nonmetropolitan Counties,Lewis and Clark,2,6,0,0,
 2015,Montana,Nonmetropolitan Counties,McCone,0,1,0,0,
 2015,Montana,Nonmetropolitan Counties,Rosebud,0,0,0,1,
 2015,Montana,Nonmetropolitan Counties,Stillwater,0,1,0,0,
-2015,Nebraska,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Nebraska,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Nebraska,Cities,Lincoln,2,4,4,6,276585
 2015,Nebraska,Cities,Omaha,1,0,0,1,452252
-2015,Nebraska,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Nebraska,Universities and Colleges,"University of Nebraska, Lincoln",1,0,0,0,25006
-2015,Nevada,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Nevada,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Nevada,Cities,Henderson,2,2,3,1,282554
 2015,Nevada,Cities,Las Vegas Metropolitan Police Department3,6,14,12,9,1562134
 2015,Nevada,Cities,North Las Vegas,2,1,1,2,234386
 2015,Nevada,Cities,Reno,0,0,1,0,239721
-2015,Nevada,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Nevada,Universities and Colleges,Truckee Meadows Community College,0,0,1,0,11106
-2015,Nevada,Universities and Colleges,"University of Nevada, Las Vegas",0,0,0,1,28515
-2015,New Hampshire,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,New Hampshire,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New Hampshire,Cities,Antrim,0,1,0,0,2659
 2015,New Hampshire,Cities,Barrington,0,1,0,0,8814
 2015,New Hampshire,Cities,Concord,0,1,0,2,42389
@@ -1049,8 +871,6 @@
 2015,New Hampshire,Cities,Hampton,0,0,1,1,15280
 2015,New Hampshire,Cities,Hampton Falls,1,0,0,0,2314
 2015,New Hampshire,Cities,Manchester,0,0,0,1,110661
-2015,New Jersey,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,New Jersey,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New Jersey,Cities,Aberdeen Township,3,1,0,4,18312
 2015,New Jersey,Cities,Bayonne,0,0,0,1,66582
 2015,New Jersey,Cities,Belleville,0,0,1,1,36452
@@ -1172,16 +992,10 @@
 2015,New Jersey,Cities,Woodbridge Township,1,1,0,0,100950
 2015,New Jersey,Cities,Woodbury,0,5,1,1,9961
 2015,New Jersey,Cities,Woodstown,0,0,1,0,3443
-2015,New Jersey,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New Jersey,Metropolitan Counties,Camden County Police Department,0,0,1,0,
-2015,New Jersey,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New Jersey,State Police Agencies,"State Police, Monmouth County",0,1,0,0,
-2015,New Mexico,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,New Mexico,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New Mexico,Cities,Albuquerque,6,5,1, Nan,559721
 2015,New Mexico,Cities,Los Lunas,1, Nan, Nan, Nan,15251
-2015,New York,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,New York,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New York,Cities,Albany,1,1,1,0,98772
 2015,New York,Cities,Amherst Town,0,0,2,0,120207
 2015,New York,Cities,Auburn,1,0,0,0,26865
@@ -1218,23 +1032,12 @@
 2015,New York,Cities,Tupper Lake Village,0,0,1,0,3609
 2015,New York,Cities,Webster Town and Village,0,0,1,0,44211
 2015,New York,Cities,Yonkers,0,2,3,1,201753
-2015,New York,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,New York,Universities and Colleges,"State University of New York, Binghamton",1,0,1,1,16695
-2015,New York,Universities and Colleges,"State University of New York Agricultural and Technical College, Morrisville",0,0,0,2,2910
-2015,New York,Universities and Colleges,State University of New York College:, Nan, Nan, Nan, Nan,
-2015,New York,Universities and Colleges,New Paltz,1,0,0,0,7692
-2015,New York,Universities and Colleges,Oneonta,0,0,0,1,6101
-2015,New York,Universities and Colleges,Potsdam,1,1,0,1,3979
-2015,New York,Universities and Colleges,Purchase,2,0,0,1,4225
-2015,New York,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New York,Metropolitan Counties,Dutchess,0,0,0,1,
 2015,New York,Metropolitan Counties,Nassau,7,13,6,6,
 2015,New York,Metropolitan Counties,Niagara,0,1,0,0,
 2015,New York,Metropolitan Counties,Orleans,0,0,1,0,
 2015,New York,Metropolitan Counties,Suffolk County Police Department,8,24,18,16,
-2015,New York,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New York,Nonmetropolitan Counties,Cattaraugus,1,0,0,0,
-2015,New York,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New York,State Police Agencies,State Police:, Nan, Nan, Nan, Nan,
 2015,New York,State Police Agencies,Cattaraugus County ,0,0,0,1,
 2015,New York,State Police Agencies,Delaware County ,0,0,0,1,
@@ -1246,11 +1049,8 @@
 2015,New York,State Police Agencies,Tioga County ,0,0,0,1,
 2015,New York,State Police Agencies,Warren County ,0,0,0,1,
 2015,New York,State Police Agencies,Westchester County ,0,1,0,0,
-2015,New York,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,New York,Other Agencies,New York City Metropolitan Transportation Authority,5,5,2,0,
 2015,New York,Other Agencies,"State Park, New York City Region",1,0,0,0,
-2015,North Carolina,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,North Carolina,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,North Carolina,Cities,Apex,0,0,3,0,45593
 2015,North Carolina,Cities,Asheville,2,2,3,0,89003
 2015,North Carolina,Cities,Boone,0,1,0,0,18394
@@ -1285,15 +1085,6 @@
 2015,North Carolina,Cities,Smithfield,0,1,0,1,11924
 2015,North Carolina,Cities,Wilmington,0,2,2,3,115434
 2015,North Carolina,Cities,Wilson,0,2,0,0,49442
-2015,North Carolina,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,North Carolina,Universities and Colleges,Duke University,0,0,0,2,15856
-2015,North Carolina,Universities and Colleges,East Carolina University,0,0,0,1,27511
-2015,North Carolina,Universities and Colleges,Elizabeth City State University,0,0,0,1,1867
-2015,North Carolina,Universities and Colleges,North Carolina School of the Arts,1,0,0,1,958
-2015,North Carolina,Universities and Colleges,University of North Carolina:, Nan, Nan, Nan, Nan,
-2015,North Carolina,Universities and Colleges,Greensboro,1,0,0,0,18647
-2015,North Carolina,Universities and Colleges,Pembroke,2,0,0,0,6269
-2015,North Carolina,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,North Carolina,Metropolitan Counties,Cabarrus,0,0,0,1,
 2015,North Carolina,Metropolitan Counties,Caldwell,0,0,1,0,
 2015,North Carolina,Metropolitan Counties,Currituck,0,1,0,0,
@@ -1303,12 +1094,9 @@
 2015,North Carolina,Metropolitan Counties,Guilford,0,1,0,0,
 2015,North Carolina,Metropolitan Counties,New Hanover,0,1,0,0,
 2015,North Carolina,Metropolitan Counties,Pitt,0,1,1,1,
-2015,North Carolina,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,North Carolina,Nonmetropolitan Counties,Bladen,0,0,1,0,
 2015,North Carolina,Nonmetropolitan Counties,Cleveland,0,0,1,0,
 2015,North Carolina,Nonmetropolitan Counties,Rutherford,2,0,0,0,
-2015,North Dakota,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,North Dakota,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,North Dakota,Cities,Belfield,0,0,0,1,1092
 2015,North Dakota,Cities,Bismarck,4,3,1,0,70873
 2015,North Dakota,Cities,Devils lake,0,1,0, Nan,7326
@@ -1321,18 +1109,12 @@
 2015,North Dakota,Cities,Wahpeton,0,0,0,1,7940
 2015,North Dakota,Cities,Watford City,0,0,1,0,5235
 2015,North Dakota,Cities,Williston,0,0,0,1,27324
-2015,North Dakota,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,North Dakota,Universities and Colleges,University of North Dakota,0,0,0,1,14906
-2015,North Dakota,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,North Dakota,Metropolitan Counties,Morton,0,0,1,0,
-2015,North Dakota,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,North Dakota,Nonmetropolitan Counties,Barnes,0,0,1,0,
 2015,North Dakota,Nonmetropolitan Counties,McKenzie,0,0,2,0,
 2015,North Dakota,Nonmetropolitan Counties,McLean,0,1,0,0,
 2015,North Dakota,Nonmetropolitan Counties,Ramsey,1,0,0,1,
 2015,North Dakota,Nonmetropolitan Counties,Richland,0,1,0,0,
-2015,Ohio,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Ohio,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Ohio,Cities,Akron,1,3,0,0,197587
 2015,Ohio,Cities,Athens,0,0,0,1,23960
 2015,Ohio,Cities,Barberton,3,2,1,0,26242
@@ -1415,13 +1197,6 @@
 2015,Ohio,Cities,Worthington,0,0,1,0,14594
 2015,Ohio,Cities,Youngstown,0,1,0,1,64608
 2015,Ohio,Cities,Zanesville,0,0,1,0,25337
-2015,Ohio,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Ohio,Universities and Colleges,Bowling Green State University,0,0,1,0,16554
-2015,Ohio,Universities and Colleges,Capital University,0,0,1,1,3494
-2015,Ohio,Universities and Colleges,Lakeland Community College,0,1,0,0,8250
-2015,Ohio,Universities and Colleges,Miami University,0,0,0,1,18620
-2015,Ohio,Universities and Colleges,"Ohio State University, Columbus",1,1,0,0,58322
-2015,Ohio,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Ohio,Metropolitan Counties,Butler,2,1,0,1,
 2015,Ohio,Metropolitan Counties,Fairfield,1,0,0,0,
 2015,Ohio,Metropolitan Counties,Greene,3,6,0,1,
@@ -1431,7 +1206,6 @@
 2015,Ohio,Metropolitan Counties,Montgomery,1,1,0,2,
 2015,Ohio,Metropolitan Counties,Stark,1,2,4,0,
 2015,Ohio,Metropolitan Counties,Warren,1,0,0,0,
-2015,Ohio,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Ohio,Nonmetropolitan Counties,Ashland,0,0,0,1,
 2015,Ohio,Nonmetropolitan Counties,Ashtabula,0,0,1,0,
 2015,Ohio,Nonmetropolitan Counties,Athens,0,1,0,0,
@@ -1442,13 +1216,9 @@
 2015,Ohio,Nonmetropolitan Counties,Scioto,0,1,0,0,
 2015,Ohio,Nonmetropolitan Counties,Shelby,0,1,0,0,
 2015,Ohio,Nonmetropolitan Counties,Washington,0,1,0,0,
-2015,Ohio,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Ohio,State Police Agencies,Ohio State Highway Patrol,1,1,0,1,
-2015,Ohio,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Ohio,Other Agencies,Cleveland Metropolitan Park District,0,1,0,0,
 2015,Ohio,Other Agencies,Hamilton County Park District,0,0,0,1,
-2015,Oklahoma,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Oklahoma,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Oklahoma,Cities,Apache,0,0,0,1,1424
 2015,Oklahoma,Cities,Broken Bow,0,0,0,1,4134
 2015,Oklahoma,Cities,Catoosa,1,0,0,0,7105
@@ -1470,18 +1240,14 @@
 2015,Oklahoma,Cities,Stigler,0,0,1,0,2755
 2015,Oklahoma,Cities,Stilwell,0,1,0,0,4019
 2015,Oklahoma,Cities,Woodward,1,0,0,0,13240
-2015,Oklahoma,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Oklahoma,Metropolitan Counties,Lincoln,1,0,0,0,
 2015,Oklahoma,Metropolitan Counties,Tulsa,1,0,1,0,
 2015,Oklahoma,Metropolitan Counties,Wagoner,0,0,1,0,
-2015,Oklahoma,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Oklahoma,Nonmetropolitan Counties,Carter,0,1,0,0,
 2015,Oklahoma,Nonmetropolitan Counties,Craig,0,0,1,0,
 2015,Oklahoma,Nonmetropolitan Counties,Hughes,0,0,0,1,
 2015,Oklahoma,Nonmetropolitan Counties,Kiowa,0,0,1,0,
 2015,Oklahoma,Nonmetropolitan Counties,Payne,0,0,0,1,
-2015,Oregon,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Oregon,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Oregon,Cities,Ashland,1,1,0,0,20834
 2015,Oregon,Cities,Corvallis,0,0,3,1,55100
 2015,Oregon,Cities,Eugene3,9,12,10,8,161608
@@ -1490,20 +1256,15 @@
 2015,Oregon,Cities,Salem,0,2,3,1,163320
 2015,Oregon,Cities,Springfield,0,0,0,1,60485
 2015,Oregon,Cities,Sutherlin,0,1,0,0,7749
-2015,Oregon,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Oregon,Metropolitan Counties,Deschutes,0,0,1,0,
 2015,Oregon,Metropolitan Counties,Jackson,1,0,0,0,
-2015,Oregon,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Oregon,Nonmetropolitan Counties,Hood River,0,0,1,0,
 2015,Oregon,Nonmetropolitan Counties,Lincoln,1,0,0, Nan,
 2015,Oregon,Nonmetropolitan Counties,Umatilla,0,0,0,1,
-2015,Oregon,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Oregon,State Police Agencies,State Police:, Nan, Nan, Nan, Nan,
 2015,Oregon,State Police Agencies,Benton County,1,1,0,0,
 2015,Oregon,State Police Agencies,Marion County,1,0,0,0,
 2015,Oregon,State Police Agencies,Tillamook County,0,0,1,1,
-2015,Pennsylvania,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Pennsylvania,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Pennsylvania,Cities,Brighton Township,0,0, Nan,1,8365
 2015,Pennsylvania,Cities,Columbia,1,0, Nan,0,10379
 2015,Pennsylvania,Cities,Economy,0,0,0,1,9371
@@ -1517,14 +1278,6 @@
 2015,Pennsylvania,Cities,State College,1,1, Nan,1,57710
 2015,Pennsylvania,Cities,Throop,0,1, Nan,0,4039
 2015,Pennsylvania,Cities,"Washington Township, Franklin County",1,0,1,0,14559
-2015,Pennsylvania,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Pennsylvania,Universities and Colleges,Elizabethtown College,0,0, Nan,1,1822
-2015,Pennsylvania,Universities and Colleges,Lehigh University,0,0, Nan,1,7119
-2015,Pennsylvania,Universities and Colleges,"Pennsylvania State University, University Park",2,0, Nan,1,47040
-2015,Pennsylvania,Universities and Colleges,University of Pittsburgh:, Nan, Nan, Nan, Nan,
-2015,Pennsylvania,Universities and Colleges,Johnstown,0,0, Nan,4,2869
-2015,Pennsylvania,Universities and Colleges,Pittsburgh,1,0, Nan,0,28617
-2015,Pennsylvania,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Pennsylvania,State Police Agencies,State Police: , Nan, Nan, Nan, Nan,
 2015,Pennsylvania,State Police Agencies,Elizabethville,1,0,1, Nan,
 2015,Pennsylvania,State Police Agencies,Fulton County,0,1, Nan,0,
@@ -1532,11 +1285,8 @@
 2015,Pennsylvania,State Police Agencies,Monroe County,0,1, Nan,0,
 2015,Pennsylvania,State Police Agencies,Skippack County, Nan,1, Nan,0,
 2015,Pennsylvania,State Police Agencies,Washington County,0,0, Nan,1,
-2015,Pennsylvania,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Pennsylvania,Other Agencies,Allegheny County Port Authority,0,1, Nan, Nan,
 2015,Pennsylvania,Other Agencies,Delaware County Park,0,0, Nan,1,
-2015,Rhode Island,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Rhode Island,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Rhode Island,Cities,East Providence,0,1,0,0,47428
 2015,Rhode Island,Cities,Newport,0,0,1,0,23887
 2015,Rhode Island,Cities,Pawtucket,0,0,0,1,71624
@@ -1544,10 +1294,6 @@
 2015,Rhode Island,Cities,Richmond,0,0,0,1,7592
 2015,Rhode Island,Cities,West Warwick,1,0,0,0,28828
 2015,Rhode Island,Cities,Woonsocket,0,0,1,0,41261
-2015,Rhode Island,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Rhode Island,Universities and Colleges,University of Rhode Island,0,1,0,0,16571
-2015,South Carolina,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,South Carolina,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,South Carolina,Cities,Belton,0,1,1,0,4324
 2015,South Carolina,Cities,Blacksburg,1,0,0,0,1880
 2015,South Carolina,Cities,Cayce,2,0,0,0,13055
@@ -1572,12 +1318,6 @@
 2015,South Carolina,Cities,Santee,0,0,0,1,940
 2015,South Carolina,Cities,Summerville,1,0,1,0,48071
 2015,South Carolina,Cities,Surfside Beach,0,0,1,0,4276
-2015,South Carolina,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,South Carolina,Universities and Colleges,Trident Technical College,1,0,0,0,16136
-2015,South Carolina,Universities and Colleges,University of South Carolina:, Nan, Nan, Nan, Nan,
-2015,South Carolina,Universities and Colleges,Columbia,0,0,1,0,32971
-2015,South Carolina,Universities and Colleges,Upstate,0,0,0,1,5585
-2015,South Carolina,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,South Carolina,Metropolitan Counties,Berkeley,1,0,0,0,
 2015,South Carolina,Metropolitan Counties,Charleston,0,0,1,0,
 2015,South Carolina,Metropolitan Counties,Greenville,0,1,0,0,
@@ -1586,15 +1326,11 @@
 2015,South Carolina,Metropolitan Counties,Richland,1,0,0,0,
 2015,South Carolina,Metropolitan Counties,Sumter,0,0,1,0,
 2015,South Carolina,Metropolitan Counties,Union,0,0,1,0,
-2015,South Carolina,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,South Carolina,Nonmetropolitan Counties,Cherokee,1,0,0,0,
 2015,South Carolina,Nonmetropolitan Counties,Colleton,1,0,1,0,
 2015,South Carolina,Nonmetropolitan Counties,Georgetown,2,0,0,0,
 2015,South Carolina,Nonmetropolitan Counties,Hampton,0,0,0,1,
-2015,South Carolina,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,South Carolina,Other Agencies,"United States Department of Energy, Savannah River Plant",0,0,2,0,
-2015,South Dakota,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,South Dakota,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,South Dakota,Cities,Aberdeen,0,0,0,1,28219
 2015,South Dakota,Cities,Beresford,0,2,0,0,2029
 2015,South Dakota,Cities,Brookings,1,0,0,2,23501
@@ -1603,10 +1339,7 @@
 2015,South Dakota,Cities,Spearfish,1,0,0,0,11225
 2015,South Dakota,Cities,Sturgis,0,0,3,0,6767
 2015,South Dakota,Cities,Vermillion,0,0,1,0,10732
-2015,South Dakota,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,South Dakota,Nonmetropolitan Counties,Brown,0,0,1,0,
-2015,Tennessee,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Tennessee,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Tennessee,Cities,Atoka,0,5,2,2,9042
 2015,Tennessee,Cities,Chapel Hill,0,1,0,0,1464
 2015,Tennessee,Cities,Chattanooga,2,1,6,7,174969
@@ -1645,12 +1378,6 @@
 2015,Tennessee,Cities,Savannah,0,0,1,0,7069
 2015,Tennessee,Cities,Smithville,0,0,2,0,4694
 2015,Tennessee,Cities,Winchester,0,1,1,0,8555
-2015,Tennessee,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Tennessee,Universities and Colleges,East Tennessee State University,0,0,2,0,14434
-2015,Tennessee,Universities and Colleges,Tennessee Technological University,0,1,0,0,11339
-2015,Tennessee,Universities and Colleges,"University of Tennessee, Chattanooga",1,0,0,1,11670
-2015,Tennessee,Universities and Colleges,Vanderbilt University,1,0,0,2,12686
-2015,Tennessee,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Tennessee,Metropolitan Counties,Blount,0,0,1,0,
 2015,Tennessee,Metropolitan Counties,Bradley,0,0,0,1,
 2015,Tennessee,Metropolitan Counties,Cheatham,0,0,0,1,
@@ -1666,14 +1393,10 @@
 2015,Tennessee,Metropolitan Counties,Tipton,0,1,1,0,
 2015,Tennessee,Metropolitan Counties,Washington,9,8,1,0,
 2015,Tennessee,Metropolitan Counties,Williamson,0,1,0,0,
-2015,Tennessee,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Tennessee,Nonmetropolitan Counties,Bedford,1,0,0,0,
 2015,Tennessee,Nonmetropolitan Counties,Gibson,0,0,1,0,
 2015,Tennessee,Nonmetropolitan Counties,Lawrence,1,0,0,0,
-2015,Tennessee,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Tennessee,State Police Agencies,Department of Safety,4,2,2,5,
-2015,Texas,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Texas,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Texas,Cities,Austin,3,6,3,1,938728
 2015,Texas,Cities,Baytown, Nan,1, Nan, Nan,77145
 2015,Texas,Cities,Beaumont,5,1,1,1,117635
@@ -1718,16 +1441,6 @@
 2015,Texas,Cities,University Park,1, Nan,1, Nan,24729
 2015,Texas,Cities,Victoria,0,1,0,0,66988
 2015,Texas,Cities,Weatherford,1,1, Nan, Nan,28379
-2015,Texas,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Texas,Universities and Colleges,Alamo Community College District, Nan, Nan,2, Nan,55967
-2015,Texas,Universities and Colleges,Texas Christian University,1, Nan, Nan, Nan,10033
-2015,Texas,Universities and Colleges,"Texas Tech University, Lubbock", Nan,3, Nan, Nan,35158
-2015,Texas,Universities and Colleges,University of Texas:, Nan, Nan, Nan, Nan,
-2015,Texas,Universities and Colleges,Arlington, Nan,1, Nan, Nan,39740
-2015,Texas,Universities and Colleges,Austin, Nan, Nan,2, Nan,51313
-2015,Texas,Universities and Colleges,Houston, Nan, Nan, Nan,1,4859
-2015,Texas,Universities and Colleges,Pan American, Nan, Nan,1, Nan,21015
-2015,Texas,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Texas,Metropolitan Counties,Brazoria, Nan,1, Nan, Nan,
 2015,Texas,Metropolitan Counties,Galveston, Nan, Nan,2,1,
 2015,Texas,Metropolitan Counties,Lubbock,1,0,0,1,
@@ -1735,14 +1448,10 @@
 2015,Texas,Metropolitan Counties,Parker,1,0,0,0,
 2015,Texas,Metropolitan Counties,Smith, Nan, Nan, Nan,2,
 2015,Texas,Metropolitan Counties,Travis,2,2, Nan, Nan,
-2015,Texas,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Texas,Nonmetropolitan Counties,Gray, Nan, Nan, Nan,1,
 2015,Texas,Nonmetropolitan Counties,Young, Nan, Nan, Nan,1,
 2015,Texas,Nonmetropolitan Counties,Zavala, Nan, Nan,1,1,
-2015,Texas,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Texas,Other Agencies,"Hospital District, Dallas County", Nan, Nan,1, Nan,
-2015,Utah,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Utah,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Utah,Cities,Bountiful,1,0,1,0,43570
 2015,Utah,Cities,Farmington,0,1,0,0,23198
 2015,Utah,Cities,Grantsville,0,0,0,2,10071
@@ -1759,28 +1468,15 @@
 2015,Utah,Cities,West Bountiful,0,1,1,0,5488
 2015,Utah,Cities,West Jordan,0,0,0,1,112687
 2015,Utah,Cities,West Valley,2,0,0,4,135744
-2015,Utah,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Utah,Universities and Colleges,Brigham Young University,0,2,0,0,30484
-2015,Utah,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Utah,Metropolitan Counties,Davis,0,0,0,1,
 2015,Utah,Metropolitan Counties,Washington,1,0,2,0,
-2015,Utah,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Utah,Nonmetropolitan Counties,Duchesne,0,1,0,0,
 2015,Utah,Nonmetropolitan Counties,Uintah,0,0,1,0,
-2015,Utah,Other Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Utah,Other Agencies,Utah Transit Authority,2,0,1,0,
-2015,Vermont,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Vermont,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Vermont,Cities,Burlington,0,2,0,2,42160
 2015,Vermont,Cities,South Burlington,0,0,0,1,18946
-2015,Vermont,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Vermont,Universities and Colleges,University of Vermont,0,0,0,1,12856
-2015,Vermont,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Vermont,Nonmetropolitan Counties,Windham,0,0,1,0,
-2015,Vermont,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Vermont,State Police Agencies,"State Police, Brattleboro",0,1,0,0,
-2015,Virginia,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Virginia,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Virginia,Cities,Alexandria,0,0,1,0,152710
 2015,Virginia,Cities,Altavista,0,0,1,0,3462
 2015,Virginia,Cities,Bedford,0,0,0,1,6437
@@ -1808,17 +1504,6 @@
 2015,Virginia,Cities,Staunton,0,0,0,1,24654
 2015,Virginia,Cities,Vinton,0,2,1,0,8210
 2015,Virginia,Cities,Virginia Beach,1,0,4,3,452797
-2015,Virginia,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Virginia,Universities and Colleges,Christopher Newport University,0,0,0,1,5221
-2015,Virginia,Universities and Colleges,College of William and Mary,1,0,0,0,8437
-2015,Virginia,Universities and Colleges,George Mason University,0,1,0,1,33729
-2015,Virginia,Universities and Colleges,Longwood University,0,2,0,0,5096
-2015,Virginia,Universities and Colleges,Norfolk State University,0,0,0,1,6027
-2015,Virginia,Universities and Colleges,Northern Virginia Community College,1,0,0,2,51487
-2015,Virginia,Universities and Colleges,University of Richmond,1,0,0,0,4182
-2015,Virginia,Universities and Colleges,University of Virginia,0,0,1,0,23732
-2015,Virginia,Universities and Colleges,Virginia Polytechnic Institute and State University,0,0,0,1,31224
-2015,Virginia,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Virginia,Metropolitan Counties,Albemarle County Police Department,1,2,3,0,
 2015,Virginia,Metropolitan Counties,Appomattox,0,0,0,1,
 2015,Virginia,Metropolitan Counties,Arlington County Police Department,3,0,1,2,
@@ -1834,18 +1519,14 @@
 2015,Virginia,Metropolitan Counties,Rockingham,1,0,1,0,
 2015,Virginia,Metropolitan Counties,Spotsylvania,2,0,0,1,
 2015,Virginia,Metropolitan Counties,Washington,0,0,1,0,
-2015,Virginia,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Virginia,Nonmetropolitan Counties,Accomack,1,0,0,0,
 2015,Virginia,Nonmetropolitan Counties,Henry,0,1,0,0,
 2015,Virginia,Nonmetropolitan Counties,Madison,0,1,0,0,
 2015,Virginia,Nonmetropolitan Counties,Rockbridge,0,0,1,0,
 2015,Virginia,Nonmetropolitan Counties,Shenandoah,0,0,1,0,
-2015,Virginia,State Police Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Virginia,State Police Agencies,State Police:, Nan, Nan, Nan, Nan,
 2015,Virginia,State Police Agencies,Hanover County,0,0,1,0,
 2015,Virginia,State Police Agencies,Pittsylvania County,1,0,0,0,
-2015,Washington,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Washington,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Washington,Cities,Aberdeen,0,1,0,0,16100
 2015,Washington,Cities,Anacortes,0,0,0,1,16351
 2015,Washington,Cities,Arlington,0,0,0,1,19018
@@ -1901,13 +1582,6 @@
 2015,Washington,Cities,Woodway,0,0,0,1,1362
 2015,Washington,Cities,Yakima,1,2,1,2,93798
 2015,Washington,Cities,Zillah,0,1,0,0,3138
-2015,Washington,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Washington,Universities and Colleges,Eastern Washington University,0,1,0,1,13453
-2015,Washington,Universities and Colleges,Evergreen State College,1,0,0,0,4219
-2015,Washington,Universities and Colleges,University of Washington,3,1,1,0,44784
-2015,Washington,Universities and Colleges,"Washington State University, Pullman",0,1,0,0,28686
-2015,Washington,Universities and Colleges,Western Washington University,0,0,0,1,15060
-2015,Washington,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Washington,Metropolitan Counties,Asotin,0,1,0,0,
 2015,Washington,Metropolitan Counties,Clark,0,1,0,0,
 2015,Washington,Metropolitan Counties,Cowlitz,1,0,0,0,
@@ -1921,32 +1595,24 @@
 2015,Washington,Metropolitan Counties,Thurston,0,1,0,0,
 2015,Washington,Metropolitan Counties,Whatcom,4,1,2,0,
 2015,Washington,Metropolitan Counties,Yakima,0,0,1,0,
-2015,Washington,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Washington,Nonmetropolitan Counties,Clallam,0,0,1,0,
 2015,Washington,Nonmetropolitan Counties,Garfield,1,0,0,0,
 2015,Washington,Nonmetropolitan Counties,Grays Harbor,0,0,1,0,
 2015,Washington,Nonmetropolitan Counties,Lewis,0,0,0,1,
 2015,Washington,Nonmetropolitan Counties,Okanogan,0,0,0,1,
-2015,Washington,Tribal Agencies,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Washington,Tribal Agencies,Lummi Tribal,0,0,1,0,
-2015,West Virginia,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,West Virginia,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,West Virginia,Cities,Buckhannon,0,0,2,0,5690
 2015,West Virginia,Cities,Charleston,1,2,3,4,50176
 2015,West Virginia,Cities,Moundsville,2,3,2,0,8852
 2015,West Virginia,Cities,Oak Hill,1,0,0,1,8138
 2015,West Virginia,Cities,Weirton,1,0,0,0,19273
-2015,West Virginia,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,West Virginia,Metropolitan Counties,Berkeley,0,0,1,0,
 2015,West Virginia,Metropolitan Counties,Brooke,0,1,1,0,
 2015,West Virginia,Metropolitan Counties,Fayette,0,1,0,1,
 2015,West Virginia,Metropolitan Counties,Hancock,1,0,0,2,
 2015,West Virginia,Metropolitan Counties,Kanawha,0,0,1,1,
-2015,West Virginia,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,West Virginia,Nonmetropolitan Counties,Mason,2,3,3,0,
 2015,West Virginia,Nonmetropolitan Counties,McDowell,0,1,0,0,
-2015,Wisconsin,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Wisconsin,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Wisconsin,Cities,Appleton,1,1,0,0,74310
 2015,Wisconsin,Cities,Ashland,0,0,0,1,8169
 2015,Wisconsin,Cities,Beloit,2,0,0,0,36862
@@ -1965,20 +1631,13 @@
 2015,Wisconsin,Cities,Onalaska,0,0,1,0,18529
 2015,Wisconsin,Cities,Rhinelander,1,0,0,0,7429
 2015,Wisconsin,Cities,River Falls,1,0,0,1,15207
-2015,Wisconsin,Universities and Colleges,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Wisconsin,Universities and Colleges,"University of Wisconsin, Platteville",0,0,1,0,8901
-2015,Wisconsin,Metropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Wisconsin,Metropolitan Counties,Fond du Lac,0,0,1,0,
 2015,Wisconsin,Metropolitan Counties,Rock,0,1,1,0,
 2015,Wisconsin,Metropolitan Counties,Waukesha,0,0,0,1,
-2015,Wisconsin,Nonmetropolitan Counties,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Wisconsin,Nonmetropolitan Counties,Burnett,0,0,0,1,
 2015,Wisconsin,Nonmetropolitan Counties,Oneida,0,0,1,0,
 2015,Wisconsin,Nonmetropolitan Counties,Sawyer,0,0,1,2,
-2015,Wyoming,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
-2015,Wyoming,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Wyoming,Cities,Gillette,0,0,1,1,32502
-2015,Other Outlying Areas,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Other Outlying Areas,Total,Guam,0,1,0,0,
 2015,Alabama,Cities,Ashland,0,0,0,0,1972
 2015,Alabama,Cities,Auburn,0,0,0,0,62005
@@ -2034,9 +1693,6 @@
 2015,Alaska,Cities,Valdez,0,0,0,0,3903
 2015,Alaska,Cities,Wasilla,0,0,0,0,9099
 2015,Alaska,Cities,Wrangell,0,0,0,0,2351
-2015,Alaska,Universities and Colleges,University of Alaska: , Nan, Nan, Nan, Nan,
-2015,Alaska,Universities and Colleges,Anchorage,0,0,0,0,17151
-2015,Alaska,Universities and Colleges,Fairbanks,0,0,0,0,8620
 2015,Alaska,State Police Agencies,State Troopers,0,0,0,0,
 2015,Alaska,Tribal Agencies,Metlakatla Tribal, Nan,0, Nan, Nan,
 2015,Alaska,Other Agencies,Anchorage International Airport,0,0,0,0,
@@ -2090,10 +1746,6 @@
 2015,Arizona,Cities,Wellton,0,0,0,0,2973
 2015,Arizona,Cities,Wickenburg,0,0,0,0,6760
 2015,Arizona,Cities,Willcox,0,0,0,0,3569
-2015,Arizona,Universities and Colleges,Central Arizona College,0,0,0,0,5937
-2015,Arizona,Universities and Colleges,Northern Arizona University,0,0,0,0,27705
-2015,Arizona,Universities and Colleges,Pima Community College,0,0,0,0,28070
-2015,Arizona,Universities and Colleges,University of Arizona,0,0,0,0,42236
 2015,Arizona,Metropolitan Counties,Cochise,0,0,0,0,
 2015,Arizona,Metropolitan Counties,Coconino,0,0,0,0,
 2015,Arizona,Metropolitan Counties,Mohave,0,0,0,0,
@@ -2315,19 +1967,6 @@
 2015,Arkansas,Cities,West Memphis,0,0,0,0,25218
 2015,Arkansas,Cities,White Hall,0,0,0,0,5174
 2015,Arkansas,Cities,Wynne,0,0,0,0,8098
-2015,Arkansas,Universities and Colleges,Arkansas State University: , Nan, Nan, Nan, Nan,
-2015,Arkansas,Universities and Colleges,Beebe,0,0,0,0,4140
-2015,Arkansas,Universities and Colleges,Jonesboro,0,0,0,0,13144
-2015,Arkansas,Universities and Colleges,Arkansas Tech University,0,0,0,0,12002
-2015,Arkansas,Universities and Colleges,Henderson State University,0,0,0,0,3627
-2015,Arkansas,Universities and Colleges,Southern Arkansas University,0,0,0,0,3546
-2015,Arkansas,Universities and Colleges,University of Arkansas: , Nan, Nan, Nan, Nan,
-2015,Arkansas,Universities and Colleges,Fayetteville,0,0,0,0,26237
-2015,Arkansas,Universities and Colleges,Little Rock,0,0,0,0,11645
-2015,Arkansas,Universities and Colleges,Medical Sciences,0,0,0,0,2890
-2015,Arkansas,Universities and Colleges,Monticello,0,0,0,0,3854
-2015,Arkansas,Universities and Colleges,Pine Bluff,0,0,0,0,2513
-2015,Arkansas,Universities and Colleges,University of Central Arkansas,0,0,0, Nan,11698
 2015,Arkansas,Metropolitan Counties,Benton,0,0,0,0,
 2015,Arkansas,Metropolitan Counties,Cleveland,0,0,0,0,
 2015,Arkansas,Metropolitan Counties,Craighead,0,0,0,0,
@@ -2690,45 +2329,6 @@
 2015,California,Cities,Yuba City,0,0,0,0,65974
 2015,California,Cities,Yucaipa,0,0,0,0,53498
 2015,California,Cities,Yucca Valley,0,0,0,0,21672
-2015,California,Universities and Colleges,Allan Hancock College,0,0,0,0,11047
-2015,California,Universities and Colleges,"California State Polytechnic University, Pomona",0,0,0,0,23966
-2015,California,Universities and Colleges,California State University: , Nan, Nan, Nan, Nan,
-2015,California,Universities and Colleges,Bakersfield,0,0,0,0,8720
-2015,California,Universities and Colleges,Channel Islands,0,0,0,0,5879
-2015,California,Universities and Colleges,Chico,0,0,0,0,17287
-2015,California,Universities and Colleges,East Bay,0,0,0,0,14823
-2015,California,Universities and Colleges,Fresno,0,0,0,0,23179
-2015,California,Universities and Colleges,Long Beach,0,0,0,0,36809
-2015,California,Universities and Colleges,Los Angeles,0,0,0,0,24488
-2015,California,Universities and Colleges,Monterey Bay,0,0,0,0,6631
-2015,California,Universities and Colleges,Sacramento,0,0,0,0,29349
-2015,California,Universities and Colleges,San Bernardino,0,0,0,0,18952
-2015,California,Universities and Colleges,San Marcos,0,0,0,0,12154
-2015,California,Universities and Colleges,Stanislaus,0,0,0,0,9045
-2015,California,Universities and Colleges,College of the Sequoias,0,0,0,0,10647
-2015,California,Universities and Colleges,Contra Costa Community College,0,0,0,0,35481
-2015,California,Universities and Colleges,Cuesta College,0,0,0,0,9221
-2015,California,Universities and Colleges,El Camino College,0,0,0,0,24207
-2015,California,Universities and Colleges,Foothill-De Anza College,0,0,0,0,38134
-2015,California,Universities and Colleges,Marin Community College,0,0,0,0,5500
-2015,California,Universities and Colleges,Pasadena Community College,0,0,0,0,26611
-2015,California,Universities and Colleges,Riverside Community College,0,0,0,0,36582
-2015,California,Universities and Colleges,San Bernardino Community College,0,0,0,0,18897
-2015,California,Universities and Colleges,San Francisco State University,0,0,0,0,29465
-2015,California,Universities and Colleges,San Jose/Evergreen Community College ,0,0,0,0,18205
-2015,California,Universities and Colleges,Santa Rosa Junior College,0,0,0,0,23144
-2015,California,Universities and Colleges,Sonoma State University,0,0,0,0,9290
-2015,California,Universities and Colleges,State Center Community College District,0,0,0,0,36940
-2015,California,Universities and Colleges,University of California: , Nan, Nan, Nan, Nan,
-2015,California,Universities and Colleges,Hastings College of Law,0,0,0,0,1003
-2015,California,Universities and Colleges,Irvine,0,0,0,0,30051
-2015,California,Universities and Colleges,"Medical Center, Sacramento3",0,0,0,0,
-2015,California,Universities and Colleges,Merced,0,0,0,0,6268
-2015,California,Universities and Colleges,Riverside,0,0,0,0,21498
-2015,California,Universities and Colleges,San Diego,0,0,0,0,30709
-2015,California,Universities and Colleges,San Francisco,0,0,0,0,3170
-2015,California,Universities and Colleges,Santa Barbara,0,0,0,0,23051
-2015,California,Universities and Colleges,West Valley-Mission College,0,0,0,0,17497
 2015,California,Metropolitan Counties,Alameda,0,0,0,0,
 2015,California,Metropolitan Counties,Butte,0,0,0,0,
 2015,California,Metropolitan Counties,Contra Costa,0,0,0,0,
@@ -3044,18 +2644,6 @@
 2015,Colorado,Cities,Woodland Park,0,0,0,0,7191
 2015,Colorado,Cities,Wray,0,0,0,0,2412
 2015,Colorado,Cities,Yuma,0,0,0,0,3629
-2015,Colorado,Universities and Colleges,Adams State University,0,0,0,0,3154
-2015,Colorado,Universities and Colleges,Aims Community College,0,0,0,0,5001
-2015,Colorado,Universities and Colleges,Arapahoe Community College,0,0,0,0,10401
-2015,Colorado,Universities and Colleges,Colorado School of Mines,0,0,0,0,5962
-2015,Colorado,Universities and Colleges,"Colorado State University, Fort Collins",0,0,0,0,31354
-2015,Colorado,Universities and Colleges,Fort Lewis College,0,0,0,0,3791
-2015,Colorado,Universities and Colleges,Pikes Peak Community College,0,0,0,0,13947
-2015,Colorado,Universities and Colleges,Red Rocks Community College,0,0,0,0,8112
-2015,Colorado,Universities and Colleges,University of Colorado:, Nan, Nan, Nan, Nan,
-2015,Colorado,Universities and Colleges,Denver,0,0,0,0,22791
-2015,Colorado,Universities and Colleges,Health Sciences Center3,0,0,0,0,
-2015,Colorado,Universities and Colleges,University of Northern Colorado,0,0,0,0,12050
 2015,Colorado,Metropolitan Counties,Clear Creek,0,0,0,0,
 2015,Colorado,Metropolitan Counties,Douglas,0,0,0,0,
 2015,Colorado,Metropolitan Counties,Elbert,0,0,0,0,
@@ -3158,9 +2746,6 @@
 2015,Connecticut,Cities,Windsor Locks,0,0,0,0,12580
 2015,Connecticut,Cities,Wolcott,0,0,0,0,16719
 2015,Connecticut,Cities,Woodbridge,0,0,0,0,8907
-2015,Connecticut,Universities and Colleges,Eastern Connecticut State University,0,0,0,0,5287
-2015,Connecticut,Universities and Colleges,Southern Connecticut State University,0,0,0,0,10825
-2015,Connecticut,Universities and Colleges,"University of Connecticut, Health Center3",0,0,0,0,
 2015,Connecticut,State Police Agencies,State Capitol Police,0,0,0,0,
 2015,Connecticut,Tribal Agencies,Mashantucket Pequot Tribal, Nan, Nan, Nan,0,
 2015,Connecticut,Tribal Agencies,Mohegan Tribal, Nan, Nan, Nan,0,
@@ -3199,8 +2784,6 @@
 2015,Delaware,Cities,South Bethany,0,0,0,0,494
 2015,Delaware,Cities,Viola,0,0,0,0,170
 2015,Delaware,Cities,Wyoming,0,0,0,0,1475
-2015,Delaware,Universities and Colleges,Delaware State University,0,0,0,0,4397
-2015,Delaware,Universities and Colleges,University of Delaware,0,0,0,0,22680
 2015,Delaware,State Police Agencies,State Police:, Nan, Nan, Nan, Nan,
 2015,Delaware,State Police Agencies,Headquarters,0,0,0,0,
 2015,Delaware,State Police Agencies,Kent County,0,0,0,0,
@@ -3483,48 +3066,6 @@
 2015,Georgia,Cities,Woodstock,0, Nan, Nan, Nan,28867
 2015,Georgia,Cities,Wrens,0,0,0,0,2063
 2015,Georgia,Cities,Zebulon,0,0,0,0,1134
-2015,Georgia,Universities and Colleges,Abraham Baldwin Agricultural College,0,0,0,0,3458
-2015,Georgia,Universities and Colleges,Agnes Scott College,0,0,0, Nan,873
-2015,Georgia,Universities and Colleges,Albany State University,0,0,0,0,3910
-2015,Georgia,Universities and Colleges,Andrew College,0,0,0,0,303
-2015,Georgia,Universities and Colleges,Armstrong Atlantic State University,0,0,0,0,7094
-2015,Georgia,Universities and Colleges,Augusta Technical College,0,0,0,0,4269
-2015,Georgia,Universities and Colleges,Bainbridge State College,0,0,0,0,2470
-2015,Georgia,Universities and Colleges,Berry College,0,0,0,0,2177
-2015,Georgia,Universities and Colleges,Chattahoochee Technical College,0,0,0,0,9942
-2015,Georgia,Universities and Colleges,Clark Atlanta University,0, Nan, Nan, Nan,3485
-2015,Georgia,Universities and Colleges,Clayton State University,0,0,0,0,7022
-2015,Georgia,Universities and Colleges,College of Coastal Georgia,0,0,0,0,3008
-2015,Georgia,Universities and Colleges,Columbus State University,0,0,0,0,8192
-2015,Georgia,Universities and Colleges,Dalton State College,0,0,0,0,4854
-2015,Georgia,Universities and Colleges,Darton State College,0,0,0,0,5623
-2015,Georgia,Universities and Colleges,Emory University,0,0,0,0,14769
-2015,Georgia,Universities and Colleges,Fort Valley State University,0,0,0,0,2594
-2015,Georgia,Universities and Colleges,Georgia College and State University,0,0,0,0,6772
-2015,Georgia,Universities and Colleges,Georgia Military College,0,0,0,0,7262
-2015,Georgia,Universities and Colleges,Georgia Perimeter College,0,0,0,0,21371
-2015,Georgia,Universities and Colleges,Georgia Regents University,0,0,0,0,7988
-2015,Georgia,Universities and Colleges,Georgia Southern University,0,0,0,0,20517
-2015,Georgia,Universities and Colleges,Georgia Southwestern State University,0,0,0,0,2666
-2015,Georgia,Universities and Colleges,Georgia State University,0,0, Nan, Nan,32556
-2015,Georgia,Universities and Colleges,Gordon State College,0,0,0,0,4047
-2015,Georgia,Universities and Colleges,Gwinnett Technical College,0,0,0,0,7234
-2015,Georgia,Universities and Colleges,Kennesaw State University,0,0,0,0,25714
-2015,Georgia,Universities and Colleges,Mercer University,0,0,0,0,8552
-2015,Georgia,Universities and Colleges,Middle Georgia State College,0,0,0,0,7927
-2015,Georgia,Universities and Colleges,Morehouse College,0,0,0,0,2109
-2015,Georgia,Universities and Colleges,Paine College,0,0,0,0,848
-2015,Georgia,Universities and Colleges,Piedmont College,0,0,0,0,2120
-2015,Georgia,Universities and Colleges,Savannah State University,0,0,0,0,4915
-2015,Georgia,Universities and Colleges,Southern Crescent Technical College,0,0,0,0,4898
-2015,Georgia,Universities and Colleges,South Georgia State College,0,0,0,0,2611
-2015,Georgia,Universities and Colleges,Spelman College,0,0,0,0,2135
-2015,Georgia,Universities and Colleges,University of North Georgia,0,0,0,0,16064
-2015,Georgia,Universities and Colleges,University of West Georgia,0,0,0,0,12206
-2015,Georgia,Universities and Colleges,Valdosta State University,0,0,0,0,11563
-2015,Georgia,Universities and Colleges,Wesleyan College,0, Nan,0,0,711
-2015,Georgia,Universities and Colleges,West Georgia Technical College,0,0,0,0,6536
-2015,Georgia,Universities and Colleges,Young Harris College,0,0, Nan, Nan,1218
 2015,Georgia,Metropolitan Counties,Bartow,0,0,0,0,
 2015,Georgia,Metropolitan Counties,Bibb,0,0,0, Nan,
 2015,Georgia,Metropolitan Counties,Brantley,0,0,0,0,
@@ -4323,42 +3864,6 @@
 2015,Illinois,Cities,Yates City,0,0,0,0,675
 2015,Illinois,Cities,Yorkville,0,0,0,0,18379
 2015,Illinois,Cities,Zion,0,0,0,0,24239
-2015,Illinois,Universities and Colleges,"Benedictine University, Lisle",0,0,0,0,6307
-2015,Illinois,Universities and Colleges,Black Hawk College:, Nan, Nan, Nan, Nan,
-2015,Illinois,Universities and Colleges,Kewanee3,0,0,0,0,
-2015,Illinois,Universities and Colleges,Moline,0,0,0,0,6307
-2015,Illinois,Universities and Colleges,Chicago State University,0,0,0,0,5211
-2015,Illinois,Universities and Colleges,College of DuPage,0,0,0,0,29476
-2015,Illinois,Universities and Colleges,College of Lake County,0,0,0,0,15410
-2015,Illinois,Universities and Colleges,Eastern Illinois University,0,0,0,0,8913
-2015,Illinois,Universities and Colleges,Elgin Community College,0,0,0,0,10929
-2015,Illinois,Universities and Colleges,Illinois Central College,0,0,0,0,10296
-2015,Illinois,Universities and Colleges,John Wood Community College,0,0,0,0,1900
-2015,Illinois,Universities and Colleges,Joliet Junior College,0,0,0,0,15776
-2015,Illinois,Universities and Colleges,Kankakee Community College,0,0,0,0,3378
-2015,Illinois,Universities and Colleges,Lake Land College,0,0,0,0,5593
-2015,Illinois,Universities and Colleges,Lewis University,0,0,0,0,6689
-2015,Illinois,Universities and Colleges,Lincoln Land Community College,0,0,0,0,7006
-2015,Illinois,Universities and Colleges,Loyola University,0,0,0,0,15902
-2015,Illinois,Universities and Colleges,McHenry County College,0,0,0,0,6567
-2015,Illinois,Universities and Colleges,Millikin University,0,0,0,0,2190
-2015,Illinois,Universities and Colleges,Moraine Valley Community College,0,0,0,0,15286
-2015,Illinois,Universities and Colleges,Morton College,0,0,0,0,4653
-2015,Illinois,Universities and Colleges,Northeastern Illinois University,0,0,0,0,10275
-2015,Illinois,Universities and Colleges,Oakton Community College,0,0,0,0,10589
-2015,Illinois,Universities and Colleges,Parkland College,0,0,0,0,8443
-2015,Illinois,Universities and Colleges,Rend Lake College,0,0,0,0,2970
-2015,Illinois,Universities and Colleges,Southern Illinois University:, Nan, Nan, Nan, Nan,
-2015,Illinois,Universities and Colleges,Carbondale,0,0,0,0,17989
-2015,Illinois,Universities and Colleges,Edwardsville,0,0,0,0,13972
-2015,Illinois,Universities and Colleges,School of Medicine3,0,0,0,0,
-2015,Illinois,Universities and Colleges,South Suburban College,0,0,0,0,4329
-2015,Illinois,Universities and Colleges,Southwestern Illinois College,0,0,0,0,10545
-2015,Illinois,Universities and Colleges,"University of Chicago, Cook County",0,0,0,0,15097
-2015,Illinois,Universities and Colleges,University of Illinois: , Nan, Nan, Nan, Nan,
-2015,Illinois,Universities and Colleges,Springfield,0,0,0,0,5431
-2015,Illinois,Universities and Colleges,Urbana,0,0,0,0,45140
-2015,Illinois,Universities and Colleges,Western Illinois University,0,0,0,0,11458
 2015,Illinois,Metropolitan Counties,Alexander,0,0,0,0,
 2015,Illinois,Metropolitan Counties,Bond,0,0,0,0,
 2015,Illinois,Metropolitan Counties,Boone,0,0,0,0,
@@ -4523,9 +4028,6 @@
 2015,Indiana,Cities,Waterloo,0, Nan,0,0,2243
 2015,Indiana,Cities,Westfield,0, Nan, Nan, Nan,36681
 2015,Indiana,Cities,Winchester,0,0, Nan, Nan,4773
-2015,Indiana,Universities and Colleges,Ball State University,0,0, Nan, Nan,20655
-2015,Indiana,Universities and Colleges,Butler University,0, Nan, Nan, Nan,4848
-2015,Indiana,Universities and Colleges,"Indiana University, Bloomington", Nan,0, Nan, Nan,46416
 2015,Indiana,Metropolitan Counties,Allen,0,0,0,0,
 2015,Indiana,Metropolitan Counties,Bartholomew,0,0,0,0,
 2015,Indiana,Metropolitan Counties,Delaware,0,0, Nan, Nan,
@@ -4765,8 +4267,6 @@
 2015,Iowa,Cities,Wilton,0,0,0,0,2796
 2015,Iowa,Cities,Windsor Heights,0,0,0,0,4877
 2015,Iowa,Cities,Winterset,0,0,0,0,5126
-2015,Iowa,Universities and Colleges,University of Iowa,0,0,0,0,29970
-2015,Iowa,Universities and Colleges,University of Northern Iowa,0,0,0,0,11928
 2015,Iowa,Metropolitan Counties,Benton,0,0,0,0,
 2015,Iowa,Metropolitan Counties,Black Hawk,0,0,0,0,
 2015,Iowa,Metropolitan Counties,Bremer,0,0,0,0,
@@ -5056,14 +4556,6 @@
 2015,Kansas,Cities,Wilson,0,0,0,0,762
 2015,Kansas,Cities,Winchester,0,0,0,0,532
 2015,Kansas,Cities,Yates Center,0,0,0,0,1335
-2015,Kansas,Universities and Colleges,Emporia State University,0,0,0,0,6114
-2015,Kansas,Universities and Colleges,Fort Hays State University,0,0,0,0,13825
-2015,Kansas,Universities and Colleges,Garden City Community College,0,0,0,0,2072
-2015,Kansas,Universities and Colleges,Kansas City Kansas Community College,0,0,0,0,6198
-2015,Kansas,Universities and Colleges,Pittsburg State University,0,0,0,0,7479
-2015,Kansas,Universities and Colleges,"University of Kansas, Main Campus",0,0,0,0,27180
-2015,Kansas,Universities and Colleges,Washburn University,0,0,0,0,6722
-2015,Kansas,Universities and Colleges,Wichita State University,0,0,0,0,14995
 2015,Kansas,Metropolitan Counties,Butler,0,0,0,0,
 2015,Kansas,Metropolitan Counties,Doniphan,0,0,0,0,
 2015,Kansas,Metropolitan Counties,Harvey,0,0,0,0,
@@ -5350,9 +4842,6 @@
 2015,Kentucky,Cities,Wilmore,0,0,0,0,6179
 2015,Kentucky,Cities,Woodburn, Nan,0,0,0,375
 2015,Kentucky,Cities,Worthington,0,0,0,0,1580
-2015,Kentucky,Universities and Colleges,Kentucky State University,0,0,0,0,1895
-2015,Kentucky,Universities and Colleges,Morehead State University,0,0,0,0,11052
-2015,Kentucky,Universities and Colleges,Western Kentucky University,0,0,0,0,20171
 2015,Kentucky,Metropolitan Counties,Allen,0,0,0,0,
 2015,Kentucky,Metropolitan Counties,Bourbon,0,0,0,0,
 2015,Kentucky,Metropolitan Counties,Boyd,0,0,0,0,
@@ -5578,24 +5067,6 @@
 2015,Louisiana,Cities,Wilson,0,0,0,0,574
 2015,Louisiana,Cities,Winnfield,0,0,0,0,4580
 2015,Louisiana,Cities,Zachary,0,0,0,0,16537
-2015,Louisiana,Universities and Colleges,Delgado Community College,0,0,0,0,17152
-2015,Louisiana,Universities and Colleges,Dillard University,0,0,0,0,1200
-2015,Louisiana,Universities and Colleges,Louisiana State University:, Nan, Nan, Nan, Nan,
-2015,Louisiana,Universities and Colleges,Baton Rouge, Nan, Nan, Nan,0,31044
-2015,Louisiana,Universities and Colleges,Eunice,0,0,0,0,2738
-2015,Louisiana,Universities and Colleges,"Health Sciences Center, New Orleans",0,0,0,0,2828
-2015,Louisiana,Universities and Colleges,"Health Sciences Center, Shreveport",0,0,0,0,870
-2015,Louisiana,Universities and Colleges,Shreveport,0,0,0,0,4186
-2015,Louisiana,Universities and Colleges,McNeese State University,0,0,0,0,8237
-2015,Louisiana,Universities and Colleges,Nicholls State University,0,0,0,0,6292
-2015,Louisiana,Universities and Colleges,Northwestern State University,0,0,0,0,9002
-2015,Louisiana,Universities and Colleges,Southeastern Louisiana University,0,0, Nan, Nan,14487
-2015,Louisiana,Universities and Colleges,Southern University and A&M College: , Nan, Nan, Nan, Nan,
-2015,Louisiana,Universities and Colleges,Baton Rouge,0,0,0,0,6330
-2015,Louisiana,Universities and Colleges,New Orleans,0,0,0,0,2103
-2015,Louisiana,Universities and Colleges,Tulane University,0,0,0,0,12603
-2015,Louisiana,Universities and Colleges,"University of Louisiana, Monroe",0,0,0,0,8517
-2015,Louisiana,Universities and Colleges,University of New Orleans, Nan,0,0,0,9234
 2015,Louisiana,Metropolitan Counties,Acadia,0,0,0,0,
 2015,Louisiana,Metropolitan Counties,Ascension,0,0,0,0,
 2015,Louisiana,Metropolitan Counties,Caddo,0,0,0,0,
@@ -5735,10 +5206,6 @@
 2015,Maine,Cities,Wiscasset,0,0,0,0,3660
 2015,Maine,Cities,Yarmouth,0,0,0,0,8552
 2015,Maine,Cities,York,0,0,0,0,12870
-2015,Maine,Universities and Colleges,University of Maine: ,0,0,0,0,
-2015,Maine,Universities and Colleges,Farmington,0,0,0,0,1960
-2015,Maine,Universities and Colleges,Orono,0,0,0,0,11286
-2015,Maine,Universities and Colleges,University of Southern Maine, Nan, Nan, Nan, Nan,8428
 2015,Maine,Metropolitan Counties,Androscoggin,0,0,0,0,
 2015,Maine,Metropolitan Counties,Cumberland,0,0,0,0,
 2015,Maine,Metropolitan Counties,Penobscot,0,0,0,0,
@@ -5880,19 +5347,6 @@
 2015,Maryland,Cities,University Park,0,0,0,0,2678
 2015,Maryland,Cities,Upper Marlboro,0,0,0,0,880
 2015,Maryland,Cities,Westminster,0,0,0,0,18754
-2015,Maryland,Universities and Colleges,Bowie State University,0,0,0,0,5695
-2015,Maryland,Universities and Colleges,Coppin State University,0,0,0,0,3133
-2015,Maryland,Universities and Colleges,Frostburg State University,0,0,0,0,5645
-2015,Maryland,Universities and Colleges,Hagerstown Community College,0,0,0,0,4615
-2015,Maryland,Universities and Colleges,Morgan State University,0,0,0,0,7698
-2015,Maryland,Universities and Colleges,Salisbury University,0,0,0,0,8770
-2015,Maryland,Universities and Colleges,St. Mary's College,0,0,0,0,1721
-2015,Maryland,Universities and Colleges,University of Baltimore,0,0,0,0,6422
-2015,Maryland,Universities and Colleges,University of Maryland: , Nan, Nan, Nan, Nan,
-2015,Maryland,Universities and Colleges,Baltimore City,0,0,0,0,6276
-2015,Maryland,Universities and Colleges,Baltimore County,0,0,0,0,13979
-2015,Maryland,Universities and Colleges,College Park,0,0,0,0,37610
-2015,Maryland,Universities and Colleges,Eastern Shore,0,0,0,0,4279
 2015,Maryland,Metropolitan Counties,Allegany,0,0,0,0,
 2015,Maryland,Metropolitan Counties,Anne Arundel,0,0,0,0,
 2015,Maryland,Metropolitan Counties,Anne Arundel County Police Department,0,0,0,0,
@@ -6161,49 +5615,6 @@
 2015,Massachusetts,Cities,Winthrop,0,0,0,0,18570
 2015,Massachusetts,Cities,Wrentham,0,0,0,0,11541
 2015,Massachusetts,Cities,Yarmouth,0,0,0,0,23550
-2015,Massachusetts,Universities and Colleges,Assumption College,0,0,0,0,2719
-2015,Massachusetts,Universities and Colleges,Babson College,0,0,0,0,3049
-2015,Massachusetts,Universities and Colleges,Becker College,0,0,0,0,2021
-2015,Massachusetts,Universities and Colleges,Boston College,0,0,0,0,14317
-2015,Massachusetts,Universities and Colleges,Brandeis University,0,0,0,0,5945
-2015,Massachusetts,Universities and Colleges,Bridgewater State University,0,0,0,0,11187
-2015,Massachusetts,Universities and Colleges,Bunker Hill Community College,0,0,0,0,14253
-2015,Massachusetts,Universities and Colleges,Cape Cod Community College,0,0,0,0,3818
-2015,Massachusetts,Universities and Colleges,College of the Holy Cross,0,0,0,0,2787
-2015,Massachusetts,Universities and Colleges,Dean College,0,0,0,0,1325
-2015,Massachusetts,Universities and Colleges,Fitchburg State University,0,0,0,0,6810
-2015,Massachusetts,Universities and Colleges,Greenfield Community College,0,0,0,0,2127
-2015,Massachusetts,Universities and Colleges,Gordon College,0,0,0,0,2105
-2015,Massachusetts,Universities and Colleges,Hampshire College,0,0,0,0,1376
-2015,Massachusetts,Universities and Colleges,Harvard University,0,0,0,0,28791
-2015,Massachusetts,Universities and Colleges,Lasell College,0,0,0,0,2070
-2015,Massachusetts,Universities and Colleges,Massachusetts College of Art,0,0,0,0,2095
-2015,Massachusetts,Universities and Colleges,Massachusetts College of Liberal Arts,0,0,0,0,1765
-2015,Massachusetts,Universities and Colleges,Massasoit Community College,0,0,0,0,7905
-2015,Massachusetts,Universities and Colleges,MCPHS University,0,0,0,0,6935
-2015,Massachusetts,Universities and Colleges,Merrimack College,0,0,0,0,3337
-2015,Massachusetts,Universities and Colleges,Mount Holyoke College,0,0,0,0,2255
-2015,Massachusetts,Universities and Colleges,Mount Ida College,0,0,0,0,1320
-2015,Massachusetts,Universities and Colleges,Mount Wachusett Community College,0,0,0,0,4336
-2015,Massachusetts,Universities and Colleges,Regis College,0,0,0,0,1912
-2015,Massachusetts,Universities and Colleges,Salem State University,0,0,0,0,9267
-2015,Massachusetts,Universities and Colleges,Simmons College,0,0,0,0,4802
-2015,Massachusetts,Universities and Colleges,Smith College,0,0,0,0,2989
-2015,Massachusetts,Universities and Colleges,Springfield College,0,0,0,0,3178
-2015,Massachusetts,Universities and Colleges,Stonehill College,0,0,0,0,2284
-2015,Massachusetts,Universities and Colleges,Tufts University:, Nan, Nan, Nan, Nan,
-2015,Massachusetts,Universities and Colleges,Medford,0,0,0,0,10907
-2015,Massachusetts,Universities and Colleges,Suffolk3,0,0,0,0,
-2015,Massachusetts,Universities and Colleges,Worcester3,0,0,0,0,
-2015,Massachusetts,Universities and Colleges,University of Massachusetts: , Nan, Nan, Nan, Nan,
-2015,Massachusetts,Universities and Colleges,Amherst,0, Nan, Nan, Nan,28635
-2015,Massachusetts,Universities and Colleges,Dartmouth,0,0,0,0,9111
-2015,Massachusetts,Universities and Colleges,"Harbor Campus, Boston",0,0,0,0,16756
-2015,Massachusetts,Universities and Colleges,"Medical Center, Worcester",0,0,0,0,1103
-2015,Massachusetts,Universities and Colleges,Wellesley College,0,0,0,0,2323
-2015,Massachusetts,Universities and Colleges,Western New England University,0,0,0,0,3922
-2015,Massachusetts,Universities and Colleges,Westfield State University,0,0,0,0,6321
-2015,Massachusetts,Universities and Colleges,Worcester Polytechnic Institute,0,0,0,0,6381
 2015,Massachusetts,State Police Agencies,State Police:,0,0,0,0,
 2015,Massachusetts,State Police Agencies,Barnstable County, Nan, Nan, Nan, Nan,
 2015,Massachusetts,State Police Agencies,Berkshire County,0,0,0,0,11893
@@ -6536,24 +5947,6 @@
 2015,Michigan,Cities,Wyoming,0,0,0,0,75518
 2015,Michigan,Cities,Zeeland,0,0,0,0,5656
 2015,Michigan,Cities,Zilwaukee,0,0,0,0,1583
-2015,Michigan,Universities and Colleges,Central Michigan University,0,0,0,0,26879
-2015,Michigan,Universities and Colleges,Delta College,0,0,0,0,9842
-2015,Michigan,Universities and Colleges,Grand Rapids Community College,0,0,0,0,15668
-2015,Michigan,Universities and Colleges,Grand Valley State University,0,0,0,0,25094
-2015,Michigan,Universities and Colleges,Kalamazoo Valley Community College,0,0,0,0,9489
-2015,Michigan,Universities and Colleges,Lansing Community College,0,0,0,0,16031
-2015,Michigan,Universities and Colleges,Macomb Community College,0,0,0,0,22914
-2015,Michigan,Universities and Colleges,Michigan Technological University,0,0,0,0,7099
-2015,Michigan,Universities and Colleges,Mott Community College,0,0,0,0,8937
-2015,Michigan,Universities and Colleges,Northern Michigan University,0,0,0,0,8781
-2015,Michigan,Universities and Colleges,Oakland Community College,0,0,0,0,24031
-2015,Michigan,Universities and Colleges,Oakland University,0,0,0,0,20519
-2015,Michigan,Universities and Colleges,Saginaw Valley State University,0,0,0,0,9829
-2015,Michigan,Universities and Colleges,Schoolcraft College,0,0,0,0,11542
-2015,Michigan,Universities and Colleges,University of Michigan: , Nan, Nan, Nan, Nan,
-2015,Michigan,Universities and Colleges,Dearborn,0,0,0,0,8923
-2015,Michigan,Universities and Colleges,Flint,0,0,0,0,8574
-2015,Michigan,Universities and Colleges,Western Michigan University,0,0,0,0,23914
 2015,Michigan,Metropolitan Counties,Barry,0,0,0,0,
 2015,Michigan,Metropolitan Counties,Bay,0,0,0,0,
 2015,Michigan,Metropolitan Counties,Berrien,0,0,0,0,
@@ -6907,10 +6300,6 @@
 2015,Minnesota,Cities,Winona,0,0,0,0,27343
 2015,Minnesota,Cities,Wyoming,0,0,0,0,7776
 2015,Minnesota,Cities,Zumbrota,0,0,0,0,3370
-2015,Minnesota,Universities and Colleges,University of Minnesota:, Nan, Nan, Nan, Nan,
-2015,Minnesota,Universities and Colleges,Duluth,0,0,0,0,11093
-2015,Minnesota,Universities and Colleges,Morris,0,0,0,0,1899
-2015,Minnesota,Universities and Colleges,Twin Cities,0,0,0,0,51147
 2015,Minnesota,Metropolitan Counties,Benton,0,0,0,0,
 2015,Minnesota,Metropolitan Counties,Blue Earth,0,0,0,0,
 2015,Minnesota,Metropolitan Counties,Carlton,0,0,0,0,
@@ -7024,9 +6413,6 @@
 2015,Mississippi,Cities,Philadelphia,0, Nan, Nan, Nan,7384
 2015,Mississippi,Cities,Southaven,0,0,0,0,52521
 2015,Mississippi,Cities,Starkville,0,0,0,0,25131
-2015,Mississippi,Universities and Colleges,Coahoma Community College,0,0, Nan, Nan,2045
-2015,Mississippi,Universities and Colleges,Mississippi State University,0,0, Nan, Nan,20138
-2015,Mississippi,Universities and Colleges,Northeast Mississippi Community College,0,0, Nan, Nan,3538
 2015,Mississippi,Metropolitan Counties,DeSoto,0,0,0,0,
 2015,Mississippi,Metropolitan Counties,Madison,0,0, Nan, Nan,
 2015,Mississippi,Metropolitan Counties,Simpson,0,0, Nan, Nan,
@@ -7493,22 +6879,6 @@
 2015,Missouri,Cities,Woodson Terrace,0,0,0,0,4071
 2015,Missouri,Cities,Wright City,0,0,0,0,3476
 2015,Missouri,Cities,Wyatt, Nan, Nan,0,0,315
-2015,Missouri,Universities and Colleges,Jefferson College,0,0,0,0,4882
-2015,Missouri,Universities and Colleges,Lincoln University,0,0, Nan, Nan,3117
-2015,Missouri,Universities and Colleges,Metropolitan Community College,0,0,0,0,18222
-2015,Missouri,Universities and Colleges,Mineral Area College,0,0,0,0,4632
-2015,Missouri,Universities and Colleges,Missouri Southern State University,0,0,0,0,5613
-2015,Missouri,Universities and Colleges,Missouri University of Science and Technology,0,0,0,0,8640
-2015,Missouri,Universities and Colleges,Missouri Western State University,0,0,0,0,5834
-2015,Missouri,Universities and Colleges,Southeast Missouri State University,0,0,0,0,12087
-2015,Missouri,Universities and Colleges,St. Charles Community College,0,0,0,0,7153
-2015,Missouri,Universities and Colleges,"St. Louis Community College, Florissant Valley3",0,0,0,0,
-2015,Missouri,Universities and Colleges,Truman State University,0,0,0,0,6248
-2015,Missouri,Universities and Colleges,University of Central Missouri,0,0,0,0,13379
-2015,Missouri,Universities and Colleges,University of Missouri:, Nan, Nan, Nan, Nan,
-2015,Missouri,Universities and Colleges,Kansas City,0,0,0,0,16146
-2015,Missouri,Universities and Colleges,St. Louis,0,0,0,0,17072
-2015,Missouri,Universities and Colleges,Washington University,0,0,0,0,14348
 2015,Missouri,Metropolitan Counties,Andrew,0,0,0,0,
 2015,Missouri,Metropolitan Counties,Bates,0,0,0,0,
 2015,Missouri,Metropolitan Counties,Bollinger,0,0,0,0,
@@ -7684,8 +7054,6 @@
 2015,Montana,Cities,West Yellowstone,0,0,0,0,1335
 2015,Montana,Cities,Whitefish,0,0,0,0,6997
 2015,Montana,Cities,Wolf Point,0,0,0,0,2891
-2015,Montana,Universities and Colleges,Montana State University,0,0,0,0,14982
-2015,Montana,Universities and Colleges,University of Montana,0,0,0,0,13952
 2015,Montana,Metropolitan Counties,Carbon,0,0,0,0,
 2015,Montana,Metropolitan Counties,Cascade,0,0,0,0,
 2015,Montana,Metropolitan Counties,Golden Valley,0,0,0,0,
@@ -7787,8 +7155,6 @@
 2015,Nebraska,Cities,West Point,0,0,0,0,3320
 2015,Nebraska,Cities,Wilber,0,0,0,0,1864
 2015,Nebraska,Cities,York,0,0,0,0,8008
-2015,Nebraska,Universities and Colleges,"Metropolitan Community College, Douglas County",0,0,0,0,14675
-2015,Nebraska,Universities and Colleges,"University of Nebraska, Kearney",0,0,0,0,6902
 2015,Nebraska,Metropolitan Counties,Cass,0,0,0,0,
 2015,Nebraska,Metropolitan Counties,Dakota,0,0,0,0,
 2015,Nebraska,Metropolitan Counties,Dixon,0,0,0,0,
@@ -7969,7 +7335,6 @@
 2015,Nevada,Cities,West Wendover,0,0,0,0,4449
 2015,Nevada,Cities,Winnemucca,0,0,0,0,8144
 2015,Nevada,Cities,Yerington,0,0,0,0,3026
-2015,Nevada,Universities and Colleges,"University of Nevada, Reno",0,0,0,0,19934
 2015,Nevada,Metropolitan Counties,Carson City,0,0,0,0,
 2015,Nevada,Metropolitan Counties,Storey,0,0,0,0,
 2015,Nevada,Metropolitan Counties,Washoe,0,0,0,0,
@@ -8149,7 +7514,6 @@
 2015,New Hampshire,Cities,Windham,0,0,0,0,14428
 2015,New Hampshire,Cities,Wolfeboro,0,0,0,0,6215
 2015,New Hampshire,Cities,Woodstock,0,0,0,0,1389
-2015,New Hampshire,Universities and Colleges,University of New Hampshire,0,0,0,0,15117
 2015,New Hampshire,Metropolitan Counties,Rockingham,0,0,0,0,
 2015,New Hampshire,Nonmetropolitan Counties,Carroll,0,0,0,0,
 2015,New Hampshire,Nonmetropolitan Counties,Cheshire,0,0,0,0,
@@ -8938,34 +8302,6 @@
 2015,New York,Cities,Woodstock Town,0,0,0,0,5875
 2015,New York,Cities,Yorktown Town,0,0,0,0,37189
 2015,New York,Cities,Youngstown Village,0,0,0,0,1887
-2015,New York,Universities and Colleges,Cornell University,0,0,0,0,21679
-2015,New York,Universities and Colleges,Ithaca College,0,0,0,0,6587
-2015,New York,Universities and Colleges,Rensselaer Polytechnic Institute,0,0,0,0,6835
-2015,New York,Universities and Colleges,State University of New York: , Nan, Nan, Nan, Nan,
-2015,New York,Universities and Colleges,Albany,0,0,0,0,17273
-2015,New York,Universities and Colleges,Buffalo,0,0,0,0,29995
-2015,New York,Universities and Colleges,Downstate Medical Center,0,0,0,0,1865
-2015,New York,Universities and Colleges,Maritime College,0,0,0,0,1799
-2015,New York,Universities and Colleges,Stony Brook,0,0,0,0,24607
-2015,New York,Universities and Colleges,Upstate Medical Center,0,0,0,0,1516
-2015,New York,Universities and Colleges,State University of New York Agricultural and Technical College:, Nan, Nan, Nan, Nan,
-2015,New York,Universities and Colleges,Alfred,0,0,0,0,3661
-2015,New York,Universities and Colleges,Canton,0,0,0,0,3278
-2015,New York,Universities and Colleges,Cobleskill,0,0,0,0,2535
-2015,New York,Universities and Colleges,Farmingdale,0,0,0,0,8394
-2015,New York,Universities and Colleges,State University of New York College:, Nan, Nan, Nan, Nan,
-2015,New York,Universities and Colleges,Brockport,0,0,0,0,8106
-2015,New York,Universities and Colleges,Buffalo,0,0,0,0,11083
-2015,New York,Universities and Colleges,Cortland,0,0,0,0,6958
-2015,New York,Universities and Colleges,Environmental Science and Forestry,0,0,0,0,2200
-2015,New York,Universities and Colleges,Fredonia,0,0,0,0,5215
-2015,New York,Universities and Colleges,Geneseo,0,0,0,0,5658
-2015,New York,Universities and Colleges,Old Westbury,0,0,0,0,4504
-2015,New York,Universities and Colleges,Optometry,0,0,0,0,363
-2015,New York,Universities and Colleges,Oswego,0,0,0,0,8034
-2015,New York,Universities and Colleges,Plattsburgh,0,0,0,0,5968
-2015,New York,Universities and Colleges,Technology,0,0,0,0,3598
-2015,New York,Universities and Colleges,Utica-Rome,0,0,0,0,2740
 2015,New York,Metropolitan Counties,Albany,0,0,0,0,
 2015,New York,Metropolitan Counties,Broome,0,0,0,0,
 2015,New York,Metropolitan Counties,Chemung,0,0,0,0,
@@ -9402,26 +8738,6 @@
 2015,North Carolina,Cities,Yadkinville,0,0,0,0,2922
 2015,North Carolina,Cities,Youngsville,0,0,0,0,1210
 2015,North Carolina,Cities,Zebulon,0,0,0,0,4828
-2015,North Carolina,Universities and Colleges,Appalachian State University,0,0,0,0,18026
-2015,North Carolina,Universities and Colleges,Beaufort County Community College,0,0,0,0,2035
-2015,North Carolina,Universities and Colleges,Belmont Abbey College,0,0,0,0,1560
-2015,North Carolina,Universities and Colleges,Davidson College,0,0,0,0,1770
-2015,North Carolina,Universities and Colleges,Elon University,0,0,0,0,6483
-2015,North Carolina,Universities and Colleges,Fayetteville State University,0,0,0,0,5899
-2015,North Carolina,Universities and Colleges,Methodist University,0,0,0,0,2461
-2015,North Carolina,Universities and Colleges,North Carolina Agricultural and Technical State University,0,0,0,0,10725
-2015,North Carolina,Universities and Colleges,North Carolina Central University,0,0,0,0,7687
-2015,North Carolina,Universities and Colleges,"North Carolina State University, Raleigh",0,0,0,0,33989
-2015,North Carolina,Universities and Colleges,Queens University,0,0,0,0,2248
-2015,North Carolina,Universities and Colleges,Saint Augustine's University,0,0,0, Nan,1016
-2015,North Carolina,Universities and Colleges,University of North Carolina:, Nan, Nan, Nan, Nan,
-2015,North Carolina,Universities and Colleges,Asheville,0,0,0,0,3845
-2015,North Carolina,Universities and Colleges,Chapel Hill,0,0,0,0,29135
-2015,North Carolina,Universities and Colleges,Charlotte,0,0,0,0,27238
-2015,North Carolina,Universities and Colleges,Wilmington,0,0,0,0,14570
-2015,North Carolina,Universities and Colleges,Wake Forest University,0,0,0,0,7788
-2015,North Carolina,Universities and Colleges,Western Carolina University,0,0,0,0,10382
-2015,North Carolina,Universities and Colleges,Winston-Salem State University,0,0,0,0,5220
 2015,North Carolina,Metropolitan Counties,Alamance,0,0,0,0,
 2015,North Carolina,Metropolitan Counties,Alexander,0,0,0,0,
 2015,North Carolina,Metropolitan Counties,Brunswick,0,0,0,0,
@@ -9610,8 +8926,6 @@
 2015,North Dakota,Cities,Valley City,0,0,0,0,6692
 2015,North Dakota,Cities,West Fargo,0,0,0,0,33433
 2015,North Dakota,Cities,Wishek,0,0,0,0,989
-2015,North Dakota,Universities and Colleges,North Dakota State College of Science,0,0,0,0,3033
-2015,North Dakota,Universities and Colleges,North Dakota State University,0,0,0,0,14747
 2015,North Dakota,Metropolitan Counties,Burleigh,0,0,0,0,
 2015,North Dakota,Metropolitan Counties,Cass,0,0,0,0,
 2015,North Dakota,Metropolitan Counties,Grand Forks,0,0,0,0,
@@ -10065,20 +9379,6 @@
 2015,Ohio,Cities,Xenia,0,0,0,0,25970
 2015,Ohio,Cities,Yellow Springs,0, Nan,0,0,3539
 2015,Ohio,Cities,Yorkville,0, Nan,0, Nan,1043
-2015,Ohio,Universities and Colleges,Central State University,0,0,0,0,1751
-2015,Ohio,Universities and Colleges,Columbus State Community College,0,0,0,0,24448
-2015,Ohio,Universities and Colleges,Cuyahoga Community College,0,0,0,0,27084
-2015,Ohio,Universities and Colleges,Marietta College,0,0, Nan,0,1500
-2015,Ohio,Universities and Colleges,Muskingum University,0,0,0,0,2074
-2015,Ohio,Universities and Colleges,Notre Dame College,0,0,0,0,2281
-2015,Ohio,Universities and Colleges,Ohio University,0,0,0,0,29217
-2015,Ohio,Universities and Colleges,Otterbein University,0,0,0,0,2791
-2015,Ohio,Universities and Colleges,Shawnee State University,0,0,0,0,4247
-2015,Ohio,Universities and Colleges,Sinclair Community College,0,0,0,0,19093
-2015,Ohio,Universities and Colleges,University of Akron,0,0,0,0,23962
-2015,Ohio,Universities and Colleges,University of Rio Grande, Nan, Nan, Nan,0,2202
-2015,Ohio,Universities and Colleges,University of Toledo,0,0,0,0,20626
-2015,Ohio,Universities and Colleges,Wright State University,0,0,0,0,16842
 2015,Ohio,Metropolitan Counties,Allen,0,0,0,0,
 2015,Ohio,Metropolitan Counties,Belmont,0,0,0,0,
 2015,Ohio,Metropolitan Counties,Brown,0,0,0,0,
@@ -10357,27 +9657,6 @@
 2015,Oklahoma,Cities,Wynnewood,0,0,0,0,2214
 2015,Oklahoma,Cities,Yale,0,0,0,0,1223
 2015,Oklahoma,Cities,Yukon,0,0,0,0,26013
-2015,Oklahoma,Universities and Colleges,Cameron University,0,0,0,0,5537
-2015,Oklahoma,Universities and Colleges,East Central University,0,0,0,0,4428
-2015,Oklahoma,Universities and Colleges,Langston University,0,0,0,0,2482
-2015,Oklahoma,Universities and Colleges,Northeastern Oklahoma A&M College,0,0,0,0,2274
-2015,Oklahoma,Universities and Colleges,Northeastern State University:, Nan, Nan, Nan, Nan,
-2015,Oklahoma,Universities and Colleges,Broken Arrow3,0,0,0,0,
-2015,Oklahoma,Universities and Colleges,Tahlequah,0,0,0,0,8310
-2015,Oklahoma,Universities and Colleges,Oklahoma City University,0,0,0,0,3035
-2015,Oklahoma,Universities and Colleges,Oklahoma State University:, Nan, Nan, Nan, Nan,
-2015,Oklahoma,Universities and Colleges,Main Campus,0,0,0,0,25962
-2015,Oklahoma,Universities and Colleges,Okmulgee,0,0,0,0,3379
-2015,Oklahoma,Universities and Colleges,Tulsa,0,0,0,0,664
-2015,Oklahoma,Universities and Colleges,Rogers State University,0,0,0,0,4030
-2015,Oklahoma,Universities and Colleges,Seminole State College,0,0,0,0,1895
-2015,Oklahoma,Universities and Colleges,Southeastern Oklahoma State University,0,0,0,0,3878
-2015,Oklahoma,Universities and Colleges,Southwestern Oklahoma State University,0,0,0,0,4994
-2015,Oklahoma,Universities and Colleges,Tulsa Community College,0,0,0,0,17861
-2015,Oklahoma,Universities and Colleges,University of Central Oklahoma,0,0,0,0,16840
-2015,Oklahoma,Universities and Colleges,University of Oklahoma: , Nan, Nan, Nan, Nan,
-2015,Oklahoma,Universities and Colleges,Health Sciences Center,0,0,0,0,3499
-2015,Oklahoma,Universities and Colleges,Norman,0,0,0,0,27261
 2015,Oklahoma,Metropolitan Counties,Canadian,0,0,0,0,
 2015,Oklahoma,Metropolitan Counties,Cleveland,0,0,0,0,
 2015,Oklahoma,Metropolitan Counties,Comanche,0,0,0,0,
@@ -10527,7 +9806,6 @@
 2015,Oregon,Cities,Winston,0,0,0,0,5333
 2015,Oregon,Cities,Woodburn,0,0,0,0,24897
 2015,Oregon,Cities,Yamhill,0,0,0,0,1064
-2015,Oregon,Universities and Colleges,University of Oregon,0,0,0,0,24096
 2015,Oregon,Metropolitan Counties,Benton,0,0,0,0,
 2015,Oregon,Metropolitan Counties,Josephine,0,0,0,0,
 2015,Oregon,Metropolitan Counties,Lane,0,0,0,0,
@@ -11567,39 +10845,6 @@
 2015,Pennsylvania,Cities,Youngsville,0,0,0, Nan,1666
 2015,Pennsylvania,Cities,Zelienople,0, Nan, Nan, Nan,3695
 2015,Pennsylvania,Cities,Zerbe Township,0,0, Nan, Nan,1832
-2015,Pennsylvania,Universities and Colleges,Bloomsburg University,0,0, Nan,0,9998
-2015,Pennsylvania,Universities and Colleges,California University,0,0, Nan,0,7978
-2015,Pennsylvania,Universities and Colleges,Cheyney University,0,0, Nan,0,1022
-2015,Pennsylvania,Universities and Colleges,Clarion University,0,0, Nan,0,5712
-2015,Pennsylvania,Universities and Colleges,Dickinson College,0, Nan, Nan,0,2364
-2015,Pennsylvania,Universities and Colleges,East Stroudsburg University,0,0, Nan,0,6819
-2015,Pennsylvania,Universities and Colleges,Edinboro University,0,0,0,0,6837
-2015,Pennsylvania,Universities and Colleges,Indiana University,0,0, Nan,0,14534
-2015,Pennsylvania,Universities and Colleges,Kutztown University, Nan, Nan,0,0,9218
-2015,Pennsylvania,Universities and Colleges,Lock Haven University,0,0, Nan,0,4917
-2015,Pennsylvania,Universities and Colleges,Mansfield University,0,0,0,0,2752
-2015,Pennsylvania,Universities and Colleges,Millersville University,0,0,0,0,8047
-2015,Pennsylvania,Universities and Colleges,Moravian College,0,0, Nan,0,1970
-2015,Pennsylvania,Universities and Colleges,Pennsylvania State University:, Nan, Nan, Nan, Nan,
-2015,Pennsylvania,Universities and Colleges,Altoona,0,0, Nan,0,3903
-2015,Pennsylvania,Universities and Colleges,Beaver,0,0, Nan,0,720
-2015,Pennsylvania,Universities and Colleges,Behrend,0,0, Nan,0,4138
-2015,Pennsylvania,Universities and Colleges,Berks,0,0,0,0,2839
-2015,Pennsylvania,Universities and Colleges,Brandywine,0,0,0,0,1488
-2015,Pennsylvania,Universities and Colleges,Harrisburg,0, Nan, Nan,0,4519
-2015,Pennsylvania,Universities and Colleges,Hazleton,0,0, Nan,0,850
-2015,Pennsylvania,Universities and Colleges,McKeesport,0,0, Nan,0,604
-2015,Pennsylvania,Universities and Colleges,Mont Alto,0,0, Nan,0,940
-2015,Pennsylvania,Universities and Colleges,Schuylkill,0,0, Nan,0,796
-2015,Pennsylvania,Universities and Colleges,Wilkes-Barre, Nan,0, Nan,0,545
-2015,Pennsylvania,Universities and Colleges,Worthington Scranton, Nan, Nan, Nan,0,1126
-2015,Pennsylvania,Universities and Colleges,Shippensburg University,0,0, Nan,0,7355
-2015,Pennsylvania,Universities and Colleges,Slippery Rock University, Nan, Nan,0, Nan,8495
-2015,Pennsylvania,Universities and Colleges,University of Pittsburgh: , Nan, Nan, Nan, Nan,
-2015,Pennsylvania,Universities and Colleges,Bradford,0,0, Nan,0,1499
-2015,Pennsylvania,Universities and Colleges,Greensburg,0,0, Nan,0,1578
-2015,Pennsylvania,Universities and Colleges,Titusville,0,0, Nan,0,371
-2015,Pennsylvania,Universities and Colleges,West Chester University,0,0, Nan,0,16086
 2015,Pennsylvania,Metropolitan Counties,Allegheny, Nan, Nan,0,0,
 2015,Pennsylvania,Metropolitan Counties,Allegheny County Police Department,0,0,0, Nan,
 2015,Pennsylvania,Metropolitan Counties,Beaver,0,0, Nan, Nan,
@@ -12040,7 +11285,6 @@
 2015,Rhode Island,Cities,Warwick,0,0,0,0,81854
 2015,Rhode Island,Cities,Westerly,0,0,0,0,22717
 2015,Rhode Island,Cities,West Greenwich,0,0,0,0,6117
-2015,Rhode Island,Universities and Colleges,Brown University,0,0,0,0,9181
 2015,Rhode Island,State Police Agencies,Rhode Island State Police Headquarters,0,0,0,0,
 2015,Rhode Island,State Police Agencies,State Police:, Nan, Nan, Nan, Nan,
 2015,Rhode Island,State Police Agencies,Chepachet,0,0,0,0,
@@ -12201,28 +11445,6 @@
 2015,South Carolina,Cities,Woodruff,0,0,0,0,4117
 2015,South Carolina,Cities,Yemassee,0,0,0,0,986
 2015,South Carolina,Cities,York,0,0,0,0,8107
-2015,South Carolina,Universities and Colleges,Benedict College,0,0, Nan, Nan,2444
-2015,South Carolina,Universities and Colleges,Bob Jones University,0,0,0,0,3108
-2015,South Carolina,Universities and Colleges,Clemson University,0,0,0,0,21857
-2015,South Carolina,Universities and Colleges,Columbia College,0,0,0,0,1221
-2015,South Carolina,Universities and Colleges,College of Charleston,0,0,0,0,11456
-2015,South Carolina,Universities and Colleges,Coastal Carolina University,0,0,0,0,9976
-2015,South Carolina,Universities and Colleges,Denmark Technical College,0,0,0,0,1678
-2015,South Carolina,Universities and Colleges,Erskine College,0,0,0,0,753
-2015,South Carolina,Universities and Colleges,Francis Marion University,0,0,0,0,3944
-2015,South Carolina,Universities and Colleges,Greenville Technical College,0,0,0,0,12592
-2015,South Carolina,Universities and Colleges,Lander University,0,0,0,0,2787
-2015,South Carolina,Universities and Colleges,Medical University of South Carolina,0,0,0,0,2898
-2015,South Carolina,Universities and Colleges,Midlands Technical College,0,0,0,0,11424
-2015,South Carolina,Universities and Colleges,Orangeburg-Calhoun Technical College,0,0,0,0,3060
-2015,South Carolina,Universities and Colleges,Presbyterian College,0,0,0,0,1460
-2015,South Carolina,Universities and Colleges,South Carolina State University,0,0,0,0,3331
-2015,South Carolina,Universities and Colleges,Spartanburg Methodist College,0,0,0,0,793
-2015,South Carolina,Universities and Colleges,The Citadel,0,0,0,0,3592
-2015,South Carolina,Universities and Colleges,University of South Carolina:, Nan, Nan, Nan, Nan,
-2015,South Carolina,Universities and Colleges,Aiken,0,0,0,0,3444
-2015,South Carolina,Universities and Colleges,Beaufort,0,0,0,0,1794
-2015,South Carolina,Universities and Colleges,Winthrop University,0,0,0,0,6024
 2015,South Carolina,Metropolitan Counties,Aiken,0,0,0,0,
 2015,South Carolina,Metropolitan Counties,Anderson,0,0,0,0,
 2015,South Carolina,Metropolitan Counties,Beaufort,0,0,0,0,
@@ -12504,7 +11726,6 @@
 2015,South Dakota,Cities,Winner,0,0,0,0,2846
 2015,South Dakota,Cities,Worthing,0,0,0,0,958
 2015,South Dakota,Cities,Yankton,0,0,0,0,14573
-2015,South Dakota,Universities and Colleges,South Dakota State University,0,0,0,0,12543
 2015,South Dakota,Metropolitan Counties,Custer,0,0,0,0,
 2015,South Dakota,Metropolitan Counties,Lincoln,0,0,0,0,
 2015,South Dakota,Metropolitan Counties,McCook,0,0,0,0,
@@ -12779,25 +12000,6 @@
 2015,Tennessee,Cities,Whitwell,0,0,0,0,1721
 2015,Tennessee,Cities,Winfield,0,0,0,0,951
 2015,Tennessee,Cities,Woodbury,0,0,0,0,2743
-2015,Tennessee,Universities and Colleges,Austin Peay State University,0,0,0,0,10111
-2015,Tennessee,Universities and Colleges,Chattanooga State Community College,0,0,0,0,9332
-2015,Tennessee,Universities and Colleges,Christian Brothers University,0,0,0,0,1667
-2015,Tennessee,Universities and Colleges,Cleveland State Community College,0,0,0,0,3522
-2015,Tennessee,Universities and Colleges,Jackson State Community College,0,0,0,0,4924
-2015,Tennessee,Universities and Colleges,Lincoln Memorial University,0,0,0,0,3735
-2015,Tennessee,Universities and Colleges,Middle Tennessee State University,0,0,0,0,22729
-2015,Tennessee,Universities and Colleges,Northeast State Community College,0,0,0,0,5865
-2015,Tennessee,Universities and Colleges,Roane State Community College,0,0,0,0,5832
-2015,Tennessee,Universities and Colleges,Southwest Tennessee Community College,0,0,0,0,10227
-2015,Tennessee,Universities and Colleges,Tennessee State University,0,0,0,0,9027
-2015,Tennessee,Universities and Colleges,University of Memphis,0,0,0,0,21059
-2015,Tennessee,Universities and Colleges,University of Tennessee: , Nan, Nan, Nan, Nan,
-2015,Tennessee,Universities and Colleges,Health Science Center3,0,0,0,0,
-2015,Tennessee,Universities and Colleges,Knoxville,0,0,0,0,30386
-2015,Tennessee,Universities and Colleges,Martin,0,0,0,0,7042
-2015,Tennessee,Universities and Colleges,University of the South,0,0,0,0,1714
-2015,Tennessee,Universities and Colleges,Volunteer State Community College,0,0,0,0,7664
-2015,Tennessee,Universities and Colleges,Walters State Community College,0,0,0,0,6005
 2015,Tennessee,Metropolitan Counties,Anderson,0,0,0,0,
 2015,Tennessee,Metropolitan Counties,Campbell,0,0,0,0,
 2015,Tennessee,Metropolitan Counties,Cannon,0,0,0,0,
@@ -13581,77 +12783,6 @@
 2015,Texas,Cities,Wylie,0,0,0,0,47022
 2015,Texas,Cities,Yoakum,0,0,0,0,6035
 2015,Texas,Cities,Yorktown,0,0,0,0,2144
-2015,Texas,Universities and Colleges,Abilene Christian University,0,0,0,0,4427
-2015,Texas,Universities and Colleges,Alvin Community College,0,0,0,0,4837
-2015,Texas,Universities and Colleges,Amarillo College,0,0,0,0,10336
-2015,Texas,Universities and Colleges,Angelo State University,0,0,0,0,6494
-2015,Texas,Universities and Colleges,Austin College,0,0,0,0,1301
-2015,Texas,Universities and Colleges,Baylor Health Care System3,0,0,0,0,
-2015,Texas,Universities and Colleges,"Baylor University, Waco",0,0,0,0,16263
-2015,Texas,Universities and Colleges,Brookhaven College,0,0,0,0,12403
-2015,Texas,Universities and Colleges,Central Texas College,0,0,0,0,20547
-2015,Texas,Universities and Colleges,College of the Mainland,0,0,0,0,3858
-2015,Texas,Universities and Colleges,El Paso Community College,0,0,0,0,28308
-2015,Texas,Universities and Colleges,Grayson College,0,0,0,0,4636
-2015,Texas,Universities and Colleges,Hardin-Simmons University,0,0,0,0,2084
-2015,Texas,Universities and Colleges,Houston Baptist University,0,0,0,0,3128
-2015,Texas,Universities and Colleges,Houston Community College,0,0,0,0,58276
-2015,Texas,Universities and Colleges,"Lamar University, Beaumont",0,0,0,0,14895
-2015,Texas,Universities and Colleges,Laredo Community College,0,0,0,0,8307
-2015,Texas,Universities and Colleges,McLennan Community College,0,0,0,0,8294
-2015,Texas,Universities and Colleges,Midwestern State University,0,0,0,0,5874
-2015,Texas,Universities and Colleges,Mountain View College,0,0,0,0,8950
-2015,Texas,Universities and Colleges,North Lake College,0,0,0,0,10744
-2015,Texas,Universities and Colleges,Paris Junior College,0,0,0,0,5086
-2015,Texas,Universities and Colleges,Prairie View A&M University,0,0,0,0,8429
-2015,Texas,Universities and Colleges,Rice University,0,0,0,0,6621
-2015,Texas,Universities and Colleges,Richland College,0,0,0,0,19343
-2015,Texas,Universities and Colleges,Southern Methodist University,0,0,0,0,11272
-2015,Texas,Universities and Colleges,South Plains College,0,0,0,0,9661
-2015,Texas,Universities and Colleges,Southwestern University,0,0,0,0,1538
-2015,Texas,Universities and Colleges,Stephen F. Austin State University,0,0,0,0,12801
-2015,Texas,Universities and Colleges,St. Mary's University,0,0,0,0,3712
-2015,Texas,Universities and Colleges,St. Thomas University,0,0,0,0,3448
-2015,Texas,Universities and Colleges,Sul Ross State University,0,0,0,0,2873
-2015,Texas,Universities and Colleges,Tarleton State University,0,0,0,0,11681
-2015,Texas,Universities and Colleges,Texas A&M International University,0,0,0,0,7554
-2015,Texas,Universities and Colleges,Texas A&M University: , Nan, Nan, Nan, Nan,
-2015,Texas,Universities and Colleges,Central Texas3,0,0,0,0,
-2015,Texas,Universities and Colleges,College Station,0,0,0,0,61642
-2015,Texas,Universities and Colleges,Commerce,0,0,0,0,12111
-2015,Texas,Universities and Colleges,Corpus Christi,0,0,0,0,11256
-2015,Texas,Universities and Colleges,Galveston3,0,0,0,0,
-2015,Texas,Universities and Colleges,Kingsville,0,0,0,0,13246
-2015,Texas,Universities and Colleges,San Antonio3,0,0,0,0,
-2015,Texas,Universities and Colleges,Texas Southern University,0,0,0,0,9233
-2015,Texas,Universities and Colleges,Texas State Technical College: , Nan, Nan, Nan, Nan,
-2015,Texas,Universities and Colleges,Harlingen,0,0,0,0,5225
-2015,Texas,Universities and Colleges,Waco,0,0,0,0,4114
-2015,Texas,Universities and Colleges,West Texas,0,0,0,0,1453
-2015,Texas,Universities and Colleges,"Texas State University, San Marcos ",0,0,0,0,36739
-2015,Texas,Universities and Colleges,Texas Woman's University,0,0,0,0,15071
-2015,Texas,Universities and Colleges,Trinity University,0,0,0,0,2432
-2015,Texas,Universities and Colleges,Tyler Junior College,0,0,0,0,11168
-2015,Texas,Universities and Colleges,University of Houston: , Nan, Nan, Nan, Nan,
-2015,Texas,Universities and Colleges,Central Campus,0,0,0,0,40914
-2015,Texas,Universities and Colleges,Clearlake,0,0,0,0,8665
-2015,Texas,Universities and Colleges,Downtown Campus,0,0,0,0,14439
-2015,Texas,Universities and Colleges,University of Mary Hardin-Baylor,0,0,0,0,3740
-2015,Texas,Universities and Colleges,University of North Texas:, Nan, Nan, Nan, Nan,
-2015,Texas,Universities and Colleges,Denton,0,0,0,0,36486
-2015,Texas,Universities and Colleges,Health Science Center,0,0,0,0,2243
-2015,Texas,Universities and Colleges,University of Texas:, Nan, Nan, Nan, Nan,
-2015,Texas,Universities and Colleges,Brownsville,0,0,0,0,11943
-2015,Texas,Universities and Colleges,Dallas,0,0,0,0,23095
-2015,Texas,Universities and Colleges,El Paso,0,0,0,0,23079
-2015,Texas,Universities and Colleges,"Health Science Center, San Antonio",0,0,0,0,3147
-2015,Texas,Universities and Colleges,"Health Science Center, Tyler3",0,0,0,0,
-2015,Texas,Universities and Colleges,Medical Branch,0,0,0,0,3211
-2015,Texas,Universities and Colleges,Permian Basin,0,0,0,0,5560
-2015,Texas,Universities and Colleges,San Antonio,0,0,0,0,28628
-2015,Texas,Universities and Colleges,Southwestern Medical School,0,0,0,0,2341
-2015,Texas,Universities and Colleges,Tyler,0,0,0,0,8036
-2015,Texas,Universities and Colleges,West Texas A&M University,0,0,0,0,8972
 2015,Texas,Metropolitan Counties,Aransas,0,0,0,0,
 2015,Texas,Metropolitan Counties,Archer,0,0,0,0,
 2015,Texas,Metropolitan Counties,Armstrong,0,0,0,0,
@@ -14012,14 +13143,6 @@
 2015,Utah,Cities,Washington,0,0,0,0,24646
 2015,Utah,Cities,Willard,0, Nan,0,0,1775
 2015,Utah,Cities,Woods Cross,0,0,0, Nan,11440
-2015,Utah,Universities and Colleges,Snow College,0,0,0,0,4779
-2015,Utah,Universities and Colleges,Southern Utah University,0,0,0,0,7656
-2015,Utah,Universities and Colleges,University of Utah,0,0, Nan,0,31515
-2015,Utah,Universities and Colleges,Utah State University:, Nan, Nan, Nan, Nan,
-2015,Utah,Universities and Colleges,Eastern3, Nan,0,0,0,
-2015,Utah,Universities and Colleges,Logan,0,0,0, Nan,27662
-2015,Utah,Universities and Colleges,Utah Valley University, Nan,0,0,0,31332
-2015,Utah,Universities and Colleges,Weber State University,0,0,0,0,25954
 2015,Utah,Metropolitan Counties,Box Elder,0,0,0,0,
 2015,Utah,Metropolitan Counties,Cache, Nan,0,0,0,
 2015,Utah,Metropolitan Counties,Juab, Nan,0,0,0,
@@ -14261,24 +13384,6 @@
 2015,Virginia,Cities,Wise,0,0,0,0,3118
 2015,Virginia,Cities,Woodstock,0,0,0,0,5257
 2015,Virginia,Cities,Wytheville,0,0,0,0,8114
-2015,Virginia,Universities and Colleges,Bridgewater College,0,0,0,0,1785
-2015,Virginia,Universities and Colleges,Eastern Virginia Medical School,0,0,0,0,1049
-2015,Virginia,Universities and Colleges,Emory and Henry College,0,0,0,0,1038
-2015,Virginia,Universities and Colleges,Ferrum College,0,0,0,0,1451
-2015,Virginia,Universities and Colleges,Germanna Community College, Nan, Nan, Nan,0,7282
-2015,Virginia,Universities and Colleges,Hampton University,0,0,0,0,4393
-2015,Virginia,Universities and Colleges,James Madison University,0,0,0,0,20855
-2015,Virginia,Universities and Colleges,J. Sargeant Reynolds Community College,0,0,0,0,11861
-2015,Virginia,Universities and Colleges,Lord Fairfax Community College,0,0,0,0,6996
-2015,Virginia,Universities and Colleges,Old Dominion University,0,0,0,0,24932
-2015,Virginia,Universities and Colleges,Radford University,0,0,0,0,9798
-2015,Virginia,Universities and Colleges,Richard Bland College,0,0,0,0,1525
-2015,Virginia,Universities and Colleges,Thomas Nelson Community College,0,0, Nan, Nan,10436
-2015,Virginia,Universities and Colleges,University of Virginia's College at Wise,0,0,0,0,2183
-2015,Virginia,Universities and Colleges,Virginia Commonwealth University,0,0,0,0,30848
-2015,Virginia,Universities and Colleges,Virginia Military Institute,0,0,0,0,1700
-2015,Virginia,Universities and Colleges,Virginia State University,0,0,0,0,5025
-2015,Virginia,Universities and Colleges,Virginia Western Community College,0,0,0,0,8632
 2015,Virginia,Metropolitan Counties,Amelia,0,0,0,0,
 2015,Virginia,Metropolitan Counties,Amherst,0,0,0,0,
 2015,Virginia,Metropolitan Counties,Augusta,0,0,0,0,
@@ -14625,8 +13730,6 @@
 2015,Washington,Cities,Woodland,0,0,0,0,5748
 2015,Washington,Cities,Yarrow Point,0,0,0,0,1078
 2015,Washington,Cities,Yelm,0,0,0,0,8592
-2015,Washington,Universities and Colleges,Central Washington University,0,0,0,0,11799
-2015,Washington,Universities and Colleges,"Washington State University, Vancouver3",0,0,0,0,
 2015,Washington,Metropolitan Counties,Benton,0,0,0,0,
 2015,Washington,Metropolitan Counties,Chelan,0,0,0,0,
 2015,Washington,Metropolitan Counties,Columbia,0,0,0,0,
@@ -14730,13 +13833,6 @@
 2015,West Virginia,Cities,Williamson,0,0,0,0,3018
 2015,West Virginia,Cities,Williamstown,0, Nan, Nan, Nan,2944
 2015,West Virginia,Cities,Winfield,0,0,0,0,2340
-2015,West Virginia,Universities and Colleges,Fairmont State University,0, Nan, Nan, Nan,4035
-2015,West Virginia,Universities and Colleges,Marshall University,0,0,0, Nan,13381
-2015,West Virginia,Universities and Colleges,Potomac State College,0,0,0,0,1540
-2015,West Virginia,Universities and Colleges,Shepherd University,0,0,0,0,4041
-2015,West Virginia,Universities and Colleges,West Virginia State University,0,0,0,0,2884
-2015,West Virginia,Universities and Colleges,West Virginia Tech,0,0,0,0,1261
-2015,West Virginia,Universities and Colleges,West Virginia University,0,0,0,0,29175
 2015,West Virginia,Metropolitan Counties,Boone,0,0,0,0,
 2015,West Virginia,Metropolitan Counties,Cabell,0,0,0,0,
 2015,West Virginia,Metropolitan Counties,Hampshire,0, Nan, Nan, Nan,
@@ -15178,19 +14274,6 @@
 2015,Wisconsin,Cities,Wisconsin Dells,0,0,0,0,2710
 2015,Wisconsin,Cities,Wisconsin Rapids,0,0,0,0,17869
 2015,Wisconsin,Cities,Woodruff,0,0,0,0,1979
-2015,Wisconsin,Universities and Colleges,University of Wisconsin:, Nan, Nan, Nan, Nan,
-2015,Wisconsin,Universities and Colleges,Eau Claire,0,0,0,0,10721
-2015,Wisconsin,Universities and Colleges,Green Bay,0,0,0,0,6927
-2015,Wisconsin,Universities and Colleges,La Crosse,0,0,0,0,10669
-2015,Wisconsin,Universities and Colleges,Madison,0,0,0,0,42598
-2015,Wisconsin,Universities and Colleges,Milwaukee,0,0,0,0,27596
-2015,Wisconsin,Universities and Colleges,Oshkosh,0,0,0,0,14541
-2015,Wisconsin,Universities and Colleges,Parkside,0,0,0,0,4543
-2015,Wisconsin,Universities and Colleges,River Falls,0,0,0, Nan,6198
-2015,Wisconsin,Universities and Colleges,Stevens Point,0,0,0,0,9330
-2015,Wisconsin,Universities and Colleges,Stout,0,0,0,0,9394
-2015,Wisconsin,Universities and Colleges,Superior,0,0,0,0,2600
-2015,Wisconsin,Universities and Colleges,Whitewater,0,0,0,0,12176
 2015,Wisconsin,Metropolitan Counties,Brown,0,0,0,0,
 2015,Wisconsin,Metropolitan Counties,Calumet,0,0,0,0,
 2015,Wisconsin,Metropolitan Counties,Chippewa,0,0,0,0,
@@ -15297,8 +14380,6 @@
 2015,Wyoming,Cities,Torrington,0,0,0,0,6762
 2015,Wyoming,Cities,Wheatland,0,0,0,0,3666
 2015,Wyoming,Cities,Worland,0,0,0,0,5335
-2015,Wyoming,Universities and Colleges,Northern Wyoming Community College District,0,0,0,0,4374
-2015,Wyoming,Universities and Colleges,University of Wyoming,0,0,0,0,12820
 2015,Wyoming,Metropolitan Counties,Laramie,0,0,0,0,
 2015,Wyoming,Metropolitan Counties,Natrona,0,0,0,0,
 2015,Wyoming,Nonmetropolitan Counties,Albany,0,0,0,0,
