@@ -1,5 +1,3 @@
-2011,Alabama,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Alabama,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Alabama,Cities,Abbeville,1,1,Nan,Nan,2701
 2011,Alabama,Cities,Adamsville,1,Nan,Nan,1,4544
 2011,Alabama,Cities,Alabaster,1,Nan,Nan,Nan,30498
@@ -42,21 +40,15 @@
 2011,Alabama,Cities,Tuscaloosa,1,Nan,2,0,90903
 2011,Alabama,Cities,Tuscumbia,Nan,Nan,Nan,1,8464
 2011,Alabama,Cities,Weaver,Nan,Nan,1,Nan,3053
-2011,Alabama,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Alabama,Metropolitan Counties,Blount,Nan,1,1,Nan,
 2011,Alabama,Metropolitan Counties,Chilton,1,Nan,1,1,
 2011,Alabama,Metropolitan Counties,Madison,Nan,Nan,Nan,1,
 2011,Alabama,Metropolitan Counties,Tuscaloosa,1,1,Nan,1,
-2011,Alabama,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Alabama,Nonmetropolitan Counties,Coosa,1,Nan,Nan,Nan,
 2011,Alabama,Nonmetropolitan Counties,Cullman,Nan,Nan,1,Nan,
 2011,Alabama,Nonmetropolitan Counties,Marengo,Nan,1,Nan,Nan,
 2011,Alabama,Nonmetropolitan Counties,Washington,1,Nan,Nan,1,
-2011,Alaska,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Alaska,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Alaska,Cities,Anchorage,1,1,5,1,296955
-2011,Arizona,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Arizona,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Arizona,Cities,Apache Junction,0,1,0,1,36347
 2011,Arizona,Cities,Avondale,0,1,1,0,77317
 2011,Arizona,Cities,Buckeye,0,3,1,0,51596
@@ -75,19 +67,12 @@
 2011,Arizona,Cities,Tempe,0,2,0,1,164008
 2011,Arizona,Cities,Wickenburg,0,0,1,0,6453
 2011,Arizona,Cities,Yuma,1,1,0,1,94381
-2011,Arizona,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Arizona,Universities and Colleges,Central Arizona College,1,0,0,0,7117
-2011,Arizona,Universities and Colleges,University of Arizona,0,1,1,2,39086
-2011,Arizona,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Arizona,Metropolitan Counties,Maricopa,2,1,1,0,
 2011,Arizona,Metropolitan Counties,Mohave,0,1,0,0,
 2011,Arizona,Metropolitan Counties,Pima,1,2,2,1,
 2011,Arizona,Metropolitan Counties,Pinal,0,1,0,1,
 2011,Arizona,Metropolitan Counties,Yavapai,0,2,0,1,
-2011,Arizona,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Arizona,Other Agencies,Tucson Airport Authority,1,0,0,0,
-2011,Arkansas,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Arkansas,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Arkansas,Cities,Benton,0,0,0,1,30913
 2011,Arkansas,Cities,Conway,0,1,0,0,59354
 2011,Arkansas,Cities,Newport,0,1,0,0,7939
@@ -95,13 +80,9 @@
 2011,Arkansas,Cities,Russellville,0,0,1,0,28131
 2011,Arkansas,Cities,Siloam Springs,1,0,0,0,15153
 2011,Arkansas,Cities,Texarkana,0,1,0,0,30145
-2011,Arkansas,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Arkansas,Metropolitan Counties,Benton,0,1,0,0,
 2011,Arkansas,Metropolitan Counties,Pulaski,1,1,0,0,
-2011,Arkansas,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Arkansas,Nonmetropolitan Counties,Independence,0,0,1,0,
-2011,California,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,California,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,California,Cities,Alhambra,0,0,1,0,84066
 2011,California,Cities,Aliso Viejo,1,0,0,0,48385
 2011,California,Cities,Anaheim,2,0,2,1,340218
@@ -309,29 +290,6 @@
 2011,California,Cities,Whittier,0,0,1,0,86334
 2011,California,Cities,Woodland,0,0,1,0,56120
 2011,California,Cities,Yorba Linda,0,0,0,1,64989
-2011,California,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,California,Universities and Colleges,Allan Hancock College,0,1,0,0,12108
-2011,California,Universities and Colleges,California State University:,Nan,Nan,Nan,Nan,
-2011,California,Universities and Colleges,Long Beach,1,0,0,0,33416
-2011,California,Universities and Colleges,Los Angeles,0,1,0,0,20142
-2011,California,Universities and Colleges,Northridge,1,2,0,1,35272
-2011,California,Universities and Colleges,San Jose4,0,0,1,0,
-2011,California,Universities and Colleges,San Marcos,0,0,0,1,9722
-2011,California,Universities and Colleges,Contra Costa Community College,1,0,0,0,7975
-2011,California,Universities and Colleges,Foothill-De Anza College,1,0,0,0,41104
-2011,California,Universities and Colleges,Humboldt State University,0,1,0,0,7903
-2011,California,Universities and Colleges,Riverside Community College,0,0,0,1,20585
-2011,California,Universities and Colleges,State Center Community College District,1,0,0,0,38821
-2011,California,Universities and Colleges,University of California:,Nan,Nan,Nan,Nan,
-2011,California,Universities and Colleges,Davis,1,0,0,0,31392
-2011,California,Universities and Colleges,Los Angeles,0,1,0,0,38157
-2011,California,Universities and Colleges,"Medical Center, Sacramento4",1,0,0,0,
-2011,California,Universities and Colleges,Riverside,1,0,0,0,20692
-2011,California,Universities and Colleges,San Diego,1,0,0,1,29176
-2011,California,Universities and Colleges,Santa Barbara,0,0,0,1,22218
-2011,California,Universities and Colleges,Santa Cruz,5,4,0,0,17187
-2011,California,Universities and Colleges,West Valley-Mission College,0,0,0,1,22783
-2011,California,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,California,Metropolitan Counties,Alameda,Nan,1,0,0,
 2011,California,Metropolitan Counties,Butte,1,0,1,0,
 2011,California,Metropolitan Counties,Contra Costa,2,1,1,0,
@@ -353,21 +311,17 @@
 2011,California,Metropolitan Counties,Sutter,0,0,0,1,
 2011,California,Metropolitan Counties,Ventura,0,2,2,0,
 2011,California,Metropolitan Counties,Yuba,0,1,0,0,
-2011,California,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,California,Nonmetropolitan Counties,Amador,0,0,0,1,
 2011,California,Nonmetropolitan Counties,Humboldt,0,1,0,0,
 2011,California,Nonmetropolitan Counties,Lake,0,1,1,0,
 2011,California,Nonmetropolitan Counties,Mendocino,1,0,1,0,
 2011,California,Nonmetropolitan Counties,Tuolumne,0,1,0,0,
-2011,California,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,California,Other Agencies,Los Angeles Transportation Services Bureau,1,2,2,Nan,
 2011,California,Other Agencies,Port of San Diego Harbor,0,0,1,0,
 2011,California,Other Agencies,San Francisco Bay Area Rapid Transit:,Nan,Nan,Nan,Nan,
 2011,California,Other Agencies,Alameda County,0,0,3,0,
 2011,California,Other Agencies,Contra Costa County,0,0,1,0,
 2011,California,Other Agencies,Stockton Unified School District,0,0,1,0,
-2011,Colorado,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Colorado,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Colorado,Cities,Alamosa,0,0,2,0,8933
 2011,Colorado,Cities,Aspen3,0,2,0,1,6774
 2011,Colorado,Cities,Aurora,1,0,2,1,330740
@@ -411,25 +365,18 @@
 2011,Colorado,Cities,Sterling,0,0,0,1,15034
 2011,Colorado,Cities,Thornton,0,1,0,1,120841
 2011,Colorado,Cities,Wheat Ridge,0,0,1,0,30691
-2011,Colorado,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Colorado,Universities and Colleges,"Colorado State University, Fort Collins",1,0,0,0,30155
-2011,Colorado,Universities and Colleges,Fort Lewis College,0,0,0,1,3853
-2011,Colorado,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Colorado,Metropolitan Counties,Adams3,0,1,2,1,
 2011,Colorado,Metropolitan Counties,Arapahoe,3,5,1,0,
 2011,Colorado,Metropolitan Counties,Douglas,2,0,0,1,
 2011,Colorado,Metropolitan Counties,Larimer,0,1,2,2,
 2011,Colorado,Metropolitan Counties,Mesa,0,3,0,0,
 2011,Colorado,Metropolitan Counties,Weld,0,0,0,1,
-2011,Colorado,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Colorado,Nonmetropolitan Counties,Huerfano,0,0,0,1,
 2011,Colorado,Nonmetropolitan Counties,Kit Carson,0,1,0,0,
 2011,Colorado,Nonmetropolitan Counties,Logan,0,1,0,0,
 2011,Colorado,Nonmetropolitan Counties,Moffat,0,1,0,0,
 2011,Colorado,Nonmetropolitan Counties,Otero,0,0,1,0,
 2011,Colorado,Nonmetropolitan Counties,Summit,0,2,1,0,
-2011,Connecticut,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Connecticut,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Connecticut,Cities,Bloomfield,2,0,0,0,20524
 2011,Connecticut,Cities,Bridgeport,2,1,1,2,144496
 2011,Connecticut,Cities,Bristol,0,1,0,0,60589
@@ -468,33 +415,18 @@
 2011,Connecticut,Cities,Westport,2,0,0,1,26440
 2011,Connecticut,Cities,Winchester,0,0,0,1,11263
 2011,Connecticut,Cities,Windsor Locks,0,0,0,1,12521
-2011,Connecticut,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Connecticut,Universities and Colleges,Southern Connecticut State University,0,0,1,2,11964
-2011,Connecticut,Universities and Colleges,"University of Connecticut, Storrs, Avery Point, and Hartford4",1,0,0,1,
-2011,Connecticut,Universities and Colleges,Western Connecticut State University,0,0,0,2,6582
-2011,Connecticut,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Connecticut,State Police Agencies,Connecticut State Police,1,5,1,0,
-2011,Delaware,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Delaware,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Delaware,Cities,Camden,1,0,0,0,3499
 2011,Delaware,Cities,Dover,0,1,0,1,36416
 2011,Delaware,Cities,Newark,0,0,0,1,31776
 2011,Delaware,Cities,Wilmington,0,2,1,0,71577
-2011,Delaware,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Delaware,Metropolitan Counties,New Castle County Police Department,1,1,1,1,
-2011,Delaware,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Delaware,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,Delaware,State Police Agencies,Kent County,0,0,1,0,
 2011,Delaware,State Police Agencies,New Castle County,0,2,0,0,
-2011,Delaware,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Delaware,Other Agencies,River and Bay Authority,0,0,1,0,
-2011,District of Columbia,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,District of Columbia,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,District of Columbia,Cities,Washington,16,19,18,26,617996
-2011,District of Columbia,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,District of Columbia,Other Agencies,Metro Transit Police,2,0,1,1,
-2011,Florida,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Florida,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Florida,Cities,Boca Raton,0,2,0,0,85542
 2011,Florida,Cities,Boynton Beach,0,0,2,0,69147
 2011,Florida,Cities,Dania,0,0,1,0,30043
@@ -531,10 +463,6 @@
 2011,Florida,Cities,Weston,0,1,0,0,66223
 2011,Florida,Cities,Wilton Manors,1,0,0,1,11791
 2011,Florida,Cities,Winter Garden,1,0,1,0,35039
-2011,Florida,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Florida,Universities and Colleges,University of Central Florida,0,1,0,0,56106
-2011,Florida,Universities and Colleges,University of Florida,0,1,0,0,49827
-2011,Florida,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Florida,Metropolitan Counties,Baker,1,0,0,0,
 2011,Florida,Metropolitan Counties,Brevard,0,1,0,0,
 2011,Florida,Metropolitan Counties,Charlotte,0,0,0,1,
@@ -553,24 +481,14 @@
 2011,Florida,Metropolitan Counties,Santa Rosa,0,0,0,2,
 2011,Florida,Metropolitan Counties,St. Johns,0,1,1,0,
 2011,Florida,Metropolitan Counties,Volusia,0,0,0,1,
-2011,Florida,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Florida,Nonmetropolitan Counties,Walton,1,0,0,0,
-2011,Florida,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Florida,Other Agencies,Palm Beach County School District,1,0,0,0,
-2011,Georgia,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Georgia,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Georgia,Cities,Athens-Clarke County,2,Nan,Nan,Nan,117114
 2011,Georgia,Cities,Atlanta,1,1,0,0,425533
 2011,Georgia,Cities,Columbus,Nan,2,1,1,192385
 2011,Georgia,Cities,Warner Robins,1,0,0,0,67465
-2011,Georgia,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Georgia,Universities and Colleges,College of Coastal Georgia,0,0,0,1,3438
-2011,Georgia,Universities and Colleges,University of Georgia,0,0,0,1,34677
-2011,Georgia,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Georgia,Metropolitan Counties,Catoosa,0,1,0,0,
 2011,Georgia,Metropolitan Counties,Henry County Police Department,1,0,1,3,
-2011,Idaho,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Idaho,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Idaho,Cities,Boise,1,4,0,4,207945
 2011,Idaho,Cities,Coeur d'Alene,1,2,3,1,44625
 2011,Idaho,Cities,Hailey,0,1,0,0,8048
@@ -580,13 +498,9 @@
 2011,Idaho,Cities,Rathdrum,0,0,1,0,6901
 2011,Idaho,Cities,Rexburg,0,0,0,1,25766
 2011,Idaho,Cities,Twin Falls,0,0,1,1,44613
-2011,Idaho,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Idaho,Metropolitan Counties,Kootenai,0,1,1,1,
-2011,Idaho,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Idaho,Nonmetropolitan Counties,Shoshone,1,0,0,0,
 2011,Idaho,Nonmetropolitan Counties,Teton,1,0,0,0,
-2011,Illinois,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Illinois,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Illinois,Cities,Alton,0,0,0,1,27949
 2011,Illinois,Cities,Arlington Heights,1,0,0,Nan,75327
 2011,Illinois,Cities,Aurora,1,0,1,0,198495
@@ -616,21 +530,14 @@
 2011,Illinois,Cities,Rockford,1,2,3,0,153331
 2011,Illinois,Cities,Springfield,2,1,0,3,116600
 2011,Illinois,Cities,Urbana,1,0,0,1,41374
-2011,Illinois,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Illinois,Universities and Colleges,"University of Illinois, Urbana",0,0,0,1,43862
-2011,Illinois,Universities and Colleges,Western Illinois University,1,Nan,Nan,Nan,12585
-2011,Illinois,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Illinois,Metropolitan Counties,Kane,0,0,1,Nan,
 2011,Illinois,Metropolitan Counties,Kendall,0,1,0,0,
 2011,Illinois,Metropolitan Counties,Lake,0,1,0,0,
 2011,Illinois,Metropolitan Counties,Macon,0,0,2,0,
 2011,Illinois,Metropolitan Counties,Marshall,0,1,0,0,
 2011,Illinois,Metropolitan Counties,Peoria,0,1,0,0,
-2011,Illinois,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Illinois,Nonmetropolitan Counties,Knox,0,0,1,0,
 2011,Illinois,Nonmetropolitan Counties,La Salle,1,0,0,0,
-2011,Indiana,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Indiana,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Indiana,Cities,Bloomington,1,2,0,2,80816
 2011,Indiana,Cities,Franklin,1,2,3,0,23833
 2011,Indiana,Cities,Hammond,0,1,1,0,81243
@@ -643,16 +550,7 @@
 2011,Indiana,Cities,Rushville,1,Nan,Nan,Nan,6373
 2011,Indiana,Cities,Seymour,0,1,0,0,17592
 2011,Indiana,Cities,Walkerton,0,1,0,1,2155
-2011,Indiana,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Indiana,Universities and Colleges,Indiana State University,1,0,1,1,11494
-2011,Indiana,Universities and Colleges,Indiana University:,Nan,Nan,Nan,Nan,
-2011,Indiana,Universities and Colleges,Indianapolis,1,0,0,0,30566
-2011,Indiana,Universities and Colleges,New Albany,2,0,0,0,7178
-2011,Indiana,Universities and Colleges,Purdue University,2,2,1,2,41063
-2011,Indiana,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Indiana,Metropolitan Counties,Elkhart,0,0,3,1,
-2011,Iowa,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Iowa,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Iowa,Cities,Bettendorf,0,0,1,1,33391
 2011,Iowa,Cities,Cedar Rapids,1,0,0,0,126988
 2011,Iowa,Cities,Davenport,0,1,0,0,100207
@@ -660,15 +558,9 @@
 2011,Iowa,Cities,Grinnell,0,0,1,0,9266
 2011,Iowa,Cities,Jefferson,1,0,0,0,4368
 2011,Iowa,Cities,Sioux City,0,0,1,0,83117
-2011,Iowa,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Iowa,Universities and Colleges,Iowa State University,0,0,0,1,28682
-2011,Iowa,Universities and Colleges,University of Iowa,0,2,0,1,29518
-2011,Iowa,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Iowa,Metropolitan Counties,Dubuque,0,1,0,0,
 2011,Iowa,Metropolitan Counties,Johnson,0,0,1,0,
 2011,Iowa,Metropolitan Counties,Polk,0,0,1,0,
-2011,Kansas,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Kansas,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Kansas,Cities,Andover,1,1,1,0,11866
 2011,Kansas,Cities,Atchison,0,0,0,1,11091
 2011,Kansas,Cities,Bel Aire,0,0,1,0,6812
@@ -695,19 +587,12 @@
 2011,Kansas,Cities,Salina,2,2,0,0,48010
 2011,Kansas,Cities,Sterling,0,0,1,0,2343
 2011,Kansas,Cities,Wichita,6,3,6,3,384796
-2011,Kansas,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Kansas,Universities and Colleges,Washburn University,0,0,0,1,7230
-2011,Kansas,Universities and Colleges,Wichita State University,1,0,0,0,14577
-2011,Kansas,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Kansas,Metropolitan Counties,Jefferson,0,0,0,1,
 2011,Kansas,Metropolitan Counties,Johnson,0,0,1,0,
 2011,Kansas,Metropolitan Counties,Sedgwick,1,0,0,0,
 2011,Kansas,Metropolitan Counties,Shawnee,1,0,0,0,
-2011,Kansas,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Kansas,Nonmetropolitan Counties,Ford,0,1,0,0,
 2011,Kansas,Nonmetropolitan Counties,Woodson,0,0,1,0,
-2011,Kentucky,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Kentucky,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Kentucky,Cities,Ashland,1,0,1,1,21834
 2011,Kentucky,Cities,Bardstown,0,0,1,0,11781
 2011,Kentucky,Cities,Bellevue,0,1,0,0,5996
@@ -755,14 +640,6 @@
 2011,Kentucky,Cities,Wilder,0,1,0,0,3056
 2011,Kentucky,Cities,Williamsburg,1,0,0,0,5281
 2011,Kentucky,Cities,Wilmore,0,0,1,0,3711
-2011,Kentucky,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Kentucky,Universities and Colleges,Eastern Kentucky University,0,1,0,0,16567
-2011,Kentucky,Universities and Colleges,Morehead State University,0,0,0,1,8541
-2011,Kentucky,Universities and Colleges,Murray State University,0,0,1,0,10412
-2011,Kentucky,Universities and Colleges,University of Kentucky,2,0,1,0,27108
-2011,Kentucky,Universities and Colleges,University of Louisville,1,0,0,0,21234
-2011,Kentucky,Universities and Colleges,Western Kentucky University,0,0,1,0,20897
-2011,Kentucky,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Kentucky,Metropolitan Counties,Boone,2,1,0,0,
 2011,Kentucky,Metropolitan Counties,Bourbon,0,0,0,1,
 2011,Kentucky,Metropolitan Counties,Christian,0,0,1,1,
@@ -773,7 +650,6 @@
 2011,Kentucky,Metropolitan Counties,Oldham County Police Department,1,0,0,1,
 2011,Kentucky,Metropolitan Counties,Shelby,1,0,0,0,
 2011,Kentucky,Metropolitan Counties,Woodford,0,0,0,1,
-2011,Kentucky,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Kentucky,Nonmetropolitan Counties,Adair,0,1,0,0,
 2011,Kentucky,Nonmetropolitan Counties,Ballard,0,0,0,1,
 2011,Kentucky,Nonmetropolitan Counties,Caldwell,0,0,1,0,
@@ -785,7 +661,6 @@
 2011,Kentucky,Nonmetropolitan Counties,McCracken,0,0,2,1,
 2011,Kentucky,Nonmetropolitan Counties,Ohio,0,2,0,0,
 2011,Kentucky,Nonmetropolitan Counties,Rowan,0,0,1,0,
-2011,Kentucky,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Kentucky,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,Kentucky,State Police Agencies,Dry Ridge,0,0,1,0,
 2011,Kentucky,State Police Agencies,Frankfort,0,0,0,1,
@@ -793,24 +668,17 @@
 2011,Kentucky,State Police Agencies,Mayfield,0,1,0,0,
 2011,Kentucky,State Police Agencies,Morehead,0,0,0,1,
 2011,Kentucky,State Police Agencies,Pikeville,0,0,1,0,
-2011,Kentucky,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Kentucky,Other Agencies,Cincinnati-Northern Kentucky International Airport,1,0,0,0,
 2011,Kentucky,Other Agencies,Greater Hardin County Narcotics Task Force,0,0,0,1,
 2011,Kentucky,Other Agencies,Jefferson County Board of Education,0,1,0,0,
 2011,Kentucky,Other Agencies,"Laurel County Constable, District 1",Nan,Nan,0,1,
 2011,Kentucky,Other Agencies,Ohio County School System,0,1,0,0,
 2011,Kentucky,Other Agencies,Park Security,0,1,0,0,
-2011,Louisiana,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Louisiana,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Louisiana,Cities,Gonzales,0,0,1,0,9870
 2011,Louisiana,Cities,Kenner,1,0,0,0,67312
 2011,Louisiana,Cities,Sterlington,1,0,0,0,1609
-2011,Louisiana,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Louisiana,Metropolitan Counties,Lafayette,1,0,0,0,
-2011,Louisiana,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Louisiana,Nonmetropolitan Counties,Iberia,0,0,1,0,
-2011,Maine,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Maine,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Maine,Cities,Augusta,0,1,1,0,19134
 2011,Maine,Cities,Biddeford,2,2,1,0,21274
 2011,Maine,Cities,Fort Kent,0,0,0,1,4096
@@ -826,16 +694,10 @@
 2011,Maine,Cities,Saco,0,2,1,1,18480
 2011,Maine,Cities,Sanford,0,1,4,0,20795
 2011,Maine,Cities,South Portland,0,1,0,0,24999
-2011,Maine,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Maine,Universities and Colleges,University of Southern Maine,3,1,1,1,9654
-2011,Maine,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Maine,Metropolitan Counties,Androscoggin,0,1,0,0,
 2011,Maine,Metropolitan Counties,Cumberland,0,0,0,1,
 2011,Maine,Metropolitan Counties,York,0,0,1,0,
-2011,Maine,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Maine,State Police Agencies,"State Police, Waldo County",0,0,1,0,
-2011,Maryland,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Maryland,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Maryland,Cities,Baltimore,0,1,2,2,626848
 2011,Maryland,Cities,Bel Air,1,0,0,1,10216
 2011,Maryland,Cities,Bowie,0,1,0,0,55246
@@ -843,9 +705,6 @@
 2011,Maryland,Cities,Crisfield,1,0,0,0,2752
 2011,Maryland,Cities,Cumberland,1,0,0,0,21057
 2011,Maryland,Cities,Laurel,1,0,0,0,25353
-2011,Maryland,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Maryland,Universities and Colleges,Towson University,2,0,0,1,21840
-2011,Maryland,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Maryland,Metropolitan Counties,Anne Arundel County Police Department,0,0,1,0,
 2011,Maryland,Metropolitan Counties,Baltimore County Police Department,1,3,0,2,
 2011,Maryland,Metropolitan Counties,Carroll,0,1,0,0,
@@ -855,12 +714,9 @@
 2011,Maryland,Metropolitan Counties,Montgomery County Police Department,0,6,5,3,
 2011,Maryland,Metropolitan Counties,Prince George's County Police Department,0,1,0,0,
 2011,Maryland,Metropolitan Counties,Wicomico,0,1,0,0,
-2011,Maryland,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Maryland,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,Maryland,State Police Agencies,Carroll County,1,1,0,0,
 2011,Maryland,State Police Agencies,Cecil County,0,1,0,0,
-2011,Massachusetts,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Massachusetts,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Massachusetts,Cities,Acton,1,1,4,0,22058
 2011,Massachusetts,Cities,Amesbury,0,0,0,1,16382
 2011,Massachusetts,Cities,Amherst,0,0,0,1,38050
@@ -930,22 +786,7 @@
 2011,Massachusetts,Cities,Williamstown,0,0,0,1,7801
 2011,Massachusetts,Cities,Wilmington,0,0,1,0,22461
 2011,Massachusetts,Cities,Worcester,0,2,1,1,182145
-2011,Massachusetts,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Massachusetts,Universities and Colleges,Boston University,0,2,0,0,32727
-2011,Massachusetts,Universities and Colleges,Clark University,0,1,Nan,1,3451
-2011,Massachusetts,Universities and Colleges,Hampshire College,0,0,1,0,1529
-2011,Massachusetts,Universities and Colleges,Harvard University,0,3,0,3,27594
-2011,Massachusetts,Universities and Colleges,Massachusetts Institute of Technology,1,0,0,1,10566
-2011,Massachusetts,Universities and Colleges,Northeastern University,1,0,1,2,29519
-2011,Massachusetts,Universities and Colleges,University of Massachusetts: ,Nan,Nan,Nan,Nan,
-2011,Massachusetts,Universities and Colleges,Amherst,1,1,1,0,27569
-2011,Massachusetts,Universities and Colleges,Dartmouth,0,1,0,0,9432
-2011,Massachusetts,Universities and Colleges,"Harbor Campus, Boston",1,0,0,0,15454
-2011,Massachusetts,Universities and Colleges,Western New England University,0,1,0,0,3734
-2011,Massachusetts,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Massachusetts,Other Agencies,"Massachusetts Bay Transportation Authority, Suffolk County",0,0,1,0,
-2011,Michigan,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Michigan,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Michigan,Cities,Adrian,1,0,0,0,21117
 2011,Michigan,Cities,Albion,0,1,0,0,8610
 2011,Michigan,Cities,Algonac,0,0,0,1,4107
@@ -1054,16 +895,6 @@
 2011,Michigan,Cities,Wolverine Lake,0,1,0,0,4309
 2011,Michigan,Cities,Wyoming,2,2,1,0,72071
 2011,Michigan,Cities,Ypsilanti,0,0,0,3,19420
-2011,Michigan,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Michigan,Universities and Colleges,Eastern Michigan University,0,0,1,0,23565
-2011,Michigan,Universities and Colleges,Grand Rapids Community College,1,0,1,0,17870
-2011,Michigan,Universities and Colleges,Michigan State University,0,0,0,3,46985
-2011,Michigan,Universities and Colleges,Oakland Community College,0,1,0,0,28925
-2011,Michigan,Universities and Colleges,University of Michigan:,Nan,Nan,Nan,Nan,
-2011,Michigan,Universities and Colleges,Ann Arbor,0,1,1,1,41924
-2011,Michigan,Universities and Colleges,Flint,0,1,0,0,8138
-2011,Michigan,Universities and Colleges,Western Michigan University,0,1,0,0,25045
-2011,Michigan,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Michigan,Metropolitan Counties,Calhoun,1,0,0,0,
 2011,Michigan,Metropolitan Counties,Eaton,0,0,1,0,
 2011,Michigan,Metropolitan Counties,Jackson,1,1,0,1,
@@ -1077,21 +908,16 @@
 2011,Michigan,Metropolitan Counties,Van Buren,0,0,0,3,
 2011,Michigan,Metropolitan Counties,Washtenaw,0,2,1,0,
 2011,Michigan,Metropolitan Counties,Wayne,0,0,1,0,
-2011,Michigan,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Michigan,Nonmetropolitan Counties,Grand Traverse,0,1,0,0,
 2011,Michigan,Nonmetropolitan Counties,Montcalm,0,0,0,1,
 2011,Michigan,Nonmetropolitan Counties,Ogemaw,0,0,0,1,
 2011,Michigan,Nonmetropolitan Counties,Ontonagon,0,1,0,0,
 2011,Michigan,Nonmetropolitan Counties,Presque Isle,0,0,0,1,
 2011,Michigan,Nonmetropolitan Counties,Tuscola,0,0,0,1,
-2011,Michigan,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Michigan,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,Michigan,State Police Agencies,Saginaw County,1,0,0,0,
 2011,Michigan,State Police Agencies,Van Buren County,1,0,0,0,
-2011,Michigan,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Michigan,Other Agencies,"Huron-Clinton Metropolitan Authority, Stony Creek Metropark",0,0,1,0,
-2011,Minnesota,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Minnesota,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Minnesota,Cities,Albert Lea,0,Nan,1,Nan,18155
 2011,Minnesota,Cities,Bemidji,0,1,Nan,1,13535
 2011,Minnesota,Cities,Benson,0,1,Nan,Nan,3265
@@ -1130,19 +956,13 @@
 2011,Minnesota,Cities,St. Louis Park,2,2,3,1,45599
 2011,Minnesota,Cities,St. Paul,5,5,Nan,2,287665
 2011,Minnesota,Cities,Worthington,1,Nan,1,Nan,12863
-2011,Minnesota,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Minnesota,Metropolitan Counties,Carlton,1,Nan,Nan,Nan,
 2011,Minnesota,Metropolitan Counties,Olmsted,0,Nan,Nan,1,
 2011,Minnesota,Metropolitan Counties,Washington,Nan,1,Nan,Nan,
 2011,Minnesota,Metropolitan Counties,Wright,0,Nan,1,Nan,
-2011,Minnesota,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Minnesota,Nonmetropolitan Counties,McLeod,Nan,Nan,1,Nan,
 2011,Minnesota,Nonmetropolitan Counties,Mille Lacs,Nan,Nan,Nan,2,
-2011,Mississippi,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Mississippi,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Mississippi,Cities,Gulfport,0,0,1,0,68049
-2011,Missouri,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Missouri,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Missouri,Cities,Branson,0,1,0,0,10558
 2011,Missouri,Cities,Breckenridge Hills,0,0,0,1,4763
 2011,Missouri,Cities,Columbia,3,2,Nan,1,108894
@@ -1172,49 +992,27 @@
 2011,Missouri,Cities,Warrensburg,0,1,0,0,18906
 2011,Missouri,Cities,Waynesville,0,1,0,0,4848
 2011,Missouri,Cities,Woodson Terrace,1,0,0,0,4078
-2011,Missouri,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Missouri,Universities and Colleges,Lincoln University,0,0,0,2,3349
-2011,Missouri,Universities and Colleges,University of Missouri:,Nan,Nan,Nan,Nan,
-2011,Missouri,Universities and Colleges,Columbia,Nan,0,0,1,32341
-2011,Missouri,Universities and Colleges,Kansas City,0,0,1,0,15259
-2011,Missouri,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Missouri,Metropolitan Counties,St. Charles,0,0,2,0,
 2011,Missouri,Metropolitan Counties,St. Louis County Police Department,1,1,4,1,
-2011,Montana,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Montana,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Montana,Cities,Billings,3,3,4,2,105095
 2011,Montana,Cities,Kalispell,0,1,0,0,20104
 2011,Montana,Cities,Missoula,0,0,3,0,67381
 2011,Montana,Cities,Polson,0,0,0,1,4528
-2011,Montana,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Montana,Universities and Colleges,Montana State University,0,0,0,1,13081
-2011,Montana,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Montana,Metropolitan Counties,Missoula,0,0,1,0,
 2011,Montana,Metropolitan Counties,Yellowstone,0,1,0,0,
-2011,Montana,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Montana,Nonmetropolitan Counties,Gallatin,0,0,1,0,
 2011,Montana,Nonmetropolitan Counties,Ravalli,1,0,1,0,
-2011,Nebraska,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Nebraska,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Nebraska,Cities,Crete,0,0,0,1,7022
 2011,Nebraska,Cities,Grand Island,0,0,0,1,48953
 2011,Nebraska,Cities,Kearney,0,0,0,1,31062
 2011,Nebraska,Cities,Lincoln,7,6,8,2,260685
 2011,Nebraska,Cities,Omaha,3,1,2,2,412608
 2011,Nebraska,Cities,Papillion,0,0,1,0,19063
-2011,Nebraska,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Nebraska,Nonmetropolitan Counties,Sherman,0,0,1,0,
-2011,Nevada,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Nevada,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Nevada,Cities,Henderson,0,3,0,0,259902
 2011,Nevada,Cities,Las Vegas Metropolitan Police Department,8,15,15,14,1458474
 2011,Nevada,Cities,West Wendover,2,0,0,0,4447
-2011,Nevada,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Nevada,Universities and Colleges,"University of Nevada, Las Vegas",0,0,0,1,28203
-2011,Nevada,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Nevada,Nonmetropolitan Counties,Nye,1,0,0,0,
-2011,New Hampshire,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,New Hampshire,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New Hampshire,Cities,Bedford,1,0,1,Nan,21231
 2011,New Hampshire,Cities,Candia,0,0,1,0,3914
 2011,New Hampshire,Cities,Concord,0,1,1,1,42751
@@ -1229,8 +1027,6 @@
 2011,New Hampshire,Cities,Raymond,0,1,0,0,10151
 2011,New Hampshire,Cities,Rye,0,0,1,0,5305
 2011,New Hampshire,Cities,Winchester,0,1,1,0,4347
-2011,New Jersey,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,New Jersey,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New Jersey,Cities,Aberdeen Township,3,4,1,3,18271
 2011,New Jersey,Cities,Alpine,0,0,0,1,1855
 2011,New Jersey,Cities,Asbury Park,0,1,0,1,16170
@@ -1388,21 +1184,15 @@
 2011,New Jersey,Cities,Winslow Township,2,1,0,1,39630
 2011,New Jersey,Cities,Woodbridge Township,1,0,1,1,99915
 2011,New Jersey,Cities,Woodbury,2,4,0,1,10208
-2011,New Jersey,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New Jersey,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,New Jersey,State Police Agencies,Atlantic County,1,0,0,1,
 2011,New Jersey,State Police Agencies,Burlington County,1,0,0,0,
 2011,New Jersey,State Police Agencies,Cumberland County,0,0,0,1,
 2011,New Jersey,State Police Agencies,Hunterdon County,0,0,0,1,
 2011,New Jersey,State Police Agencies,Sussex County,1,0,1,0,
-2011,New Mexico,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,New Mexico,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New Mexico,Cities,Albuquerque,5,9,7,3,551961
 2011,New Mexico,Cities,Espanola,1,0,0,0,10338
-2011,New Mexico,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New Mexico,Metropolitan Counties,Bernalillo,0,2,1,0,
-2011,New York,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,New York,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New York,Cities,Albany,1,3,1,Nan,98296
 2011,New York,Cities,Ballston Spa Village,0,1,0,0,5433
 2011,New York,Cities,Binghamton,1,0,0,0,47589
@@ -1460,31 +1250,15 @@
 2011,New York,Cities,White Plains,1,1,0,0,57109
 2011,New York,Cities,Yonkers,0,3,1,15,196857
 2011,New York,Cities,Yorktown Town,0,0,0,1,36243
-2011,New York,University and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,New York,University and Colleges,"State University of New York, Albany",0,2,Nan,Nan,17615
-2011,New York,University and Colleges,"State University of New York Agricultural and Technical College, Morrisville",0,0,0,2,3454
-2011,New York,University and Colleges,State University of New York College:,Nan,Nan,Nan,Nan,
-2011,New York,University and Colleges,Brockport,Nan,Nan,Nan,1,8589
-2011,New York,University and Colleges,Buffalo,0,2,0,0,12419
-2011,New York,University and Colleges,Geneseo,2,0,0,0,5665
-2011,New York,University and Colleges,New Paltz4,0,0,Nan,3,
-2011,New York,University and Colleges,Oneonta,0,0,2,3,5989
-2011,New York,University and Colleges,Oswego,1,0,Nan,Nan,8297
-2011,New York,University and Colleges,Plattsburgh,2,0,Nan,0,6441
-2011,New York,University and Colleges,Potsdam,0,0,0,1,4413
-2011,New York,University and Colleges,Purchase,0,1,1,0,4167
-2011,New York,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New York,Metropolitan Counties,Erie,0,0,0,1,
 2011,New York,Metropolitan Counties,Monroe,0,0,2,1,
 2011,New York,Metropolitan Counties,Nassau,6,17,13,21,
 2011,New York,Metropolitan Counties,Niagara,0,0,1,0,
 2011,New York,Metropolitan Counties,Suffolk County Police Department,7,10,8,12,
 2011,New York,Metropolitan Counties,Wayne,0,0,1,Nan,
-2011,New York,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New York,Nonmetropolitan Counties,Cattaraugus,0,1,Nan,Nan,
 2011,New York,Nonmetropolitan Counties,Otsego,0,1,0,0,
 2011,New York,Nonmetropolitan Counties,Schuyler,Nan,1,Nan,0,
-2011,New York,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New York,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,New York,State Police Agencies,Albany County,0,1,0,0,
 2011,New York,State Police Agencies,Clinton County,0,1,0,1,
@@ -1495,10 +1269,7 @@
 2011,New York,State Police Agencies,Rensselaer County,0,1,0,0,
 2011,New York,State Police Agencies,Saratoga County,0,1,0,0,
 2011,New York,State Police Agencies,Ulster County,0,1,0,0,
-2011,New York,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,New York,Other Agencies,New York City Metropolitan Transportation Authority,12,8,3,8,
-2011,North Carolina,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,North Carolina,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,North Carolina,Cities,Albemarle,1,0,0,0,16105
 2011,North Carolina,Cities,Archdale,1,0,0,0,11560
 2011,North Carolina,Cities,Asheville,3,0,3,1,84450
@@ -1532,11 +1303,6 @@
 2011,North Carolina,Cities,Wadesboro,0,0,0,1,5887
 2011,North Carolina,Cities,Williamston,0,0,0,1,5581
 2011,North Carolina,Cities,Wrightsville Beach,0,0,1,0,2508
-2011,North Carolina,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,North Carolina,Universities and Colleges,Appalachian State University,0,1,0,0,17222
-2011,North Carolina,Universities and Colleges,"North Carolina State University, Raleigh",0,0,0,1,34376
-2011,North Carolina,Universities and Colleges,"University of North Carolina, Charlotte",0,2,0,0,25063
-2011,North Carolina,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,North Carolina,Metropolitan Counties,Anson,0,0,0,1,
 2011,North Carolina,Metropolitan Counties,Buncombe,1,1,2,0,
 2011,North Carolina,Metropolitan Counties,Catawba,0,0,1,0,
@@ -1546,25 +1312,18 @@
 2011,North Carolina,Metropolitan Counties,Guilford,1,0,0,0,
 2011,North Carolina,Metropolitan Counties,Pitt,0,2,1,3,
 2011,North Carolina,Metropolitan Counties,Union,0,1,0,0,
-2011,North Carolina,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,North Carolina,Nonmetropolitan Counties,Clay,0,0,1,0,
 2011,North Carolina,Nonmetropolitan Counties,Lenoir,0,0,1,0,
 2011,North Carolina,Nonmetropolitan Counties,Rutherford,1,0,0,0,
 2011,North Carolina,Nonmetropolitan Counties,Transylvania,1,0,0,0,
-2011,North Dakota,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,North Dakota,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,North Dakota,Cities,Bismarck,1,0,0,3,62305
 2011,North Dakota,Cities,Fargo,0,2,3,2,107329
 2011,North Dakota,Cities,Grand Forks,2,0,1,0,53729
 2011,North Dakota,Cities,Mandan,0,1,0,2,18640
 2011,North Dakota,Cities,Minot,0,0,0,1,41577
 2011,North Dakota,Cities,West Fargo,1,2,1,2,26266
-2011,North Dakota,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,North Dakota,Metropolitan Counties,Morton,1,1,0,0,
-2011,North Dakota,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,North Dakota,Nonmetropolitan Counties,Adams,0,0,1,0,
-2011,Ohio,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Ohio,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Ohio,Cities,Akron,3,5,2,6,199256
 2011,Ohio,Cities,Alliance,Nan,1,Nan,Nan,22338
 2011,Ohio,Cities,Athens,1,0,0,0,23849
@@ -1633,10 +1392,6 @@
 2011,Ohio,Cities,Wilmington,0,0,0,2,12529
 2011,Ohio,Cities,Wooster,0,0,0,1,26138
 2011,Ohio,Cities,Xenia,0,0,0,1,25738
-2011,Ohio,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Ohio,Universities and Colleges,Bowling Green State University,0,0,1,0,17706
-2011,Ohio,Universities and Colleges,"Ohio State University, Columbus",1,2,0,0,56064
-2011,Ohio,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Ohio,Metropolitan Counties,Butler,0,2,1,1,
 2011,Ohio,Metropolitan Counties,Franklin,0,1,0,0,
 2011,Ohio,Metropolitan Counties,Greene,0,1,0,1,
@@ -1644,15 +1399,12 @@
 2011,Ohio,Metropolitan Counties,Madison,0,0,1,0,
 2011,Ohio,Metropolitan Counties,Montgomery,1,0,1,0,
 2011,Ohio,Metropolitan Counties,Richland,2,0,0,0,
-2011,Ohio,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Ohio,Nonmetropolitan Counties,Ashland,0,0,0,1,
 2011,Ohio,Nonmetropolitan Counties,Coshocton,3,1,0,0,
 2011,Ohio,Nonmetropolitan Counties,Holmes,0,0,0,1,
 2011,Ohio,Nonmetropolitan Counties,Logan,0,1,0,0,
 2011,Ohio,Nonmetropolitan Counties,Marion,0,0,2,0,
 2011,Ohio,Nonmetropolitan Counties,Ross,0,2,0,2,
-2011,Oklahoma,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Oklahoma,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Oklahoma,Cities,Chickasha,0,0,1,0,16208
 2011,Oklahoma,Cities,Coweta,0,0,0,1,10049
 2011,Oklahoma,Cities,Dewey,0,0,1,0,3469
@@ -1665,16 +1417,11 @@
 2011,Oklahoma,Cities,Pauls Valley,0,0,1,0,6253
 2011,Oklahoma,Cities,Sapulpa,0,1,0,0,20764
 2011,Oklahoma,Cities,Stroud,0,1,0,0,2719
-2011,Oklahoma,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Oklahoma,Metropolitan Counties,McClain,0,1,0,1,
 2011,Oklahoma,Metropolitan Counties,Tulsa,0,0,0,1,
-2011,Oklahoma,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Oklahoma,Nonmetropolitan Counties,Pottawatomie,1,0,0,0,
 2011,Oklahoma,Nonmetropolitan Counties,Tillman,0,0,0,1,
-2011,Oklahoma,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Oklahoma,Other Agencies,Putnam City Campus,0,0,1,0,
-2011,Oregon,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Oregon,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Oregon,Cities,Albany,Nan,1,Nan,Nan,50692
 2011,Oregon,Cities,Ashland,1,0,0,0,20292
 2011,Oregon,Cities,Beaverton,5,4,2,2,90759
@@ -1696,19 +1443,14 @@
 2011,Oregon,Cities,Tigard,0,6,4,0,48546
 2011,Oregon,Cities,Toledo,1,0,0,1,3502
 2011,Oregon,Cities,Woodburn,0,0,1,0,24336
-2011,Oregon,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Oregon,Metropolitan Counties,Clackamas,1,Nan,Nan,Nan,
 2011,Oregon,Metropolitan Counties,Deschutes,1,1,0,0,
 2011,Oregon,Metropolitan Counties,Jackson,0,0,0,1,
 2011,Oregon,Metropolitan Counties,Lane,1,0,1,0,
 2011,Oregon,Metropolitan Counties,Yamhill,2,1,1,1,
-2011,Oregon,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Oregon,Nonmetropolitan Counties,Douglas,1,0,0,0,
 2011,Oregon,Nonmetropolitan Counties,Lincoln,0,1,0,0,
-2011,Oregon,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Oregon,State Police Agencies,"State Police, Marion County",Nan,Nan,1,Nan,
-2011,Pennsylvania,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Pennsylvania,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Pennsylvania,Cities,"Abington Township, Montgomery County",0,1,1,0,55486
 2011,Pennsylvania,Cities,Carlisle,0,0,1,0,18742
 2011,Pennsylvania,Cities,Cheltenham Township,0,0,1,0,36910
@@ -1724,23 +1466,15 @@
 2011,Pennsylvania,Cities,Pittsburgh,3,3,3,4,308609
 2011,Pennsylvania,Cities,Reading,Nan,0,1,0,88363
 2011,Pennsylvania,Cities,York Area Regional,0,0,1,1,60596
-2011,Pennsylvania,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Pennsylvania,Universities and Colleges,"Pennsylvania State University, University Park",0,0,4,0,45233
-2011,Pennsylvania,Universities and Colleges,West Chester University,0,1,0,0,14490
-2011,Pennsylvania,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Pennsylvania,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,Pennsylvania,State Police Agencies,Chester County,1,0,0,Nan,
 2011,Pennsylvania,State Police Agencies,Lancaster County,0,0,1,0,
 2011,Pennsylvania,State Police Agencies,Monroe County,1,Nan,0,0,
-2011,Rhode Island,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Rhode Island,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Rhode Island,Cities,Johnston,1,0,1,1,28734
 2011,Rhode Island,Cities,Pawtucket,1,0,2,2,71062
 2011,Rhode Island,Cities,Providence,0,1,9,Nan,177830
 2011,Rhode Island,Cities,West Warwick,0,0,1,0,29156
 2011,Rhode Island,Cities,Woonsocket,0,0,1,0,41137
-2011,South Carolina,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,South Carolina,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,South Carolina,Cities,Abbeville,0,0,1,0,5298
 2011,South Carolina,Cities,Aiken,0,0,1,0,29868
 2011,South Carolina,Cities,Allendale,0,0,1,0,3523
@@ -1788,9 +1522,6 @@
 2011,South Carolina,Cities,Westminster,0,1,0,0,2446
 2011,South Carolina,Cities,Winnsboro,0,0,2,3,3591
 2011,South Carolina,Cities,York,1,0,0,0,7826
-2011,South Carolina,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,South Carolina,Universities and Colleges,College of Charleston,2,2,0,2,11532
-2011,South Carolina,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,South Carolina,Metropolitan Counties,Anderson,0,2,1,1,
 2011,South Carolina,Metropolitan Counties,Berkeley,0,1,0,0,
 2011,South Carolina,Metropolitan Counties,Fairfield,0,0,2,0,
@@ -1798,7 +1529,6 @@
 2011,South Carolina,Metropolitan Counties,Horry County Police Department,0,0,2,3,
 2011,South Carolina,Metropolitan Counties,Pickens,0,1,0,3,
 2011,South Carolina,Metropolitan Counties,Richland,2,1,0,2,
-2011,South Carolina,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,South Carolina,Nonmetropolitan Counties,Abbeville,1,1,3,3,
 2011,South Carolina,Nonmetropolitan Counties,Chester,1,0,0,1,
 2011,South Carolina,Nonmetropolitan Counties,Chesterfield,0,0,1,0,
@@ -1808,21 +1538,14 @@
 2011,South Carolina,Nonmetropolitan Counties,Lee,0,0,1,0,
 2011,South Carolina,Nonmetropolitan Counties,Union,0,1,0,0,
 2011,South Carolina,Nonmetropolitan Counties,Williamsburg,0,1,1,0,
-2011,South Carolina,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,South Carolina,State Police Agencies,"Highway Patrol, Anderson County",0,0,1,0,
-2011,South Dakota,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,South Dakota,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,South Dakota,Cities,Aberdeen,0,0,1,0,26408
 2011,South Dakota,Cities,Rapid City,0,0,0,1,68782
 2011,South Dakota,Cities,Sioux Falls,3,4,3,3,155760
 2011,South Dakota,Cities,Yankton,1,2,0,0,14630
-2011,South Dakota,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,South Dakota,Metropolitan Counties,Pennington,0,0,0,1,
-2011,South Dakota,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,South Dakota,Nonmetropolitan Counties,Codington,1,0,0,0,
 2011,South Dakota,Nonmetropolitan Counties,Yankton,1,0,0,0,
-2011,Tennessee,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Tennessee,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Tennessee,Cities,Alamo,0,0,1,0,2483
 2011,Tennessee,Cities,Alcoa,0,0,0,1,8525
 2011,Tennessee,Cities,Bartlett,0,0,0,1,55106
@@ -1866,9 +1589,6 @@
 2011,Tennessee,Cities,Vonore,1,0,0,0,1487
 2011,Tennessee,Cities,White House,0,1,0,0,10348
 2011,Tennessee,Cities,Winchester,0,0,0,2,8607
-2011,Tennessee,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Tennessee,Universities and Colleges,Middle Tennessee State University,0,0,1,0,26430
-2011,Tennessee,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Tennessee,Metropolitan Counties,Anderson,1,0,0,0,
 2011,Tennessee,Metropolitan Counties,Blount,0,1,0,0,
 2011,Tennessee,Metropolitan Counties,Cheatham,1,0,0,0,
@@ -1883,14 +1603,10 @@
 2011,Tennessee,Metropolitan Counties,Sumner,0,0,1,0,
 2011,Tennessee,Metropolitan Counties,Washington,0,0,2,0,
 2011,Tennessee,Metropolitan Counties,Wilson,0,0,2,0,
-2011,Tennessee,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Tennessee,Nonmetropolitan Counties,Benton,0,1,0,0,
 2011,Tennessee,Nonmetropolitan Counties,Gibson,0,0,0,1,
 2011,Tennessee,Nonmetropolitan Counties,Maury,0,0,0,1,
-2011,Tennessee,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Tennessee,Other Agencies,Tennessee Bureau of Investigation,1,0,0,0,
-2011,Texas,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Texas,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Texas,Cities,Allen,0,0,1,0,86019
 2011,Texas,Cities,Alvin,1,0,0,0,24746
 2011,Texas,Cities,Anthony,0,1,0,0,5116
@@ -1941,17 +1657,10 @@
 2011,Texas,Cities,West Tawakoni,1,0,0,0,1609
 2011,Texas,Cities,Wichita Falls,0,1,2,0,106753
 2011,Texas,Cities,Wylie,1,0,0,0,42299
-2011,Texas,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Texas,Universities and Colleges,Sul Ross State University,0,0,1,0,3129
-2011,Texas,Universities and Colleges,"Texas State Technical College, Waco",0,1,0,0,4975
-2011,Texas,Universities and Colleges,"University of Texas, Austin",1,1,0,0,51195
-2011,Texas,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Texas,Metropolitan Counties,Comal,0,0,1,1,
 2011,Texas,Metropolitan Counties,Potter,1,0,0,0,
 2011,Texas,Metropolitan Counties,Wichita,1,0,0,0,
 2011,Texas,Metropolitan Counties,Williamson,1,0,0,0,
-2011,Utah,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Utah,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Utah,Cities,Bountiful,1,1,1,1,43373
 2011,Utah,Cities,Brigham City,0,0,1,0,18244
 2011,Utah,Cities,Centerville,0,0,1,0,15631
@@ -1974,29 +1683,19 @@
 2011,Utah,Cities,West Bountiful,1,0,0,0,5367
 2011,Utah,Cities,West Jordan,0,2,0,0,105713
 2011,Utah,Cities,West Valley,0,5,1,0,131979
-2011,Utah,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Utah,Universities and Colleges,University of Utah,1,1,1,0,30819
-2011,Utah,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Utah,Metropolitan Counties,Salt Lake County Unified Police Department,0,0,4,8,
 2011,Utah,Metropolitan Counties,Tooele,0,1,0,0,
 2011,Utah,Metropolitan Counties,Washington,0,0,2,0,
-2011,Utah,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Utah,Nonmetropolitan Counties,Duchesne,1,1,0,0,
 2011,Utah,Nonmetropolitan Counties,Uintah,0,0,0,1,
-2011,Utah,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Utah,Other Agencies,Utah Transit Authority,0,0,1,1,
-2011,Vermont,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Vermont,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Vermont,Cities,Berlin,0,0,0,1,2890
 2011,Vermont,Cities,Brattleboro,0,0,1,0,12059
 2011,Vermont,Cities,Burlington,0,0,1,Nan,42464
 2011,Vermont,Cities,Colchester,0,1,1,0,17086
 2011,Vermont,Cities,Swanton,0,0,1,0,6434
-2011,Vermont,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Vermont,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,Vermont,State Police Agencies,St. Albans,0,0,1,0,
-2011,Virginia,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Virginia,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Virginia,Cities,Alexandria,0,1,1,1,141638
 2011,Virginia,Cities,Bedford,0,1,0,0,6296
 2011,Virginia,Cities,Big Stone Gap,0,0,0,1,5681
@@ -2021,17 +1720,6 @@
 2011,Virginia,Cities,Suffolk,0,1,0,0,85595
 2011,Virginia,Cities,Vinton,0,0,0,1,8195
 2011,Virginia,Cities,Virginia Beach,4,5,4,3,443226
-2011,Virginia,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Virginia,Universities and Colleges,College of William and Mary,0,0,2,0,8000
-2011,Virginia,Universities and Colleges,George Mason University,0,2,0,0,32562
-2011,Virginia,Universities and Colleges,J. Sargeant Reynolds Community College,1,0,0,0,12629
-2011,Virginia,Universities and Colleges,Longwood University,0,0,1,0,4831
-2011,Virginia,Universities and Colleges,Northern Virginia Community College,0,2,0,1,48996
-2011,Virginia,Universities and Colleges,Radford University,0,0,0,1,9007
-2011,Virginia,Universities and Colleges,University of Richmond,0,0,0,1,4405
-2011,Virginia,Universities and Colleges,University of Virginia,1,0,0,0,24391
-2011,Virginia,Universities and Colleges,Virginia State University,0,0,1,0,5634
-2011,Virginia,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Virginia,Metropolitan Counties,Albemarle County Police Department,3,4,1,2,
 2011,Virginia,Metropolitan Counties,Appomattox,0,1,0,0,
 2011,Virginia,Metropolitan Counties,Arlington County Police Department,0,3,1,0,
@@ -2050,13 +1738,9 @@
 2011,Virginia,Metropolitan Counties,Sussex,1,0,0,0,
 2011,Virginia,Metropolitan Counties,Washington,0,0,0,1,
 2011,Virginia,Metropolitan Counties,York,0,0,0,4,
-2011,Virginia,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Virginia,Nonmetropolitan Counties,King George,0,0,1,0,
 2011,Virginia,Nonmetropolitan Counties,Southampton,1,0,1,0,
-2011,Virginia,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Virginia,Other Agencies,Virginia State Capitol,0,0,0,1,
-2011,Washington,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Washington,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Washington,Cities,Anacortes,0,0,2,0,16026
 2011,Washington,Cities,Bainbridge Island,0,0,1,0,23386
 2011,Washington,Cities,Bellevue,2,4,6,0,124283
@@ -2106,14 +1790,6 @@
 2011,Washington,Cities,Walla Walla,1,3,1,0,32229
 2011,Washington,Cities,Woodinville,0,1,0,1,11110
 2011,Washington,Cities,Yakima,3,2,1,1,92496
-2011,Washington,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Washington,Universities and Colleges,Central Washington University,0,0,0,1,11614
-2011,Washington,Universities and Colleges,Evergreen State College,0,0,0,1,4833
-2011,Washington,Universities and Colleges,University of Washington,0,1,2,1,42451
-2011,Washington,Universities and Colleges,Washington State University:,Nan,Nan,Nan,Nan,
-2011,Washington,Universities and Colleges,Pullman,0,0,0,1,26308
-2011,Washington,Universities and Colleges,Vancouver4,0,0,1,0,
-2011,Washington,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Washington,Metropolitan Counties,Chelan,0,0,1,0,
 2011,Washington,Metropolitan Counties,Clark,1,2,3,2,
 2011,Washington,Metropolitan Counties,Cowlitz,0,0,0,1,
@@ -2123,16 +1799,12 @@
 2011,Washington,Metropolitan Counties,Skagit,0,1,1,0,
 2011,Washington,Metropolitan Counties,Spokane,0,1,1,0,
 2011,Washington,Metropolitan Counties,Thurston,5,0,2,1,
-2011,Washington,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Washington,Nonmetropolitan Counties,Clallam,1,0,0,0,
 2011,Washington,Nonmetropolitan Counties,Lewis,0,0,1,0,
 2011,Washington,Nonmetropolitan Counties,Mason,0,0,0,1,
 2011,Washington,Nonmetropolitan Counties,San Juan,0,1,0,0,
 2011,Washington,Nonmetropolitan Counties,Walla Walla,0,0,0,1,
-2011,Washington,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Washington,Other Agencies,Port of Seattle,0,1,0,0,
-2011,West Virginia,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,West Virginia,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,West Virginia,Cities,Charleston,0,0,1,0,51466
 2011,West Virginia,Cities,Fairmont,0,1,1,0,18728
 2011,West Virginia,Cities,Moorefield,0,0,1,0,2547
@@ -2140,19 +1812,12 @@
 2011,West Virginia,Cities,Princeton,0,0,1,0,6440
 2011,West Virginia,Cities,Weirton,1,0,0,0,19771
 2011,West Virginia,Cities,Wheeling,1,0,0,0,28522
-2011,West Virginia,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,West Virginia,Universities and Colleges,West Virginia University,1,1,0,0,29306
-2011,West Virginia,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,West Virginia,Metropolitan Counties,Brooke,1,0,0,0,
 2011,West Virginia,Metropolitan Counties,Wood,0,0,1,0,
-2011,West Virginia,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,West Virginia,Nonmetropolitan Counties,Fayette,2,0,0,0,
 2011,West Virginia,Nonmetropolitan Counties,Raleigh,0,0,0,1,
 2011,West Virginia,Nonmetropolitan Counties,Tucker,1,0,0,0,
-2011,West Virginia,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,West Virginia,State Police Agencies,"State Police, Keyser",0,0,1,0,
-2011,Wisconsin,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Wisconsin,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Wisconsin,Cities,Appleton,0,2,0,1,72939
 2011,Wisconsin,Cities,Caledonia,0,1,0,0,24813
 2011,Wisconsin,Cities,Everest,0,Nan,4,0,17111
@@ -2170,15 +1835,11 @@
 2011,Wisconsin,Cities,Seymour,0,0,0,1,3466
 2011,Wisconsin,Cities,Wausau,1,0,0,0,39276
 2011,Wisconsin,Cities,West Allis,0,0,1,0,60674
-2011,Wisconsin,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Wisconsin,Metropolitan Counties,Chippewa,0,2,0,0,
 2011,Wisconsin,Metropolitan Counties,Dane,0,0,1,1,
 2011,Wisconsin,Metropolitan Counties,Kenosha,0,0,0,1,
-2011,Wisconsin,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Wisconsin,Nonmetropolitan Counties,Portage,1,0,0,0,
 2011,Wisconsin,Nonmetropolitan Counties,Sawyer,0,0,1,1,
-2011,Wyoming,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2011,Wyoming,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2011,Wyoming,Cities,Green River,1,0,0,0,12616
 2011,Wyoming,Cities,Riverton,0,0,0,1,10700
 2011,Alabama,Cities,Ashford,0,0,0,0,2158
@@ -2221,9 +1882,6 @@
 2011,Alabama,Cities,Trussville,0,0,0,0,20029
 2011,Alabama,Cities,Valley,Nan,0,Nan,Nan,9570
 2011,Alabama,Cities,Vance,0,0,0,0,1536
-2011,Alabama,Universities and Colleges,Calhoun Community College,0,0,Nan,Nan,12134
-2011,Alabama,Universities and Colleges,Jacksonville State University,0,0,Nan,Nan,9504
-2011,Alabama,Universities and Colleges,University of West Alabama,0,0,0,0,5094
 2011,Alabama,Metropolitan Counties,Geneva,0,0,0,0,
 2011,Alabama,Metropolitan Counties,Lee,0,0,0,0,
 2011,Alabama,Metropolitan Counties,Montgomery,0,0,Nan,0,
@@ -2275,10 +1933,6 @@
 2011,Arizona,Cities,Willcox,0,0,0,0,3810
 2011,Arizona,Cities,Williams,0,0,0,0,3066
 2011,Arizona,Cities,Winslow,0,0,0,0,9792
-2011,Arizona,Universities and Colleges,"Arizona State University, Main Campus",0,0,0,0,70440
-2011,Arizona,Universities and Colleges,Northern Arizona University,0,0,0,0,25197
-2011,Arizona,Universities and Colleges,Pima Community College,0,0,0,0,36823
-2011,Arizona,Universities and Colleges,Yavapai College,0,0,0,0,8410
 2011,Arizona,Metropolitan Counties,Coconino,0,0,0,0,
 2011,Arizona,Metropolitan Counties,Yuma,0,0,0,0,
 2011,Arizona,Nonmetropolitan Counties,Apache,0,0,0,0,
@@ -2457,21 +2111,6 @@
 2011,Arkansas,Cities,West Memphis,0,0,0,0,26444
 2011,Arkansas,Cities,White Hall,0,0,0,0,5568
 2011,Arkansas,Cities,Wynne,0,0,0,0,8430
-2011,Arkansas,Universities and Colleges,Arkansas State University:,Nan,Nan,Nan,Nan,
-2011,Arkansas,Universities and Colleges,Beebe,0,0,0,Nan,4683
-2011,Arkansas,Universities and Colleges,Jonesboro,0,0,0,0,13415
-2011,Arkansas,Universities and Colleges,Arkansas Tech University,0,0,0,0,9815
-2011,Arkansas,Universities and Colleges,Henderson State University,0,0,0,0,3708
-2011,Arkansas,Universities and Colleges,Northwest Arkansas Community College,0,0,0,0,8365
-2011,Arkansas,Universities and Colleges,Southern Arkansas University,0,0,0,0,3379
-2011,Arkansas,Universities and Colleges,Southern Arkansas University Tech,0,0,0,0,1851
-2011,Arkansas,Universities and Colleges,University of Arkansas:,Nan,Nan,Nan,Nan,
-2011,Arkansas,Universities and Colleges,Fayetteville,0,0,0,0,21405
-2011,Arkansas,Universities and Colleges,Little Rock,0,0,0,0,13176
-2011,Arkansas,Universities and Colleges,Medical Sciences,0,0,0,0,2836
-2011,Arkansas,Universities and Colleges,Monticello,0,0,0,0,3638
-2011,Arkansas,Universities and Colleges,Pine Bluff,0,0,0,0,3428
-2011,Arkansas,Universities and Colleges,University of Central Arkansas,0,0,0,0,11444
 2011,Arkansas,Metropolitan Counties,Cleveland,0,0,0,0,
 2011,Arkansas,Metropolitan Counties,Craighead,0,0,0,0,
 2011,Arkansas,Metropolitan Counties,Crawford,0,0,0,0,
@@ -2796,40 +2435,6 @@
 2011,California,Cities,Yuba City,0,0,0,0,65688
 2011,California,Cities,Yucaipa,0,0,0,0,51971
 2011,California,Cities,Yucca Valley,0,0,0,0,20943
-2011,California,Universities and Colleges,California State Polytechnic University:,Nan,Nan,Nan,Nan,
-2011,California,Universities and Colleges,Pomona,0,0,0,0,20747
-2011,California,Universities and Colleges,San Luis Obispo,0,0,0,0,18360
-2011,California,Universities and Colleges,California State University:,Nan,Nan,Nan,Nan,
-2011,California,Universities and Colleges,Bakersfield,0,0,0,0,7906
-2011,California,Universities and Colleges,Channel Islands,0,0,0,0,3828
-2011,California,Universities and Colleges,Chico,0,0,0,0,15989
-2011,California,Universities and Colleges,Dominguez Hills,0,0,0,0,13854
-2011,California,Universities and Colleges,East Bay,0,0,0,0,12889
-2011,California,Universities and Colleges,Fresno,0,0,0,0,20932
-2011,California,Universities and Colleges,Fullerton,0,0,0,0,35590
-2011,California,Universities and Colleges,Monterey Bay,0,0,0,0,4790
-2011,California,Universities and Colleges,Sacramento,0,0,0,0,27033
-2011,California,Universities and Colleges,San Bernardino,0,0,0,0,16400
-2011,California,Universities and Colleges,Stanislaus,0,0,0,0,8305
-2011,California,Universities and Colleges,College of the Sequoias,0,0,0,0,13470
-2011,California,Universities and Colleges,Cuesta College,0,0,0,0,11335
-2011,California,Universities and Colleges,El Camino College,0,0,0,0,24756
-2011,California,Universities and Colleges,Marin Community College,0,0,0,0,7353
-2011,California,Universities and Colleges,Pasadena Community College,0,0,0,0,27023
-2011,California,Universities and Colleges,San Bernardino Community College,0,0,0,0,13822
-2011,California,Universities and Colleges,San Diego State University,0,0,0,0,29187
-2011,California,Universities and Colleges,San Francisco State University,0,0,0,0,29718
-2011,California,Universities and Colleges,San Jose/Evergreen Community College,0,0,0,0,21671
-2011,California,Universities and Colleges,Santa Rosa Junior College,0,0,0,0,24879
-2011,California,Universities and Colleges,Solano Community College,0,0,0,0,11801
-2011,California,Universities and Colleges,Sonoma State University,0,0,0,0,8395
-2011,California,Universities and Colleges,University of California:,Nan,Nan,Nan,Nan,
-2011,California,Universities and Colleges,Berkeley,0,0,0,0,35833
-2011,California,Universities and Colleges,Hastings College of Law,0,0,0,0,1304
-2011,California,Universities and Colleges,Irvine,0,0,0,0,26994
-2011,California,Universities and Colleges,Merced,0,0,0,0,4381
-2011,California,Universities and Colleges,San Francisco,0,0,0,0,3024
-2011,California,Universities and Colleges,Ventura County Community College District,0,0,0,0,13711
 2011,California,Metropolitan Counties,El Dorado,0,0,0,0,
 2011,California,Metropolitan Counties,Fresno,0,0,0,0,
 2011,California,Metropolitan Counties,Imperial,0,0,0,0,
@@ -3123,19 +2728,6 @@
 2011,Colorado,Cities,Woodland Park,0,0,0,0,7325
 2011,Colorado,Cities,Wray,0,0,0,0,2383
 2011,Colorado,Cities,Yuma,0,0,0,0,3585
-2011,Colorado,Universities and Colleges,Adams State College,0,0,0,0,3237
-2011,Colorado,Universities and Colleges,Arapahoe Community College,0,Nan,Nan,Nan,9961
-2011,Colorado,Universities and Colleges,Auraria Higher Education Center3,0,0,0,0,
-2011,Colorado,Universities and Colleges,Colorado School of Mines,0,0,0,0,5287
-2011,Colorado,Universities and Colleges,"Colorado State University, Pueblo",0,0,0,0,7379
-2011,Colorado,Universities and Colleges,Pikes Peak Community College,0,0,0,0,15299
-2011,Colorado,Universities and Colleges,Red Rocks Community College,0,0,0,0,9826
-2011,Colorado,Universities and Colleges,University of Colorado:,Nan,Nan,Nan,Nan,
-2011,Colorado,Universities and Colleges,Boulder,0,0,0,0,32697
-2011,Colorado,Universities and Colleges,Colorado Springs,0,0,0,0,9745
-2011,Colorado,Universities and Colleges,Denver,0,0,0,0,24108
-2011,Colorado,Universities and Colleges,Health Sciences Center3,0,0,0,0,
-2011,Colorado,Universities and Colleges,University of Northern Colorado,Nan,0,Nan,Nan,13030
 2011,Colorado,Metropolitan Counties,Boulder,0,0,0,0,
 2011,Colorado,Metropolitan Counties,Clear Creek,0,0,0,0,
 2011,Colorado,Metropolitan Counties,El Paso,0,0,0,0,
@@ -3240,10 +2832,6 @@
 2011,Connecticut,Cities,Windsor,0,0,0,0,29098
 2011,Connecticut,Cities,Wolcott,0,0,0,0,16711
 2011,Connecticut,Cities,Woodbridge,0,0,0,0,9007
-2011,Connecticut,Universities and Colleges,Central Connecticut State University,0,0,0,0,12477
-2011,Connecticut,Universities and Colleges,Eastern Connecticut State University,0,0,0,0,5606
-2011,Connecticut,Universities and Colleges,"University of Connecticut, Health Center3",0,0,0,0,
-2011,Connecticut,Universities and Colleges,Yale University,0,0,0,0,11701
 2011,Connecticut,Other Agencies,Metropolitan Transportation Authority,0,0,0,0,
 2011,Connecticut,Other Agencies,State Capitol Police,0,0,0,0,
 2011,Delaware,Cities,Bethany Beach,0,0,0,0,1071
@@ -3278,8 +2866,6 @@
 2011,Delaware,Cities,Smyrna,0,0,0,0,10126
 2011,Delaware,Cities,South Bethany,0,0,0,0,454
 2011,Delaware,Cities,Wyoming,0,0,0,0,1326
-2011,Delaware,Universities and Colleges,Delaware State University,0,0,0,0,3757
-2011,Delaware,Universities and Colleges,University of Delaware,0,0,0,0,21177
 2011,Delaware,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,Delaware,State Police Agencies,Superintendent,Nan,Nan,Nan,0,
 2011,Delaware,State Police Agencies,Sussex County,0,0,0,0,
@@ -3557,22 +3143,6 @@
 2011,Florida,Cities,Winter Park,0,0,0,0,28232
 2011,Florida,Cities,Winter Springs,0,0,0,0,33736
 2011,Florida,Cities,Zephyrhills,0,0,0,0,13469
-2011,Florida,Universities and Colleges,Florida A&M University,0,0,0,0,13284
-2011,Florida,Universities and Colleges,Florida Atlantic University,0,0,0,0,28270
-2011,Florida,Universities and Colleges,Florida Gulf Coast University,0,0,0,0,12015
-2011,Florida,Universities and Colleges,Florida International University,0,0,0,0,42197
-2011,Florida,Universities and Colleges,Florida State University:,Nan,Nan,Nan,Nan,
-2011,Florida,Universities and Colleges,Panama City3,0,0,0,0,
-2011,Florida,Universities and Colleges,Tallahassee,0,0,0,0,40416
-2011,Florida,Universities and Colleges,New College of Florida,0,0,0,0,801
-2011,Florida,Universities and Colleges,Pensacola Junior College,0,0,0,0,11676
-2011,Florida,Universities and Colleges,Santa Fe College,0,0,0,0,15745
-2011,Florida,Universities and Colleges,Tallahassee Community College,0,0,0,0,14739
-2011,Florida,Universities and Colleges,University of North Florida,0,0,0,0,16153
-2011,Florida,Universities and Colleges,University of South Florida:,Nan,Nan,Nan,Nan,
-2011,Florida,Universities and Colleges,St. Petersburg,0,0,0,0,3944
-2011,Florida,Universities and Colleges,Tampa,0,0,0,0,40431
-2011,Florida,Universities and Colleges,University of West Florida,0,0,0,0,11599
 2011,Florida,Metropolitan Counties,Alachua,0,0,0,0,
 2011,Florida,Metropolitan Counties,Bay,0,0,0,0,
 2011,Florida,Metropolitan Counties,Broward,0,0,0,0,
@@ -4040,50 +3610,6 @@
 2011,Georgia,Cities,Woodbury,0,0,0,0,974
 2011,Georgia,Cities,Woodstock,0,0,0,0,24211
 2011,Georgia,Cities,Wrens,0,0,0,0,2216
-2011,Georgia,Universities and Colleges,Abraham Baldwin Agricultural College,0,0,0,0,3284
-2011,Georgia,Universities and Colleges,Agnes Scott College,0,0,0,0,917
-2011,Georgia,Universities and Colleges,Albany State University,0,0,0,0,4653
-2011,Georgia,Universities and Colleges,Armstrong Atlantic State University,0,0,0,0,7682
-2011,Georgia,Universities and Colleges,Atlanta Metropolitan College,0,0,Nan,Nan,3037
-2011,Georgia,Universities and Colleges,Augusta State University,0,0,0,0,6919
-2011,Georgia,Universities and Colleges,Berry College,0,0,0,0,2087
-2011,Georgia,Universities and Colleges,Clark Atlanta University,0,0,0,0,3941
-2011,Georgia,Universities and Colleges,Clayton College and State University,Nan,0,0,Nan,6604
-2011,Georgia,Universities and Colleges,Columbus State University,0,0,0,0,8298
-2011,Georgia,Universities and Colleges,Dalton State College,0,0,0,0,5988
-2011,Georgia,Universities and Colleges,Darton College,0,0,0,0,5879
-2011,Georgia,Universities and Colleges,Emory University,0,0,0,0,13381
-2011,Georgia,Universities and Colleges,Fort Valley State University,0,0,0,0,3728
-2011,Georgia,Universities and Colleges,Gainesville State College,0,0,0,0,8883
-2011,Georgia,Universities and Colleges,Georgia College and State University,0,0,0,0,6737
-2011,Georgia,Universities and Colleges,Georgia Gwinnett College,0,0,0,0,5380
-2011,Georgia,Universities and Colleges,Georgia Institute of Technology,0,0,0,0,20720
-2011,Georgia,Universities and Colleges,Georgia Military College,0,0,0,0,1549
-2011,Georgia,Universities and Colleges,Georgia Perimeter College,0,0,0,0,25113
-2011,Georgia,Universities and Colleges,Georgia Southern University,0,0,0,0,19691
-2011,Georgia,Universities and Colleges,Georgia Southwestern State University,0,0,0,0,3037
-2011,Georgia,Universities and Colleges,Georgia State University,0,0,0,Nan,31533
-2011,Georgia,Universities and Colleges,Gordon College,0,0,0,0,5009
-2011,Georgia,Universities and Colleges,Kennesaw State University,0,0,0,0,23452
-2011,Georgia,Universities and Colleges,Macon State College,Nan,Nan,Nan,0,6232
-2011,Georgia,Universities and Colleges,Medical College of Georgia3,0,0,0,0,
-2011,Georgia,Universities and Colleges,Mercer University,0,0,0,0,8236
-2011,Georgia,Universities and Colleges,Middle Georgia College,0,0,0,0,3496
-2011,Georgia,Universities and Colleges,Morehouse College,0,0,0,0,2586
-2011,Georgia,Universities and Colleges,Morehouse School of Medicine,0,0,0,0,329
-2011,Georgia,Universities and Colleges,Morris Brown College3,Nan,Nan,Nan,0,
-2011,Georgia,Universities and Colleges,North Georgia College and State University,0,0,0,0,5912
-2011,Georgia,Universities and Colleges,Paine College,0,Nan,Nan,Nan,925
-2011,Georgia,Universities and Colleges,Piedmont College,0,0,0,0,2676
-2011,Georgia,Universities and Colleges,Savannah State University,0,0,0,0,4080
-2011,Georgia,Universities and Colleges,Southern Crescent Technical College,0,0,0,0,6227
-2011,Georgia,Universities and Colleges,Southern Polytechnic State University,0,0,0,0,5514
-2011,Georgia,Universities and Colleges,South Georgia College,0,0,0,0,2214
-2011,Georgia,Universities and Colleges,Spelman College,0,0,0,0,2177
-2011,Georgia,Universities and Colleges,University of West Georgia,0,0,0,0,11283
-2011,Georgia,Universities and Colleges,Valdosta State University,0,0,0,0,12898
-2011,Georgia,Universities and Colleges,Wesleyan College,0,0,0,0,690
-2011,Georgia,Universities and Colleges,Young Harris College,0,0,0,0,820
 2011,Georgia,Metropolitan Counties,Augusta-Richmond,0,0,0,0,
 2011,Georgia,Metropolitan Counties,Barrow,0,0,Nan,0,
 2011,Georgia,Metropolitan Counties,Bartow,0,0,0,0,
@@ -4781,23 +4307,6 @@
 2011,Illinois,Cities,Worth,0,0,0,0,10821
 2011,Illinois,Cities,Yorkville,0,0,0,0,16972
 2011,Illinois,Cities,Zion,0,0,0,0,24486
-2011,Illinois,Universities and Colleges,Chicago State University,0,0,0,0,7354
-2011,Illinois,Universities and Colleges,College of Lake County,0,0,0,Nan,18091
-2011,Illinois,Universities and Colleges,Elgin Community College,0,0,0,0,12214
-2011,Illinois,Universities and Colleges,Illinois State University,0,0,0,0,21134
-2011,Illinois,Universities and Colleges,John A. Logan College,0,0,0,0,7431
-2011,Illinois,Universities and Colleges,Lake Land College,0,0,0,0,8234
-2011,Illinois,Universities and Colleges,Loyola University,0,0,0,0,15951
-2011,Illinois,Universities and Colleges,Moraine Valley Community College,0,0,0,0,17387
-2011,Illinois,Universities and Colleges,Morton College,0,0,0,0,5459
-2011,Illinois,Universities and Colleges,Northern Illinois University,0,0,0,0,23850
-2011,Illinois,Universities and Colleges,Parkland College,0,0,0,0,9715
-2011,Illinois,Universities and Colleges,Southern Illinois University:,Nan,Nan,Nan,Nan,
-2011,Illinois,Universities and Colleges,Carbondale,0,0,0,0,20037
-2011,Illinois,Universities and Colleges,Edwardsville,0,0,0,0,14133
-2011,Illinois,Universities and Colleges,South Suburban College,Nan,Nan,Nan,0,7161
-2011,Illinois,Universities and Colleges,Southwestern Illinois College,0,0,0,0,13221
-2011,Illinois,Universities and Colleges,"University of Illinois, Springfield",0,0,0,0,5174
 2011,Illinois,Metropolitan Counties,Alexander,0,0,0,0,
 2011,Illinois,Metropolitan Counties,Bond,0,0,0,0,
 2011,Illinois,Metropolitan Counties,Boone,0,0,0,0,
@@ -4961,11 +4470,6 @@
 2011,Indiana,Cities,Westville,0,0,0,0,5883
 2011,Indiana,Cities,Whitestown,0,Nan,Nan,Nan,2882
 2011,Indiana,Cities,Winona Lake,0,0,0,0,4933
-2011,Indiana,Universities and Colleges,Ball State University,0,0,0,0,22083
-2011,Indiana,Universities and Colleges,Indiana University:,Nan,Nan,Nan,Nan,
-2011,Indiana,Universities and Colleges,Bloomington,0,0,Nan,Nan,42464
-2011,Indiana,Universities and Colleges,Gary,0,0,0,0,5969
-2011,Indiana,Universities and Colleges,Marian University,0,0,0,0,2357
 2011,Indiana,Metropolitan Counties,Bartholomew,0,0,0,0,
 2011,Indiana,Metropolitan Counties,Brown,0,0,0,0,
 2011,Indiana,Metropolitan Counties,Delaware,0,0,0,0,
@@ -5117,7 +4621,6 @@
 2011,Iowa,Cities,Wilton,0,0,0,0,2817
 2011,Iowa,Cities,Windsor Heights,0,0,0,0,4885
 2011,Iowa,Cities,Winterset,0,0,0,0,5217
-2011,Iowa,Universities and Colleges,University of Northern Iowa,0,0,0,0,13201
 2011,Iowa,Metropolitan Counties,Benton,0,0,0,0,
 2011,Iowa,Metropolitan Counties,Black Hawk,0,0,0,0,
 2011,Iowa,Metropolitan Counties,Bremer,0,0,0,0,
@@ -5400,14 +4903,6 @@
 2011,Kansas,Cities,Winchester,0,0,0,0,554
 2011,Kansas,Cities,Winfield,0,0,0,0,12379
 2011,Kansas,Cities,Yates Center,0,0,0,0,1426
-2011,Kansas,Universities and Colleges,Emporia State University,0,0,0,0,6262
-2011,Kansas,Universities and Colleges,Fort Hays State University,0,0,0,0,11883
-2011,Kansas,Universities and Colleges,Kansas City Community College,0,Nan,0,0,7556
-2011,Kansas,Universities and Colleges,Kansas State University,0,0,0,0,23588
-2011,Kansas,Universities and Colleges,Pittsburg State University,Nan,0,0,0,7130
-2011,Kansas,Universities and Colleges,University of Kansas:,Nan,Nan,Nan,Nan,
-2011,Kansas,Universities and Colleges,Main Campus,0,0,0,0,28697
-2011,Kansas,Universities and Colleges,Medical Center3,0,0,0,Nan,
 2011,Kansas,Metropolitan Counties,Butler,0,0,0,0,
 2011,Kansas,Metropolitan Counties,Doniphan,0,0,0,0,
 2011,Kansas,Metropolitan Counties,Douglas,0,0,0,0,
@@ -5685,8 +5180,6 @@
 2011,Kentucky,Cities,Williamstown,0,0,0,0,3952
 2011,Kentucky,Cities,Winchester,0,0,0,0,18495
 2011,Kentucky,Cities,Worthington,0,0,0,0,1620
-2011,Kentucky,Universities and Colleges,Kentucky State University,0,0,0,0,2851
-2011,Kentucky,Universities and Colleges,Northern Kentucky University,0,0,0,0,15716
 2011,Kentucky,Metropolitan Counties,Boyd,0,0,0,0,
 2011,Kentucky,Metropolitan Counties,Bracken,0,0,0,0,
 2011,Kentucky,Metropolitan Counties,Bullitt,0,0,0,0,
@@ -5855,18 +5348,6 @@
 2011,Louisiana,Cities,West Monroe,Nan,0,0,Nan,13184
 2011,Louisiana,Cities,Westwego,0,0,Nan,0,8612
 2011,Louisiana,Cities,Wilson,0,0,0,0,600
-2011,Louisiana,Universities and Colleges,Delgado Community College,Nan,0,Nan,Nan,18767
-2011,Louisiana,Universities and Colleges,Louisiana State University:,Nan,Nan,Nan,Nan,
-2011,Louisiana,Universities and Colleges,Baton Rouge,Nan,0,0,0,29451
-2011,Louisiana,Universities and Colleges,Eunice,0,0,0,0,3431
-2011,Louisiana,Universities and Colleges,Shreveport,Nan,0,Nan,0,4498
-2011,Louisiana,Universities and Colleges,McNeese State University,0,0,0,0,8935
-2011,Louisiana,Universities and Colleges,Nicholls State University,Nan,0,0,0,7082
-2011,Louisiana,Universities and Colleges,Southeastern Louisiana University,0,0,0,0,15338
-2011,Louisiana,Universities and Colleges,"Southern University and A&M College, New Orleans",0,Nan,Nan,Nan,3165
-2011,Louisiana,Universities and Colleges,Tulane University,0,0,0,0,12144
-2011,Louisiana,Universities and Colleges,"University of Louisiana, Monroe",0,0,Nan,0,8801
-2011,Louisiana,Universities and Colleges,University of New Orleans,0,0,0,0,11276
 2011,Louisiana,Metropolitan Counties,Ascension,0,0,0,0,
 2011,Louisiana,Metropolitan Counties,Bossier,0,0,0,0,
 2011,Louisiana,Metropolitan Counties,Caddo,0,0,0,0,
@@ -5993,9 +5474,6 @@
 2011,Maine,Cities,Wiscasset,0,0,0,0,3732
 2011,Maine,Cities,Yarmouth,0,0,0,0,8348
 2011,Maine,Cities,York,0,0,0,0,12527
-2011,Maine,Universities and Colleges,University of Maine:,Nan,Nan,Nan,Nan,
-2011,Maine,Universities and Colleges,Farmington,0,0,0,0,2430
-2011,Maine,Universities and Colleges,Orono,0,0,0,0,11501
 2011,Maine,Metropolitan Counties,Penobscot,0,0,0,0,
 2011,Maine,Metropolitan Counties,Sagadahoc,0,0,0,0,
 2011,Maine,Nonmetropolitan Counties,Aroostook,0,0,0,0,
@@ -6097,19 +5575,6 @@
 2011,Maryland,Cities,University Park,0,0,0,0,2572
 2011,Maryland,Cities,Upper Marlboro,0,0,0,0,637
 2011,Maryland,Cities,Westminster,0,0,0,0,18766
-2011,Maryland,Universities and Colleges,Bowie State University,0,0,0,0,5578
-2011,Maryland,Universities and Colleges,Coppin State University,0,0,0,0,3800
-2011,Maryland,Universities and Colleges,Frostburg State University,0,0,0,0,5470
-2011,Maryland,Universities and Colleges,Hagerstown Community College,0,0,0,0,4715
-2011,Maryland,Universities and Colleges,Morgan State University,0,0,0,0,7805
-2011,Maryland,Universities and Colleges,Salisbury University,0,0,0,0,8397
-2011,Maryland,Universities and Colleges,St. Mary's College,0,0,0,0,2017
-2011,Maryland,Universities and Colleges,University of Baltimore,0,0,0,0,6501
-2011,Maryland,Universities and Colleges,University of Maryland:,Nan,Nan,Nan,Nan,
-2011,Maryland,Universities and Colleges,Baltimore City,0,0,0,0,6349
-2011,Maryland,Universities and Colleges,Baltimore County,0,0,0,0,12888
-2011,Maryland,Universities and Colleges,College Park,0,0,0,0,37641
-2011,Maryland,Universities and Colleges,Eastern Shore,0,0,0,0,4540
 2011,Maryland,Metropolitan Counties,Allegany,0,0,0,0,
 2011,Maryland,Metropolitan Counties,Anne Arundel,0,0,0,0,
 2011,Maryland,Metropolitan Counties,Baltimore County,0,0,0,0,
@@ -6381,19 +5846,6 @@
 2011,Massachusetts,Cities,Woburn,0,0,0,0,38352
 2011,Massachusetts,Cities,Wrentham,0,0,0,0,11022
 2011,Massachusetts,Cities,Yarmouth,0,0,0,0,23939
-2011,Massachusetts,Universities and Colleges,Assumption College,0,0,0,0,2764
-2011,Massachusetts,Universities and Colleges,Bentley University,Nan,0,Nan,Nan,5684
-2011,Massachusetts,Universities and Colleges,Bridgewater State College,0,0,0,0,11201
-2011,Massachusetts,Universities and Colleges,Bunker Hill Community College,0,0,0,0,12271
-2011,Massachusetts,Universities and Colleges,Fitchburg State College,Nan,Nan,0,0,6771
-2011,Massachusetts,Universities and Colleges,Holyoke Community College,0,0,0,0,7404
-2011,Massachusetts,Universities and Colleges,Massachusetts College of Liberal Arts,0,0,0,0,1974
-2011,Massachusetts,Universities and Colleges,Mount Holyoke College,0,0,0,0,2344
-2011,Massachusetts,Universities and Colleges,Salem State University,0,0,0,0,9993
-2011,Massachusetts,Universities and Colleges,Smith College,0,0,0,0,3113
-2011,Massachusetts,Universities and Colleges,Wellesley College,0,Nan,Nan,Nan,2546
-2011,Massachusetts,Universities and Colleges,Westfield State University,0,0,0,0,5885
-2011,Massachusetts,Universities and Colleges,Worcester Polytechnic Institute,0,0,0,0,5360
 2011,Michigan,Cities,Allegan,0,0,0,0,4994
 2011,Michigan,Cities,Alma,0,0,Nan,Nan,9376
 2011,Michigan,Cities,Almont,0,0,0,0,2672
@@ -6662,18 +6114,6 @@
 2011,Michigan,Cities,Wyandotte,0,0,0,0,25863
 2011,Michigan,Cities,Zeeland,0,0,0,0,5500
 2011,Michigan,Cities,Zilwaukee,0,0,0,0,1657
-2011,Michigan,Universities and Colleges,Central Michigan University,0,0,0,0,28292
-2011,Michigan,Universities and Colleges,Delta College,0,0,0,0,11572
-2011,Michigan,Universities and Colleges,Ferris State University,0,0,0,0,14381
-2011,Michigan,Universities and Colleges,Grand Valley State University,0,0,0,0,24541
-2011,Michigan,Universities and Colleges,Lansing Community College,0,0,0,0,21969
-2011,Michigan,Universities and Colleges,Macomb Community College,0,0,0,0,24468
-2011,Michigan,Universities and Colleges,Michigan Technological University,0,0,0,0,6971
-2011,Michigan,Universities and Colleges,Mott Community College,0,0,Nan,Nan,11850
-2011,Michigan,Universities and Colleges,Northern Michigan University,0,0,0,0,9417
-2011,Michigan,Universities and Colleges,Oakland University,0,0,0,0,19053
-2011,Michigan,Universities and Colleges,Saginaw Valley State University,0,0,0,0,10656
-2011,Michigan,Universities and Colleges,"University of Michigan, Dearborn",0,0,0,0,8599
 2011,Michigan,Metropolitan Counties,Barry,0,0,0,0,
 2011,Michigan,Metropolitan Counties,Bay,0,0,0,0,
 2011,Michigan,Metropolitan Counties,Berrien,0,0,0,0,
@@ -6910,9 +6350,6 @@
 2011,Minnesota,Cities,White Bear Township,0,Nan,Nan,0,11034
 2011,Minnesota,Cities,Willmar,0,0,0,0,19761
 2011,Minnesota,Cities,Winnebago,Nan,Nan,Nan,0,1448
-2011,Minnesota,Universities and Colleges,University of Minnesota:,Nan,Nan,Nan,Nan,
-2011,Minnesota,Universities and Colleges,Morris,Nan,Nan,Nan,0,1811
-2011,Minnesota,Universities and Colleges,Twin Cities,0,0,Nan,0,51721
 2011,Minnesota,Metropolitan Counties,Benton,Nan,Nan,Nan,0,
 2011,Minnesota,Metropolitan Counties,Blue Earth,Nan,0,Nan,0,
 2011,Minnesota,Metropolitan Counties,Carver,0,0,0,0,
@@ -6990,10 +6427,6 @@
 2011,Mississippi,Cities,Waveland,0,Nan,Nan,Nan,6459
 2011,Mississippi,Cities,West Point,0,0,0,0,11350
 2011,Mississippi,Cities,Winona,0,0,0,0,5062
-2011,Mississippi,Universities and Colleges,Coahoma Community College,0,0,0,0,2741
-2011,Mississippi,Universities and Colleges,Jackson State University,0,0,0,0,8687
-2011,Mississippi,Universities and Colleges,Mississippi State University,0,0,0,0,19644
-2011,Mississippi,Universities and Colleges,"University of Mississippi, Oxford",0,0,0,0,17085
 2011,Mississippi,Nonmetropolitan Counties,Adams,0,0,Nan,0,
 2011,Mississippi,Nonmetropolitan Counties,Chickasaw,Nan,0,0,Nan,
 2011,Mississippi,Nonmetropolitan Counties,Choctaw,Nan,0,0,0,
@@ -7459,22 +6892,6 @@
 2011,Missouri,Cities,Winona,0,0,0,0,1340
 2011,Missouri,Cities,Wood Heights,0,0,0,0,720
 2011,Missouri,Cities,Wright City,0,0,0,0,3130
-2011,Missouri,Universities and Colleges,Metropolitan Community College,0,0,0,0,21244
-2011,Missouri,Universities and Colleges,Mineral Area College,0,0,0,0,3958
-2011,Missouri,Universities and Colleges,Missouri Southern State University,0,0,0,0,5802
-2011,Missouri,Universities and Colleges,Missouri University of Science and Technology,0,0,0,0,7205
-2011,Missouri,Universities and Colleges,Missouri Western State University,0,0,0,0,6095
-2011,Missouri,Universities and Colleges,Northwest Missouri State University,0,0,0,0,7142
-2011,Missouri,Universities and Colleges,Southeast Missouri State University,0,0,0,0,11033
-2011,Missouri,Universities and Colleges,St. Charles Community College,0,0,0,0,8202
-2011,Missouri,Universities and Colleges,St. Louis Community College: ,Nan,Nan,Nan,Nan,
-2011,Missouri,Universities and Colleges,Florissant Valley,0,0,0,0,7436
-2011,Missouri,Universities and Colleges,Meramec,0,0,0,0,11430
-2011,Missouri,Universities and Colleges,Three Rivers Community College,0,0,0,0,3730
-2011,Missouri,Universities and Colleges,Truman State University,0,0,0,0,6035
-2011,Missouri,Universities and Colleges,University of Central Missouri,0,0,0,0,11351
-2011,Missouri,Universities and Colleges,"University of Missouri, St. Louis",0,0,0,0,16791
-2011,Missouri,Universities and Colleges,Washington University,0,0,0,0,13820
 2011,Missouri,Metropolitan Counties,Bates,0,0,0,0,
 2011,Missouri,Metropolitan Counties,Bollinger,0,0,0,0,
 2011,Missouri,Metropolitan Counties,Boone,0,0,0,0,
@@ -7655,7 +7072,6 @@
 2011,Montana,Cities,West Yellowstone,0,0,0,0,1282
 2011,Montana,Cities,Whitefish,0,0,0,0,6413
 2011,Montana,Cities,Wolf Point,0,0,0,0,2644
-2011,Montana,Universities and Colleges,University of Montana,0,0,Nan,Nan,15642
 2011,Montana,Metropolitan Counties,Carbon,0,0,0,0,
 2011,Montana,Metropolitan Counties,Cascade,0,0,0,0,
 2011,Montana,Nonmetropolitan Counties,Beaverhead,0,0,0,0,
@@ -7745,7 +7161,6 @@
 2011,Nebraska,Cities,Wilber,0,0,0,0,1872
 2011,Nebraska,Cities,Wymore,0,0,0,0,1470
 2011,Nebraska,Cities,York,0,0,0,0,7835
-2011,Nebraska,Universities and Colleges,"University of Nebraska, Kearney",0,0,0,0,6753
 2011,Nebraska,Metropolitan Counties,Cass,0,0,0,0,
 2011,Nebraska,Metropolitan Counties,Dixon,0,0,0,0,
 2011,Nebraska,Metropolitan Counties,Lancaster,0,0,0,0,
@@ -8022,7 +7437,6 @@
 2011,New Hampshire,Cities,Windham,0,0,0,0,13610
 2011,New Hampshire,Cities,Wolfeboro,0,0,0,0,6277
 2011,New Hampshire,Cities,Woodstock,0,0,0,0,1376
-2011,New Hampshire,Universities and Colleges,University of New Hampshire,0,0,0,0,15095
 2011,New Hampshire,Metropolitan Counties,Rockingham,0,0,0,0,
 2011,New Hampshire,Nonmetropolitan Counties,Carroll,0,0,0,0,
 2011,New Hampshire,Nonmetropolitan Counties,Cheshire,0,0,0,0,
@@ -8405,8 +7819,6 @@
 2011,New Mexico,Cities,Socorro,0,0,0,0,9152
 2011,New Mexico,Cities,Tatum,Nan,Nan,0,0,807
 2011,New Mexico,Cities,Texico,0,0,Nan,0,1143
-2011,New Mexico,Universities and Colleges,Eastern New Mexico University,0,0,0,0,5075
-2011,New Mexico,Universities and Colleges,New Mexico State University,0,0,0,0,18600
 2011,New Mexico,Nonmetropolitan Counties,Chaves,0,0,0,0,
 2011,New Mexico,Nonmetropolitan Counties,Cibola,0,0,Nan,Nan,
 2011,New Mexico,Nonmetropolitan Counties,Curry,0,0,0,0,
@@ -8755,27 +8167,6 @@
 2011,New York,Cities,Woodstock Town,0,0,0,Nan,5910
 2011,New York,Cities,Yorkville Village,0,0,Nan,Nan,2701
 2011,New York,Cities,Youngstown Village,0,0,0,0,1944
-2011,New York,Universities and Colleges,Cornell University,0,0,0,Nan,20939
-2011,New York,Universities and Colleges,Ithaca College,0,0,0,0,6949
-2011,New York,Universities and Colleges,Rensselaer Polytechnic Institute,0,0,Nan,0,6704
-2011,New York,Universities and Colleges,State University of New York:,Nan,Nan,Nan,Nan,
-2011,New York,Universities and Colleges,Buffalo,0,0,0,0,29117
-2011,New York,Universities and Colleges,Maritime College,0,0,0,0,1880
-2011,New York,Universities and Colleges,Stony Brook,0,0,Nan,Nan,24363
-2011,New York,Universities and Colleges,Upstate Medical Center,0,0,Nan,0,1537
-2011,New York,Universities and Colleges,State University of New York Agricultural and Technical College:,Nan,Nan,Nan,Nan,
-2011,New York,Universities and Colleges,Alfred,0,0,0,0,3709
-2011,New York,Universities and Colleges,Canton,0,0,0,0,3655
-2011,New York,Universities and Colleges,Cobleskill,0,0,0,0,2566
-2011,New York,Universities and Colleges,Farmingdale,0,0,0,0,6858
-2011,New York,Universities and Colleges,State University of New York College: ,Nan,Nan,Nan,Nan,
-2011,New York,Universities and Colleges,Cortland,0,0,0,0,7358
-2011,New York,Universities and Colleges,Environmental Science and Forestry,0,0,0,0,2682
-2011,New York,Universities and Colleges,Fredonia,0,0,0,0,5772
-2011,New York,Universities and Colleges,Optometry,0,0,0,0,303
-2011,New York,Universities and Colleges,Technology3,0,0,0,0,
-2011,New York,Universities and Colleges,Utica-Rome3,0,0,0,0,
-2011,New York,Universities and Colleges,United States Merchant Marine Academy,0,Nan,0,0,1000
 2011,New York,Metropolitan Counties,Albany,0,0,0,0,
 2011,New York,Metropolitan Counties,Broome,0,0,Nan,0,
 2011,New York,Metropolitan Counties,Chemung,0,0,0,0,
@@ -9200,28 +8591,6 @@
 2011,North Carolina,Cities,Yadkinville,0,0,0,0,2997
 2011,North Carolina,Cities,Youngsville,0,0,0,0,1172
 2011,North Carolina,Cities,Zebulon,0,0,0,0,4489
-2011,North Carolina,Universities and Colleges,Beaufort County Community College,0,0,0,0,1911
-2011,North Carolina,Universities and Colleges,Belmont Abbey College,0,0,0,0,1734
-2011,North Carolina,Universities and Colleges,Davidson College,0,0,0,0,1742
-2011,North Carolina,Universities and Colleges,Duke University,0,0,0,0,15016
-2011,North Carolina,Universities and Colleges,East Carolina University,0,0,0,0,27783
-2011,North Carolina,Universities and Colleges,Elizabeth City State University,0,0,0,0,3307
-2011,North Carolina,Universities and Colleges,Elon University,0,0,0,0,5709
-2011,North Carolina,Universities and Colleges,Fayetteville State University,0,0,0,0,5781
-2011,North Carolina,Universities and Colleges,Methodist University,0,0,0,0,2416
-2011,North Carolina,Universities and Colleges,North Carolina Agricultural and Technical State University,0,0,0,0,10795
-2011,North Carolina,Universities and Colleges,North Carolina Central University,0,0,0,0,8645
-2011,North Carolina,Universities and Colleges,North Carolina School of the Arts,0,0,0,0,872
-2011,North Carolina,Universities and Colleges,Queens University,0,0,0,0,2524
-2011,North Carolina,Universities and Colleges,University of North Carolina:,Nan,Nan,Nan,Nan,
-2011,North Carolina,Universities and Colleges,Asheville,0,0,0,0,3967
-2011,North Carolina,Universities and Colleges,Chapel Hill,0,0,0,0,29390
-2011,North Carolina,Universities and Colleges,Greensboro,0,0,0,0,18771
-2011,North Carolina,Universities and Colleges,Pembroke,0,0,0,0,6944
-2011,North Carolina,Universities and Colleges,Wilmington,0,0,0,0,13071
-2011,North Carolina,Universities and Colleges,Wake Forest University,0,0,0,0,7162
-2011,North Carolina,Universities and Colleges,Western Carolina University,0,0,0,0,9407
-2011,North Carolina,Universities and Colleges,Winston-Salem State University,0,0,0,0,6333
 2011,North Carolina,Metropolitan Counties,Alamance,0,0,0,0,
 2011,North Carolina,Metropolitan Counties,Alexander,0,0,0,0,
 2011,North Carolina,Metropolitan Counties,Brunswick,0,0,0,0,
@@ -9398,9 +8767,6 @@
 2011,North Dakota,Cities,Watford City,0,0,0,0,1773
 2011,North Dakota,Cities,Williston,0,0,0,0,14964
 2011,North Dakota,Cities,Wishek,0,0,0,0,1019
-2011,North Dakota,Universities and Colleges,North Dakota State College of Science,0,0,0,0,2833
-2011,North Dakota,Universities and Colleges,North Dakota State University,0,0,0,0,14407
-2011,North Dakota,Universities and Colleges,University of North Dakota,0,0,0,0,14194
 2011,North Dakota,Metropolitan Counties,Burleigh,0,0,0,0,
 2011,North Dakota,Metropolitan Counties,Cass,0,0,0,0,
 2011,North Dakota,Metropolitan Counties,Grand Forks,0,0,0,0,
@@ -9852,30 +9218,6 @@
 2011,Ohio,Cities,Wyoming,0,0,0,0,8434
 2011,Ohio,Cities,Youngstown,0,0,0,0,67031
 2011,Ohio,Cities,Zanesville,0,0,0,0,25506
-2011,Ohio,Universities and Colleges,Capital University,0,0,0,0,3629
-2011,Ohio,Universities and Colleges,Central State University,0,0,0,0,2288
-2011,Ohio,Universities and Colleges,Cleveland State University,0,0,0,0,17386
-2011,Ohio,Universities and Colleges,College of Mount St. Joseph,0,0,0,0,2475
-2011,Ohio,Universities and Colleges,Columbus State Community College,0,0,0,0,30513
-2011,Ohio,Universities and Colleges,Cuyahoga Community College,Nan,0,0,Nan,31250
-2011,Ohio,Universities and Colleges,Kent State University,0,0,0,0,26589
-2011,Ohio,Universities and Colleges,Lakeland Community College,0,0,0,0,9831
-2011,Ohio,Universities and Colleges,Marietta College,0,0,0,0,1604
-2011,Ohio,Universities and Colleges,Miami University,0,0,0,0,17472
-2011,Ohio,Universities and Colleges,Muskingum University,0,0,0,0,2290
-2011,Ohio,Universities and Colleges,Notre Dame College,0,0,0,0,2091
-2011,Ohio,Universities and Colleges,Ohio State University:,Nan,Nan,Nan,Nan,
-2011,Ohio,Universities and Colleges,Mansfield,0,0,Nan,0,1405
-2011,Ohio,Universities and Colleges,Marion,0,0,Nan,0,1816
-2011,Ohio,Universities and Colleges,Newark,0,0,0,0,2562
-2011,Ohio,Universities and Colleges,Wooster3,0,0,0,0,
-2011,Ohio,Universities and Colleges,Ohio University,0,0,0,0,25108
-2011,Ohio,Universities and Colleges,Otterbein University,0,0,0,0,3080
-2011,Ohio,Universities and Colleges,Sinclair Community College,0,0,0,0,21994
-2011,Ohio,Universities and Colleges,University of Akron,0,0,0,0,27076
-2011,Ohio,Universities and Colleges,University of Rio Grande,0,0,0,0,2299
-2011,Ohio,Universities and Colleges,University of Toledo,0,0,0,0,23085
-2011,Ohio,Universities and Colleges,Youngstown State University,0,0,0,0,15084
 2011,Ohio,Metropolitan Counties,Belmont,0,0,0,0,
 2011,Ohio,Metropolitan Counties,Brown,0,0,0,0,
 2011,Ohio,Metropolitan Counties,Carroll,0,0,0,0,
@@ -10160,26 +9502,6 @@
 2011,Oklahoma,Cities,Wynnewood,0,0,0,0,2236
 2011,Oklahoma,Cities,Yale,0,0,0,0,1240
 2011,Oklahoma,Cities,Yukon,0,0,0,0,22952
-2011,Oklahoma,Universities and Colleges,Cameron University,0,0,0,0,6330
-2011,Oklahoma,Universities and Colleges,East Central University,0,0,0,0,4906
-2011,Oklahoma,Universities and Colleges,Northeastern Oklahoma A&M College,0,0,0,0,2353
-2011,Oklahoma,Universities and Colleges,Northeastern State University:,Nan,Nan,Nan,Nan,
-2011,Oklahoma,Universities and Colleges,Broken Arrow3,0,0,0,0,
-2011,Oklahoma,Universities and Colleges,Tahlequah,0,0,0,0,9558
-2011,Oklahoma,Universities and Colleges,Oklahoma City University,0,0,0,0,3750
-2011,Oklahoma,Universities and Colleges,Oklahoma State University:,Nan,Nan,Nan,Nan,
-2011,Oklahoma,Universities and Colleges,Main Campus,0,0,0,0,23667
-2011,Oklahoma,Universities and Colleges,Okmulgee,0,0,0,0,3888
-2011,Oklahoma,Universities and Colleges,Tulsa3,0,0,0,0,
-2011,Oklahoma,Universities and Colleges,Rogers State University,0,0,0,0,4486
-2011,Oklahoma,Universities and Colleges,Seminole State College,0,0,0,0,2337
-2011,Oklahoma,Universities and Colleges,Southeastern Oklahoma State University,0,0,0,0,4172
-2011,Oklahoma,Universities and Colleges,Southwestern Oklahoma State University,0,0,0,0,5259
-2011,Oklahoma,Universities and Colleges,Tulsa Community College,0,0,0,0,20577
-2011,Oklahoma,Universities and Colleges,University of Central Oklahoma,0,0,0,0,17101
-2011,Oklahoma,Universities and Colleges,University of Oklahoma:,Nan,Nan,Nan,Nan,
-2011,Oklahoma,Universities and Colleges,Health Sciences Center,0,0,0,0,3847
-2011,Oklahoma,Universities and Colleges,Norman,0,0,0,0,26476
 2011,Oklahoma,Metropolitan Counties,Canadian,0,0,0,0,
 2011,Oklahoma,Metropolitan Counties,Cleveland,0,0,0,0,
 2011,Oklahoma,Metropolitan Counties,Comanche,0,0,0,0,
@@ -11292,39 +10614,6 @@
 2011,Pennsylvania,Cities,Youngsville,0,0,0,Nan,1735
 2011,Pennsylvania,Cities,Zelienople,0,0,0,Nan,3824
 2011,Pennsylvania,Cities,Zerbe Township,0,0,0,0,1878
-2011,Pennsylvania,Universities and Colleges,Bloomsburg University,0,0,0,0,10091
-2011,Pennsylvania,Universities and Colleges,California University,0,0,0,0,9400
-2011,Pennsylvania,Universities and Colleges,Cheyney University,0,Nan,Nan,Nan,1586
-2011,Pennsylvania,Universities and Colleges,Clarion University,0,0,0,Nan,7315
-2011,Pennsylvania,Universities and Colleges,Dickinson College,0,0,0,0,2414
-2011,Pennsylvania,Universities and Colleges,East Stroudsburg University,0,0,0,0,7387
-2011,Pennsylvania,Universities and Colleges,Edinboro University,0,0,0,0,8642
-2011,Pennsylvania,Universities and Colleges,Elizabethtown College,0,0,0,0,2417
-2011,Pennsylvania,Universities and Colleges,Indiana University,0,0,0,0,15126
-2011,Pennsylvania,Universities and Colleges,Kutztown University,0,0,0,0,10707
-2011,Pennsylvania,Universities and Colleges,Lehigh University,0,0,0,0,7051
-2011,Pennsylvania,Universities and Colleges,Lock Haven University,0,0,0,0,5451
-2011,Pennsylvania,Universities and Colleges,Mansfield University,0,0,0,0,3411
-2011,Pennsylvania,Universities and Colleges,Millersville University,0,0,0,0,8729
-2011,Pennsylvania,Universities and Colleges,Moravian College,0,0,0,0,2032
-2011,Pennsylvania,Universities and Colleges,Pennsylvania State University:,Nan,Nan,Nan,Nan,
-2011,Pennsylvania,Universities and Colleges,Altoona,0,0,0,0,4147
-2011,Pennsylvania,Universities and Colleges,Beaver,0,0,0,0,906
-2011,Pennsylvania,Universities and Colleges,Behrend,0,0,0,0,4359
-2011,Pennsylvania,Universities and Colleges,Berks,0,0,0,0,2771
-2011,Pennsylvania,Universities and Colleges,Harrisburg,0,0,0,0,4224
-2011,Pennsylvania,Universities and Colleges,Hazleton,0,0,0,0,1303
-2011,Pennsylvania,Universities and Colleges,McKeesport3,0,0,0,0,
-2011,Pennsylvania,Universities and Colleges,Mont Alto,0,0,0,0,1252
-2011,Pennsylvania,Universities and Colleges,Schuylkill,0,0,0,0,1034
-2011,Pennsylvania,Universities and Colleges,Shippensburg University,0,0,0,0,8326
-2011,Pennsylvania,Universities and Colleges,Slippery Rock University,0,0,0,0,8852
-2011,Pennsylvania,Universities and Colleges,University of Pittsburgh:,Nan,Nan,Nan,Nan,
-2011,Pennsylvania,Universities and Colleges,Bradford,0,0,0,0,1629
-2011,Pennsylvania,Universities and Colleges,Greensburg,0,0,0,0,1803
-2011,Pennsylvania,Universities and Colleges,Johnstown,0,0,0,0,2965
-2011,Pennsylvania,Universities and Colleges,Pittsburgh,0,0,0,0,28823
-2011,Pennsylvania,Universities and Colleges,Titusville,0,0,0,0,514
 2011,Pennsylvania,Metropolitan Counties,Allegheny,0,0,0,0,
 2011,Pennsylvania,Metropolitan Counties,Allegheny County Police Department,0,0,0,Nan,
 2011,Pennsylvania,Metropolitan Counties,Beaver,0,0,0,0,
@@ -11700,8 +10989,6 @@
 2011,Rhode Island,Cities,Warwick,0,0,0,0,82572
 2011,Rhode Island,Cities,Westerly,0,0,0,0,22760
 2011,Rhode Island,Cities,West Greenwich,0,0,0,0,6128
-2011,Rhode Island,Universities and Colleges,Brown University,0,0,0,0,8705
-2011,Rhode Island,Universities and Colleges,University of Rhode Island,0,0,0,0,16294
 2011,Rhode Island,State Police Agencies,Rhode Island State Police Headquarters,0,0,0,0,
 2011,Rhode Island,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2011,Rhode Island,State Police Agencies,Chepachet,0,0,0,0,
@@ -11832,27 +11119,6 @@
 2011,South Carolina,Cities,Williston,0,0,0,0,3176
 2011,South Carolina,Cities,Woodruff,0,0,0,0,4138
 2011,South Carolina,Cities,Yemassee,0,0,0,0,1039
-2011,South Carolina,Universities and Colleges,Benedict College,0,0,0,0,3137
-2011,South Carolina,Universities and Colleges,Bob Jones University,0,0,0,0,3794
-2011,South Carolina,Universities and Colleges,Clemson University,0,0,0,0,19453
-2011,South Carolina,Universities and Colleges,Coastal Carolina University,0,0,0,0,8706
-2011,South Carolina,Universities and Colleges,Columbia College,0,0,0,0,1367
-2011,South Carolina,Universities and Colleges,Denmark Technical College,0,0,0,0,1033
-2011,South Carolina,Universities and Colleges,Erskine College,0,0,0,0,811
-2011,South Carolina,Universities and Colleges,Francis Marion University,0,0,0,0,4032
-2011,South Carolina,Universities and Colleges,Greenville Technical College,0,0,0,0,14879
-2011,South Carolina,Universities and Colleges,Lander University,0,0,0,0,3060
-2011,South Carolina,Universities and Colleges,Medical University of South Carolina,0,0,0,0,2556
-2011,South Carolina,Universities and Colleges,Midlands Technical College,0,0,0,0,12078
-2011,South Carolina,Universities and Colleges,South Carolina State University,0,0,0,0,4362
-2011,South Carolina,Universities and Colleges,Spartanburg Methodist College,0,0,0,0,790
-2011,South Carolina,Universities and Colleges,The Citadel,0,0,0,0,3402
-2011,South Carolina,Universities and Colleges,Trident Technical College,0,0,0,0,15790
-2011,South Carolina,Universities and Colleges,University of South Carolina:,Nan,Nan,Nan,Nan,
-2011,South Carolina,Universities and Colleges,Aiken,0,0,0,0,3254
-2011,South Carolina,Universities and Colleges,Columbia,0,0,0,0,29599
-2011,South Carolina,Universities and Colleges,Upstate,0,0,0,0,5492
-2011,South Carolina,Universities and Colleges,Winthrop University,0,0,0,0,5998
 2011,South Carolina,Metropolitan Counties,Aiken,0,0,0,0,
 2011,South Carolina,Metropolitan Counties,Calhoun,0,0,0,0,
 2011,South Carolina,Metropolitan Counties,Charleston,0,0,0,0,
@@ -12045,7 +11311,6 @@
 2011,South Dakota,Cities,Whitewood,0,0,0,0,938
 2011,South Dakota,Cities,Winner,0,0,0,0,2932
 2011,South Dakota,Cities,Worthing,0,0,0,0,888
-2011,South Dakota,Universities and Colleges,South Dakota State University,0,0,0,0,12816
 2011,South Dakota,Metropolitan Counties,Lincoln,0,0,0,0,
 2011,South Dakota,Metropolitan Counties,McCook,0,0,0,0,
 2011,South Dakota,Metropolitan Counties,Meade,0,0,0,0,
@@ -12311,22 +11576,6 @@
 2011,Tennessee,Cities,Whitwell,0,0,0,0,1714
 2011,Tennessee,Cities,Winfield,0,0,0,0,976
 2011,Tennessee,Cities,Woodbury,0,0,0,0,2704
-2011,Tennessee,Universities and Colleges,Austin Peay State University,0,0,0,0,10723
-2011,Tennessee,Universities and Colleges,Christian Brothers University,0,0,0,0,1828
-2011,Tennessee,Universities and Colleges,East Tennessee State University,0,0,0,0,14952
-2011,Tennessee,Universities and Colleges,Northeast State Community College,0,0,0,0,6775
-2011,Tennessee,Universities and Colleges,Southwest Tennessee Community College,0,0,0,0,13362
-2011,Tennessee,Universities and Colleges,Tennessee State University,0,0,0,0,8930
-2011,Tennessee,Universities and Colleges,Tennessee Technological University,0,0,0,0,11538
-2011,Tennessee,Universities and Colleges,University of Memphis,0,0,0,0,22420
-2011,Tennessee,Universities and Colleges,University of Tennessee:,Nan,Nan,Nan,Nan,
-2011,Tennessee,Universities and Colleges,Chattanooga,0,0,0,0,10781
-2011,Tennessee,Universities and Colleges,Health Sciences Center3,0,0,0,0,
-2011,Tennessee,Universities and Colleges,Knoxville,0,0,0,0,30300
-2011,Tennessee,Universities and Colleges,Martin,0,0,0,0,8467
-2011,Tennessee,Universities and Colleges,Vanderbilt University,0,0,0,0,12714
-2011,Tennessee,Universities and Colleges,Volunteer State Community College,0,0,0,0,8989
-2011,Tennessee,Universities and Colleges,Walters State Community College,0,0,0,0,6959
 2011,Tennessee,Metropolitan Counties,Bradley,0,0,0,0,
 2011,Tennessee,Metropolitan Counties,Cannon,0,0,0,0,
 2011,Tennessee,Metropolitan Counties,Carter,0,0,0,0,
@@ -13113,81 +12362,6 @@
 2011,Texas,Cities,Wortham,0,0,0,0,1096
 2011,Texas,Cities,Yoakum,0,0,0,0,5937
 2011,Texas,Cities,Yorktown,0,0,0,0,2136
-2011,Texas,Universities and Colleges,Abilene Christian University,0,0,0,0,4728
-2011,Texas,Universities and Colleges,Alamo Community College District,0,0,0,0,60983
-2011,Texas,Universities and Colleges,Alvin Community College,0,0,0,0,5794
-2011,Texas,Universities and Colleges,Amarillo College,0,0,0,0,11878
-2011,Texas,Universities and Colleges,Angelo State University,0,0,0,0,6856
-2011,Texas,Universities and Colleges,Austin College,0,0,0,0,1314
-2011,Texas,Universities and Colleges,Baylor Health Care System3,0,0,0,0,
-2011,Texas,Universities and Colleges,"Baylor University, Waco",0,0,0,0,14900
-2011,Texas,Universities and Colleges,Blinn College,0,0,0,0,17755
-2011,Texas,Universities and Colleges,Brookhaven College,0,0,0,0,12784
-2011,Texas,Universities and Colleges,Central Texas College,0,0,0,0,26055
-2011,Texas,Universities and Colleges,College of the Mainland,0,0,0,0,4352
-2011,Texas,Universities and Colleges,Eastfield College,0,0,0,0,12919
-2011,Texas,Universities and Colleges,El Paso Community College,0,0,0,0,29909
-2011,Texas,Universities and Colleges,Grayson County College,0,0,0,0,5284
-2011,Texas,Universities and Colleges,Hardin-Simmons University,0,0,0,0,2313
-2011,Texas,Universities and Colleges,Houston Baptist University,0,0,0,0,2597
-2011,Texas,Universities and Colleges,Houston Community College,0,0,0,0,60303
-2011,Texas,Universities and Colleges,"Lamar University, Beaumont",0,0,0,0,14385
-2011,Texas,Universities and Colleges,Laredo Community College,0,0,0,0,10029
-2011,Texas,Universities and Colleges,McLennan Community College,0,0,0,0,9913
-2011,Texas,Universities and Colleges,Midwestern State University,0,0,0,0,6426
-2011,Texas,Universities and Colleges,Mountain View College,0,0,0,0,8460
-2011,Texas,Universities and Colleges,North Lake College,0,0,0,0,12018
-2011,Texas,Universities and Colleges,Paris Junior College,0,0,0,0,6197
-2011,Texas,Universities and Colleges,Prairie View A&M University,0,0,0,0,8781
-2011,Texas,Universities and Colleges,Rice University,0,0,0,0,5879
-2011,Texas,Universities and Colleges,Richland College,0,0,0,0,19201
-2011,Texas,Universities and Colleges,Southern Methodist University,0,0,0,0,10938
-2011,Texas,Universities and Colleges,South Plains College,0,0,0,0,9900
-2011,Texas,Universities and Colleges,Southwestern University,0,0,0,0,1373
-2011,Texas,Universities and Colleges,Stephen F. Austin State University,0,0,0,0,12954
-2011,Texas,Universities and Colleges,St. Mary's University,0,0,0,0,4105
-2011,Texas,Universities and Colleges,Tarleton State University,0,0,0,0,11121
-2011,Texas,Universities and Colleges,Texas A&M International University,0,0,0,0,6853
-2011,Texas,Universities and Colleges,Texas A&M University:,Nan,Nan,Nan,Nan,
-2011,Texas,Universities and Colleges,College Station,0,0,0,0,49129
-2011,Texas,Universities and Colleges,Commerce,0,0,0,0,10787
-2011,Texas,Universities and Colleges,Corpus Christi,0,0,0,0,10033
-2011,Texas,Universities and Colleges,Galveston,0,0,0,0,1867
-2011,Texas,Universities and Colleges,Kingsville,0,0,Nan,Nan,9673
-2011,Texas,Universities and Colleges,San Antonio3,0,0,0,0,
-2011,Texas,Universities and Colleges,Texas Christian University,0,0,0,0,9142
-2011,Texas,Universities and Colleges,Texas Southern University,0,0,0,0,9557
-2011,Texas,Universities and Colleges,Texas State Technical College:,Nan,Nan,Nan,Nan,
-2011,Texas,Universities and Colleges,Harlingen,0,0,0,0,5779
-2011,Texas,Universities and Colleges,Marshall,0,0,0,0,949
-2011,Texas,Universities and Colleges,"Texas State University, San Marcos",0,0,0,0,32572
-2011,Texas,Universities and Colleges,"Texas Tech University, Lubbock",0,0,0,0,31637
-2011,Texas,Universities and Colleges,Texas Woman's University,0,0,0,0,14180
-2011,Texas,Universities and Colleges,Trinity University,0,0,0,0,2498
-2011,Texas,Universities and Colleges,Tyler Junior College,0,0,0,0,11738
-2011,Texas,Universities and Colleges,University of Houston:,Nan,Nan,Nan,Nan,
-2011,Texas,Universities and Colleges,Central Campus,0,0,0,0,38752
-2011,Texas,Universities and Colleges,Clearlake,0,0,0,0,8099
-2011,Texas,Universities and Colleges,Downtown Campus,0,0,0,0,12900
-2011,Texas,Universities and Colleges,University of Mary Hardin-Baylor,0,0,0,0,2956
-2011,Texas,Universities and Colleges,University of North Texas:,Nan,Nan,Nan,Nan,
-2011,Texas,Universities and Colleges,Denton,0,0,0,0,36305
-2011,Texas,Universities and Colleges,Health Science Center,0,0,0,0,1579
-2011,Texas,Universities and Colleges,University of Texas:,Nan,Nan,Nan,Nan,
-2011,Texas,Universities and Colleges,Arlington,0,0,0,0,32975
-2011,Texas,Universities and Colleges,Brownsville,0,0,0,0,15230
-2011,Texas,Universities and Colleges,Dallas,0,0,0,0,17128
-2011,Texas,Universities and Colleges,El Paso,0,0,0,0,22106
-2011,Texas,Universities and Colleges,"Health Science Center, San Antonio",0,0,0,0,3310
-2011,Texas,Universities and Colleges,"Health Science Center,Tyler3",0,0,0,0,
-2011,Texas,Universities and Colleges,Houston3,0,0,0,0,
-2011,Texas,Universities and Colleges,Medical Branch,0,0,0,0,2660
-2011,Texas,Universities and Colleges,Pan American,0,0,0,0,18744
-2011,Texas,Universities and Colleges,Permian Basin,0,0,0,0,4063
-2011,Texas,Universities and Colleges,San Antonio,0,0,0,0,30258
-2011,Texas,Universities and Colleges,Southwestern Medical School,0,0,0,0,2499
-2011,Texas,Universities and Colleges,Tyler,0,0,0,0,6476
-2011,Texas,Universities and Colleges,West Texas A&M University,0,0,0,0,7839
 2011,Texas,Metropolitan Counties,Aransas,0,0,0,0,
 2011,Texas,Metropolitan Counties,Archer,0,0,0,0,
 2011,Texas,Metropolitan Counties,Armstrong,0,0,0,0,
@@ -13539,12 +12713,6 @@
 2011,Utah,Cities,Wellington,0,0,0,0,1708
 2011,Utah,Cities,Willard,Nan,0,0,0,1806
 2011,Utah,Cities,Woods Cross,0,0,0,0,9949
-2011,Utah,Universities and Colleges,Brigham Young University,0,0,0,0,33841
-2011,Utah,Universities and Colleges,College of Eastern Utah,0,0,0,0,2172
-2011,Utah,Universities and Colleges,Southern Utah University,0,0,0,0,8024
-2011,Utah,Universities and Colleges,Utah State University,0,0,0,0,16472
-2011,Utah,Universities and Colleges,Utah Valley University,0,0,0,0,32670
-2011,Utah,Universities and Colleges,Weber State University,0,0,0,0,24048
 2011,Utah,Metropolitan Counties,Cache,0,0,0,0,
 2011,Utah,Metropolitan Counties,Davis,0,0,0,0,
 2011,Utah,Metropolitan Counties,Juab,0,0,0,0,
@@ -13620,7 +12788,6 @@
 2011,Vermont,Cities,Winhall,0,0,0,0,770
 2011,Vermont,Cities,Winooski,0,0,0,0,7275
 2011,Vermont,Cities,Woodstock,0,0,0,0,3051
-2011,Vermont,Universities and Colleges,University of Vermont,0,0,0,0,13554
 2011,Vermont,Metropolitan Counties,Chittenden,0,0,0,0,
 2011,Vermont,Metropolitan Counties,Franklin,0,0,0,0,
 2011,Vermont,Metropolitan Counties,Grand Isle,0,0,0,0,
@@ -13777,22 +12944,6 @@
 2011,Virginia,Cities,Wise,0,0,0,0,3325
 2011,Virginia,Cities,Woodstock,0,0,0,0,5158
 2011,Virginia,Cities,Wytheville,0,0,0,0,8309
-2011,Virginia,Universities and Colleges,Christopher Newport University,0,0,0,0,4916
-2011,Virginia,Universities and Colleges,Emory and Henry College,0,0,0,0,980
-2011,Virginia,Universities and Colleges,Ferrum College,0,0,0,0,1484
-2011,Virginia,Universities and Colleges,Hampton University,0,0,0,0,5254
-2011,Virginia,Universities and Colleges,James Madison University,0,0,0,0,19434
-2011,Virginia,Universities and Colleges,Lord Fairfax Community College,Nan,0,0,0,7005
-2011,Virginia,Universities and Colleges,Norfolk State University,0,0,0,0,6964
-2011,Virginia,Universities and Colleges,Old Dominion University,0,0,0,0,24466
-2011,Virginia,Universities and Colleges,Richard Bland College,0,0,0,0,1587
-2011,Virginia,Universities and Colleges,Thomas Nelson Community College,0,0,0,0,11086
-2011,Virginia,Universities and Colleges,University of Mary Washington,0,0,0,0,5203
-2011,Virginia,Universities and Colleges,University of Virginia's College at Wise,0,0,0,0,1990
-2011,Virginia,Universities and Colleges,Virginia Commonwealth University,0,0,0,0,32027
-2011,Virginia,Universities and Colleges,Virginia Military Institute,0,0,0,0,1569
-2011,Virginia,Universities and Colleges,Virginia Polytechnic Institute and State University,0,0,0,0,31006
-2011,Virginia,Universities and Colleges,Virginia Western Community College,0,0,0,0,8778
 2011,Virginia,Metropolitan Counties,Amelia,0,0,0,0,
 2011,Virginia,Metropolitan Counties,Amherst,0,0,0,0,
 2011,Virginia,Metropolitan Counties,Bedford,0,0,0,0,
@@ -14151,8 +13302,6 @@
 2011,Washington,Cities,Yarrow Point,0,0,0,0,1017
 2011,Washington,Cities,Yelm,0,0,0,0,6955
 2011,Washington,Cities,Zillah,0,0,0,0,3011
-2011,Washington,Universities and Colleges,Eastern Washington University,0,0,0,0,11534
-2011,Washington,Universities and Colleges,Western Washington University,0,0,0,0,14979
 2011,Washington,Metropolitan Counties,Asotin,0,0,0,0,
 2011,Washington,Metropolitan Counties,Benton,0,0,0,0,
 2011,Washington,Metropolitan Counties,Douglas,0,0,0,0,
@@ -14262,15 +13411,6 @@
 2011,West Virginia,Cities,Williamson,0,0,0,0,3195
 2011,West Virginia,Cities,Williamstown,0,Nan,Nan,0,2912
 2011,West Virginia,Cities,Winfield,Nan,Nan,0,0,2304
-2011,West Virginia,Universities and Colleges,Concord University,0,0,0,0,2822
-2011,West Virginia,Universities and Colleges,Fairmont State University,0,0,0,0,4709
-2011,West Virginia,Universities and Colleges,Glenville State College,0,0,0,0,1827
-2011,West Virginia,Universities and Colleges,Marshall University,0,0,0,0,14192
-2011,West Virginia,Universities and Colleges,Potomac State College,0,0,0,0,1836
-2011,West Virginia,Universities and Colleges,Shepherd University,0,0,0,0,4234
-2011,West Virginia,Universities and Colleges,West Liberty State College,0,0,0,0,2738
-2011,West Virginia,Universities and Colleges,West Virginia State University,0,0,0,0,3190
-2011,West Virginia,Universities and Colleges,West Virginia Tech,0,0,0,0,1211
 2011,West Virginia,Metropolitan Counties,Berkeley,0,0,0,0,
 2011,West Virginia,Metropolitan Counties,Boone,0,0,0,0,
 2011,West Virginia,Metropolitan Counties,Cabell,0,0,0,0,
@@ -14744,20 +13884,6 @@
 2011,Wisconsin,Cities,Wisconsin Dells,0,0,Nan,Nan,2690
 2011,Wisconsin,Cities,Wisconsin Rapids,0,0,0,0,18447
 2011,Wisconsin,Cities,Woodruff,0,0,Nan,Nan,2064
-2011,Wisconsin,Universities and Colleges,University of Wisconsin:,Nan,Nan,Nan,Nan,
-2011,Wisconsin,Universities and Colleges,Eau Claire,0,0,0,0,11413
-2011,Wisconsin,Universities and Colleges,Green Bay,0,0,0,0,6636
-2011,Wisconsin,Universities and Colleges,La Crosse,0,0,0,0,10135
-2011,Wisconsin,Universities and Colleges,Madison,0,0,0,0,42180
-2011,Wisconsin,Universities and Colleges,Milwaukee,0,0,0,0,30470
-2011,Wisconsin,Universities and Colleges,Oshkosh,0,0,0,0,13629
-2011,Wisconsin,Universities and Colleges,Parkside,0,0,0,0,5160
-2011,Wisconsin,Universities and Colleges,Platteville,0,0,0,0,7928
-2011,Wisconsin,Universities and Colleges,River Falls,0,0,0,0,6902
-2011,Wisconsin,Universities and Colleges,Stevens Point,0,0,0,0,9500
-2011,Wisconsin,Universities and Colleges,Stout,0,0,0,0,9339
-2011,Wisconsin,Universities and Colleges,Superior,0,0,0,0,2856
-2011,Wisconsin,Universities and Colleges,Whitewater,0,0,0,0,11557
 2011,Wisconsin,Metropolitan Counties,Brown,0,0,0,0,
 2011,Wisconsin,Metropolitan Counties,Calumet,0,0,0,0,
 2011,Wisconsin,Metropolitan Counties,Columbia,0,0,0,0,
@@ -14868,8 +13994,6 @@
 2011,Wyoming,Cities,Torrington,0,0,0,0,6553
 2011,Wyoming,Cities,Wheatland,0,0,0,0,3656
 2011,Wyoming,Cities,Worland,0,0,0,0,5531
-2011,Wyoming,Universities and Colleges,Sheridan College,0,0,0,0,3888
-2011,Wyoming,Universities and Colleges,University of Wyoming,0,0,0,0,12911
 2011,Wyoming,Metropolitan Counties,Laramie,0,0,0,0,
 2011,Wyoming,Metropolitan Counties,Natrona,0,0,0,0,
 2011,Wyoming,Nonmetropolitan Counties,Albany,0,0,0,0,
