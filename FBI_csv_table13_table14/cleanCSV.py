@@ -2,7 +2,7 @@ import csv
 
 file = []
 cleanFile = []
-with open('1_annualCSV/hateCrimeStatistics_2011.csv') as csvDataFile:
+with open('1_annualCSV/hateCrimeStatistics_2010.csv') as csvDataFile:
 	csvReader = csv.reader(csvDataFile)
 	for row in csvReader:
 		file.append(row)
@@ -22,7 +22,7 @@ for i in range(0,len(file)):
 
 
 	if (year == "") or (year == "2010"):
-		cleanFile[i][0] = "2011"
+		cleanFile[i][0] = "2010"
 
 	if state == "Nan":
 		cleanFile[i][1] = file[i-1][1]
@@ -34,6 +34,6 @@ for i in range(0,len(file)):
 		cleanFile[i][3] = "@@DELETE ME@@"
 
 
-with open("fbi_2011.csv","w+") as my_csv:
+with open("fbi2010.csv","w+") as my_csv:
 			csvWriter = csv.writer(my_csv,delimiter=',')
 			csvWriter.writerows(cleanFile)
