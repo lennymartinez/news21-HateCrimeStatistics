@@ -1,8 +1,4 @@
-Year,State,Agency type,Agency name,"1st
-quarter","2nd
-quarter","3rd
-quarter","4th
-quarter",Population2
+Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ALABAMA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ALABAMA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ALABAMA,Cities,Decatur,0,0,1,2,57153

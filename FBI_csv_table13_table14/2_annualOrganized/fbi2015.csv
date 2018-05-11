@@ -1,8 +1,4 @@
-Year,State,Agency Type,Agency name,"1st
-quarter","2nd
-quarter","3rd
-quarter","4th
-quarter",Population1
+Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2015,Alabama,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Alabama,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2015,Alabama,Cities,Birmingham,1,1,1,2,212291

@@ -1,8 +1,4 @@
-Year,State,AgencyType,Agency Name,"1st
-quarter","2nd
-quarter","3rd
-quarter","4th
-quarter",Population1
+Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2014,Alabama,Total,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2014,Alabama,Cities,@@DELETE ME@@, Nan, Nan, Nan, Nan,
 2014,Alabama,Cities,Fairfield, Nan,1, Nan, Nan,10913
