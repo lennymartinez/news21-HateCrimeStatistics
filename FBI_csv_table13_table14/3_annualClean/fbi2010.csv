@@ -1,6 +1,4 @@
 Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
-2010,ALABAMA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,ALABAMA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ALABAMA,Cities,Decatur,0,0,1,2,57153
 2010,ALABAMA,Cities,Hoover,0,1,0,1,74687
 2010,ALABAMA,Cities,Jasper,0,1,0,0,14138
@@ -10,16 +8,10 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ALABAMA,Cities,Riverside,0,0,0,1,2146
 2010,ALABAMA,Cities,Slocomb,1,0,0,0,2065
 2010,ALABAMA,Cities,Talladega,0,1,0,0,16826
-2010,ALABAMA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ALABAMA,Metropolitan Counties,Blount,Nan,1,0,0,
 2010,ALABAMA,Metropolitan Counties,Tuscaloosa,Nan,4,1,Nan,
-2010,ALABAMA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ALABAMA,Nonmetropolitan Counties,Clarke,1,0,0,0,
-2010,ALASKA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,ALASKA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ALASKA,Cities,Anchorage,1,1,4,1,290334
-2010,ARIZONA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,ARIZONA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ARIZONA,Cities,Apache Junction,1,2,2,0,33225
 2010,ARIZONA,Cities,Avondale,1,0,0,0,82580
 2010,ARIZONA,Cities,Flagstaff,0,0,0,1,58739
@@ -38,14 +30,9 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ARIZONA,Cities,Tempe,2,1,1,0,173004
 2010,ARIZONA,Cities,Tucson,9,2,3,0,527107
 2010,ARIZONA,Cities,Yuma,0,1,0,1,88291
-2010,ARIZONA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,ARIZONA,Universities and Colleges,University of Arizona,1,1,0,3,38767
-2010,ARIZONA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ARIZONA,Metropolitan Counties,Maricopa,1,1,1,5,
 2010,ARIZONA,Metropolitan Counties,Pima,1,4,3,3,
 2010,ARIZONA,Metropolitan Counties,Pinal,2,0,0,1,
-2010,ARKANSAS,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,ARKANSAS,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ARKANSAS,Cities,Benton,0,2,0,0,30692
 2010,ARKANSAS,Cities,Bentonville,1,0,0,1,39161
 2010,ARKANSAS,Cities,Bryant,0,1,0,0,16740
@@ -68,19 +55,13 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ARKANSAS,Cities,Springdale,0,0,4,0,71047
 2010,ARKANSAS,Cities,Texarkana,1,1,0,0,30488
 2010,ARKANSAS,Cities,Ward,0,0,1,0,4311
-2010,ARKANSAS,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,ARKANSAS,Universities and Colleges,"University of Arkansas, Pine Bluff",1,0,0,0,3792
-2010,ARKANSAS,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ARKANSAS,Metropolitan Counties,Benton,0,2,0,0,
 2010,ARKANSAS,Metropolitan Counties,Garland,0,1,0,Nan,
 2010,ARKANSAS,Metropolitan Counties,Lonoke,1,0,0,0,
 2010,ARKANSAS,Metropolitan Counties,Perry,0,0,1,0,
 2010,ARKANSAS,Metropolitan Counties,Pulaski,2,1,0,1,
-2010,ARKANSAS,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ARKANSAS,Nonmetropolitan Counties,Independence,0,1,1,1,
 2010,ARKANSAS,Nonmetropolitan Counties,White,1,0,0,0,
-2010,CALIFORNIA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,CALIFORNIA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,CALIFORNIA,Cities,Agoura Hills,0,1,1,0,22318
 2010,CALIFORNIA,Cities,Alameda,2,0,0,0,71016
 2010,CALIFORNIA,Cities,Albany,1,0,1,2,16096
@@ -283,29 +264,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,CALIFORNIA,Cities,Westminster,2,2,2,1,89604
 2010,CALIFORNIA,Cities,Whittier,0,0,1,0,81611
 2010,CALIFORNIA,Cities,Yorba Linda,0,0,1,0,66813
-2010,CALIFORNIA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,CALIFORNIA,Universities and Colleges,Allan Hancock College,1,1,0,0,11070
-2010,CALIFORNIA,Universities and Colleges,"California State Polytechnic University, Pomona",2,1,0,0,22273
-2010,CALIFORNIA,Universities and Colleges,California State University:,Nan,Nan,Nan,Nan,
-2010,CALIFORNIA,Universities and Colleges,Channel Islands,0,0,0,1,3862
-2010,CALIFORNIA,Universities and Colleges,Dominguez Hills,0,1,0,0,14477
-2010,CALIFORNIA,Universities and Colleges,Fresno,0,0,1,0,21500
-2010,CALIFORNIA,Universities and Colleges,Fullerton,0,1,0,0,36262
-2010,CALIFORNIA,Universities and Colleges,Long Beach,0,1,0,0,35557
-2010,CALIFORNIA,Universities and Colleges,Northridge,0,0,2,1,35198
-2010,CALIFORNIA,Universities and Colleges,San Bernardino,1,0,0,0,17852
-2010,CALIFORNIA,Universities and Colleges,San Marcos,6,4,0,0,9767
-2010,CALIFORNIA,Universities and Colleges,Riverside Community College,0,0,0,1,36586
-2010,CALIFORNIA,Universities and Colleges,San Diego State University,0,1,0,0,32817
-2010,CALIFORNIA,Universities and Colleges,University of California:,Nan,Nan,Nan,Nan,
-2010,CALIFORNIA,Universities and Colleges,Berkeley,3,6,4,2,35830
-2010,CALIFORNIA,Universities and Colleges,Davis,2,1,0,2,31247
-2010,CALIFORNIA,Universities and Colleges,Los Angeles,1,1,0,1,38550
-2010,CALIFORNIA,Universities and Colleges,Riverside,1,0,0,1,19384
-2010,CALIFORNIA,Universities and Colleges,San Diego,3,1,1,0,28418
-2010,CALIFORNIA,Universities and Colleges,San Francisco,0,0,1,0,3119
-2010,CALIFORNIA,Universities and Colleges,Santa Cruz,0,0,2,0,16775
-2010,CALIFORNIA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,CALIFORNIA,Metropolitan Counties,Butte,0,0,1,0,
 2010,CALIFORNIA,Metropolitan Counties,Contra Costa,0,0,0,2,
 2010,CALIFORNIA,Metropolitan Counties,El Dorado,0,0,1,0,
@@ -327,17 +285,13 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,CALIFORNIA,Metropolitan Counties,Sonoma,1,0,0,1,
 2010,CALIFORNIA,Metropolitan Counties,Stanislaus,0,1,1,0,
 2010,CALIFORNIA,Metropolitan Counties,Ventura,0,0,1,0,
-2010,CALIFORNIA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,CALIFORNIA,Nonmetropolitan Counties,Colusa,0,0,1,0,
 2010,CALIFORNIA,Nonmetropolitan Counties,Lake,1,1,2,0,
 2010,CALIFORNIA,Nonmetropolitan Counties,Mariposa,0,0,1,0,
 2010,CALIFORNIA,Nonmetropolitan Counties,Mendocino,2,0,1,1,
-2010,CALIFORNIA,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,CALIFORNIA,Other Agencies,Los Angeles Transportation Services Bureau,0,1,2,3,
 2010,CALIFORNIA,Other Agencies,"San Francisco Bay Area Rapid Transit, San Francisco County",0,0,0,1,
 2010,CALIFORNIA,Other Agencies,Santa Clara Transit District,0,1,2,1,
-2010,COLORADO,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,COLORADO,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,COLORADO,Cities,Arvada,0,0,1,0,107227
 2010,COLORADO,Cities,Aspen,1,1,0,1,6012
 2010,COLORADO,Cities,Aurora,1,3,1,0,323483
@@ -372,22 +326,15 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,COLORADO,Cities,Trinidad,0,0,1,0,8933
 2010,COLORADO,Cities,Wheat Ridge,1,0,2,0,30400
 2010,COLORADO,Cities,Yuma,0,0,1,0,3240
-2010,COLORADO,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,COLORADO,Universities and Colleges,"Colorado State University, Pueblo",1,0,0,0,6443
-2010,COLORADO,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,COLORADO,Metropolitan Counties,Adams,1,0,1,0,
 2010,COLORADO,Metropolitan Counties,Arapahoe,1,3,2,0,
 2010,COLORADO,Metropolitan Counties,Douglas,3,4,5,1,
 2010,COLORADO,Metropolitan Counties,Jefferson,0,0,0,1,
 2010,COLORADO,Metropolitan Counties,Larimer,0,0,0,1,
 2010,COLORADO,Metropolitan Counties,Mesa,0,0,0,1,
-2010,COLORADO,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,COLORADO,Nonmetropolitan Counties,Montezuma,1,0,0,1,
 2010,COLORADO,Nonmetropolitan Counties,Summit,1,0,0,0,
-2010,COLORADO,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,COLORADO,State Police Agencies,Colorado State Patrol,1,0,0,0,
-2010,CONNECTICUT,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,CONNECTICUT,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,CONNECTICUT,Cities,Bridgeport,2,0,2,1,138810
 2010,CONNECTICUT,Cities,Coventry,3,2,1,0,12546
 2010,CONNECTICUT,Cities,Cromwell,1,0,0,1,13919
@@ -425,35 +372,19 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,CONNECTICUT,Cities,Weston,0,0,1,0,10344
 2010,CONNECTICUT,Cities,Windsor Locks,2,1,0,0,12722
 2010,CONNECTICUT,Cities,Wolcott,0,0,1,0,16799
-2010,CONNECTICUT,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,CONNECTICUT,Universities and Colleges,Eastern Connecticut State University,0,1,0,0,5610
-2010,CONNECTICUT,Universities and Colleges,Southern Connecticut State University,0,0,1,0,11815
-2010,CONNECTICUT,Universities and Colleges,"University of Connecticut, Storrs, Avery Point, and Hartford3",1,2,0,2,
-2010,CONNECTICUT,Universities and Colleges,Western Connecticut State University,0,1,0,0,6617
-2010,CONNECTICUT,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,CONNECTICUT,State Police Agencies,Connecticut State Police,2,1,1,1,
-2010,CONNECTICUT,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,CONNECTICUT,Other Agencies,Metropolitan Transportation Authority,0,0,0,1,
-2010,DELAWARE,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,DELAWARE,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,DELAWARE,Cities,Bethany Beach,1,0,0,0,988
 2010,DELAWARE,Cities,Delmar,1,0,0,0,1597
 2010,DELAWARE,Cities,Newark,1,2,0,0,30543
 2010,DELAWARE,Cities,Rehoboth Beach,0,0,1,0,1624
 2010,DELAWARE,Cities,Smyrna,0,1,0,0,9322
 2010,DELAWARE,Cities,Wilmington,1,0,0,0,73270
-2010,DELAWARE,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,DELAWARE,Universities and Colleges,University of Delaware,2,1,1,1,21138
-2010,DELAWARE,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,DELAWARE,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2010,DELAWARE,State Police Agencies,Kent County,0,0,1,0,
 2010,DELAWARE,State Police Agencies,New Castle County,0,1,1,1,
 2010,DELAWARE,State Police Agencies,Sussex County,0,1,2,0,
-2010,DISTRICT OF COLUMBIA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,DISTRICT OF COLUMBIA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,DISTRICT OF COLUMBIA,Cities,Washington,7,16,14,20,601723
-2010,FLORIDA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,FLORIDA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,FLORIDA,Cities,Boca Raton,2,1,1,0,86707
 2010,FLORIDA,Cities,Cape Coral,0,1,0,0,160432
 2010,FLORIDA,Cities,Clearwater,1,0,1,1,105647
@@ -497,7 +428,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,FLORIDA,Cities,Treasure Island,0,0,0,1,7399
 2010,FLORIDA,Cities,Wilton Manors,1,1,1,0,12873
 2010,FLORIDA,Cities,Winter Haven,0,1,1,0,33981
-2010,FLORIDA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,FLORIDA,Metropolitan Counties,Alachua,1,1,1,0,
 2010,FLORIDA,Metropolitan Counties,Brevard,0,1,0,0,
 2010,FLORIDA,Metropolitan Counties,Broward,1,1,2,0,
@@ -517,26 +447,14 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,FLORIDA,Metropolitan Counties,Polk,1,0,0,0,
 2010,FLORIDA,Metropolitan Counties,Santa Rosa,0,2,0,2,
 2010,FLORIDA,Metropolitan Counties,Volusia,0,0,1,0,
-2010,FLORIDA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,FLORIDA,Nonmetropolitan Counties,Highlands,0,0,2,1,
-2010,FLORIDA,Tribal Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,FLORIDA,Tribal Agencies,Seminole Tribal,0,0,0,1,
-2010,FLORIDA,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,FLORIDA,Other Agencies,Palm Beach County School District,0,1,0,0,
-2010,GEORGIA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,GEORGIA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,GEORGIA,Cities,Atlanta,0,0,1,3,536472
 2010,GEORGIA,Cities,LaGrange,0,1,0,0,27712
 2010,GEORGIA,Cities,Sylvania,1,0,0,0,2610
-2010,GEORGIA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,GEORGIA,Universities and Colleges,Southern Polytechnic State University,1,0,0,0,5183
-2010,GEORGIA,Universities and Colleges,University of Georgia,3,0,0,0,34885
-2010,GEORGIA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,GEORGIA,Metropolitan Counties,Henry County Police Department,1,2,2,1,
-2010,GEORGIA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,GEORGIA,Nonmetropolitan Counties,White,0,0,1,0,
-2010,IDAHO,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,IDAHO,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,IDAHO,Cities,Boise,1,2,2,1,205902
 2010,IDAHO,Cities,Coeur d'Alene4,3,0,3,0,44626
 2010,IDAHO,Cities,Hailey,0,0,1,0,8242
@@ -544,14 +462,10 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,IDAHO,Cities,Nampa,1,1,0,2,84179
 2010,IDAHO,Cities,Payette,1,1,1,0,7688
 2010,IDAHO,Cities,Twin Falls,1,0,0,1,43434
-2010,IDAHO,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,IDAHO,Metropolitan Counties,Ada,1,0,0,0,
 2010,IDAHO,Metropolitan Counties,Bonneville,0,1,0,0,
 2010,IDAHO,Metropolitan Counties,Kootenai,0,1,0,1,
-2010,IDAHO,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,IDAHO,Nonmetropolitan Counties,Elmore,0,0,1,0,
-2010,ILLINOIS,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,ILLINOIS,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ILLINOIS,Cities,Aurora,0,1,0,0,174255
 2010,ILLINOIS,Cities,Bradley,0,0,1,0,15131
 2010,ILLINOIS,Cities,Burbank,0,0,0,1,27135
@@ -585,12 +499,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ILLINOIS,Cities,Tinley Park,2,1,0,0,59607
 2010,ILLINOIS,Cities,Urbana,0,2,1,1,39784
 2010,ILLINOIS,Cities,Wood River,1,0,0,0,10787
-2010,ILLINOIS,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,ILLINOIS,Universities and Colleges,Illinois State University,0,0,2,0,21184
-2010,ILLINOIS,Universities and Colleges,"Northwestern University, Evanston3",Nan,Nan,Nan,1,
-2010,ILLINOIS,Universities and Colleges,Oakton Community College,0,1,Nan,Nan,12087
-2010,ILLINOIS,Universities and Colleges,Western Illinois University,2,0,0,0,12679
-2010,ILLINOIS,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,ILLINOIS,Metropolitan Counties,Du Page,3,2,1,0,
 2010,ILLINOIS,Metropolitan Counties,Macon,0,0,0,1,
 2010,ILLINOIS,Metropolitan Counties,Madison,1,0,0,0,
@@ -598,8 +506,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ILLINOIS,Metropolitan Counties,Sangamon,1,0,0,0,
 2010,ILLINOIS,Metropolitan Counties,Will,2,0,0,1,
 2010,ILLINOIS,Metropolitan Counties,Woodford,0,0,0,1,
-2010,INDIANA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,INDIANA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,INDIANA,Cities,Bloomington,3,6,6,3,72286
 2010,INDIANA,Cities,Fort Wayne,1,4,0,0,257009
 2010,INDIANA,Cities,Frankfort,0,1,0,0,16533
@@ -610,20 +516,9 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,INDIANA,Cities,Indianapolis,10,9,16,8,822211
 2010,INDIANA,Cities,La Porte,0,Nan,2,Nan,21282
 2010,INDIANA,Cities,West Lafayette,0,0,0,1,31945
-2010,INDIANA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,INDIANA,Universities and Colleges,Indiana State University,1,0,2,1,10534
-2010,INDIANA,Universities and Colleges,Indiana University:,Nan,Nan,Nan,Nan,
-2010,INDIANA,Universities and Colleges,Bloomington,0,0,Nan,1,42347
-2010,INDIANA,Universities and Colleges,Indianapolis3,0,0,1,0,
-2010,INDIANA,Universities and Colleges,Purdue University,6,3,1,1,41052
-2010,INDIANA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,INDIANA,Metropolitan Counties,Elkhart,0,1,0,0,
-2010,INDIANA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,INDIANA,Nonmetropolitan Counties,Noble,0,1,0,0,
-2010,INDIANA,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,INDIANA,State Police Agencies,Indiana State Police,Nan,Nan,Nan,1,
-2010,IOWA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,IOWA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,IOWA,Cities,Altoona,0,0,1,0,15012
 2010,IOWA,Cities,Bettendorf,0,0,1,1,33690
 2010,IOWA,Cities,Clarinda,0,1,0,0,5316
@@ -636,11 +531,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,IOWA,Cities,Iowa City,1,0,0,0,70411
 2010,IOWA,Cities,Manchester,0,0,0,1,4880
 2010,IOWA,Cities,Pleasant Hill,0,0,1,0,8922
-2010,IOWA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,IOWA,Universities and Colleges,Iowa State University,0,0,0,1,27945
-2010,IOWA,Universities and Colleges,University of Iowa,0,0,1,0,28987
-2010,KANSAS,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,KANSAS,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,KANSAS,Cities,Abilene,0,0,1,1,6284
 2010,KANSAS,Cities,Andover,0,1,0,0,11091
 2010,KANSAS,Cities,Atchison,0,0,0,1,10483
@@ -657,17 +547,11 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,KANSAS,Cities,Shawnee,0,0,1,0,63652
 2010,KANSAS,Cities,Wichita,3,4,7,6,376880
 2010,KANSAS,Cities,Winfield,0,1,0,0,11126
-2010,KANSAS,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,KANSAS,Universities and Colleges,Emporia State University,0,0,0,1,6314
-2010,KANSAS,Universities and Colleges,Kansas State University,1,1,0,0,23581
-2010,KANSAS,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,KANSAS,Metropolitan Counties,Johnson,0,2,2,0,
 2010,KANSAS,Metropolitan Counties,Riley County Police Department,0,0,0,1,
 2010,KANSAS,Metropolitan Counties,Sedgwick,0,0,1,0,
 2010,KANSAS,Metropolitan Counties,Shawnee,0,0,4,0,
 2010,KANSAS,Metropolitan Counties,Wyandotte,0,0,1,0,
-2010,KENTUCKY,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,KENTUCKY,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,KENTUCKY,Cities,Ashland,1,1,0,0,21209
 2010,KENTUCKY,Cities,Bardstown,0,1,3,1,11339
 2010,KENTUCKY,Cities,Beaver Dam,0,0,0,1,3120
@@ -715,15 +599,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,KENTUCKY,Cities,Versailles,0,1,0,0,7924
 2010,KENTUCKY,Cities,Vine Grove,0,0,0,1,4558
 2010,KENTUCKY,Cities,Winchester,1,0,0,0,16754
-2010,KENTUCKY,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,KENTUCKY,Universities and Colleges,Eastern Kentucky University,1,0,0,0,16268
-2010,KENTUCKY,Universities and Colleges,Morehead State University,1,0,0,1,8822
-2010,KENTUCKY,Universities and Colleges,Murray State University,0,0,1,0,10071
-2010,KENTUCKY,Universities and Colleges,Northern Kentucky University,0,0,4,0,15378
-2010,KENTUCKY,Universities and Colleges,University of Kentucky,1,0,0,0,26295
-2010,KENTUCKY,Universities and Colleges,University of Louisville,1,0,0,1,21016
-2010,KENTUCKY,Universities and Colleges,Western Kentucky University,0,0,0,1,20712
-2010,KENTUCKY,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,KENTUCKY,Metropolitan Counties,Boone,1,4,2,0,
 2010,KENTUCKY,Metropolitan Counties,Bourbon,1,0,0,0,
 2010,KENTUCKY,Metropolitan Counties,Boyd,0,0,1,0,
@@ -737,7 +612,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,KENTUCKY,Metropolitan Counties,Oldham County Police Department,0,0,2,0,
 2010,KENTUCKY,Metropolitan Counties,Shelby,1,0,0,0,
 2010,KENTUCKY,Metropolitan Counties,Warren,0,1,0,0,
-2010,KENTUCKY,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,KENTUCKY,Nonmetropolitan Counties,Ballard,0,0,1,0,
 2010,KENTUCKY,Nonmetropolitan Counties,Bell,0,0,0,1,
 2010,KENTUCKY,Nonmetropolitan Counties,Calloway,0,1,1,0,
@@ -753,33 +627,25 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,KENTUCKY,Nonmetropolitan Counties,Rowan,0,2,0,0,
 2010,KENTUCKY,Nonmetropolitan Counties,Simpson,0,1,0,0,
 2010,KENTUCKY,Nonmetropolitan Counties,Washington,0,0,1,0,
-2010,KENTUCKY,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,KENTUCKY,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2010,KENTUCKY,State Police Agencies,Bowling Green,1,1,0,0,
 2010,KENTUCKY,State Police Agencies,Dry Ridge,1,0,0,0,
 2010,KENTUCKY,State Police Agencies,Madisonville,2,1,1,0,
 2010,KENTUCKY,State Police Agencies,Mayfield,0,0,0,1,
 2010,KENTUCKY,State Police Agencies,Morehead,0,1,0,0,
-2010,KENTUCKY,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,KENTUCKY,Other Agencies,Cincinnati-Northern Kentucky International Airport,0,0,1,0,
 2010,KENTUCKY,Other Agencies,Fayette County Schools,0,0,1,0,
 2010,KENTUCKY,Other Agencies,Jefferson County Board of Education,3,0,0,1,
 2010,KENTUCKY,Other Agencies,McCracken County Public Schools,0,0,1,0,
-2010,LOUISIANA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,LOUISIANA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,LOUISIANA,Cities,Bossier City,0,0,1,0,64232
 2010,LOUISIANA,Cities,Plaquemine,0,0,0,1,6646
-2010,LOUISIANA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,LOUISIANA,Metropolitan Counties,Ascension,0,0,0,1,
 2010,LOUISIANA,Metropolitan Counties,Caddo,0,1,0,0,
 2010,LOUISIANA,Metropolitan Counties,Calcasieu,1,3,1,0,
 2010,LOUISIANA,Metropolitan Counties,Grant,Nan,Nan,Nan,1,
 2010,LOUISIANA,Metropolitan Counties,Lafayette,Nan,1,0,0,
 2010,LOUISIANA,Metropolitan Counties,Livingston,1,Nan,Nan,Nan,
-2010,LOUISIANA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,LOUISIANA,Nonmetropolitan Counties,Madison,1,0,0,0,
-2010,MAINE,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MAINE,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MAINE,Cities,Augusta,0,2,3,3,18514
 2010,MAINE,Cities,Baileyville,0,1,0,0,1524
 2010,MAINE,Cities,Bangor,1,0,0,0,31587
@@ -799,28 +665,17 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MAINE,Cities,Sanford,2,1,1,0,21216
 2010,MAINE,Cities,South Portland,0,2,1,0,24144
 2010,MAINE,Cities,Yarmouth,0,0,1,0,8157
-2010,MAINE,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MAINE,Universities and Colleges,University of Southern Maine,1,0,1,1,9655
-2010,MAINE,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MAINE,Metropolitan Counties,Androscoggin,0,0,1,0,
 2010,MAINE,Metropolitan Counties,Cumberland,1,0,0,0,
 2010,MAINE,Metropolitan Counties,Sagadahoc,1,1,1,0,
-2010,MAINE,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MAINE,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2010,MAINE,State Police Agencies,Androscoggin County,1,0,0,0,
 2010,MAINE,State Police Agencies,Somerset County,0,3,0,0,
 2010,MAINE,State Police Agencies,York County,2,0,2,1,
-2010,MARYLAND,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MARYLAND,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MARYLAND,Cities,Annapolis,0,1,0,0,37180
 2010,MARYLAND,Cities,Baltimore,4,2,3,2,639929
 2010,MARYLAND,Cities,Laurel,0,0,1,0,22960
 2010,MARYLAND,Cities,Takoma Park,0,0,1,0,18200
-2010,MARYLAND,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MARYLAND,Universities and Colleges,Salisbury University,0,1,0,0,8204
-2010,MARYLAND,Universities and Colleges,Towson University,0,0,0,1,21177
-2010,MARYLAND,Universities and Colleges,"University of Maryland, College Park",1,0,0,0,37195
-2010,MARYLAND,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MARYLAND,Metropolitan Counties,Anne Arundel County Police Department,0,0,0,1,
 2010,MARYLAND,Metropolitan Counties,Baltimore County Police Department,16,8,2,4,
 2010,MARYLAND,Metropolitan Counties,Calvert,0,1,0,0,
@@ -829,10 +684,7 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MARYLAND,Metropolitan Counties,Montgomery County Police Department,5,1,3,5,
 2010,MARYLAND,Metropolitan Counties,Prince George's County Police Department,0,0,1,2,
 2010,MARYLAND,Metropolitan Counties,Wicomico,0,1,0,0,
-2010,MARYLAND,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MARYLAND,State Police Agencies,"State Police, Carroll County",0,2,2,0,
-2010,MASSACHUSETTS,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MASSACHUSETTS,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MASSACHUSETTS,Cities,Acton,1,0,0,2,21090
 2010,MASSACHUSETTS,Cities,Amherst,0,2,1,0,36004
 2010,MASSACHUSETTS,Cities,Andover,0,1,0,0,33505
@@ -905,23 +757,7 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MASSACHUSETTS,Cities,Winthrop,0,1,0,0,19127
 2010,MASSACHUSETTS,Cities,Worcester,0,5,1,0,181908
 2010,MASSACHUSETTS,Cities,Wrentham,0,1,0,0,11166
-2010,MASSACHUSETTS,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MASSACHUSETTS,Universities and Colleges,Assumption College,0,0,0,1,2794
-2010,MASSACHUSETTS,Universities and Colleges,Bentley College,1,Nan,Nan,Nan,5628
-2010,MASSACHUSETTS,Universities and Colleges,Brandeis University,1,Nan,Nan,Nan,5598
-2010,MASSACHUSETTS,Universities and Colleges,Clark University,4,Nan,1,1,3416
-2010,MASSACHUSETTS,Universities and Colleges,Emerson College,Nan,Nan,Nan,1,4556
-2010,MASSACHUSETTS,Universities and Colleges,Harvard University,Nan,Nan,1,0,27651
-2010,MASSACHUSETTS,Universities and Colleges,Massachusetts Institute of Technology,1,0,0,0,10384
-2010,MASSACHUSETTS,Universities and Colleges,Merrimack College,Nan,Nan,1,Nan,2090
-2010,MASSACHUSETTS,Universities and Colleges,Northeastern University,3,1,Nan,3,27537
-2010,MASSACHUSETTS,Universities and Colleges,University of Massachusetts: ,Nan,Nan,Nan,Nan,
-2010,MASSACHUSETTS,Universities and Colleges,Amherst,2,1,0,0,27016
-2010,MASSACHUSETTS,Universities and Colleges,Dartmouth,Nan,Nan,Nan,1,9302
-2010,MASSACHUSETTS,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MASSACHUSETTS,Other Agencies,"Massachusetts Bay Transportation Authority, Suffolk County",Nan,Nan,Nan,1,
-2010,MICHIGAN,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MICHIGAN,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MICHIGAN,Cities,Adrian,0,1,0,Nan,20997
 2010,MICHIGAN,Cities,Alpena,0,2,1,0,10184
 2010,MICHIGAN,Cities,Ann Arbor,0,1,3,0,111745
@@ -1022,14 +858,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MICHIGAN,Cities,White Lake Township,0,0,1,1,29890
 2010,MICHIGAN,Cities,Wyandotte,1,0,0,0,23607
 2010,MICHIGAN,Cities,Wyoming,0,1,2,0,70160
-2010,MICHIGAN,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MICHIGAN,Universities and Colleges,Central Michigan University,1,0,0,0,27247
-2010,MICHIGAN,Universities and Colleges,Eastern Michigan University,1,0,0,1,22893
-2010,MICHIGAN,Universities and Colleges,Ferris State University,0,0,0,1,13865
-2010,MICHIGAN,Universities and Colleges,Lansing Community College,2,0,0,0,21123
-2010,MICHIGAN,Universities and Colleges,Michigan State University,0,1,0,0,47071
-2010,MICHIGAN,Universities and Colleges,"University of Michigan, Ann Arbor",0,1,1,3,41674
-2010,MICHIGAN,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MICHIGAN,Metropolitan Counties,Calhoun,2,0,0,0,
 2010,MICHIGAN,Metropolitan Counties,Eaton,0,0,1,0,
 2010,MICHIGAN,Metropolitan Counties,Genesee,0,0,0,1,
@@ -1045,7 +873,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MICHIGAN,Metropolitan Counties,St. Clair,0,0,0,1,
 2010,MICHIGAN,Metropolitan Counties,Van Buren,0,0,1,1,
 2010,MICHIGAN,Metropolitan Counties,Washtenaw,1,1,2,0,
-2010,MICHIGAN,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MICHIGAN,Nonmetropolitan Counties,Alger,0,0,1,0,
 2010,MICHIGAN,Nonmetropolitan Counties,Allegan,1,0,0,0,
 2010,MICHIGAN,Nonmetropolitan Counties,Benzie,0,1,0,0,
@@ -1058,15 +885,11 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MICHIGAN,Nonmetropolitan Counties,Presque Isle,0,0,1,0,
 2010,MICHIGAN,Nonmetropolitan Counties,St. Joseph,0,0,0,1,
 2010,MICHIGAN,Nonmetropolitan Counties,Tuscola,0,0,1,0,
-2010,MICHIGAN,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MICHIGAN,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2010,MICHIGAN,State Police Agencies,Ionia County,0,0,1,0,
 2010,MICHIGAN,State Police Agencies,Van Buren County,0,0,0,1,
 2010,MICHIGAN,State Police Agencies,Wayne County,1,0,0,0,
-2010,MICHIGAN,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MICHIGAN,Other Agencies,Wayne County Airport,0,0,0,1,
-2010,MINNESOTA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MINNESOTA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MINNESOTA,Cities,Bemidji,0,0,0,1,13911
 2010,MINNESOTA,Cities,Benson,0,0,1,0,2930
 2010,MINNESOTA,Cities,Blaine,1,1,0,Nan,57561
@@ -1091,22 +914,14 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MINNESOTA,Cities,South St. Paul,0,1,0,0,19434
 2010,MINNESOTA,Cities,St. Louis Park,Nan,3,4,Nan,45690
 2010,MINNESOTA,Cities,St. Paul,2,2,1,3,281166
-2010,MINNESOTA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MINNESOTA,Universities and Colleges,"University of Minnesota, Twin Cities",0,2,1,0,51659
-2010,MINNESOTA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MINNESOTA,Metropolitan Counties,Chisago,0,1,0,Nan,
 2010,MINNESOTA,Metropolitan Counties,Dakota,Nan,1,Nan,Nan,
 2010,MINNESOTA,Metropolitan Counties,Olmsted,1,3,1,Nan,
 2010,MINNESOTA,Metropolitan Counties,Polk,0,0,1,0,
 2010,MINNESOTA,Metropolitan Counties,Washington,0,1,0,0,
-2010,MINNESOTA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MINNESOTA,Nonmetropolitan Counties,Beltrami,0,Nan,1,0,
 2010,MINNESOTA,Nonmetropolitan Counties,Mille Lacs,0,1,Nan,Nan,
-2010,MISSISSIPPI,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MISSISSIPPI,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MISSISSIPPI,Cities,Gulfport,3,5,2,1,70806
-2010,MISSOURI,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MISSOURI,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MISSOURI,Cities,Bolivar,0,0,0,1,11308
 2010,MISSOURI,Cities,Bridgeton,0,0,1,0,14900
 2010,MISSOURI,Cities,Byrnes Mill,0,0,0,1,2977
@@ -1128,20 +943,13 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MISSOURI,Cities,St. Louis,1,1,2,0,355151
 2010,MISSOURI,Cities,St. Peters,0,2,0,1,56518
 2010,MISSOURI,Cities,Town and Country,1,0,0,0,10626
-2010,MISSOURI,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MISSOURI,Universities and Colleges,"University of Missouri, Columbia",1,1,1,1,31237
-2010,MISSOURI,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MISSOURI,Metropolitan Counties,Franklin,0,1,0,0,
 2010,MISSOURI,Metropolitan Counties,Jefferson,2,0,2,0,
 2010,MISSOURI,Metropolitan Counties,St. Charles,2,0,0,0,
 2010,MISSOURI,Metropolitan Counties,St. Louis County Police Department,1,3,1,0,
-2010,MISSOURI,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MISSOURI,Nonmetropolitan Counties,Laclede,0,1,0,0,
 2010,MISSOURI,Nonmetropolitan Counties,Ste. Genevieve,0,1,0,0,
-2010,MISSOURI,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MISSOURI,State Police Agencies,"State Highway Patrol, St. Joseph",1,0,0,0,
-2010,MONTANA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,MONTANA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MONTANA,Cities,Billings,1,0,0,0,108039
 2010,MONTANA,Cities,Helena,0,1,1,1,30520
 2010,MONTANA,Cities,Kalispell,0,0,1,0,22568
@@ -1149,34 +957,22 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MONTANA,Cities,Missoula,1,4,3,1,70559
 2010,MONTANA,Cities,Red Lodge,0,0,1,0,2531
 2010,MONTANA,Cities,Troy,0,0,0,1,969
-2010,MONTANA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MONTANA,Metropolitan Counties,Missoula,0,0,1,0,
-2010,MONTANA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,MONTANA,Nonmetropolitan Counties,Big Horn,0,2,0,0,
 2010,MONTANA,Nonmetropolitan Counties,Deer Lodge,0,1,0,0,
 2010,MONTANA,Nonmetropolitan Counties,Lewis and Clark,0,2,1,0,
 2010,MONTANA,Nonmetropolitan Counties,Phillips,0,1,0,0,
 2010,MONTANA,Nonmetropolitan Counties,Ravalli,2,0,0,1,
 2010,MONTANA,Nonmetropolitan Counties,Silver Bow,0,3,0,0,
-2010,NEBRASKA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NEBRASKA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEBRASKA,Cities,Fremont,0,0,4,0,25262
 2010,NEBRASKA,Cities,Lincoln,8,5,19,8,259672
 2010,NEBRASKA,Cities,Omaha,7,6,0,3,464628
-2010,NEBRASKA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEBRASKA,Nonmetropolitan Counties,Adams,0,0,1,0,
-2010,NEVADA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NEVADA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEVADA,Cities,Fallon,0,0,0,1,8552
 2010,NEVADA,Cities,Henderson,1,3,1,1,264280
 2010,NEVADA,Cities,Las Vegas Metropolitan Police Department,14,15,11,12,1416401
 2010,NEVADA,Cities,North Las Vegas,0,4,1,1,238004
-2010,NEVADA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NEVADA,Universities and Colleges,"University of Nevada, Las Vegas  ",2,0,0,0,29080
-2010,NEVADA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEVADA,Nonmetropolitan Counties,Humboldt,1,0,0,0,
-2010,NEW HAMPSHIRE,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NEW HAMPSHIRE,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW HAMPSHIRE,Cities,Bristol,0,0,1,0,3110
 2010,NEW HAMPSHIRE,Cities,Concord,0,0,1,0,42190
 2010,NEW HAMPSHIRE,Cities,Conway,0,2,0,0,9195
@@ -1199,8 +995,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEW HAMPSHIRE,Cities,Sandown,0,1,0,0,5907
 2010,NEW HAMPSHIRE,Cities,Seabrook,0,1,0,0,8471
 2010,NEW HAMPSHIRE,Cities,Tilton,0,0,1,0,3542
-2010,NEW JERSEY,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NEW JERSEY,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW JERSEY,Cities,Aberdeen Township,1,1,2,1,18575
 2010,NEW JERSEY,Cities,Asbury Park,0,4,1,2,16625
 2010,NEW JERSEY,Cities,Atlantic City,2,2,1,2,39787
@@ -1371,18 +1165,12 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEW JERSEY,Cities,Woodbury,0,Nan,1,1,10527
 2010,NEW JERSEY,Cities,Woodbury Heights,0,0,0,1,3079
 2010,NEW JERSEY,Cities,Woodstown,0,0,0,3,3392
-2010,NEW JERSEY,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW JERSEY,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2010,NEW JERSEY,State Police Agencies,Hunterdon County,1,0,0,0,
 2010,NEW JERSEY,State Police Agencies,Sussex County,1,0,0,0,
-2010,NEW MEXICO,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NEW MEXICO,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW MEXICO,Cities,Albuquerque,10,4,6,1,545389
-2010,NEW MEXICO,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW MEXICO,Metropolitan Counties,Bernalillo,1,0,0,0,
 2010,NEW MEXICO,Metropolitan Counties,San Juan,Nan,1,1,Nan,
-2010,NEW YORK,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NEW YORK,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW YORK,Cities,Albany,0,5,5,2,92713
 2010,NEW YORK,Cities,Amherst Town,0,2,0,0,109138
 2010,NEW YORK,Cities,Auburn,0,1,0,0,26448
@@ -1449,21 +1237,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEW YORK,Cities,West Seneca Town,0,1,0,1,43061
 2010,NEW YORK,Cities,Yonkers,1,0,2,0,199296
 2010,NEW YORK,Cities,Yorktown Town,1,1,1,2,37684
-2010,NEW YORK,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NEW YORK,Universities and Colleges,Cornell University,1,0,0,0,20633
-2010,NEW YORK,Universities and Colleges,State University of New York:,Nan,Nan,Nan,Nan,
-2010,NEW YORK,Universities and Colleges,Albany,0,0,0,1,18020
-2010,NEW YORK,Universities and Colleges,Stony Brook3,1,0,0,0,
-2010,NEW YORK,Universities and Colleges,State University of New York College:,Nan,Nan,Nan,Nan,
-2010,NEW YORK,Universities and Colleges,Buffalo,2,2,0,1,11714
-2010,NEW YORK,Universities and Colleges,Cortland,0,1,1,0,7322
-2010,NEW YORK,Universities and Colleges,New Paltz,0,0,0,1,7907
-2010,NEW YORK,Universities and Colleges,Oneonta,0,0,0,1,5893
-2010,NEW YORK,Universities and Colleges,Oswego,4,3,1,0,8119
-2010,NEW YORK,Universities and Colleges,Plattsburgh,0,1,0,4,6453
-2010,NEW YORK,Universities and Colleges,Potsdam,0,1,1,0,4299
-2010,NEW YORK,Universities and Colleges,Purchase,0,0,1,1,4192
-2010,NEW YORK,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW YORK,Metropolitan Counties,Broome,0,1,1,0,
 2010,NEW YORK,Metropolitan Counties,Erie,0,1,1,0,
 2010,NEW YORK,Metropolitan Counties,Monroe,0,2,0,0,
@@ -1473,10 +1246,8 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEW YORK,Metropolitan Counties,Suffolk County Police Department,8,8,18,15,
 2010,NEW YORK,Metropolitan Counties,Wayne,0,2,1,0,
 2010,NEW YORK,Metropolitan Counties,Westchester Public Safety,0,0,0,1,
-2010,NEW YORK,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW YORK,Nonmetropolitan Counties,Chenango,0,0,1,0,
 2010,NEW YORK,Nonmetropolitan Counties,Sullivan,0,1,0,0,
-2010,NEW YORK,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW YORK,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2010,NEW YORK,State Police Agencies,Broome County,0,1,0,0,
 2010,NEW YORK,State Police Agencies,Clinton County,1,0,0,0,
@@ -1484,12 +1255,9 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEW YORK,State Police Agencies,Saratoga County,1,0,0,0,
 2010,NEW YORK,State Police Agencies,Steuben County,0,2,0,0,
 2010,NEW YORK,State Police Agencies,Westchester County,0,0,1,0,
-2010,NEW YORK,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NEW YORK,Other Agencies,New York City Metropolitan Transportation Authority,3,3,2,3,
 2010,NEW YORK,Other Agencies,"State Park, Finger Lakes Region",0,0,1,0,
 2010,NEW YORK,Other Agencies,Suffolk County Parks,0,0,1,0,
-2010,NORTH CAROLINA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NORTH CAROLINA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NORTH CAROLINA,Cities,Albemarle,0,1,0,0,15446
 2010,NORTH CAROLINA,Cities,Asheboro,1,0,0,0,25017
 2010,NORTH CAROLINA,Cities,Asheville,0,2,1,5,77067
@@ -1521,9 +1289,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NORTH CAROLINA,Cities,Sylva,1,1,0,0,2460
 2010,NORTH CAROLINA,Cities,Wadesboro,0,0,0,1,5145
 2010,NORTH CAROLINA,Cities,Wilson,0,0,1,0,49134
-2010,NORTH CAROLINA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NORTH CAROLINA,Universities and Colleges,"North Carolina State University, Raleigh",0,1,1,0,33819
-2010,NORTH CAROLINA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NORTH CAROLINA,Metropolitan Counties,Buncombe,0,0,1,2,
 2010,NORTH CAROLINA,Metropolitan Counties,Caldwell,0,0,1,1,
 2010,NORTH CAROLINA,Metropolitan Counties,Catawba,0,0,1,0,
@@ -1534,14 +1299,10 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NORTH CAROLINA,Metropolitan Counties,Guilford,2,2,0,0,
 2010,NORTH CAROLINA,Metropolitan Counties,Henderson,0,0,0,1,
 2010,NORTH CAROLINA,Metropolitan Counties,Person,0,1,0,0,
-2010,NORTH CAROLINA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NORTH CAROLINA,Nonmetropolitan Counties,Jackson,0,1,0,0,
 2010,NORTH CAROLINA,Nonmetropolitan Counties,Rutherford,0,0,0,2,
 2010,NORTH CAROLINA,Nonmetropolitan Counties,Transylvania,2,0,0,0,
-2010,NORTH CAROLINA,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NORTH CAROLINA,Other Agencies,Raleigh-Durham International Airport,0,1,0,0,
-2010,NORTH DAKOTA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,NORTH DAKOTA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,NORTH DAKOTA,Cities,Bismarck,0,0,1,0,64142
 2010,NORTH DAKOTA,Cities,Devils Lake,0,1,1,0,6917
 2010,NORTH DAKOTA,Cities,Dickinson,0,0,1,0,16917
@@ -1549,8 +1310,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NORTH DAKOTA,Cities,Grand Forks,0,0,0,1,53382
 2010,NORTH DAKOTA,Cities,Mandan,0,0,1,0,19134
 2010,NORTH DAKOTA,Cities,Watford City,0,0,1,0,1450
-2010,OHIO,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,OHIO,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,OHIO,Cities,Akron,1,4,6,2,205760
 2010,OHIO,Cities,Alliance,Nan,Nan,Nan,1,22467
 2010,OHIO,Cities,Athens,2,0,0,0,22161
@@ -1615,11 +1374,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,OHIO,Cities,Whitehall,0,1,0,0,18332
 2010,OHIO,Cities,Wilmington,0,1,0,1,12578
 2010,OHIO,Cities,Youngstown,1,0,0,1,71380
-2010,OHIO,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,OHIO,Universities and Colleges,Capital University,0,0,0,1,3540
-2010,OHIO,Universities and Colleges,"Ohio State University, Columbus",0,1,0,0,55014
-2010,OHIO,Universities and Colleges,Wright State University,5,0,0,0,17558
-2010,OHIO,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,OHIO,Metropolitan Counties,Butler,1,0,1,2,
 2010,OHIO,Metropolitan Counties,Delaware,1,0,0,0,
 2010,OHIO,Metropolitan Counties,Franklin,0,1,Nan,Nan,
@@ -1629,7 +1383,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,OHIO,Metropolitan Counties,Pickaway,0,0,1,0,
 2010,OHIO,Metropolitan Counties,Stark,0,1,0,1,
 2010,OHIO,Metropolitan Counties,Summit,1,0,0,0,
-2010,OHIO,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,OHIO,Nonmetropolitan Counties,Ashland,0,0,1,0,
 2010,OHIO,Nonmetropolitan Counties,Clinton,0,1,0,0,
 2010,OHIO,Nonmetropolitan Counties,Coshocton,0,1,1,0,
@@ -1637,8 +1390,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,OHIO,Nonmetropolitan Counties,Putnam,0,1,0,0,
 2010,OHIO,Nonmetropolitan Counties,Ross,2,0,2,0,
 2010,OHIO,Nonmetropolitan Counties,Shelby,Nan,0,0,1,
-2010,OKLAHOMA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,OKLAHOMA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,OKLAHOMA,Cities,Ada,2,0,0,0,17298
 2010,OKLAHOMA,Cities,Apache,0,1,0,0,1540
 2010,OKLAHOMA,Cities,Atoka,0,0,1,0,3092
@@ -1661,12 +1412,7 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,OKLAHOMA,Cities,Valliant,0,0,0,1,743
 2010,OKLAHOMA,Cities,Warr Acres,0,0,1,0,9579
 2010,OKLAHOMA,Cities,Yukon,1,0,0,0,24023
-2010,OKLAHOMA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,OKLAHOMA,Universities and Colleges,Tulsa Community College,1,0,0,0,19730
-2010,OKLAHOMA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,OKLAHOMA,Metropolitan Counties,Tulsa,0,1,0,0,
-2010,OREGON,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,OREGON,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,OREGON,Cities,Albany,Nan,Nan,1,Nan,48777
 2010,OREGON,Cities,Beaverton,2,3,1,2,93993
 2010,OREGON,Cities,Bend,1,0,0,0,79556
@@ -1687,20 +1433,16 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,OREGON,Cities,Sutherlin,0,0,0,1,7064
 2010,OREGON,Cities,Tigard,1,2,2,2,49466
 2010,OREGON,Cities,Woodburn,1,0,0,0,23032
-2010,OREGON,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,OREGON,Metropolitan Counties,Benton,1,0,0,0,
 2010,OREGON,Metropolitan Counties,Clackamas,3,Nan,Nan,Nan,
 2010,OREGON,Metropolitan Counties,Deschutes,0,0,0,1,
 2010,OREGON,Metropolitan Counties,Lane,4,Nan,Nan,Nan,
 2010,OREGON,Metropolitan Counties,Yamhill,0,0,1,0,
-2010,OREGON,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,OREGON,Nonmetropolitan Counties,Douglas,2,1,0,0,
 2010,OREGON,Nonmetropolitan Counties,Lincoln,2,1,0,0,
 2010,OREGON,Nonmetropolitan Counties,Tillamook,0,0,1,0,
 2010,OREGON,Nonmetropolitan Counties,Umatilla,0,1,2,0,
 2010,OREGON,Nonmetropolitan Counties,Union,0,1,0,0,
-2010,PENNSYLVANIA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,PENNSYLVANIA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,PENNSYLVANIA,Cities,Abington Township,0,0,0,1,54235
 2010,PENNSYLVANIA,Cities,Ambler,1,0,0,0,6228
 2010,PENNSYLVANIA,Cities,Avoca,1,0,0,0,2659
@@ -1722,10 +1464,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,PENNSYLVANIA,Cities,South Park Township,0,0,0,1,14057
 2010,PENNSYLVANIA,Cities,State College,0,0,1,1,54649
 2010,PENNSYLVANIA,Cities,West Hills Regional,0,0,1,0,10549
-2010,PENNSYLVANIA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,PENNSYLVANIA,Universities and Colleges,"Pennsylvania State University, University Park",0,1,2,1,45185
-2010,PENNSYLVANIA,Universities and Colleges,West Chester University,0,0,2,0,14211
-2010,PENNSYLVANIA,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,PENNSYLVANIA,State Police Agencies,State Police:,Nan,Nan,Nan,Nan,
 2010,PENNSYLVANIA,State Police Agencies,Adams County,0,0,0,1,
 2010,PENNSYLVANIA,State Police Agencies,Chester County,0,0,0,1,
@@ -1735,8 +1473,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,PENNSYLVANIA,State Police Agencies,Monroe County,0,0,1,0,
 2010,PENNSYLVANIA,State Police Agencies,Potter County,0,0,0,1,
 2010,PENNSYLVANIA,State Police Agencies,Washington County,0,1,1,0,
-2010,RHODE ISLAND,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,RHODE ISLAND,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,RHODE ISLAND,Cities,Burrillville,0,0,0,1,16637
 2010,RHODE ISLAND,Cities,Charlestown,0,0,0,1,8093
 2010,RHODE ISLAND,Cities,Coventry,1,0,0,0,35021
@@ -1746,11 +1482,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,RHODE ISLAND,Cities,Pawtucket,1,1,1,0,71782
 2010,RHODE ISLAND,Cities,Providence,0,0,0,1,171565
 2010,RHODE ISLAND,Cities,West Warwick,0,0,0,1,29251
-2010,RHODE ISLAND,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,RHODE ISLAND,Universities and Colleges,Brown University,0,1,0,0,8574
-2010,RHODE ISLAND,Universities and Colleges,University of Rhode Island,1,2,0,3,16389
-2010,SOUTH CAROLINA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,SOUTH CAROLINA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,SOUTH CAROLINA,Cities,Aiken,0,0,1,0,29875
 2010,SOUTH CAROLINA,Cities,Anderson,0,0,0,1,27325
 2010,SOUTH CAROLINA,Cities,Andrews,2,1,0,0,2965
@@ -1780,10 +1511,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,SOUTH CAROLINA,Cities,Walterboro,3,3,2,1,5841
 2010,SOUTH CAROLINA,Cities,Williston,0,0,0,1,3121
 2010,SOUTH CAROLINA,Cities,York,1,0,0,1,8327
-2010,SOUTH CAROLINA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,SOUTH CAROLINA,Universities and Colleges,Clemson University,0,1,0,0,19111
-2010,SOUTH CAROLINA,Universities and Colleges,College of Charleston,4,0,0,0,11772
-2010,SOUTH CAROLINA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,SOUTH CAROLINA,Metropolitan Counties,Anderson,3,1,2,2,
 2010,SOUTH CAROLINA,Metropolitan Counties,Berkeley,1,0,0,0,
 2010,SOUTH CAROLINA,Metropolitan Counties,Charleston,0,1,0,1,
@@ -1792,7 +1519,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,SOUTH CAROLINA,Metropolitan Counties,Pickens,0,0,1,0,
 2010,SOUTH CAROLINA,Metropolitan Counties,Richland,1,1,2,0,
 2010,SOUTH CAROLINA,Metropolitan Counties,Spartanburg,1,0,1,0,
-2010,SOUTH CAROLINA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,SOUTH CAROLINA,Nonmetropolitan Counties,Chesterfield,3,0,0,0,
 2010,SOUTH CAROLINA,Nonmetropolitan Counties,Colleton,0,2,1,0,
 2010,SOUTH CAROLINA,Nonmetropolitan Counties,Dillon,0,1,0,0,
@@ -1801,8 +1527,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,SOUTH CAROLINA,Nonmetropolitan Counties,Oconee,0,0,0,1,
 2010,SOUTH CAROLINA,Nonmetropolitan Counties,Union,0,1,1,0,
 2010,SOUTH CAROLINA,Nonmetropolitan Counties,Williamsburg,0,0,0,1,
-2010,SOUTH DAKOTA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,SOUTH DAKOTA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,SOUTH DAKOTA,Cities,Belle Fourche,0,1,0,0,4972
 2010,SOUTH DAKOTA,Cities,Box Elder,0,0,0,1,4340
 2010,SOUTH DAKOTA,Cities,Flandreau,0,0,0,1,2171
@@ -1813,10 +1537,7 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,SOUTH DAKOTA,Cities,Spearfish,0,1,0,0,10057
 2010,SOUTH DAKOTA,Cities,Tea,0,0,1,5,5058
 2010,SOUTH DAKOTA,Cities,Watertown,1,1,1,0,20232
-2010,SOUTH DAKOTA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,SOUTH DAKOTA,Metropolitan Counties,Minnehaha,0,1,0,0,
-2010,TENNESSEE,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,TENNESSEE,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,TENNESSEE,Cities,Alcoa,1,0,0,0,8775
 2010,TENNESSEE,Cities,Bolivar,0,2,0,0,5516
 2010,TENNESSEE,Cities,Brownsville,0,0,2,0,10138
@@ -1859,10 +1580,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,TENNESSEE,Cities,Spring Hill,0,3,1,0,30829
 2010,TENNESSEE,Cities,Union City,0,0,1,0,10486
 2010,TENNESSEE,Cities,Westmoreland,0,0,0,2,2243
-2010,TENNESSEE,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,TENNESSEE,Universities and Colleges,Middle Tennessee State University,2,0,0,0,25188
-2010,TENNESSEE,Universities and Colleges,Vanderbilt University,0,0,1,0,12506
-2010,TENNESSEE,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,TENNESSEE,Metropolitan Counties,Anderson,0,0,0,1,
 2010,TENNESSEE,Metropolitan Counties,Bradley,0,0,0,1,
 2010,TENNESSEE,Metropolitan Counties,Cheatham,0,0,0,1,
@@ -1873,14 +1590,10 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,TENNESSEE,Metropolitan Counties,Stewart,2,0,0,0,
 2010,TENNESSEE,Metropolitan Counties,Sumner,0,3,0,1,
 2010,TENNESSEE,Metropolitan Counties,Washington,0,0,1,0,
-2010,TENNESSEE,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,TENNESSEE,Nonmetropolitan Counties,Decatur,0,0,0,4,
 2010,TENNESSEE,Nonmetropolitan Counties,Lewis,0,0,1,0,
 2010,TENNESSEE,Nonmetropolitan Counties,Maury,0,0,1,0,
-2010,TENNESSEE,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,TENNESSEE,Other Agencies,Memphis International Airport,0,0,1,0,
-2010,TEXAS,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,TEXAS,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,TEXAS,Cities,Abilene,1,0,0,0,116938
 2010,TEXAS,Cities,Allen,0,1,0,0,89459
 2010,TEXAS,Cities,Arlington,0,2,1,0,383715
@@ -1937,22 +1650,12 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,TEXAS,Cities,Vidor,2,0,1,0,10611
 2010,TEXAS,Cities,Wichita Falls,1,2,1,2,100716
 2010,TEXAS,Cities,Wylie,0,1,0,0,43508
-2010,TEXAS,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,TEXAS,Universities and Colleges,Houston Community College,0,0,0,1,54942
-2010,TEXAS,Universities and Colleges,"Texas A&M University, College Station",0,2,1,0,48702
-2010,TEXAS,Universities and Colleges,University of Texas:,Nan,Nan,Nan,Nan,
-2010,TEXAS,Universities and Colleges,Austin,0,0,0,1,50995
-2010,TEXAS,Universities and Colleges,Permian Basin,0,1,0,0,3546
-2010,TEXAS,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,TEXAS,Metropolitan Counties,Comal,0,0,1,0,
 2010,TEXAS,Metropolitan Counties,Harris,0,0,1,1,
 2010,TEXAS,Metropolitan Counties,Kaufman,0,2,2,0,
 2010,TEXAS,Metropolitan Counties,Travis,1,0,0,0,
 2010,TEXAS,Metropolitan Counties,Wise,1,0,0,0,
-2010,TEXAS,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,TEXAS,Other Agencies,Dallas-Fort Worth International Airport,0,0,2,0,
-2010,UTAH,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,UTAH,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,UTAH,Cities,Bluffdale,Nan,0,1,1,8246
 2010,UTAH,Cities,Bountiful,2,1,0,2,43485
 2010,UTAH,Cities,Draper,1,1,1,0,44259
@@ -1976,21 +1679,13 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,UTAH,Cities,West Jordan,0,1,1,0,104783
 2010,UTAH,Cities,West Valley,0,2,0,0,123089
 2010,UTAH,Cities,Woods Cross,0,1,0,0,8899
-2010,UTAH,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,UTAH,Universities and Colleges,University of Utah,0,0,1,0,29284
-2010,UTAH,Universities and Colleges,Utah State University,0,0,2,0,15612
-2010,UTAH,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,UTAH,Metropolitan Counties,Davis,0,0,0,1,
 2010,UTAH,Metropolitan Counties,Salt Lake County Unified Police Department,1,0,0,0,
 2010,UTAH,Metropolitan Counties,Summit,0,1,0,0,
 2010,UTAH,Metropolitan Counties,Utah,0,1,0,0,
 2010,UTAH,Metropolitan Counties,Washington,1,1,0,2,
-2010,UTAH,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,UTAH,Nonmetropolitan Counties,Uintah,0,1,0,0,
-2010,UTAH,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,UTAH,Other Agencies,Utah Transit Authority,1,0,0,0,
-2010,VERMONT,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,VERMONT,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,VERMONT,Cities,Bennington,0,1,1,1,15086
 2010,VERMONT,Cities,Brattleboro,0,0,0,2,11573
 2010,VERMONT,Cities,Burlington,3,1,0,1,38699
@@ -1998,11 +1693,8 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,VERMONT,Cities,Montpelier,0,1,0,0,7708
 2010,VERMONT,Cities,Rutland,0,0,0,1,16643
 2010,VERMONT,Cities,Vergennes,0,1,1,0,2675
-2010,VERMONT,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,VERMONT,Nonmetropolitan Counties,Lamoille,0,1,0,0,
 2010,VERMONT,Nonmetropolitan Counties,Orange,0,1,0,0,
-2010,VIRGINIA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,VIRGINIA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,VIRGINIA,Cities,Alexandria,0,3,1,0,152801
 2010,VIRGINIA,Cities,Bedford,0,1,0,0,6377
 2010,VIRGINIA,Cities,Charlottesville,1,0,0,1,42590
@@ -2027,15 +1719,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,VIRGINIA,Cities,Vinton,0,0,0,1,7851
 2010,VIRGINIA,Cities,Virginia Beach,3,5,5,6,435873
 2010,VIRGINIA,Cities,Williamsburg,0,0,0,1,12854
-2010,VIRGINIA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,VIRGINIA,Universities and Colleges,Christopher Newport University,0,0,0,1,4952
-2010,VIRGINIA,Universities and Colleges,College of William and Mary,2,2,0,0,7874
-2010,VIRGINIA,Universities and Colleges,George Mason University,0,1,1,0,32067
-2010,VIRGINIA,Universities and Colleges,Longwood University,1,0,0,0,4832
-2010,VIRGINIA,Universities and Colleges,Old Dominion University,0,0,1,0,24013
-2010,VIRGINIA,Universities and Colleges,Radford University,1,0,0,2,8878
-2010,VIRGINIA,Universities and Colleges,University of Mary Washington,0,1,0,0,5381
-2010,VIRGINIA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,VIRGINIA,Metropolitan Counties,Albemarle County Police Department,2,3,3,0,
 2010,VIRGINIA,Metropolitan Counties,Amelia,0,1,1,0,
 2010,VIRGINIA,Metropolitan Counties,Arlington County Police Department,0,3,2,2,
@@ -2052,17 +1735,12 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,VIRGINIA,Metropolitan Counties,Rockingham,0,0,0,1,
 2010,VIRGINIA,Metropolitan Counties,Spotsylvania,0,0,1,1,
 2010,VIRGINIA,Metropolitan Counties,Warren,0,1,0,0,
-2010,VIRGINIA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,VIRGINIA,Nonmetropolitan Counties,Accomack,1,0,0,0,
 2010,VIRGINIA,Nonmetropolitan Counties,King George,1,0,0,0,
 2010,VIRGINIA,Nonmetropolitan Counties,Madison,0,1,0,0,
 2010,VIRGINIA,Nonmetropolitan Counties,Page,2,1,0,0,
-2010,VIRGINIA,State Police Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,VIRGINIA,State Police Agencies,"State Police, Fauquier County",0,0,0,1,
-2010,VIRGINIA,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,VIRGINIA,Other Agencies,Richmond International Airport,0,1,0,0,
-2010,WASHINGTON,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,WASHINGTON,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WASHINGTON,Cities,Auburn,2,2,1,0,64139
 2010,WASHINGTON,Cities,Battle Ground,0,1,0,2,18076
 2010,WASHINGTON,Cities,Bellevue,0,1,3,3,127735
@@ -2104,11 +1782,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,WASHINGTON,Cities,Walla Walla,2,0,0,0,31265
 2010,WASHINGTON,Cities,West Richland,0,0,1,0,11840
 2010,WASHINGTON,Cities,Yakima,0,1,0,0,85802
-2010,WASHINGTON,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,WASHINGTON,Universities and Colleges,Eastern Washington University,3,3,0,1,11300
-2010,WASHINGTON,Universities and Colleges,Evergreen State College,0,1,0,1,4891
-2010,WASHINGTON,Universities and Colleges,University of Washington,1,1,0,1,45943
-2010,WASHINGTON,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WASHINGTON,Metropolitan Counties,Chelan,1,0,1,0,
 2010,WASHINGTON,Metropolitan Counties,Clark,1,6,4,5,
 2010,WASHINGTON,Metropolitan Counties,King,5,3,1,3,
@@ -2117,14 +1790,10 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,WASHINGTON,Metropolitan Counties,Spokane,0,1,0,0,
 2010,WASHINGTON,Metropolitan Counties,Thurston,0,2,1,0,
 2010,WASHINGTON,Metropolitan Counties,Yakima,0,1,0,0,
-2010,WASHINGTON,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WASHINGTON,Nonmetropolitan Counties,Adams,0,0,0,1,
 2010,WASHINGTON,Nonmetropolitan Counties,Clallam,0,1,0,0,
 2010,WASHINGTON,Nonmetropolitan Counties,Walla Walla,0,0,1,0,
-2010,WASHINGTON,Other Agencies,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WASHINGTON,Other Agencies,Port of Seattle,0,0,1,1,
-2010,WEST VIRGINIA,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,WEST VIRGINIA,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WEST VIRGINIA,Cities,Beckley,0,0,2,0,16990
 2010,WEST VIRGINIA,Cities,Buckhannon,1,0,0,0,5601
 2010,WEST VIRGINIA,Cities,Ceredo,0,1,0,0,1608
@@ -2137,16 +1806,10 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,WEST VIRGINIA,Cities,Parkersburg,0,0,1,1,32001
 2010,WEST VIRGINIA,Cities,South Charleston,0,1,0,1,12691
 2010,WEST VIRGINIA,Cities,Wheeling,1,0,0,0,29054
-2010,WEST VIRGINIA,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,WEST VIRGINIA,Universities and Colleges,West Virginia University,0,0,0,1,28898
-2010,WEST VIRGINIA,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WEST VIRGINIA,Metropolitan Counties,Berkeley,0,0,0,1,
 2010,WEST VIRGINIA,Metropolitan Counties,Brooke,1,1,0,4,
 2010,WEST VIRGINIA,Metropolitan Counties,Kanawha,0,2,3,0,
-2010,WEST VIRGINIA,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WEST VIRGINIA,Nonmetropolitan Counties,Raleigh,0,0,1,0,
-2010,WISCONSIN,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,WISCONSIN,Cities,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WISCONSIN,Cities,Appleton,0,0,1,0,70975
 2010,WISCONSIN,Cities,Berlin,1,0,0,0,4932
 2010,WISCONSIN,Cities,Fond du Lac,0,0,1,0,42369
@@ -2170,20 +1833,13 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,WISCONSIN,Cities,Tomahawk,1,0,0,0,3580
 2010,WISCONSIN,Cities,Wausau,0,0,0,1,38429
 2010,WISCONSIN,Cities,Whitewater,0,0,1,0,14211
-2010,WISCONSIN,Universities and Colleges,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,WISCONSIN,Universities and Colleges,"University of Wisconsin, Platteville",Nan,Nan,0,1,7803
-2010,WISCONSIN,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WISCONSIN,Metropolitan Counties,Dane,0,0,0,1,
 2010,WISCONSIN,Metropolitan Counties,Iowa,0,1,0,0,
 2010,WISCONSIN,Metropolitan Counties,Outagamie,1,0,0,0,
 2010,WISCONSIN,Metropolitan Counties,Racine,0,0,0,1,
-2010,WISCONSIN,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WISCONSIN,Nonmetropolitan Counties,Clark,2,0,0,0,
 2010,WISCONSIN,Nonmetropolitan Counties,Manitowoc,1,0,0,0,
-2010,WYOMING,Total,@@DELETE ME@@,Nan,Nan,Nan,Nan,
-2010,WYOMING,Metropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WYOMING,Metropolitan Counties,Laramie,0,0,0,1,
-2010,WYOMING,Nonmetropolitan Counties,@@DELETE ME@@,Nan,Nan,Nan,Nan,
 2010,WYOMING,Nonmetropolitan Counties,Niobrara,1,0,0,0,
 2010,ALABAMA,Cities,Abbeville,0,Nan,0,Nan,2950
 2010,ALABAMA,Cities,Adamsville,0,0,0,0,4796
@@ -2443,19 +2099,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ALABAMA,Cities,Winfield,0,0,0,0,4573
 2010,ALABAMA,Cities,Woodstock,0,0,0,0,1099
 2010,ALABAMA,Cities,York,0,0,0,0,2466
-2010,ALABAMA,Universities and Colleges,"Auburn University, Montgomery",0,0,0,0,5567
-2010,ALABAMA,Universities and Colleges,Calhoun Community College3,0,0,0,0,
-2010,ALABAMA,Universities and Colleges,George C. Wallace State Community College,0,0,0,0,4653
-2010,ALABAMA,Universities and Colleges,Jacksonville State University,0,0,0,0,9351
-2010,ALABAMA,Universities and Colleges,Troy University,0,0,0,0,29328
-2010,ALABAMA,Universities and Colleges,University of Alabama:,Nan,Nan,Nan,Nan,
-2010,ALABAMA,Universities and Colleges,Birmingham,0,0,0,0,16874
-2010,ALABAMA,Universities and Colleges,Huntsville,0,0,0,0,7681
-2010,ALABAMA,Universities and Colleges,Tuscaloosa,0,Nan,Nan,Nan,28699
-2010,ALABAMA,Universities and Colleges,University of Montevallo,0,0,0,0,3044
-2010,ALABAMA,Universities and Colleges,University of North Alabama,0,0,0,0,7194
-2010,ALABAMA,Universities and Colleges,University of South Alabama,0,0,0,0,14522
-2010,ALABAMA,Universities and Colleges,University of West Alabama,0,0,0,0,5157
 2010,ALABAMA,Metropolitan Counties,Autauga,0,0,Nan,0,
 2010,ALABAMA,Metropolitan Counties,Calhoun,0,0,0,0,
 2010,ALABAMA,Metropolitan Counties,Chilton,0,0,0,Nan,
@@ -2554,11 +2197,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ARIZONA,Cities,Williams,0,0,0,0,3233
 2010,ARIZONA,Cities,Winslow,0,0,0,0,9529
 2010,ARIZONA,Cities,Youngtown,0,0,0,0,4759
-2010,ARIZONA,Universities and Colleges,"Arizona State University, Main Campus",0,0,0,0,68064
-2010,ARIZONA,Universities and Colleges,Central Arizona College,0,0,0,0,6795
-2010,ARIZONA,Universities and Colleges,Northern Arizona University,0,0,0,0,23597
-2010,ARIZONA,Universities and Colleges,Pima Community College,0,0,0,0,35880
-2010,ARIZONA,Universities and Colleges,Yavapai College,0,0,0,0,8276
 2010,ARIZONA,Metropolitan Counties,Coconino,0,0,0,0,
 2010,ARIZONA,Metropolitan Counties,Mohave,0,0,0,0,
 2010,ARIZONA,Metropolitan Counties,Yavapai,0,0,0,0,
@@ -2724,19 +2362,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ARKANSAS,Cities,West Memphis,0,0,0,0,27196
 2010,ARKANSAS,Cities,White Hall,0,0,0,0,5216
 2010,ARKANSAS,Cities,Wynne,0,0,0,0,8317
-2010,ARKANSAS,Universities and Colleges,Arkansas State University:,Nan,Nan,Nan,Nan,
-2010,ARKANSAS,Universities and Colleges,Beebe,0,0,Nan,Nan,4491
-2010,ARKANSAS,Universities and Colleges,Jonesboro,0,0,0,0,12156
-2010,ARKANSAS,Universities and Colleges,Arkansas Tech University,0,0,0,0,8814
-2010,ARKANSAS,Universities and Colleges,Henderson State University,0,0,0,0,3567
-2010,ARKANSAS,Universities and Colleges,Northwest Arkansas Community College,0,0,0,0,8006
-2010,ARKANSAS,Universities and Colleges,Southern Arkansas University,0,Nan,0,0,3226
-2010,ARKANSAS,Universities and Colleges,University of Arkansas:,Nan,Nan,Nan,Nan,
-2010,ARKANSAS,Universities and Colleges,Fayetteville,0,0,0,0,19849
-2010,ARKANSAS,Universities and Colleges,Little Rock,0,0,0,0,13132
-2010,ARKANSAS,Universities and Colleges,Medical Sciences,0,0,0,0,2774
-2010,ARKANSAS,Universities and Colleges,Monticello,0,0,0,0,3479
-2010,ARKANSAS,Universities and Colleges,University of Central Arkansas,0,0,0,0,11781
 2010,ARKANSAS,Metropolitan Counties,Cleveland,0,0,0,0,
 2010,ARKANSAS,Metropolitan Counties,Craighead,0,0,0,0,
 2010,ARKANSAS,Metropolitan Counties,Crawford,0,0,0,0,
@@ -3059,39 +2684,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,CALIFORNIA,Cities,Yuba City,0,0,0,0,62694
 2010,CALIFORNIA,Cities,Yucaipa,0,0,0,0,50939
 2010,CALIFORNIA,Cities,Yucca Valley,0,0,0,0,20746
-2010,CALIFORNIA,Universities and Colleges,"California State Polytechnic University, San Luis Obispo",0,0,0,0,19325
-2010,CALIFORNIA,Universities and Colleges,California State University:,Nan,Nan,Nan,Nan,
-2010,CALIFORNIA,Universities and Colleges,Bakersfield,0,0,0,0,8003
-2010,CALIFORNIA,Universities and Colleges,Chico,0,0,0,0,16934
-2010,CALIFORNIA,Universities and Colleges,East Bay,0,0,0,0,14749
-2010,CALIFORNIA,Universities and Colleges,Los Angeles,0,0,0,0,20619
-2010,CALIFORNIA,Universities and Colleges,Monterey Bay,0,0,0,0,4688
-2010,CALIFORNIA,Universities and Colleges,Sacramento,0,0,0,0,29241
-2010,CALIFORNIA,Universities and Colleges,San Jose3,0,0,0,0,
-2010,CALIFORNIA,Universities and Colleges,Stanislaus,0,0,0,0,8586
-2010,CALIFORNIA,Universities and Colleges,College of the Sequoias,0,0,0,0,13322
-2010,CALIFORNIA,Universities and Colleges,Contra Costa Community College,0,0,0,0,8316
-2010,CALIFORNIA,Universities and Colleges,Cuesta College,0,0,0,0,12025
-2010,CALIFORNIA,Universities and Colleges,El Camino College,0,0,0,0,27237
-2010,CALIFORNIA,Universities and Colleges,Foothill-De Anza College,0,0,0,0,43484
-2010,CALIFORNIA,Universities and Colleges,Humboldt State University,0,0,0,0,7954
-2010,CALIFORNIA,Universities and Colleges,Marin Community College,0,0,0,0,7066
-2010,CALIFORNIA,Universities and Colleges,Pasadena Community College,0,0,0,0,26453
-2010,CALIFORNIA,Universities and Colleges,San Bernardino Community College,0,0,0,0,14916
-2010,CALIFORNIA,Universities and Colleges,San Francisco State University,0,0,0,0,30469
-2010,CALIFORNIA,Universities and Colleges,San Jose/Evergreen Community College,0,0,0,0,23550
-2010,CALIFORNIA,Universities and Colleges,Santa Rosa Junior College,0,0,0,0,25877
-2010,CALIFORNIA,Universities and Colleges,Solano Community College,0,0,0,0,12222
-2010,CALIFORNIA,Universities and Colleges,Sonoma State University,0,0,0,0,8546
-2010,CALIFORNIA,Universities and Colleges,State Center Community College District,0,0,0,0,40895
-2010,CALIFORNIA,Universities and Colleges,University of California:,Nan,Nan,Nan,Nan,
-2010,CALIFORNIA,Universities and Colleges,Hastings College of Law,0,0,0,0,1347
-2010,CALIFORNIA,Universities and Colleges,Irvine,0,0,0,0,27142
-2010,CALIFORNIA,Universities and Colleges,"Medical Center, Sacramento3",0,0,0,0,
-2010,CALIFORNIA,Universities and Colleges,Merced,0,0,0,0,3414
-2010,CALIFORNIA,Universities and Colleges,Santa Barbara,0,0,0,0,22850
-2010,CALIFORNIA,Universities and Colleges,Ventura County Community College District,0,0,0,0,14395
-2010,CALIFORNIA,Universities and Colleges,West Valley-Mission College,0,0,0,0,23847
 2010,CALIFORNIA,Metropolitan Counties,Alameda,0,0,0,0,
 2010,CALIFORNIA,Metropolitan Counties,Fresno,0,0,0,0,
 2010,CALIFORNIA,Metropolitan Counties,Imperial,0,0,0,0,
@@ -3397,20 +2989,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,COLORADO,Cities,Windsor,0,0,0,0,18088
 2010,COLORADO,Cities,Woodland Park,0,0,0,0,6540
 2010,COLORADO,Cities,Wray,0,0,0,0,2093
-2010,COLORADO,Universities and Colleges,Adams State College,0,0,0,0,3121
-2010,COLORADO,Universities and Colleges,Arapahoe Community College,0,0,0,0,9969
-2010,COLORADO,Universities and Colleges,Auraria Higher Education Center3,0,0,0,0,
-2010,COLORADO,Universities and Colleges,Colorado School of Mines,0,0,0,0,5124
-2010,COLORADO,Universities and Colleges,"Colorado State University, Fort Collins",0,0,0,0,28902
-2010,COLORADO,Universities and Colleges,Fort Lewis College,0,0,0,0,3770
-2010,COLORADO,Universities and Colleges,Pikes Peak Community College,0,0,0,0,13572
-2010,COLORADO,Universities and Colleges,Red Rocks Community College,0,0,0,0,9143
-2010,COLORADO,Universities and Colleges,University of Colorado:,Nan,Nan,Nan,Nan,
-2010,COLORADO,Universities and Colleges,Boulder,0,0,0,0,33010
-2010,COLORADO,Universities and Colleges,Colorado Springs,0,0,0,0,9733
-2010,COLORADO,Universities and Colleges,Denver,0,0,0,0,23715
-2010,COLORADO,Universities and Colleges,Health Sciences Center3,0,0,0,0,
-2010,COLORADO,Universities and Colleges,University of Northern Colorado,0,0,0,0,12711
 2010,COLORADO,Metropolitan Counties,Boulder,0,0,0,0,
 2010,COLORADO,Metropolitan Counties,Clear Creek,0,0,0,0,
 2010,COLORADO,Metropolitan Counties,El Paso,0,0,0,0,
@@ -3518,9 +3096,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,CONNECTICUT,Cities,Winchester,0,0,0,0,10927
 2010,CONNECTICUT,Cities,Windsor,0,0,0,0,29447
 2010,CONNECTICUT,Cities,Woodbridge,0,0,0,0,9324
-2010,CONNECTICUT,Universities and Colleges,Central Connecticut State University,0,0,0,0,12461
-2010,CONNECTICUT,Universities and Colleges,"University of Connecticut, Health Center3",0,0,0,0,
-2010,CONNECTICUT,Universities and Colleges,Yale University,0,0,0,0,11593
 2010,CONNECTICUT,Other Agencies,State Capitol Police,0,0,0,0,
 2010,DELAWARE,Cities,Blades,0,0,0,0,1206
 2010,DELAWARE,Cities,Bridgeville,0,0,0,0,1724
@@ -3552,7 +3127,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,DELAWARE,Cities,Selbyville,0,0,0,0,1935
 2010,DELAWARE,Cities,South Bethany,0,0,0,0,538
 2010,DELAWARE,Cities,Wyoming,0,0,0,0,1468
-2010,DELAWARE,Universities and Colleges,Delaware State University,0,0,0,0,3609
 2010,DELAWARE,Metropolitan Counties,New Castle County Police Department,0,0,0,0,
 2010,DELAWARE,State Police Agencies,State Police,Nan,Nan,0,0,
 2010,DELAWARE,Other Agencies,Amtrak Police,0,0,0,0,
@@ -3826,24 +3400,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,FLORIDA,Cities,Winter Springs,0,0,0,0,32862
 2010,FLORIDA,Cities,Zephyrhills,0,0,0,0,13360
 2010,FLORIDA,Cities,Zolfo Springs,0,0,0,0,1708
-2010,FLORIDA,Universities and Colleges,Florida A&M University,0,0,0,0,12274
-2010,FLORIDA,Universities and Colleges,Florida Atlantic University,0,0,0,0,27637
-2010,FLORIDA,Universities and Colleges,Florida Gulf Coast University,0,0,0,0,11092
-2010,FLORIDA,Universities and Colleges,Florida International University,0,0,0,0,39610
-2010,FLORIDA,Universities and Colleges,Florida State University:,Nan,Nan,Nan,Nan,
-2010,FLORIDA,Universities and Colleges,Panama City3,0,0,0,0,
-2010,FLORIDA,Universities and Colleges,Tallahassee,0,0,0,0,39785
-2010,FLORIDA,Universities and Colleges,New College of Florida,0,0,0,0,825
-2010,FLORIDA,Universities and Colleges,Pensacola Junior College,0,0,0,0,11598
-2010,FLORIDA,Universities and Colleges,Santa Fe College,0,0,0,0,15043
-2010,FLORIDA,Universities and Colleges,Tallahassee Community College,0,0,0,0,14526
-2010,FLORIDA,Universities and Colleges,University of Central Florida,0,0,0,0,53401
-2010,FLORIDA,Universities and Colleges,University of Florida,0,0,0,0,50691
-2010,FLORIDA,Universities and Colleges,University of North Florida,0,0,0,0,16477
-2010,FLORIDA,Universities and Colleges,University of South Florida:,Nan,Nan,Nan,Nan,
-2010,FLORIDA,Universities and Colleges,St. Petersburg,0,0,0,0,3895
-2010,FLORIDA,Universities and Colleges,Tampa,0,0,0,0,40022
-2010,FLORIDA,Universities and Colleges,University of West Florida,0,0,0,0,11143
 2010,FLORIDA,Metropolitan Counties,Baker,0,0,0,0,
 2010,FLORIDA,Metropolitan Counties,Bay,0,0,0,0,
 2010,FLORIDA,Metropolitan Counties,Charlotte,0,0,0,0,
@@ -4298,47 +3854,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,GEORGIA,Cities,Woodbury,0,0,0,0,1023
 2010,GEORGIA,Cities,Woodstock,0,0,0,0,24370
 2010,GEORGIA,Cities,Wrens,0,0,0,0,2111
-2010,GEORGIA,Universities and Colleges,Abraham Baldwin Agricultural College,0,0,0,0,3327
-2010,GEORGIA,Universities and Colleges,Albany State University,0,0,0,0,4473
-2010,GEORGIA,Universities and Colleges,Armstrong Atlantic State University,0,0,0,0,7538
-2010,GEORGIA,Universities and Colleges,Augusta State University,0,0,0,0,7061
-2010,GEORGIA,Universities and Colleges,Berry College,0,0,0,0,1922
-2010,GEORGIA,Universities and Colleges,Clark Atlanta University,0,0,0,0,3873
-2010,GEORGIA,Universities and Colleges,Clayton College and State University,0,0,0,0,6587
-2010,GEORGIA,Universities and Colleges,Coastal Georgia Community College3,0,0,0,0,
-2010,GEORGIA,Universities and Colleges,Columbus State University,0,0,0,0,8178
-2010,GEORGIA,Universities and Colleges,Dalton State College,0,0,0,0,5722
-2010,GEORGIA,Universities and Colleges,Darton College,0,0,0,0,5854
-2010,GEORGIA,Universities and Colleges,Emory University,0,0,0,0,12930
-2010,GEORGIA,Universities and Colleges,Fort Valley State University,0,0,0,0,3553
-2010,GEORGIA,Universities and Colleges,Gainesville State College,0,0,0,0,8801
-2010,GEORGIA,Universities and Colleges,Georgia College and State University,0,0,0,0,6633
-2010,GEORGIA,Universities and Colleges,Georgia Gwinnett College,0,0,0,0,2947
-2010,GEORGIA,Universities and Colleges,Georgia Institute of Technology,0,0,0,0,20291
-2010,GEORGIA,Universities and Colleges,Georgia Military College3,0,0,0,0,
-2010,GEORGIA,Universities and Colleges,Georgia Perimeter College,0,0,0,0,24549
-2010,GEORGIA,Universities and Colleges,Georgia Southern University,0,0,0,0,19086
-2010,GEORGIA,Universities and Colleges,Georgia Southwestern State University,0,0,0,0,2903
-2010,GEORGIA,Universities and Colleges,Georgia State University,0,0,0,0,30427
-2010,GEORGIA,Universities and Colleges,Gordon College,0,0,0,0,4545
-2010,GEORGIA,Universities and Colleges,Kennesaw State University,0,0,0,0,22389
-2010,GEORGIA,Universities and Colleges,Medical College of Georgia,0,0,0,0,2515
-2010,GEORGIA,Universities and Colleges,Mercer University,0,0,0,0,8072
-2010,GEORGIA,Universities and Colleges,Middle Georgia College,0,0,0,0,3614
-2010,GEORGIA,Universities and Colleges,Morehouse College,0,0,0,0,2689
-2010,GEORGIA,Universities and Colleges,Morehouse School of Medicine,0,0,0,0,326
-2010,GEORGIA,Universities and Colleges,Morris-Brown College3,0,0,0,0,
-2010,GEORGIA,Universities and Colleges,North Georgia College and State University,0,0,0,0,5652
-2010,GEORGIA,Universities and Colleges,Paine College,0,0,0,0,907
-2010,GEORGIA,Universities and Colleges,Piedmont College,0,0,0,0,2811
-2010,GEORGIA,Universities and Colleges,Savannah State University,0,0,0,0,3820
-2010,GEORGIA,Universities and Colleges,Southern Crescent Technology College3,Nan,Nan,Nan,0,
-2010,GEORGIA,Universities and Colleges,South Georgia College,0,0,0,0,2000
-2010,GEORGIA,Universities and Colleges,Spelman College,0,0,0,0,2229
-2010,GEORGIA,Universities and Colleges,University of West Georgia,0,0,0,0,11500
-2010,GEORGIA,Universities and Colleges,Valdosta State University,0,0,0,0,12391
-2010,GEORGIA,Universities and Colleges,Wesleyan College,0,0,0,0,685
-2010,GEORGIA,Universities and Colleges,Young Harris College,0,0,0,0,695
 2010,GEORGIA,Metropolitan Counties,Augusta-Richmond,0,0,0,0,
 2010,GEORGIA,Metropolitan Counties,Baker,0,0,Nan,Nan,
 2010,GEORGIA,Metropolitan Counties,Barrow,0,0,0,0,
@@ -5013,25 +4528,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,ILLINOIS,Cities,Worth,0,0,0,0,10210
 2010,ILLINOIS,Cities,Yorkville,0,0,0,0,18182
 2010,ILLINOIS,Cities,Zion,0,0,0,0,25171
-2010,ILLINOIS,Universities and Colleges,Benedictine University,0,0,0,0,5836
-2010,ILLINOIS,Universities and Colleges,Chicago State University,0,0,0,0,7235
-2010,ILLINOIS,Universities and Colleges,College of Lake County,0,0,0,0,18092
-2010,ILLINOIS,Universities and Colleges,Elgin Community College,Nan,Nan,Nan,0,11704
-2010,ILLINOIS,Universities and Colleges,Joliet Junior College,0,0,0,0,15288
-2010,ILLINOIS,Universities and Colleges,Lake Land College,0,0,0,0,7945
-2010,ILLINOIS,Universities and Colleges,Moraine Valley Community College,0,0,0,0,17774
-2010,ILLINOIS,Universities and Colleges,Morton College,0,0,0,0,5290
-2010,ILLINOIS,Universities and Colleges,Parkland College,0,0,0,0,9633
-2010,ILLINOIS,Universities and Colleges,Southern Illinois University:,Nan,Nan,Nan,Nan,
-2010,ILLINOIS,Universities and Colleges,Carbondale,0,0,0,0,20350
-2010,ILLINOIS,Universities and Colleges,Edwardsville,0,0,0,0,13940
-2010,ILLINOIS,Universities and Colleges,South Suburban College,0,0,0,0,7279
-2010,ILLINOIS,Universities and Colleges,Southwestern Illinois College,0,0,0,0,14440
-2010,ILLINOIS,Universities and Colleges,Triton College,0,0,0,Nan,15706
-2010,ILLINOIS,Universities and Colleges,University of Illinois:,Nan,Nan,Nan,Nan,
-2010,ILLINOIS,Universities and Colleges,Springfield,0,0,0,0,4977
-2010,ILLINOIS,Universities and Colleges,Urbana,0,0,0,0,43881
-2010,ILLINOIS,Universities and Colleges,William Rainey Harper College3,0,0,0,0,
 2010,ILLINOIS,Metropolitan Counties,Alexander,0,0,0,0,
 2010,ILLINOIS,Metropolitan Counties,Bond,0,0,0,0,
 2010,ILLINOIS,Metropolitan Counties,Boone,0,0,0,0,
@@ -5192,9 +4688,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,INDIANA,Cities,Westville,0,0,0,0,5034
 2010,INDIANA,Cities,Whitestown,0,0,0,0,1462
 2010,INDIANA,Cities,Winona Lake,0,0,0,0,4334
-2010,INDIANA,Universities and Colleges,Ball State University,0,0,0,0,21401
-2010,INDIANA,Universities and Colleges,"Indiana University, Gary",0,0,0,0,5560
-2010,INDIANA,Universities and Colleges,Marian University,0,0,0,0,2277
 2010,INDIANA,Metropolitan Counties,Bartholomew,0,0,0,0,
 2010,INDIANA,Metropolitan Counties,Brown,0,0,0,0,
 2010,INDIANA,Metropolitan Counties,Delaware,0,0,Nan,Nan,
@@ -5344,7 +4837,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,IOWA,Cites,Wilton,0,0,0,0,2867
 2010,IOWA,Cites,Windsor Heights,0,0,0,0,4657
 2010,IOWA,Cites,Winterset,0,0,0,0,4883
-2010,IOWA,Universities and Colleges,University of Northern Iowa,0,0,0,0,13303
 2010,IOWA,Metropolitan Counties,Benton,0,0,0,0,
 2010,IOWA,Metropolitan Counties,Black Hawk,0,0,0,0,
 2010,IOWA,Metropolitan Counties,Bremer,0,0,0,0,
@@ -5645,14 +5137,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,KANSAS,Cities,Wilson,0,0,0,Nan,751
 2010,KANSAS,Cities,Winchester,0,0,0,0,562
 2010,KANSAS,Cities,Yates Center,0,0,0,0,1341
-2010,KANSAS,Universities and Colleges,Fort Hays State University,0,0,0,0,11308
-2010,KANSAS,Universities and Colleges,Kansas City Community College,0,0,0,0,7137
-2010,KANSAS,Universities and Colleges,Pittsburg State University,0,0,0,Nan,7277
-2010,KANSAS,Universities and Colleges,University of Kansas:,Nan,Nan,Nan,Nan,
-2010,KANSAS,Universities and Colleges,Main Campus,Nan,Nan,0,0,29242
-2010,KANSAS,Universities and Colleges,Medical Center3,0,0,0,0,
-2010,KANSAS,Universities and Colleges,Washburn University,0,0,0,0,6652
-2010,KANSAS,Universities and Colleges,Wichita State University,0,0,0,0,14601
 2010,KANSAS,Metropolitan Counties,Butler,0,0,0,0,
 2010,KANSAS,Metropolitan Counties,Doniphan,0,0,0,0,
 2010,KANSAS,Metropolitan Counties,Douglas,0,0,0,0,
@@ -5919,7 +5403,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,KENTUCKY,Cities,Williamstown,0,0,0,0,3533
 2010,KENTUCKY,Cities,Wilmore,0,0,0,0,6028
 2010,KENTUCKY,Cities,Worthington,0,0,0,0,1700
-2010,KENTUCKY,Universities and Colleges,Kentucky State University,0,0,0,0,2834
 2010,KENTUCKY,Metropolitan Counties,Bracken,0,0,0,0,
 2010,KENTUCKY,Metropolitan Counties,Campbell County Police Department,0,0,0,0,
 2010,KENTUCKY,Metropolitan Counties,Christian,0,0,0,0,
@@ -6082,19 +5565,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,LOUISIANA,Cities,Washington,0,0,Nan,Nan,1045
 2010,LOUISIANA,Cities,West Monroe,0,Nan,Nan,0,12930
 2010,LOUISIANA,Cities,Westwego,0,0,0,0,10226
-2010,LOUISIANA,Universities and Colleges,Delgado Community College,0,0,Nan,Nan,16758
-2010,LOUISIANA,Universities and Colleges,Louisiana State University:,Nan,Nan,Nan,Nan,
-2010,LOUISIANA,Universities and Colleges,Baton Rouge3,0,0,0,0,
-2010,LOUISIANA,Universities and Colleges,Eunice,0,0,0,0,3332
-2010,LOUISIANA,Universities and Colleges,Shreveport,0,0,0,0,4667
-2010,LOUISIANA,Universities and Colleges,McNeese State University,0,0,0,0,8638
-2010,LOUISIANA,Universities and Colleges,Nicholls State University,0,0,0,0,7169
-2010,LOUISIANA,Universities and Colleges,Northwestern State University,Nan,0,Nan,Nan,9247
-2010,LOUISIANA,Universities and Colleges,Southeastern Louisiana University,0,0,0,0,15151
-2010,LOUISIANA,Universities and Colleges,"Southern University and A&M College, New Orleans",Nan,0,0,0,3141
-2010,LOUISIANA,Universities and Colleges,Tulane University,0,0,0,0,11464
-2010,LOUISIANA,Universities and Colleges,"University of Louisiana, Monroe",0,0,0,0,9004
-2010,LOUISIANA,Universities and Colleges,University of New Orleans,Nan,0,Nan,Nan,11724
 2010,LOUISIANA,Metropolitan Counties,Bossier,0,0,0,0,
 2010,LOUISIANA,Metropolitan Counties,Cameron,0,0,0,0,
 2010,LOUISIANA,Metropolitan Counties,De Soto,0,Nan,Nan,Nan,
@@ -6214,9 +5684,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MAINE,Cities,Winthrop,0,0,0,0,6419
 2010,MAINE,Cities,Wiscasset,0,0,0,0,3798
 2010,MAINE,Cities,York,0,0,0,0,14201
-2010,MAINE,Universities and Colleges,University of Maine:,Nan,Nan,Nan,Nan,
-2010,MAINE,Universities and Colleges,Farmington,0,0,0,0,2361
-2010,MAINE,Universities and Colleges,Orono,0,0,0,0,11894
 2010,MAINE,Metropolitan Counties,Penobscot,0,0,0,0,
 2010,MAINE,Metropolitan Counties,York,0,0,0,0,
 2010,MAINE,Nonmetropolitan Counties,Aroostook,0,0,0,0,
@@ -6319,17 +5786,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MARYLAND,Cities,University Park,0,0,0,0,2330
 2010,MARYLAND,Cities,Upper Marlboro,0,0,0,0,673
 2010,MARYLAND,Cities,Westminster,0,0,0,0,18196
-2010,MARYLAND,Universities and Colleges,Bowie State University,0,0,0,0,5617
-2010,MARYLAND,Universities and Colleges,Coppin State University,0,0,0,0,3801
-2010,MARYLAND,Universities and Colleges,Frostburg State University,0,0,0,0,5385
-2010,MARYLAND,Universities and Colleges,Hagerstown Community College,0,0,0,0,4452
-2010,MARYLAND,Universities and Colleges,Morgan State University,0,0,0,0,7226
-2010,MARYLAND,Universities and Colleges,St. Mary's College,0,0,0,0,2060
-2010,MARYLAND,Universities and Colleges,University of Baltimore,0,0,0,0,6265
-2010,MARYLAND,Universities and Colleges,University of Maryland:,Nan,Nan,Nan,Nan,
-2010,MARYLAND,Universities and Colleges,Baltimore City ,0,0,0,0,6382
-2010,MARYLAND,Universities and Colleges,Baltimore County,0,0,0,0,12870
-2010,MARYLAND,Universities and Colleges,Eastern Shore,0,0,0,0,4433
 2010,MARYLAND,Metropolitan Counties,Allegany,0,0,0,0,
 2010,MARYLAND,Metropolitan Counties,Allegany County Bureau of Police,0,0,0,0,
 2010,MARYLAND,Metropolitan Counties,Anne Arundel,0,0,0,0,
@@ -6603,21 +6059,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MASSACHUSETTS,Cities,Winchester,0,0,0,0,21331
 2010,MASSACHUSETTS,Cities,Woburn,0,0,0,0,38731
 2010,MASSACHUSETTS,Cities,Yarmouth,0,0,0,0,23498
-2010,MASSACHUSETTS,Universities and Colleges,Boston University,0,0,0,0,31960
-2010,MASSACHUSETTS,Universities and Colleges,Bridgewater State College,0,0,0,0,10774
-2010,MASSACHUSETTS,Universities and Colleges,Bunker Hill Community College,Nan,0,0,0,11009
-2010,MASSACHUSETTS,Universities and Colleges,Hampshire College,0,0,0,0,1463
-2010,MASSACHUSETTS,Universities and Colleges,Holyoke Community College,0,0,0,0,7473
-2010,MASSACHUSETTS,Universities and Colleges,Massachusetts College of Liberal Arts,0,0,0,0,1962
-2010,MASSACHUSETTS,Universities and Colleges,Mount Holyoke College,0,0,0,0,2304
-2010,MASSACHUSETTS,Universities and Colleges,Smith College,0,0,0,0,3121
-2010,MASSACHUSETTS,Universities and Colleges,Tufts University:,Nan,Nan,Nan,Nan,
-2010,MASSACHUSETTS,Universities and Colleges,Medford,0,0,Nan,Nan,10252
-2010,MASSACHUSETTS,Universities and Colleges,Suffolk3,Nan,0,Nan,Nan,
-2010,MASSACHUSETTS,Universities and Colleges,Worcester3 ,0,0,Nan,Nan,
-2010,MASSACHUSETTS,Universities and Colleges,"University of Massachusetts, Harbor Campus, Boston",0,0,0,0,14912
-2010,MASSACHUSETTS,Universities and Colleges,Westfield State College,0,0,0,0,5675
-2010,MASSACHUSETTS,Universities and Colleges,Worcester Polytechnic Institute,0,0,0,0,4961
 2010,MASSACHUSETTS,Other Agencies,Beth Israel Deaconess Medical Center,0,0,0,0,
 2010,MICHIGAN,Cities,Albion,0,0,0,0,9021
 2010,MICHIGAN,Cities,Algonac,0,0,0,0,4445
@@ -6917,20 +6358,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MICHIGAN,Cities,Ypsilanti,0,0,0,0,21245
 2010,MICHIGAN,Cities,Zeeland,0,0,0,0,5383
 2010,MICHIGAN,Cities,Zilwaukee,0,0,0,0,1610
-2010,MICHIGAN,Universities and Colleges,Delta College,0,0,0,0,11354
-2010,MICHIGAN,Universities and Colleges,Grand Rapids Community College,0,0,0,0,16944
-2010,MICHIGAN,Universities and Colleges,Grand Valley State University,0,0,0,0,24408
-2010,MICHIGAN,Universities and Colleges,Macomb Community College,0,0,0,Nan,24376
-2010,MICHIGAN,Universities and Colleges,Michigan Technological University,0,0,0,0,7136
-2010,MICHIGAN,Universities and Colleges,Mott Community College,0,0,0,0,12151
-2010,MICHIGAN,Universities and Colleges,Northern Michigan University,0,0,0,0,9428
-2010,MICHIGAN,Universities and Colleges,Oakland Community College,0,0,0,0,28042
-2010,MICHIGAN,Universities and Colleges,Oakland University,0,0,0,0,18918
-2010,MICHIGAN,Universities and Colleges,Saginaw Valley State University,0,0,0,0,10498
-2010,MICHIGAN,Universities and Colleges,University of Michigan:,Nan,Nan,Nan,Nan,
-2010,MICHIGAN,Universities and Colleges,Dearborn,Nan,0,Nan,Nan,8379
-2010,MICHIGAN,Universities and Colleges,Flint,0,0,0,0,7773
-2010,MICHIGAN,Universities and Colleges,Western Michigan University,0,Nan,0,Nan,24576
 2010,MICHIGAN,Metropolitan Counties,Barry,0,0,0,0,
 2010,MICHIGAN,Metropolitan Counties,Bay,0,0,0,0,
 2010,MICHIGAN,Metropolitan Counties,Berrien,0,0,0,0,
@@ -7113,7 +6540,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MINNESOTA,Cities,West Hennepin,0,0,0,Nan,5680
 2010,MINNESOTA,Cities,Willmar,0,Nan,0,0,17854
 2010,MINNESOTA,Cities,Winona,0,Nan,Nan,Nan,26447
-2010,MINNESOTA,Universities and Colleges,"University of Minnesota, Duluth",0,Nan,Nan,Nan,11664
 2010,MINNESOTA,Metropolitan Counties,Blue Earth,0,0,0,0,
 2010,MINNESOTA,Metropolitan Counties,Carlton,0,0,0,0,
 2010,MINNESOTA,Metropolitan Counties,Clay,0,0,0,0,
@@ -7167,10 +6593,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MISSISSIPPI,Cities,Waveland,0,0,0,Nan,5592
 2010,MISSISSIPPI,Cities,West Point,0,0,0,0,11082
 2010,MISSISSIPPI,Cities,Winona,0,0,Nan,0,4350
-2010,MISSISSIPPI,Universities and Colleges,Coahoma Community College,0,0,0,0,2565
-2010,MISSISSIPPI,Universities and Colleges,Jackson State University,0,0,0,Nan,8783
-2010,MISSISSIPPI,Universities and Colleges,Mississippi State University,0,0,0,0,18601
-2010,MISSISSIPPI,Universities and Colleges,"University of Mississippi, Oxford",Nan,0,0,0,15932
 2010,MISSISSIPPI,Metropolitan Counties,Forrest,0,0,0,0,
 2010,MISSISSIPPI,Metropolitan Counties,Tunica,Nan,0,Nan,Nan,
 2010,MISSISSIPPI,Nonmetropolitan Counties,Adams,Nan,Nan,Nan,0,
@@ -7649,23 +7071,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MISSOURI,Cities,Wood Heights,0,0,0,0,738
 2010,MISSOURI,Cities,Woodson Terrace,0,0,0,0,3963
 2010,MISSOURI,Cities,Wright City,0,0,0,0,3256
-2010,MISSOURI,Universities and Colleges,Lincoln University,0,0,0,0,3314
-2010,MISSOURI,Universities and Colleges,Mineral Area College,0,0,0,0,3671
-2010,MISSOURI,Universities and Colleges,Missouri Southern State University,0,0,0,0,5701
-2010,MISSOURI,Universities and Colleges,Missouri University of Science and Technology,0,0,0,0,6814
-2010,MISSOURI,Universities and Colleges,Missouri Western State University,0,0,0,0,5703
-2010,MISSOURI,Universities and Colleges,Northwest Missouri State University,0,0,0,0,7076
-2010,MISSOURI,Universities and Colleges,Southeast Missouri State University,0,0,0,0,10801
-2010,MISSOURI,Universities and Colleges,St. Louis Community College:,Nan,Nan,Nan,Nan,
-2010,MISSOURI,Universities and Colleges,Florissant Valley,0,0,0,0,7210
-2010,MISSOURI,Universities and Colleges,Meramec,0,0,0,0,11186
-2010,MISSOURI,Universities and Colleges,Three Rivers Community College,0,0,0,0,3527
-2010,MISSOURI,Universities and Colleges,Truman State University,0,0,0,0,5781
-2010,MISSOURI,Universities and Colleges,University of Central Missouri,0,0,0,0,11191
-2010,MISSOURI,Universities and Colleges,University of Missouri:,Nan,Nan,Nan,Nan,
-2010,MISSOURI,Universities and Colleges,Kansas City,0,0,0,0,14799
-2010,MISSOURI,Universities and Colleges,St. Louis,0,0,0,0,16534
-2010,MISSOURI,Universities and Colleges,Washington University,0,0,0,0,13575
 2010,MISSOURI,Metropolitan Counties,Andrew,0,0,0,0,
 2010,MISSOURI,Metropolitan Counties,Bates,0,0,0,0,
 2010,MISSOURI,Metropolitan Counties,Bollinger,0,0,0,0,
@@ -7841,8 +7246,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,MONTANA,Cities,West Yellowstone,0,0,0,0,1549
 2010,MONTANA,Cities,Whitefish,0,0,0,0,8776
 2010,MONTANA,Cities,Wolf Point,0,0,0,0,2562
-2010,MONTANA,Universities and Colleges,Montana State University,0,0,0,0,12348
-2010,MONTANA,Universities and Colleges,University of Montana,0,0,0,0,14921
 2010,MONTANA,Metropolitan Counties,Carbon,0,0,0,0,
 2010,MONTANA,Metropolitan Counties,Cascade,0,0,0,0,
 2010,MONTANA,Metropolitan Counties,Yellowstone,0,0,0,0,
@@ -7933,7 +7336,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEBRASKA,Cities,Wilber,0,0,0,0,1765
 2010,NEBRASKA,Cities,Wymore,0,0,0,0,1566
 2010,NEBRASKA,Cities,York,0,0,0,0,7681
-2010,NEBRASKA,Universities and Colleges,"University of Nebraska, Kearney",0,0,0,0,6650
 2010,NEBRASKA,Metropolitan Counties,Cass,0,0,0,0,
 2010,NEBRASKA,Metropolitan Counties,Dixon,0,0,0,0,
 2010,NEBRASKA,Metropolitan Counties,Lancaster,0,0,0,0,
@@ -8081,8 +7483,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEVADA,Cities,West Wendover,0,0,0,0,5091
 2010,NEVADA,Cities,Winnemucca,0,0,0,0,8361
 2010,NEVADA,Cities,Yerington,0,0,0,0,3912
-2010,NEVADA,Universities and Colleges,Truckee Meadows Community College,0,0,0,0,12942
-2010,NEVADA,Universities and Colleges,"University of Nevada, Reno",0,0,0,0,16875
 2010,NEVADA,Metropolitan Counties,Carson City,0,0,0,0,
 2010,NEVADA,Metropolitan Counties,Storey,0,0,0,0,
 2010,NEVADA,Metropolitan Counties,Washoe,0,0,0,0,
@@ -8222,7 +7622,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEW HAMPSHIRE,Cities,Windham,0,0,0,0,13484
 2010,NEW HAMPSHIRE,Cities,Wolfeboro,0,0,0,0,6569
 2010,NEW HAMPSHIRE,Cities,Woodstock,0,0,0,0,1155
-2010,NEW HAMPSHIRE,Universities and Colleges,University of New Hampshire,0,0,0,0,15253
 2010,NEW HAMPSHIRE,Metropolitan Counties,Rockingham,0,0,0,0,
 2010,NEW HAMPSHIRE,Nonmetropolitan Counties,Carroll,0,0,0,0,
 2010,NEW HAMPSHIRE,Nonmetropolitan Counties,Cheshire,0,0,0,0,
@@ -8596,9 +7995,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEW MEXICO,Cities,Taos,Nan,0,0,0,5689
 2010,NEW MEXICO,Cities,Texico,Nan,0,0,0,997
 2010,NEW MEXICO,Cities,Truth or Consequences,Nan,Nan,0,Nan,7194
-2010,NEW MEXICO,Universities and Colleges,Eastern New Mexico University,0,0,0,0,4679
-2010,NEW MEXICO,Universities and Colleges,New Mexico State University,0,0,0,0,18526
-2010,NEW MEXICO,Universities and Colleges,University of New Mexico,0,0,Nan,Nan,27241
 2010,NEW MEXICO,Nonmetropolitan Counties,Chaves,0,0,0,0,
 2010,NEW MEXICO,Nonmetropolitan Counties,Cibola,Nan,Nan,0,Nan,
 2010,NEW MEXICO,Nonmetropolitan Counties,Colfax,Nan,Nan,0,Nan,
@@ -8953,27 +8349,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NEW YORK,Cities,Woodstock Town,0,0,0,0,6009
 2010,NEW YORK,Cities,Yorkville Village,0,0,0,0,2503
 2010,NEW YORK,Cities,Youngstown Village,0,0,0,0,1832
-2010,NEW YORK,Universities and Colleges,Ithaca College,0,0,0,0,6894
-2010,NEW YORK,Universities and Colleges,Rensselaer Polytechnic Institute,0,0,0,0,6901
-2010,NEW YORK,Universities and Colleges,State University of New York:,Nan,Nan,Nan,Nan,
-2010,NEW YORK,Universities and Colleges,Buffalo3,0,0,0,0,
-2010,NEW YORK,Universities and Colleges,Maritime College,0,0,0,0,1756
-2010,NEW YORK,Universities and Colleges,Upstate Medical Center3,0,0,0,0,
-2010,NEW YORK,Universities and Colleges,State University of New York Agricultural and Technical College:,Nan,Nan,Nan,Nan,
-2010,NEW YORK,Universities and Colleges,Alfred,0,0,0,0,3530
-2010,NEW YORK,Universities and Colleges,Canton,0,0,0,0,3320
-2010,NEW YORK,Universities and Colleges,Cobleskill,0,0,0,0,2692
-2010,NEW YORK,Universities and Colleges,Farmingdale3,0,0,0,0,
-2010,NEW YORK,Universities and Colleges,Morrisville3,0,0,0,0,
-2010,NEW YORK,Universities and Colleges,State University of New York College:,Nan,Nan,Nan,Nan,
-2010,NEW YORK,Universities and Colleges,Brockport,0,0,0,Nan,8490
-2010,NEW YORK,Universities and Colleges,Environmental Science and Forestry,0,0,Nan,Nan,2642
-2010,NEW YORK,Universities and Colleges,Fredonia3,0,0,0,0,
-2010,NEW YORK,Universities and Colleges,Geneseo3,0,0,0,0,
-2010,NEW YORK,Universities and Colleges,Old Westbury,0,0,0,0,3897
-2010,NEW YORK,Universities and Colleges,Optometry,0,0,0,0,301
-2010,NEW YORK,Universities and Colleges,Utica-Rome3,0,0,0,0,
-2010,NEW YORK,Universities and Colleges,United States Merchant Marine Academy,0,0,0,0,982
 2010,NEW YORK,Metropolitan Counties,Albany,0,0,0,0,
 2010,NEW YORK,Metropolitan Counties,Chemung,0,0,0,0,
 2010,NEW YORK,Metropolitan Counties,Dutchess,0,0,0,0,
@@ -9400,31 +8775,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NORTH CAROLINA,Cities,Yadkinville,0,0,0,0,2825
 2010,NORTH CAROLINA,Cities,Youngsville,0,0,0,0,798
 2010,NORTH CAROLINA,Cities,Zebulon,0,0,0,0,4964
-2010,NORTH CAROLINA,Universities and Colleges,Appalachian State University,0,0,0,0,16968
-2010,NORTH CAROLINA,Universities and Colleges,Beaufort County Community College,0,0,0,0,1966
-2010,NORTH CAROLINA,Universities and Colleges,Belmont Abbey College,0,0,0,0,1638
-2010,NORTH CAROLINA,Universities and Colleges,Davidson College,0,0,0,0,1743
-2010,NORTH CAROLINA,Universities and Colleges,Duke University,0,0,0,0,14350
-2010,NORTH CAROLINA,Universities and Colleges,East Carolina University,0,0,0,0,27654
-2010,NORTH CAROLINA,Universities and Colleges,Elizabeth City State University,0,0,0,0,3264
-2010,NORTH CAROLINA,Universities and Colleges,Elon University,0,0,0,0,5666
-2010,NORTH CAROLINA,Universities and Colleges,Fayetteville State University,0,0,0,0,6283
-2010,NORTH CAROLINA,Universities and Colleges,Methodist University,0,0,0,0,2183
-2010,NORTH CAROLINA,Universities and Colleges,North Carolina Agricultural and Technical State University,0,0,0,0,10614
-2010,NORTH CAROLINA,Universities and Colleges,North Carolina Central University,0,0,0,0,8587
-2010,NORTH CAROLINA,Universities and Colleges,North Carolina School of the Arts,0,0,0,0,872
-2010,NORTH CAROLINA,Universities and Colleges,Queens University,0,0,0,0,2568
-2010,NORTH CAROLINA,Universities and Colleges,Saint Augustine's College,0,0,0,0,1529
-2010,NORTH CAROLINA,Universities and Colleges,University of North Carolina:,Nan,Nan,Nan,Nan,
-2010,NORTH CAROLINA,Universities and Colleges,Asheville,0,0,0,0,3897
-2010,NORTH CAROLINA,Universities and Colleges,Chapel Hill,0,0,0,0,28916
-2010,NORTH CAROLINA,Universities and Colleges,Charlotte,0,0,0,0,24701
-2010,NORTH CAROLINA,Universities and Colleges,Greensboro,0,0,0,0,21306
-2010,NORTH CAROLINA,Universities and Colleges,Pembroke,0,0,0,0,6661
-2010,NORTH CAROLINA,Universities and Colleges,Wilmington,0,0,0,0,12924
-2010,NORTH CAROLINA,Universities and Colleges,Wake Forest University,0,0,0,0,7079
-2010,NORTH CAROLINA,Universities and Colleges,Western Carolina University,0,0,0,0,9429
-2010,NORTH CAROLINA,Universities and Colleges,Winston-Salem State University,0,0,0,0,6427
 2010,NORTH CAROLINA,Metropolitan Counties,Alamance,0,0,0,0,
 2010,NORTH CAROLINA,Metropolitan Counties,Alexander,0,0,0,0,
 2010,NORTH CAROLINA,Metropolitan Counties,Anson,0,0,0,0,
@@ -9604,9 +8954,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,NORTH DAKOTA,Cities,Wahpeton,0,0,0,0,7592
 2010,NORTH DAKOTA,Cities,West Fargo,0,0,0,0,26409
 2010,NORTH DAKOTA,Cities,Williston,0,0,0,0,13569
-2010,NORTH DAKOTA,Universities and Colleges,North Dakota State College of Science,0,0,0,0,2650
-2010,NORTH DAKOTA,Universities and Colleges,North Dakota State University,0,0,0,0,14189
-2010,NORTH DAKOTA,Universities and Colleges,University of North Dakota,0,0,0,0,13172
 2010,NORTH DAKOTA,Metropolitan Counties,Burleigh,0,0,0,0,
 2010,NORTH DAKOTA,Metropolitan Counties,Cass,0,0,0,0,
 2010,NORTH DAKOTA,Metropolitan Counties,Grand Forks,0,0,0,0,
@@ -10069,28 +9416,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,OHIO,Cities,Wyoming,0,0,0,0,8331
 2010,OHIO,Cities,Xenia,0,0,Nan,Nan,27702
 2010,OHIO,Cities,Zanesville,0,0,0,0,24776
-2010,OHIO,Universities and Colleges,Bowling Green State University,0,0,0,0,17309
-2010,OHIO,Universities and Colleges,Central State University,Nan,Nan,Nan,0,2436
-2010,OHIO,Universities and Colleges,Cleveland State University,0,0,0,Nan,16216
-2010,OHIO,Universities and Colleges,College of Mount St. Joseph,0,0,0,0,2324
-2010,OHIO,Universities and Colleges,Columbus State Community College,0,0,0,0,28539
-2010,OHIO,Universities and Colleges,Cuyahoga Community College,0,0,0,0,29807
-2010,OHIO,Universities and Colleges,Kent State University,0,0,0,0,25127
-2010,OHIO,Universities and Colleges,Lakeland Community College,0,0,0,Nan,9406
-2010,OHIO,Universities and Colleges,Marietta College,0,0,0,Nan,1597
-2010,OHIO,Universities and Colleges,Miami University,0,0,0,0,16884
-2010,OHIO,Universities and Colleges,Muskingum University,0,0,0,0,2207
-2010,OHIO,Universities and Colleges,Notre Dame College,0,0,0,0,1872
-2010,OHIO,Universities and Colleges,Ohio State University:,Nan,Nan,Nan,Nan,
-2010,OHIO,Universities and Colleges,Marion,0,0,0,0,1828
-2010,OHIO,Universities and Colleges,Wooster3,0,0,0,0,
-2010,OHIO,Universities and Colleges,Ohio University,0,0,0,0,22647
-2010,OHIO,Universities and Colleges,Otterbein College,0,0,0,0,3063
-2010,OHIO,Universities and Colleges,Sinclair Community College,0,0,0,0,21561
-2010,OHIO,Universities and Colleges,University of Akron,0,0,0,0,25959
-2010,OHIO,Universities and Colleges,University of Rio Grande,0,0,0,0,2096
-2010,OHIO,Universities and Colleges,University of Toledo,0,Nan,0,Nan,23064
-2010,OHIO,Universities and Colleges,Youngstown State University,0,0,0,0,14644
 2010,OHIO,Metropolitan Counties,Belmont,0,0,0,0,
 2010,OHIO,Metropolitan Counties,Brown,0,0,0,0,
 2010,OHIO,Metropolitan Counties,Carroll,0,0,0,0,
@@ -10358,26 +9683,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,OKLAHOMA,Cities,Wright City,0,0,0,0,788
 2010,OKLAHOMA,Cities,Wynnewood,0,0,0,0,2286
 2010,OKLAHOMA,Cities,Yale,0,0,0,0,1504
-2010,OKLAHOMA,Universities and Colleges,Cameron University,0,0,0,0,6126
-2010,OKLAHOMA,Universities and Colleges,East Central University,0,0,0,0,4612
-2010,OKLAHOMA,Universities and Colleges,Murray State College,0,Nan,0,0,2604
-2010,OKLAHOMA,Universities and Colleges,Northeastern Oklahoma A&M College,0,0,0,0,2191
-2010,OKLAHOMA,Universities and Colleges,Northeastern State University:,Nan,Nan,Nan,Nan,
-2010,OKLAHOMA,Universities and Colleges,Broken Arrow3,0,0,0,0,
-2010,OKLAHOMA,Universities and Colleges,Tahlequah,0,0,0,0,9239
-2010,OKLAHOMA,Universities and Colleges,Oklahoma City University,0,0,0,0,3829
-2010,OKLAHOMA,Universities and Colleges,Oklahoma State University:,Nan,Nan,Nan,Nan,
-2010,OKLAHOMA,Universities and Colleges,Main Campus,0,0,0,0,23033
-2010,OKLAHOMA,Universities and Colleges,Okmulgee,0,0,0,0,4129
-2010,OKLAHOMA,Universities and Colleges,Tulsa3,0,0,0,0,
-2010,OKLAHOMA,Universities and Colleges,Rogers State University,0,0,0,0,4235
-2010,OKLAHOMA,Universities and Colleges,Seminole State College,0,0,0,0,2444
-2010,OKLAHOMA,Universities and Colleges,Southeastern Oklahoma State University,0,0,0,0,4229
-2010,OKLAHOMA,Universities and Colleges,Southwestern Oklahoma State University,0,0,0,0,5010
-2010,OKLAHOMA,Universities and Colleges,University of Central Oklahoma,0,0,0,0,16092
-2010,OKLAHOMA,Universities and Colleges,University of Oklahoma:,Nan,Nan,Nan,Nan,
-2010,OKLAHOMA,Universities and Colleges,Health Sciences Center,0,0,0,0,3934
-2010,OKLAHOMA,Universities and Colleges,Norman,0,0,0,0,25881
 2010,OKLAHOMA,Metropolitan Counties,Canadian,0,0,0,0,
 2010,OKLAHOMA,Metropolitan Counties,Cleveland,0,0,0,0,
 2010,OKLAHOMA,Metropolitan Counties,Comanche,0,0,0,0,
@@ -11685,35 +10990,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,PENNSYLVANIA,Cities,Youngsville,0,0,0,0,1652
 2010,PENNSYLVANIA,Cities,Zelienople,0,0,0,0,3958
 2010,PENNSYLVANIA,Cities,Zerbe Township,0,0,0,0,1874
-2010,PENNSYLVANIA,Universities and Colleges,Bloomsburg University,0,0,0,0,9512
-2010,PENNSYLVANIA,Universities and Colleges,California University,0,0,Nan,Nan,9017
-2010,PENNSYLVANIA,Universities and Colleges,Cheyney University,0,0,0,0,1488
-2010,PENNSYLVANIA,Universities and Colleges,Clarion University,0,0,0,0,7346
-2010,PENNSYLVANIA,Universities and Colleges,Dickinson College,0,0,0,Nan,2376
-2010,PENNSYLVANIA,Universities and Colleges,East Stroudsburg University,0,0,0,0,7576
-2010,PENNSYLVANIA,Universities and Colleges,Edinboro University,0,0,0,0,8286
-2010,PENNSYLVANIA,Universities and Colleges,Elizabethtown College,0,0,0,0,2361
-2010,PENNSYLVANIA,Universities and Colleges,Indiana University,0,0,0,0,14638
-2010,PENNSYLVANIA,Universities and Colleges,Kutztown University,0,0,0,0,10634
-2010,PENNSYLVANIA,Universities and Colleges,Lehigh University,0,0,0,0,6996
-2010,PENNSYLVANIA,Universities and Colleges,Lock Haven University,0,0,0,0,5329
-2010,PENNSYLVANIA,Universities and Colleges,Mansfield University,0,0,0,0,3569
-2010,PENNSYLVANIA,Universities and Colleges,Millersville University,0,0,0,0,8427
-2010,PENNSYLVANIA,Universities and Colleges,Moravian College,0,0,0,0,2057
-2010,PENNSYLVANIA,Universities and Colleges,Pennsylvania State University:,Nan,Nan,Nan,Nan,
-2010,PENNSYLVANIA,Universities and Colleges,Altoona,0,0,0,0,4182
-2010,PENNSYLVANIA,Universities and Colleges,Beaver,0,0,0,0,855
-2010,PENNSYLVANIA,Universities and Colleges,Behrend,0,0,0,0,4400
-2010,PENNSYLVANIA,Universities and Colleges,Berks,0,0,0,0,2759
-2010,PENNSYLVANIA,Universities and Colleges,Harrisburg,0,0,0,0,4012
-2010,PENNSYLVANIA,Universities and Colleges,Hazleton,0,0,0,0,1245
-2010,PENNSYLVANIA,Universities and Colleges,McKeesport3,Nan,0,0,0,
-2010,PENNSYLVANIA,Universities and Colleges,Mont Alto,0,0,0,0,1182
-2010,PENNSYLVANIA,Universities and Colleges,Shippensburg University,0,0,0,Nan,8253
-2010,PENNSYLVANIA,Universities and Colleges,Slippery Rock University,0,0,0,0,8648
-2010,PENNSYLVANIA,Universities and Colleges,University of Pittsburgh:,Nan,Nan,Nan,Nan,
-2010,PENNSYLVANIA,Universities and Colleges,Bradford,0,0,0,0,1657
-2010,PENNSYLVANIA,Universities and Colleges,Pittsburgh,0,0,0,0,28328
 2010,PENNSYLVANIA,Metropolitan Counties,Allegheny,0,0,0,0,
 2010,PENNSYLVANIA,Metropolitan Counties,Allegheny County Police Department,0,0,0,0,
 2010,PENNSYLVANIA,Metropolitan Counties,Beaver,0,0,0,0,
@@ -12150,26 +11426,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,SOUTH CAROLINA,Cities,Winnsboro,0,0,0,0,3615
 2010,SOUTH CAROLINA,Cities,Woodruff,0,0,0,0,4169
 2010,SOUTH CAROLINA,Cities,Yemassee,0,0,0,0,874
-2010,SOUTH CAROLINA,Universities and Colleges,Benedict College,0,0,0,0,2983
-2010,SOUTH CAROLINA,Universities and Colleges,Bob Jones University,0,0,0,0,3956
-2010,SOUTH CAROLINA,Universities and Colleges,Coastal Carolina University,0,0,0,0,8360
-2010,SOUTH CAROLINA,Universities and Colleges,Columbia College,0,0,0,0,1444
-2010,SOUTH CAROLINA,Universities and Colleges,Denmark Technical College,0,0,0,0,1105
-2010,SOUTH CAROLINA,Universities and Colleges,Erskine College,0,0,0,0,874
-2010,SOUTH CAROLINA,Universities and Colleges,Francis Marion University,0,0,0,0,3957
-2010,SOUTH CAROLINA,Universities and Colleges,Greenville Technical College,0,0,0,0,15089
-2010,SOUTH CAROLINA,Universities and Colleges,Lander University,0,0,0,0,2838
-2010,SOUTH CAROLINA,Universities and Colleges,Medical University of South Carolina,0,0,0,0,2513
-2010,SOUTH CAROLINA,Universities and Colleges,Midlands Technical College,0,0,0,0,11890
-2010,SOUTH CAROLINA,Universities and Colleges,South Carolina State University,0,0,0,0,4538
-2010,SOUTH CAROLINA,Universities and Colleges,Spartanburg Methodist College,0,0,0,0,808
-2010,SOUTH CAROLINA,Universities and Colleges,The Citadel,0,0,0,0,3339
-2010,SOUTH CAROLINA,Universities and Colleges,Trident Technical College,0,0,0,0,14834
-2010,SOUTH CAROLINA,Universities and Colleges,University of South Carolina:,Nan,Nan,Nan,Nan,
-2010,SOUTH CAROLINA,Universities and Colleges,Aiken,0,0,0,0,3269
-2010,SOUTH CAROLINA,Universities and Colleges,Columbia,0,0,0,0,28482
-2010,SOUTH CAROLINA,Universities and Colleges,Upstate,0,0,0,0,5403
-2010,SOUTH CAROLINA,Universities and Colleges,Winthrop University,0,0,0,0,6241
 2010,SOUTH CAROLINA,Metropolitan Counties,Aiken,0,0,0,0,
 2010,SOUTH CAROLINA,Metropolitan Counties,Calhoun,0,0,0,0,
 2010,SOUTH CAROLINA,Metropolitan Counties,Darlington,0,0,0,0,
@@ -12448,7 +11704,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,SOUTH DAKOTA,Cities,Whitewood,0,0,0,0,852
 2010,SOUTH DAKOTA,Cities,Winner,0,0,0,0,2614
 2010,SOUTH DAKOTA,Cities,Yankton,0,0,0,0,13817
-2010,SOUTH DAKOTA,Universities and Colleges,South Dakota State University,0,0,0,0,12376
 2010,SOUTH DAKOTA,Metropolitan Counties,Lincoln,0,0,0,0,
 2010,SOUTH DAKOTA,Metropolitan Counties,McCook,0,Nan,Nan,Nan,
 2010,SOUTH DAKOTA,Metropolitan Counties,Meade,0,0,0,0,
@@ -12721,21 +11976,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,TENNESSEE,Cities,Winchester,0,0,0,0,7911
 2010,TENNESSEE,Cities,Winfield,0,0,0,0,994
 2010,TENNESSEE,Cities,Woodbury,0,0,0,0,2619
-2010,TENNESSEE,Universities and Colleges,Austin Peay State University,0,0,0,0,10188
-2010,TENNESSEE,Universities and Colleges,Christian Brothers University,0,0,0,0,1926
-2010,TENNESSEE,Universities and Colleges,East Tennessee State University,0,0,0,0,14421
-2010,TENNESSEE,Universities and Colleges,Northeast State Community College,0,0,0,0,6270
-2010,TENNESSEE,Universities and Colleges,Southwest Tennessee Community College,0,0,0,0,13016
-2010,TENNESSEE,Universities and Colleges,Tennessee State University,0,0,0,0,8824
-2010,TENNESSEE,Universities and Colleges,Tennessee Technological University,0,0,0,0,10847
-2010,TENNESSEE,Universities and Colleges,University of Memphis,0,0,0,0,21424
-2010,TENNESSEE,Universities and Colleges,University of Tennessee:  ,Nan,Nan,Nan,Nan,
-2010,TENNESSEE,Universities and Colleges,Chattanooga,0,0,0,0,10526
-2010,TENNESSEE,Universities and Colleges,Health Science Center3,0,0,0,0,
-2010,TENNESSEE,Universities and Colleges,Knoxville,0,0,0,0,29934
-2010,TENNESSEE,Universities and Colleges,Martin,0,0,0,0,8163
-2010,TENNESSEE,Universities and Colleges,Volunteer State Community College,0,0,0,0,8430
-2010,TENNESSEE,Universities and Colleges,Walters State Community College,0,0,0,0,6853
 2010,TENNESSEE,Metropolitan Counties,Blount,0,0,0,0,
 2010,TENNESSEE,Metropolitan Counties,Cannon,0,0,0,0,
 2010,TENNESSEE,Metropolitan Counties,Carter,0,0,0,0,
@@ -13522,79 +12762,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,TEXAS,Cities,Wortham,0,0,0,0,1106
 2010,TEXAS,Cities,Yoakum,0,0,0,0,5398
 2010,TEXAS,Cities,Yorktown,0,0,0,0,2145
-2010,TEXAS,Universities and Colleges,Abilene Christian University,0,0,0,0,4813
-2010,TEXAS,Universities and Colleges,Alamo Community College District3,0,0,0,0,
-2010,TEXAS,Universities and Colleges,Alvin Community College,0,0,0,0,5240
-2010,TEXAS,Universities and Colleges,Amarillo College,0,0,0,0,11289
-2010,TEXAS,Universities and Colleges,Angelo State University,0,0,0,0,6387
-2010,TEXAS,Universities and Colleges,Austin College,0,0,0,0,1364
-2010,TEXAS,Universities and Colleges,Baylor Health Care System3,0,0,0,0,
-2010,TEXAS,Universities and Colleges,"Baylor University, Waco",0,0,0,0,14614
-2010,TEXAS,Universities and Colleges,Blinn College,0,0,0,0,17173
-2010,TEXAS,Universities and Colleges,Brookhaven College,0,0,0,0,11814
-2010,TEXAS,Universities and Colleges,Central Texas College,0,0,0,0,24133
-2010,TEXAS,Universities and Colleges,College of the Mainland,0,0,0,0,3916
-2010,TEXAS,Universities and Colleges,Eastfield College,0,0,0,0,11944
-2010,TEXAS,Universities and Colleges,El Paso Community College,0,0,0,0,28168
-2010,TEXAS,Universities and Colleges,Grayson County College,0,0,0,0,4856
-2010,TEXAS,Universities and Colleges,Hardin-Simmons University,0,0,0,0,2305
-2010,TEXAS,Universities and Colleges,Houston Baptist University,0,0,0,0,2710
-2010,TEXAS,Universities and Colleges,"Lamar University, Beaumont",0,0,0,0,13992
-2010,TEXAS,Universities and Colleges,Laredo Community College,0,0,0,0,9361
-2010,TEXAS,Universities and Colleges,McLennan Community College,0,0,0,0,9128
-2010,TEXAS,Universities and Colleges,Midwestern State University,0,0,0,0,6341
-2010,TEXAS,Universities and Colleges,Mountain View College,0,0,0,0,8203
-2010,TEXAS,Universities and Colleges,North Lake College,0,0,0,0,11644
-2010,TEXAS,Universities and Colleges,Paris Junior College,0,0,0,0,5580
-2010,TEXAS,Universities and Colleges,Prairie View A&M University,0,0,0,0,8608
-2010,TEXAS,Universities and Colleges,Rice University,0,0,0,0,5576
-2010,TEXAS,Universities and Colleges,Richland College,0,0,0,0,18201
-2010,TEXAS,Universities and Colleges,Southern Methodist University,0,0,0,0,10891
-2010,TEXAS,Universities and Colleges,South Plains College,0,0,0,0,10011
-2010,TEXAS,Universities and Colleges,Southwestern University,0,0,0,0,1301
-2010,TEXAS,Universities and Colleges,Stephen F. Austin State University,0,0,0,0,12845
-2010,TEXAS,Universities and Colleges,St. Mary's University,0,0,0,0,3893
-2010,TEXAS,Universities and Colleges,Sul Ross State University,0,0,0,0,3047
-2010,TEXAS,Universities and Colleges,Tarleton State University,0,0,0,0,10424
-2010,TEXAS,Universities and Colleges,Texas A&M International University,0,0,0,0,6419
-2010,TEXAS,Universities and Colleges,Texas A&M University:,Nan,Nan,Nan,Nan,
-2010,TEXAS,Universities and Colleges,Commerce,0,0,0,0,9021
-2010,TEXAS,Universities and Colleges,Corpus Christi,0,0,0,0,9468
-2010,TEXAS,Universities and Colleges,Galveston,0,0,0,0,1774
-2010,TEXAS,Universities and Colleges,Kingsville,0,0,0,0,8194
-2010,TEXAS,Universities and Colleges,Texas Christian University,0,0,0,0,8853
-2010,TEXAS,Universities and Colleges,Texas Southern University,0,0,0,0,9394
-2010,TEXAS,Universities and Colleges,Texas State Technical College:,Nan,Nan,Nan,Nan,
-2010,TEXAS,Universities and Colleges,Harlingen,0,0,0,0,5988
-2010,TEXAS,Universities and Colleges,Marshall,0,0,0,0,963
-2010,TEXAS,Universities and Colleges,Waco,0,0,0,0,6816
-2010,TEXAS,Universities and Colleges,"Texas State University, San Marcos",0,0,0,0,30803
-2010,TEXAS,Universities and Colleges,"Texas Tech University, Lubbock",0,0,0,0,30049
-2010,TEXAS,Universities and Colleges,Texas Woman's University,0,0,0,0,13338
-2010,TEXAS,Universities and Colleges,Trinity University,0,0,0,0,2693
-2010,TEXAS,Universities and Colleges,Tyler Junior College,0,0,0,0,11045
-2010,TEXAS,Universities and Colleges,University of Houston:,Nan,Nan,Nan,Nan,
-2010,TEXAS,Universities and Colleges,Central Campus,0,0,0,0,37000
-2010,TEXAS,Universities and Colleges,Clearlake,0,0,0,0,7643
-2010,TEXAS,Universities and Colleges,Downtown Campus,0,0,0,0,12742
-2010,TEXAS,Universities and Colleges,University of Mary Hardin-Baylor,0,0,0,0,2689
-2010,TEXAS,Universities and Colleges,University of North Texas:,Nan,Nan,Nan,Nan,
-2010,TEXAS,Universities and Colleges,Denton,0,0,0,0,35003
-2010,TEXAS,Universities and Colleges,Health Science Center,0,0,0,0,1395
-2010,TEXAS,Universities and Colleges,University of Texas:,Nan,Nan,Nan,Nan,
-2010,TEXAS,Universities and Colleges,Arlington,0,0,0,0,28085
-2010,TEXAS,Universities and Colleges,Brownsville,0,0,0,0,17151
-2010,TEXAS,Universities and Colleges,Dallas,0,0,0,0,15783
-2010,TEXAS,Universities and Colleges,El Paso,0,0,0,0,21011
-2010,TEXAS,Universities and Colleges,"Health Science Center, San Antonio",0,0,0,0,3223
-2010,TEXAS,Universities and Colleges,"Health Science Center, Tyler3",0,0,0,0,
-2010,TEXAS,Universities and Colleges,Houston3,0,0,0,0,
-2010,TEXAS,Universities and Colleges,Medical Branch,0,0,0,0,2430
-2010,TEXAS,Universities and Colleges,Pan American,0,0,0,0,18337
-2010,TEXAS,Universities and Colleges,San Antonio,0,0,0,0,28955
-2010,TEXAS,Universities and Colleges,Southwestern Medical School,0,0,0,0,2459
-2010,TEXAS,Universities and Colleges,Tyler,0,0,0,0,6201
-2010,TEXAS,Universities and Colleges,West Texas A&M University,0,0,0,0,7634
 2010,TEXAS,Metropolitan Counties,Aransas,0,0,0,0,
 2010,TEXAS,Metropolitan Counties,Archer,0,0,0,0,
 2010,TEXAS,Metropolitan Counties,Armstrong,0,0,0,0,
@@ -13945,11 +13112,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,UTAH,Cities,Washington,0,0,0,0,18755
 2010,UTAH,Cities,Wellington,0,0,0,0,1548
 2010,UTAH,Cities,West Bountiful,0,0,0,0,5354
-2010,UTAH,Universities and Colleges,Brigham Young University,0,0,0,0,34130
-2010,UTAH,Universities and Colleges,College of Eastern Utah,0,0,0,0,2419
-2010,UTAH,Universities and Colleges,Southern Utah University,0,0,0,0,8066
-2010,UTAH,Universities and Colleges,Utah Valley University,0,0,0,0,28765
-2010,UTAH,Universities and Colleges,Weber State University,0,0,0,0,23001
 2010,UTAH,Metropolitan Counties,Cache,0,0,0,0,
 2010,UTAH,Metropolitan Counties,Juab,0,0,0,0,
 2010,UTAH,Metropolitan Counties,Morgan,0,0,0,0,
@@ -14022,7 +13184,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,VERMONT,Cities,Winhall,0,0,0,0,801
 2010,VERMONT,Cities,Winooski,0,0,0,0,6259
 2010,VERMONT,Cities,Woodstock,0,0,0,0,3134
-2010,VERMONT,Universities and Colleges,University of Vermont,0,0,0,0,13391
 2010,VERMONT,Metropolitan Counties,Chittenden,0,0,0,0,
 2010,VERMONT,Metropolitan Counties,Franklin,0,0,0,0,
 2010,VERMONT,Metropolitan Counties,Grand Isle,0,0,0,0,
@@ -14180,23 +13341,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,VIRGINIA,Cities,Wise,0,0,0,0,3235
 2010,VIRGINIA,Cities,Woodstock,0,0,0,0,4340
 2010,VIRGINIA,Cities,Wytheville,0,0,0,0,8298
-2010,VIRGINIA,Universities and Colleges,Emory and Henry College,0,0,0,0,1002
-2010,VIRGINIA,Universities and Colleges,Ferrum College,0,0,0,0,1425
-2010,VIRGINIA,Universities and Colleges,Hampton University,0,0,0,0,5402
-2010,VIRGINIA,Universities and Colleges,James Madison University,0,0,0,0,18971
-2010,VIRGINIA,Universities and Colleges,J. Sargeant Reynolds Community College,0,0,0,0,12729
-2010,VIRGINIA,Universities and Colleges,Norfolk State University,0,0,0,0,6993
-2010,VIRGINIA,Universities and Colleges,Northern Virginia Community College,0,0,0,0,46619
-2010,VIRGINIA,Universities and Colleges,Richard Bland College,0,0,0,0,1579
-2010,VIRGINIA,Universities and Colleges,Thomas Nelson Community College,0,0,0,0,10606
-2010,VIRGINIA,Universities and Colleges,University of Richmond,0,0,0,0,4344
-2010,VIRGINIA,Universities and Colleges,University of Virginia,0,0,0,0,24355
-2010,VIRGINIA,Universities and Colleges,University of Virginia's College at Wise,0,0,0,0,2015
-2010,VIRGINIA,Universities and Colleges,Virginia Commonwealth University,0,0,0,0,32172
-2010,VIRGINIA,Universities and Colleges,Virginia Military Institute,0,0,0,0,1500
-2010,VIRGINIA,Universities and Colleges,Virginia Polytechnic Institute and State University,0,0,0,0,30870
-2010,VIRGINIA,Universities and Colleges,Virginia State University,0,0,0,0,5366
-2010,VIRGINIA,Universities and Colleges,Virginia Western Community College,0,0,0,0,8927
 2010,VIRGINIA,Metropolitan Counties,Amherst,0,0,0,0,
 2010,VIRGINIA,Metropolitan Counties,Appomattox,0,0,0,0,
 2010,VIRGINIA,Metropolitan Counties,Bedford,0,0,0,0,
@@ -14565,11 +13709,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,WASHINGTON,Cities,Yarrow Point,0,0,0,0,953
 2010,WASHINGTON,Cities,Yelm,0,0,0,0,6642
 2010,WASHINGTON,Cities,Zillah,0,0,0,0,2852
-2010,WASHINGTON,Universities and Colleges,Central Washington University,0,0,0,0,11357
-2010,WASHINGTON,Universities and Colleges,Washington State University:,Nan,Nan,Nan,Nan,
-2010,WASHINGTON,Universities and Colleges,Pullman,0,0,0,0,26101
-2010,WASHINGTON,Universities and Colleges,Vancouver3,0,0,0,0,
-2010,WASHINGTON,Universities and Colleges,Western Washington University,0,0,0,0,14575
 2010,WASHINGTON,Metropolitan Counties,Asotin,0,0,0,0,
 2010,WASHINGTON,Metropolitan Counties,Benton,0,0,0,0,
 2010,WASHINGTON,Metropolitan Counties,Cowlitz,0,0,0,0,
@@ -14679,13 +13818,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,WEST VIRGINIA,Cities,West Union,0,0,0,0,785
 2010,WEST VIRGINIA,Cities,White Sulphur Springs,0,0,0,0,2296
 2010,WEST VIRGINIA,Cities,Williamson,0,0,0,0,3039
-2010,WEST VIRGINIA,Universities and Colleges,Concord University,0,0,0,0,2882
-2010,WEST VIRGINIA,Universities and Colleges,Fairmont State University,0,0,0,0,4574
-2010,WEST VIRGINIA,Universities and Colleges,Marshall University,0,0,0,0,13776
-2010,WEST VIRGINIA,Universities and Colleges,Potomac State College,0,0,0,0,1810
-2010,WEST VIRGINIA,Universities and Colleges,Shepherd University,0,0,0,0,4256
-2010,WEST VIRGINIA,Universities and Colleges,West Virginia State University,0,0,0,0,4003
-2010,WEST VIRGINIA,Universities and Colleges,West Virginia Tech,0,0,0,0,1244
 2010,WEST VIRGINIA,Metropolitan Counties,Boone,0,0,0,0,
 2010,WEST VIRGINIA,Metropolitan Counties,Cabell,0,0,0,0,
 2010,WEST VIRGINIA,Metropolitan Counties,Hampshire,0,0,0,0,
@@ -15153,18 +14285,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,WISCONSIN,Cities,Wisconsin Dells,0,0,0,0,2432
 2010,WISCONSIN,Cities,Wisconsin Rapids,0,0,0,0,17396
 2010,WISCONSIN,Cities,Woodruff,0,0,0,0,2000
-2010,WISCONSIN,Universities and Colleges,University of Wisconsin:,Nan,Nan,Nan,Nan,
-2010,WISCONSIN,Universities and Colleges,Eau Claire,Nan,0,0,0,11216
-2010,WISCONSIN,Universities and Colleges,Green Bay,0,0,0,0,6638
-2010,WISCONSIN,Universities and Colleges,La Crosse,0,0,0,0,10009
-2010,WISCONSIN,Universities and Colleges,Madison,0,0,0,0,41654
-2010,WISCONSIN,Universities and Colleges,Milwaukee,0,0,0,0,30418
-2010,WISCONSIN,Universities and Colleges,Oshkosh,0,0,0,0,13192
-2010,WISCONSIN,Universities and Colleges,Parkside,0,0,0,0,5303
-2010,WISCONSIN,Universities and Colleges,Stevens Point,0,0,0,0,9209
-2010,WISCONSIN,Universities and Colleges,Stout,0,0,0,0,9017
-2010,WISCONSIN,Universities and Colleges,Superior,0,0,0,0,2794
-2010,WISCONSIN,Universities and Colleges,Whitewater,0,0,0,0,11139
 2010,WISCONSIN,Metropolitan Counties,Brown,0,0,0,0,
 2010,WISCONSIN,Metropolitan Counties,Calumet,0,0,0,0,
 2010,WISCONSIN,Metropolitan Counties,Chippewa,0,0,0,0,
@@ -15277,8 +14397,6 @@ Year,State,Agency Type,Agency name,q01,q02,q03,q04,Population2
 2010,WYOMING,Cities,Torrington,0,0,0,0,5816
 2010,WYOMING,Cities,Wheatland,0,0,0,0,3290
 2010,WYOMING,Cities,Worland,0,0,0,0,5157
-2010,WYOMING,Universities and Colleges,Sheridan College,0,0,0,0,3899
-2010,WYOMING,Universities and Colleges,University of Wyoming,0,0,0,0,12427
 2010,WYOMING,Metropolitan Counties,Natrona,0,0,0,0,
 2010,WYOMING,Nonmetropolitan Counties,Albany,0,0,0,0,
 2010,WYOMING,Nonmetropolitan Counties,Big Horn,0,0,0,0,
