@@ -3,12 +3,10 @@ quarter","2nd
 quarter","3rd
 quarter","4th
 quarter",Population3
-2011,Alabama,Total, Nan, Nan, Nan, Nan, Nan,
-, Nan,Cities, Nan, Nan, Nan, Nan, Nan,
-, Nan, Nan,Abbeville,1,1, Nan, Nan,2701
-, Nan, Nan,Adamsville,1, Nan, Nan,1,4544
-, Nan, Nan,Alabaster,1, Nan, Nan, Nan,30498
-, Nan, Nan,Centre, Nan, Nan, Nan,1,3506
+2011,Alabama,Cities,Abbeville,1,1, Nan, Nan,2701
+,Alabama,Cities,Adamsville,1, Nan, Nan,1,4544
+,Alabama,Cities,Alabaster,1, Nan, Nan, Nan,30498
+,Alabama,Cities,Centre, Nan, Nan, Nan,1,3506
 , Nan, Nan,Clanton,1, Nan,1, Nan,8660
 , Nan, Nan,Decatur, Nan,1,2, Nan,55951
 , Nan, Nan,Douglas, Nan,1, Nan, Nan,748
