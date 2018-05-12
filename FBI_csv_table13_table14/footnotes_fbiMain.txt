@@ -1,0 +1,6 @@
+ALASKA:
+	State Troopers became Alaska State Troopers
+	Anchorage International Airport became Ted Stevens Anchorage International Airport
+	
+DELAWARE:
+	There seem to be 3 diff ways of listing a general state police report: Delaware State Police, Superintendent, and Headquarters. Leaving it as is for now.

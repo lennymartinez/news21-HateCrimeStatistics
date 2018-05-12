@@ -2,7 +2,7 @@ import csv
 
 file = []
 cleanFile = []
-with open('1_annualCSV/hateCrimeStatistics_2010.csv') as csvDataFile:
+with open('mainFBI.csv') as csvDataFile:
 	csvReader = csv.reader(csvDataFile)
 	for row in csvReader:
 		file.append(row)
