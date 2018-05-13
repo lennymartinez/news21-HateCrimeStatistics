@@ -35,10 +35,10 @@ for city, group in groupby(sorted(rows, key=keyfunc), key=keyfunc):
         row = group_dict.get(year, {}) # if no row for year, return empty dict
 
         # if no data, explicitly write it out
-        output_row[f'{year}q1'] = row.get('q01', 'No Data')
-        output_row[f'{year}q2'] = row.get('q02', 'No Data')
-        output_row[f'{year}q3'] = row.get('q03', 'No Data')
-        output_row[f'{year}q4'] = row.get('q04', 'No Data')
+        output_row[f'{year}q1'] = row.get('q01', 'DNR')
+        output_row[f'{year}q2'] = row.get('q02', 'DNR')
+        output_row[f'{year}q3'] = row.get('q03', 'DNR')
+        output_row[f'{year}q4'] = row.get('q04', 'DNR')
         output_row[f'{year}_population'] = row.get('Population2', 'No Data')
 
     output_rows.append(output_row)
