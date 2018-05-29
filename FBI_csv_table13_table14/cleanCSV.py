@@ -2,14 +2,14 @@ import csv
 
 file = []
 cleanFile = []
-with open('4_annualTestAlt/fbiMain_simple.csv') as csvDataFile:
+with open('fbiMain.csv') as csvDataFile:
 	csvReader = csv.reader(csvDataFile)
 	for row in csvReader:
 		file.append(row)
 
 cleanFile = file
 #int j = 38
-for j in range(4,38):
+for j in range(0,38):
 	for i in range(1,len(file)):
 		if (file[i][j].strip() == ""):
 			cleanFile[i][j] = file[i-1][j].strip()
@@ -44,6 +44,6 @@ for j in range(4,38):
 	# 	cleanFile[i][38] = "Nan"	
 
 
-with open("fbiMain_simpleClean.csv","w+") as my_csv:
+with open("fbiMain_simpleClean77.csv","w+") as my_csv:
 			csvWriter = csv.writer(my_csv,delimiter=',')
 			csvWriter.writerows(cleanFile)
