@@ -22,52 +22,52 @@ for i in range(1,len(rows)):
 	cleanRows[i][-1] = zeroCount
 
 
-# Getting latest population info
-# for i in range (1, len(rows)):
-# 	#first we'll get the population values from years 2010 to 2016 as a list
-# 	pop = rows[i][2:9]
+#Getting latest population info
+for i in range (1, len(rows)):
+	#first we'll get the population values from years 2010 to 2016 as a list
+	pop = rows[i][2:9]
 
 
-# 	#check if 2016 is a "No Data" year
-# 	if pop[6].strip() == "No Data":
-# 		#check if 2015 is a "No Data" year
-# 		if pop[5].strip() == "No Data":
-# 			#check if 2014 is a "No Data" year
-# 			if pop[4].strip() == "No Data": 
-# 				#check if 2013 is a "No Data" year
-# 				if pop[3].strip() == "No Data":
-# 					#check if 2012 is a "No Data" year
-# 					if pop[2].strip() == "No Data":
-# 						#check if 2011 is a "No Data" year
-# 						if pop[1].strip() == "No Data":
-# 							#check if 2010 is a "No Data" year
-# 							if pop[0].strip() == "No Data":
-# 								#there is no data on population in the past 6 years
-# 								populationRecent = "No Data"
-# 							else:
-# 								#most recent population info was 2010
-# 								populationRecent = pop[0].strip()
-# 						else:
-# 							#most recent population info was 2011
-# 							populationRecent = pop[1].strip()
-# 					else:
-# 						#most recent population info was 2012
-# 						populationRecent = pop[2].strip()
-# 				else:
-# 						#most recent population info was 2013
-# 						populationRecent = pop[3].strip()
-# 			else:
-# 				#most recent population info was 2014
-# 				populationRecent = pop[4].strip()
-# 		else:
-# 			#most recent population info was 2015
-# 			populationRecent = pop[5].strip()
-# 	else:
-# 		#most recent population info was 2016
-# 		populationRecent = pop[6].strip()
+	#check if 2016 is a "No Data" year
+	if pop[6].strip() == "No Data":
+		#check if 2015 is a "No Data" year
+		if pop[5].strip() == "No Data":
+			#check if 2014 is a "No Data" year
+			if pop[4].strip() == "No Data": 
+				#check if 2013 is a "No Data" year
+				if pop[3].strip() == "No Data":
+					#check if 2012 is a "No Data" year
+					if pop[2].strip() == "No Data":
+						#check if 2011 is a "No Data" year
+						if pop[1].strip() == "No Data":
+							#check if 2010 is a "No Data" year
+							if pop[0].strip() == "No Data":
+								#there is no data on population in the past 6 years
+								populationRecent = "No Data"
+							else:
+								#most recent population info was 2010
+								populationRecent = pop[0].strip()
+						else:
+							#most recent population info was 2011
+							populationRecent = pop[1].strip()
+					else:
+						#most recent population info was 2012
+						populationRecent = pop[2].strip()
+				else:
+						#most recent population info was 2013
+						populationRecent = pop[3].strip()
+			else:
+				#most recent population info was 2014
+				populationRecent = pop[4].strip()
+		else:
+			#most recent population info was 2015
+			populationRecent = pop[5].strip()
+	else:
+		#most recent population info was 2016
+		populationRecent = pop[6].strip()
 
 
-# 	cleanRows[i][9] = str(populationRecent)
+	cleanRows[i][9] = str(populationRecent)
 
 
 
