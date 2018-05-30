@@ -15,20 +15,19 @@ output_rows = []
 
 # groupby takes a sorted iterable (list)
 # keyfunc is just telling it what to sort and group by
-def keyfunc(x): return x['Agency name']
+def keyfunc(x): return x['city']
 for city, group in groupby(sorted(rows, key=keyfunc), key=keyfunc):
     
     group = list(group) # group is an iterable, converting to list
 
     # starting the base of the output row, we will add more things to it
     output_row = {
-        'Agency name': city,
-        'Agency Type': group[0]['Agency Type'],
-        'State': group[0]['State'],
+        'city': city,
+        'state': group[0]['state'],
     }
 
     # in order to differentiate between no data vs missing years, we create this dict
-    group_dict = {int(x['Year']):x for x in group}
+    group_dict = {int(x['year']):x for x in group}
 
     # loop through each year, inclusive (that's why there's a +1)
     for year in range(2010, 2016+1):
@@ -39,7 +38,7 @@ for city, group in groupby(sorted(rows, key=keyfunc), key=keyfunc):
         output_row[f'{year}q2'] = row.get('q02', 'DNR')
         output_row[f'{year}q3'] = row.get('q03', 'DNR')
         output_row[f'{year}q4'] = row.get('q04', 'DNR')
-        output_row[f'{year}_population'] = row.get('Population2', 'No Data')
+        output_row[f'{year}population'] = row.get('population', 'No Data')
 
     output_rows.append(output_row)
 
