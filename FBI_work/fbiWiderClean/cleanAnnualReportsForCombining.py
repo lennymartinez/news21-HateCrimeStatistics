@@ -1,6 +1,6 @@
 import csv
 
-with open('annualReports/hateCrimeStatistics_2016.csv', newline='', encoding='utf-8') as f:
+with open('annualReports/hateCrimeStatistics_2012_v3.csv', newline='', encoding='utf-8') as f:
 	reader = csv.reader(f)
 	rows = [row for row in reader]
 
@@ -11,7 +11,7 @@ for i in range(1,len(rows)):
 	#clean year column, if a cell is empty, fill it with the year from the file name.file
 	year = rows[i][0].strip()
 	if (year == 'Nan') or (year == ''):
-		cleanRows[i][0] = '2016'
+		cleanRows[i][0] = '2012'
 
 	#clean the state name. if the state is 'Nan', 'NaN', or '' (empty) replace it with the value from above
 	state = rows[i][1].strip()
@@ -54,6 +54,6 @@ for i in range(1,len(rows)):
 		cleanRows[i][8] = 'No Data'
 
 #write the rows to an ouput file
-with open('forCombining/hateCrimeStatistics2016.csv','w+') as f:
+with open('forCombining/hateCrimeStatistics2012.csv','w+') as f:
 			csvWriter = csv.writer(f,delimiter=',')
 			csvWriter.writerows(cleanRows)
