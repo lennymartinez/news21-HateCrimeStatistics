@@ -1,0 +1,1288 @@
+state,agencyType,agencyName,q01,q02,q03,q04,population,addendum
+Massachusetts,Cities,Leverett,0,0,0,0,"1,874",1
+Massachusetts,Universities and Colleges,Holyoke Community College,DNR,DNR,DNR,0,"7,144",1
+New Jersey,Cities,Absecon,0,0,0,0,"8,447",1
+New Jersey,Cities,Allenhurst,0,0,0,0,499,1
+New Jersey,Cities,Allentown,0,0,0,0,"1,840",1
+New Jersey,Cities,Alpha,0,0,0,0,"2,374",1
+New Jersey,Cities,Alpine,0,0,0,0,"1,870",1
+New Jersey,Cities,Andover Township,0,0,0,0,"6,321",1
+New Jersey,Cities,Asbury Park,0,0,0,0,"16,211",1
+New Jersey,Cities,Atlantic City,0,0,0,0,"39,722",1
+New Jersey,Cities,Atlantic Highlands,0,0,0,0,"4,410",1
+New Jersey,Cities,Audubon,0,0,0,0,"8,856",1
+New Jersey,Cities,Audubon Park,0,0,0,0,"1,027",1
+New Jersey,Cities,Avalon,0,0,0,0,"1,332",1
+New Jersey,Cities,Avon-by-the-Sea,0,0,0,0,"1,912",1
+New Jersey,Cities,Barnegat Light,0,0,0,0,580,1
+New Jersey,Cities,Barrington,0,0,0,0,"7,012",1
+New Jersey,Cities,Bay Head,0,0,0,0,978,1
+New Jersey,Cities,Beach Haven,0,0,0,0,"1,185",1
+New Jersey,Cities,Beachwood,0,0,0,0,"11,154",1
+New Jersey,Cities,Belleville,0,0,0,0,"36,158",1
+New Jersey,Cities,Bellmawr,0,0,0,0,"11,629",1
+New Jersey,Cities,Belvidere,0,0,0,0,"2,686",1
+New Jersey,Cities,Berkeley Heights Township,0,0,0,0,"13,319",1
+New Jersey,Cities,Berkeley Township,0,0,0,0,"41,659",1
+New Jersey,Cities,Berlin,0,0,0,0,"7,620",1
+New Jersey,Cities,Berlin Township,0,0,0,0,"5,379",1
+New Jersey,Cities,Bernardsville,0,0,0,0,"7,779",1
+New Jersey,Cities,Beverly,0,0,0,0,"2,595",1
+New Jersey,Cities,Blairstown Township,0,0,0,0,"5,976",1
+New Jersey,Cities,Bloomfield,0,0,0,0,"47,620",1
+New Jersey,Cities,Bloomingdale,0,0,0,0,"7,705",1
+New Jersey,Cities,Bogota,0,0,0,0,"8,282",1
+New Jersey,Cities,Boonton,0,0,0,0,"8,435",1
+New Jersey,Cities,Boonton Township,0,0,0,0,"4,307",1
+New Jersey,Cities,Bordentown,0,0,0,0,"3,949",1
+New Jersey,Cities,Bordentown Township,0,0,0,0,"11,444",1
+New Jersey,Cities,Bound Brook,0,0,0,0,"10,500",1
+New Jersey,Cities,Branchburg Township,0,0,0,0,"14,597",1
+New Jersey,Cities,Bridgewater Township,0,0,0,0,"44,884",1
+New Jersey,Cities,Brielle,0,0,0,0,"4,802",1
+New Jersey,Cities,Brigantine,0,0,0,0,"9,489",1
+New Jersey,Cities,Brooklawn,0,0,0,0,"1,964",1
+New Jersey,Cities,Buena,0,0,0,0,"4,623",1
+New Jersey,Cities,Burlington,0,0,0,0,"9,989",1
+New Jersey,Cities,Burlington Township,0,0,0,0,"22,746",1
+New Jersey,Cities,Butler,0,0,0,0,"7,619",1
+New Jersey,Cities,Byram Township,0,0,0,0,"8,349",1
+New Jersey,Cities,Caldwell,0,0,0,0,"7,872",1
+New Jersey,Cities,Cape May,0,0,0,0,"3,605",1
+New Jersey,Cities,Cape May Point,0,0,0,0,290,1
+New Jersey,Cities,Carlstadt,0,0,0,0,"6,198",1
+New Jersey,Cities,Carteret,0,0,0,0,"23,083",1
+New Jersey,Cities,Cedar Grove Township,0,0,0,0,"12,490",1
+New Jersey,Cities,Chatham,0,0,0,0,"9,056",1
+New Jersey,Cities,Chatham Township,0,0,0,0,"10,560",1
+New Jersey,Cities,Cherry Hill Township,0,0,0,0,"71,337",1
+New Jersey,Cities,Chesilhurst,0,0,0,0,"1,641",1
+New Jersey,Cities,Chester,0,0,0,0,"1,667",1
+New Jersey,Cities,Chesterfield Township,0,0,0,0,"7,745",1
+New Jersey,Cities,Chester Township,0,0,0,0,"7,922",1
+New Jersey,Cities,Cinnaminson Township,0,0,0,0,"15,676",1
+New Jersey,Cities,Clark Township,0,0,0,0,"14,913",1
+New Jersey,Cities,Clayton,0,0,0,0,"8,242",1
+New Jersey,Cities,Clementon,0,0,0,0,"5,021",1
+New Jersey,Cities,Cliffside Park,0,0,0,0,"23,867",1
+New Jersey,Cities,Clifton,0,0,0,0,"84,684",1
+New Jersey,Cities,Clinton,0,0,0,0,"2,724",1
+New Jersey,Cities,Closter,0,0,0,0,"8,469",1
+New Jersey,Cities,Collingswood,0,0,0,0,"13,983",1
+New Jersey,Cities,Cresskill,0,0,0,0,"8,672",1
+New Jersey,Cities,Deal,0,0,0,0,755,1
+New Jersey,Cities,Delaware Township,0,0,0,0,"4,573",1
+New Jersey,Cities,Delran Township,0,0,0,0,"17,012",1
+New Jersey,Cities,Demarest,0,0,0,0,"4,936",1
+New Jersey,Cities,Denville Township,0,0,0,0,"16,809",1
+New Jersey,Cities,Deptford Township,0,0,0,0,"30,800",1
+New Jersey,Cities,Dover,0,0,0,0,"18,347",1
+New Jersey,Cities,Dumont,0,0,0,0,"17,682",1
+New Jersey,Cities,Dunellen,0,0,0,0,"7,304",1
+New Jersey,Cities,East Newark,0,0,0,0,"2,444",1
+New Jersey,Cities,East Rutherford,0,0,0,0,"9,016",1
+New Jersey,Cities,Eatontown,0,0,0,0,"12,785",1
+New Jersey,Cities,Edgewater,0,0,0,0,"11,647",1
+New Jersey,Cities,Edgewater Park Township,0,0,0,0,"8,943",1
+New Jersey,Cities,Elizabeth,0,0,0,0,"126,281",1
+New Jersey,Cities,Elk Township,0,0,0,0,"4,250",1
+New Jersey,Cities,Elmer,0,0,0,0,"1,398",1
+New Jersey,Cities,Elsinboro Township,0,0,0,0,"1,038",1
+New Jersey,Cities,Emerson,0,0,0,0,"7,486",1
+New Jersey,Cities,Englewood,0,0,0,0,"27,460",1
+New Jersey,Cities,Englewood Cliffs,0,0,0,0,"5,340",1
+New Jersey,Cities,Englishtown,0,0,0,0,"1,857",1
+New Jersey,Cities,Essex Fells,0,0,0,0,"2,126",1
+New Jersey,Cities,"Fairfield Township, Essex County",0,0,0,0,"7,515",1
+New Jersey,Cities,Fair Haven,0,0,0,0,"6,158",1
+New Jersey,Cities,Fairview,0,0,0,0,"13,994",1
+New Jersey,Cities,Fanwood,0,0,0,0,"7,396",1
+New Jersey,Cities,Far Hills,0,0,0,0,928,1
+New Jersey,Cities,Flemington,0,0,0,0,"4,591",1
+New Jersey,Cities,Florham Park,0,0,0,0,"11,809",1
+New Jersey,Cities,Franklin,0,0,0,0,"5,044",1
+New Jersey,Cities,"Franklin Township, Hunterdon County",0,0,0,0,"3,204",1
+New Jersey,Cities,"Franklin Township, Somerset County",0,0,0,0,"62,885",1
+New Jersey,Cities,Frenchtown,0,0,0,0,"1,376",1
+New Jersey,Cities,Garfield,0,0,0,0,"30,838",1
+New Jersey,Cities,Garwood,0,0,0,0,"4,271",1
+New Jersey,Cities,Gloucester City,0,0,0,0,"11,501",1
+New Jersey,Cities,Gloucester Township,0,0,0,0,"64,898",1
+New Jersey,Cities,"Greenwich Township, Gloucester County",0,0,0,0,"4,937",1
+New Jersey,Cities,"Greenwich Township, Warren County",0,0,0,0,"5,720",1
+New Jersey,Cities,Hackensack,0,0,0,0,"43,499",1
+New Jersey,Cities,Hackettstown,0,0,0,0,"9,744",1
+New Jersey,Cities,Haddon Heights,0,0,0,0,"7,505",1
+New Jersey,Cities,Haledon,0,0,0,0,"8,372",1
+New Jersey,Cities,Hamburg,0,0,0,0,"3,277",1
+New Jersey,Cities,"Hamilton Township, Atlantic County",0,0,0,0,"26,613",1
+New Jersey,Cities,Hanover Township,0,0,0,0,"13,857",1
+New Jersey,Cities,Harding Township,0,0,0,0,"3,881",1
+New Jersey,Cities,Harrington Park,0,0,0,0,"4,717",1
+New Jersey,Cities,Harvey Cedars,0,0,0,0,341,1
+New Jersey,Cities,Hasbrouck Heights,0,0,0,0,"11,978",1
+New Jersey,Cities,Haworth,0,0,0,0,"3,420",1
+New Jersey,Cities,Hazlet Township,0,0,0,0,"20,456",1
+New Jersey,Cities,Helmetta,0,0,0,0,"2,201",1
+New Jersey,Cities,High Bridge,0,0,0,0,"3,657",1
+New Jersey,Cities,Hillsdale,0,0,0,0,"10,337",1
+New Jersey,Cities,Hi-Nella,0,0,0,0,873,1
+New Jersey,Cities,Ho-Ho-Kus,0,0,0,0,"4,124",1
+New Jersey,Cities,Holland Township,0,0,0,0,"5,304",1
+New Jersey,Cities,Holmdel Township,0,0,0,0,"16,873",1
+New Jersey,Cities,Hopatcong,0,0,0,0,"15,144",1
+New Jersey,Cities,Hopewell,0,0,0,0,"1,935",1
+New Jersey,Cities,Hopewell Township,0,0,0,0,"17,430",1
+New Jersey,Cities,Independence Township,0,0,0,0,"5,671",1
+New Jersey,Cities,Interlaken,0,0,0,0,825,1
+New Jersey,Cities,Irvington,0,0,0,0,"54,274",1
+New Jersey,Cities,Island Heights,0,0,0,0,"1,689",1
+New Jersey,Cities,Kenilworth,0,0,0,0,"7,998",1
+New Jersey,Cities,Keyport,0,0,0,0,"7,283",1
+New Jersey,Cities,Kinnelon,0,0,0,0,"10,355",1
+New Jersey,Cities,Lake Como,0,0,0,0,"1,769",1
+New Jersey,Cities,Lakehurst,0,0,0,0,"2,681",1
+New Jersey,Cities,Lambertville,0,0,0,0,"3,915",1
+New Jersey,Cities,Laurel Springs,0,0,0,0,"1,916",1
+New Jersey,Cities,Lavallette,0,0,0,0,"1,893",1
+New Jersey,Cities,Lawnside,0,0,0,0,"2,957",1
+New Jersey,Cities,"Lawrence Township, Mercer County",0,0,0,0,"33,483",1
+New Jersey,Cities,Lebanon Township,0,0,0,0,"6,605",1
+New Jersey,Cities,Leonia,0,0,0,0,"9,040",1
+New Jersey,Cities,Lindenwold,0,0,0,0,"17,685",1
+New Jersey,Cities,Linwood,0,0,0,0,"7,122",1
+New Jersey,Cities,Little Ferry,0,0,0,0,"10,749",1
+New Jersey,Cities,Little Silver,0,0,0,0,"5,985",1
+New Jersey,Cities,Livingston Township,0,0,0,0,"29,556",1
+New Jersey,Cities,Loch Arbour,0,0,0,0,195,1
+New Jersey,Cities,Logan Township,0,0,0,0,"6,089",1
+New Jersey,Cities,Long Beach Township,0,0,0,0,"3,081",1
+New Jersey,Cities,Long Branch,0,0,0,0,"30,902",1
+New Jersey,Cities,Longport,0,0,0,0,898,1
+New Jersey,Cities,Lopatcong Township,0,0,0,0,"8,028",1
+New Jersey,Cities,Lower Alloways Creek Township,0,0,0,0,"1,773",1
+New Jersey,Cities,Lumberton Township,0,0,0,0,"12,645",1
+New Jersey,Cities,Lyndhurst Township,0,0,0,0,"20,791",1
+New Jersey,Cities,Magnolia,0,0,0,0,"4,359",1
+New Jersey,Cities,Mahwah Township,0,0,0,0,"26,170",1
+New Jersey,Cities,"Mansfield Township, Burlington County",0,0,0,0,"8,603",1
+New Jersey,Cities,"Mansfield Township, Warren County",0,0,0,0,"7,739",1
+New Jersey,Cities,Mantoloking,0,0,0,0,299,1
+New Jersey,Cities,Mantua Township,0,0,0,0,"15,334",1
+New Jersey,Cities,Manville,0,0,0,0,"10,443",1
+New Jersey,Cities,Maplewood Township,0,0,0,0,"24,022",1
+New Jersey,Cities,Medford Lakes,0,0,0,0,"4,173",1
+New Jersey,Cities,Mendham,0,0,0,0,"5,033",1
+New Jersey,Cities,Mendham Township,0,0,0,0,"5,931",1
+New Jersey,Cities,Merchantville,0,0,0,0,"3,837",1
+New Jersey,Cities,Metuchen,0,0,0,0,"13,715",1
+New Jersey,Cities,Middle Township,0,0,0,0,"18,875",1
+New Jersey,Cities,Midland Park,0,0,0,0,"7,211",1
+New Jersey,Cities,Millburn Township,0,0,0,0,"20,279",1
+New Jersey,Cities,Milltown,0,0,0,0,"6,966",1
+New Jersey,Cities,Millville,0,0,0,0,"28,651",1
+New Jersey,Cities,Mine Hill Township,0,0,0,0,"3,690",1
+New Jersey,Cities,Monmouth Beach,0,0,0,0,"3,298",1
+New Jersey,Cities,Montvale,0,0,0,0,"7,935",1
+New Jersey,Cities,Montville Township,0,0,0,0,"21,755",1
+New Jersey,Cities,Moonachie,0,0,0,0,"2,738",1
+New Jersey,Cities,Morris Plains,0,0,0,0,"5,588",1
+New Jersey,Cities,Morristown,0,0,0,0,"18,601",1
+New Jersey,Cities,Mountain Lakes,0,0,0,0,"4,205",1
+New Jersey,Cities,Mountainside,0,0,0,0,"6,754",1
+New Jersey,Cities,Mount Arlington,0,0,0,0,"5,103",1
+New Jersey,Cities,Mount Ephraim,0,0,0,0,"4,696",1
+New Jersey,Cities,Mullica Township,0,0,0,0,"6,174",1
+New Jersey,Cities,National Park,0,0,0,0,"3,060",1
+New Jersey,Cities,Neptune City,0,0,0,0,"4,897",1
+New Jersey,Cities,Netcong,0,0,0,0,"3,266",1
+New Jersey,Cities,Newfield,0,0,0,0,"1,566",1
+New Jersey,Cities,New Hanover Township,0,0,0,0,"7,432",1
+New Jersey,Cities,New Milford,0,0,0,0,"16,529",1
+New Jersey,Cities,Newton,0,0,0,0,"7,999",1
+New Jersey,Cities,North Arlington,0,0,0,0,"15,570",1
+New Jersey,Cities,North Bergen Township,0,0,0,0,"61,747",1
+New Jersey,Cities,North Brunswick Township,0,0,0,0,"41,163",1
+New Jersey,Cities,North Caldwell,0,0,0,0,"6,223",1
+New Jersey,Cities,Northfield,0,0,0,0,"8,658",1
+New Jersey,Cities,North Haledon,0,0,0,0,"8,474",1
+New Jersey,Cities,Northvale,0,0,0,0,"4,692",1
+New Jersey,Cities,Norwood,0,0,0,0,"5,776",1
+New Jersey,Cities,Oakland,0,0,0,0,"12,899",1
+New Jersey,Cities,Oaklyn,0,0,0,0,"4,055",1
+New Jersey,Cities,Ocean City,0,0,0,0,"11,676",1
+New Jersey,Cities,Oceanport,0,0,0,0,"5,866",1
+New Jersey,Cities,"Ocean Township, Monmouth County",0,0,0,0,"27,454",1
+New Jersey,Cities,"Ocean Township, Ocean County",0,0,0,0,"8,413",1
+New Jersey,Cities,Ogdensburg,0,0,0,0,"2,410",1
+New Jersey,Cities,Old Tappan,0,0,0,0,"5,814",1
+New Jersey,Cities,Oradell,0,0,0,0,"8,071",1
+New Jersey,Cities,Orange,0,0,0,0,"30,329",1
+New Jersey,Cities,Oxford Township,0,0,0,0,"2,519",1
+New Jersey,Cities,Paterson,0,0,0,0,"147,148",1
+New Jersey,Cities,Peapack and Gladstone,0,0,0,0,"2,606",1
+New Jersey,Cities,Pemberton,0,0,0,0,"1,419",1
+New Jersey,Cities,Pennington,0,0,0,0,"2,605",1
+New Jersey,Cities,Penns Grove,0,0,0,0,"5,157",1
+New Jersey,Cities,Pennsville Township,0,0,0,0,"13,437",1
+New Jersey,Cities,Pequannock Township,0,0,0,0,"15,703",1
+New Jersey,Cities,Perth Amboy,0,0,0,0,"51,345",1
+New Jersey,Cities,Pine Beach,0,0,0,0,"2,149",1
+New Jersey,Cities,Pine Valley,0,0,0,0,12,1
+New Jersey,Cities,Pitman,0,0,0,0,"9,079",1
+New Jersey,Cities,Plainfield,0,0,0,0,"50,332",1
+New Jersey,Cities,Plainsboro Township,0,0,0,0,"23,240",1
+New Jersey,Cities,Pleasantville,0,0,0,0,"20,334",1
+New Jersey,Cities,Plumsted Township,0,0,0,0,"8,505",1
+New Jersey,Cities,Pohatcong Township,0,0,0,0,"3,343",1
+New Jersey,Cities,Princeton,0,0,0,0,"12,191",1
+New Jersey,Cities,Prospect Park,0,0,0,0,"5,903",1
+New Jersey,Cities,Rahway,0,0,0,0,"27,635",1
+New Jersey,Cities,Ramsey,0,0,0,0,"14,639",1
+New Jersey,Cities,Raritan Township,0,0,0,0,"22,239",1
+New Jersey,Cities,Readington Township,0,0,0,0,"16,165",1
+New Jersey,Cities,Red Bank,0,0,0,0,"12,278",1
+New Jersey,Cities,Ridgefield,0,0,0,0,"11,159",1
+New Jersey,Cities,Ridgefield Park,0,0,0,0,"12,875",1
+New Jersey,Cities,Riverdale,0,0,0,0,"3,597",1
+New Jersey,Cities,River Edge,0,0,0,0,"11,470",1
+New Jersey,Cities,Riverton,0,0,0,0,"2,798",1
+New Jersey,Cities,River Vale Township,0,0,0,0,"9,771",1
+New Jersey,Cities,Rochelle Park Township,0,0,0,0,"5,593",1
+New Jersey,Cities,Rockaway,0,0,0,0,"6,506",1
+New Jersey,Cities,Rockaway Township,0,0,0,0,"24,410",1
+New Jersey,Cities,Rockleigh,0,0,0,0,535,1
+New Jersey,Cities,Roseland,0,0,0,0,"5,857",1
+New Jersey,Cities,Roselle,0,0,0,0,"21,309",1
+New Jersey,Cities,Roselle Park,0,0,0,0,"13,438",1
+New Jersey,Cities,Roxbury Township,0,0,0,0,"23,569",1
+New Jersey,Cities,Rumson,0,0,0,0,"7,165",1
+New Jersey,Cities,Saddle River,0,0,0,0,"3,188",1
+New Jersey,Cities,Salem,0,0,0,0,"5,158",1
+New Jersey,Cities,Scotch Plains Township,0,0,0,0,"23,759",1
+New Jersey,Cities,Sea Bright,0,0,0,0,"1,421",1
+New Jersey,Cities,Sea Girt,0,0,0,0,"1,839",1
+New Jersey,Cities,Seaside Heights,0,0,0,0,"2,915",1
+New Jersey,Cities,Ship Bottom,0,0,0,0,"1,165",1
+New Jersey,Cities,Shrewsbury,0,0,0,0,"3,832",1
+New Jersey,Cities,Somerdale,0,0,0,0,"5,172",1
+New Jersey,Cities,Somers Point,0,0,0,0,"10,840",1
+New Jersey,Cities,South Amboy,0,0,0,0,"8,721",1
+New Jersey,Cities,South Bound Brook,0,0,0,0,"4,606",1
+New Jersey,Cities,South Hackensack Township,0,0,0,0,"2,405",1
+New Jersey,Cities,South River,0,0,0,0,"16,176",1
+New Jersey,Cities,South Toms River,0,0,0,0,"3,719",1
+New Jersey,Cities,Sparta Township,0,0,0,0,"19,720",1
+New Jersey,Cities,Springfield,0,0,0,0,"15,985",1
+New Jersey,Cities,Springfield Township,0,0,0,0,"3,437",1
+New Jersey,Cities,Spring Lake,0,0,0,0,"3,012",1
+New Jersey,Cities,Spring Lake Heights,0,0,0,0,"4,741",1
+New Jersey,Cities,Stanhope,0,0,0,0,"3,610",1
+New Jersey,Cities,Stone Harbor,0,0,0,0,864,1
+New Jersey,Cities,Stratford,0,0,0,0,"7,070",1
+New Jersey,Cities,Summit,0,0,0,0,"21,684",1
+New Jersey,Cities,Surf City,0,0,0,0,"1,217",1
+New Jersey,Cities,Swedesboro,0,0,0,0,"2,604",1
+New Jersey,Cities,Tavistock,0,0,0,0,5,1
+New Jersey,Cities,Teterboro,0,0,0,0,67,1
+New Jersey,Cities,Tewksbury Township,0,0,0,0,"6,007",1
+New Jersey,Cities,Toms River Township,0,0,0,0,"92,131",1
+New Jersey,Cities,Totowa,0,0,0,0,"10,874",1
+New Jersey,Cities,Trenton,0,0,0,0,"85,317",1
+New Jersey,Cities,Tuckerton,0,0,0,0,"3,381",1
+New Jersey,Cities,Union Beach,0,0,0,0,"6,282",1
+New Jersey,Cities,Union City,0,0,0,0,"67,518",1
+New Jersey,Cities,Union Township,0,0,0,0,"57,234",1
+New Jersey,Cities,Ventnor City,0,0,0,0,"10,693",1
+New Jersey,Cities,Vernon Township,0,0,0,0,"23,939",1
+New Jersey,Cities,Vineland,0,0,0,0,"61,252",1
+New Jersey,Cities,Voorhees Township,0,0,0,0,"29,251",1
+New Jersey,Cities,Waldwick,0,0,0,0,"9,737",1
+New Jersey,Cities,Wallington,0,0,0,0,"11,465",1
+New Jersey,Cities,Wall Township,0,0,0,0,"26,319",1
+New Jersey,Cities,Wanaque,0,0,0,0,"11,188",1
+New Jersey,Cities,Warren Township,0,0,0,0,"15,455",1
+New Jersey,Cities,"Washington Township, Bergen County",0,0,0,0,"9,207",1
+New Jersey,Cities,"Washington Township, Gloucester County",0,0,0,0,"48,940",1
+New Jersey,Cities,"Washington Township, Morris County",0,0,0,0,"18,728",1
+New Jersey,Cities,Wayne Township,0,0,0,0,"55,071",1
+New Jersey,Cities,Wenonah,0,0,0,0,"2,296",1
+New Jersey,Cities,West Amwell Township,0,0,0,0,"3,851",1
+New Jersey,Cities,West Caldwell Township,0,0,0,0,"10,828",1
+New Jersey,Cities,West Cape May,0,0,0,0,"1,022",1
+New Jersey,Cities,West Long Branch,0,0,0,0,"8,145",1
+New Jersey,Cities,West Milford Township,0,0,0,0,"26,019",1
+New Jersey,Cities,West New York,0,0,0,0,"50,507",1
+New Jersey,Cities,West Wildwood,0,0,0,0,602,1
+New Jersey,Cities,Wharton,0,0,0,0,"6,589",1
+New Jersey,Cities,Wildwood,0,0,0,0,"5,315",1
+New Jersey,Cities,Wildwood Crest,0,0,0,0,"3,263",1
+New Jersey,Cities,Winfield Township,0,0,0,0,"1,487",1
+New Jersey,Cities,Winslow Township,0,0,0,0,"39,660",1
+New Jersey,Cities,Woodcliff Lake,0,0,0,0,"5,794",1
+New Jersey,Cities,Woodland Park,0,0,0,0,"11,895",1
+New Jersey,Cities,Woodlynne,0,0,0,0,"2,991",1
+New Jersey,Cities,Wood-Ridge,0,0,0,0,"7,715",1
+New Jersey,Cities,Woodstown,0,0,0,0,"3,513",1
+New Jersey,Cities,Woolwich Township,0,0,0,0,"10,278",1
+New Jersey,Cities,Wyckoff Township,0,0,0,0,"16,885",1
+New Jersey,State Police Agencies,State Police:,DNR,DNR,DNR,DNR,Not Available,1
+New Jersey,State Police Agencies,Atlantic ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Bergen ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Burlington ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Camden ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Cape May,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Cumberland ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Essex ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Gloucester ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Hudson ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Hunterdon ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Mercer ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Middlesex ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Monmouth ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Morris ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Ocean ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Passaic ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Salem ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Somerset ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Sussex ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Union ,0,0,0,0,Not Available,1
+New Jersey,State Police Agencies,Warren ,0,0,0,0,Not Available,1
+New Jersey,Other Agencies,Hunterdon Developmental Center,0,0,0,0,Not Available,1
+Texas,Cities,Abernathy,0,0,0,0,"2,877",1
+Texas,Cities,Abilene,0,0,0,0,"119,886",1
+Texas,Cities,Addison,0,0,0,0,"13,523",1
+Texas,Cities,Alamo,0,0,0,0,"19,178",1
+Texas,Cities,Alamo Heights,0,0,0,0,"7,305",1
+Texas,Cities,Alice,0,0,0,0,"19,627",1
+Texas,Cities,Alpine,0,0,0,0,"6,091",1
+Texas,Cities,Alton,0,0,0,0,"14,178",1
+Texas,Cities,Alvarado,0,0,0,0,"3,888",1
+Texas,Cities,Alvin,0,0,0,0,"25,145",1
+Texas,Cities,Andrews,0,0,0,0,"11,751",1
+Texas,Cities,Angleton,0,0,0,0,"19,569",1
+Texas,Cities,Anna,0,0,0,0,"8,724",1
+Texas,Cities,Anson,0,0,0,0,"2,458",1
+Texas,Cities,Anthony,0,0,0,0,"5,166",1
+Texas,Cities,Archer City,0,0,0,0,"1,819",1
+Texas,Cities,Arcola,0,0,0,0,"1,724",1
+Texas,Cities,Argyle,0,0,0,0,"3,454",1
+Texas,Cities,Arp,0,0,0,0,"1,003",1
+Texas,Cities,Athens,0,0,0,0,"12,946",1
+Texas,Cities,Atlanta,0,0,0,0,"5,717",1
+Texas,Cities,Aubrey,0,0,0,0,"2,731",1
+Texas,Cities,Azle,0,0,0,0,"11,337",1
+Texas,Cities,Baird,0,0,0,0,"1,515",1
+Texas,Cities,Balch Springs,0,0,0,0,"24,574",1
+Texas,Cities,Balcones Heights,0,0,0,0,"2,859",1
+Texas,Cities,Ballinger,0,0,0,0,"3,831",1
+Texas,Cities,Bangs,0,0,0,0,"1,630",1
+Texas,Cities,Bastrop,0,0,0,0,"7,415",1
+Texas,Cities,Bayou Vista,0,0,0,0,"1,584",1
+Texas,Cities,Baytown,0,0,0,0,"74,420",1
+Texas,Cities,Beaumont,0,0,0,0,"120,323",1
+Texas,Cities,Bee Cave,0,0,0,0,"4,137",1
+Texas,Cities,Beeville,0,0,0,0,"13,179",1
+Texas,Cities,Bellaire,0,0,0,0,"17,481",1
+Texas,Cities,Bellmead,0,0,0,0,"10,212",1
+Texas,Cities,Bellville,0,0,0,0,"4,193",1
+Texas,Cities,Belton,0,0,0,0,"18,763",1
+Texas,Cities,Benbrook,0,0,0,0,"22,040",1
+Texas,Cities,Bertram,0,0,0,0,"1,384",1
+Texas,Cities,Beverly Hills,0,0,0,0,"2,056",1
+Texas,Cities,Big Sandy,0,0,0,0,"1,380",1
+Texas,Cities,Big Spring,0,0,0,0,"27,774",1
+Texas,Cities,Bishop,0,0,0,0,"3,211",1
+Texas,Cities,Blanco,0,0,0,0,"1,781",1
+Texas,Cities,Bloomburg,0,0,0,0,406,1
+Texas,Cities,Blue Mound,0,0,0,0,"2,484",1
+Texas,Cities,Boerne,0,0,0,0,"11,047",1
+Texas,Cities,Bogata,0,0,0,0,"1,157",1
+Texas,Cities,Bonham,0,0,0,0,"10,288",1
+Texas,Cities,Borger,0,0,0,0,"13,438",1
+Texas,Cities,Bovina,0,0,0,0,"1,906",1
+Texas,Cities,Bowie,0,0,0,0,"5,293",1
+Texas,Cities,Brady,0,0,0,0,"5,616",1
+Texas,Cities,Brazoria,0,0,0,0,"3,133",1
+Texas,Cities,Breckenridge,0,0,0,0,"5,815",1
+Texas,Cities,Bremond,0,0,0,0,950,1
+Texas,Cities,Brenham,0,0,0,0,"15,988",1
+Texas,Cities,Bridge City,0,0,0,0,"8,020",1
+Texas,Cities,Bridgeport,0,0,0,0,"6,138",1
+Texas,Cities,Brookshire,0,0,0,0,"4,865",1
+Texas,Cities,Brookside Village,0,0,0,0,"1,581",1
+Texas,Cities,Brownfield,0,0,0,0,"9,820",1
+Texas,Cities,Brownsville,0,0,0,0,"181,102",1
+Texas,Cities,Brownwood,0,0,0,0,"19,618",1
+Texas,Cities,Bruceville-Eddy,0,0,0,0,"1,521",1
+Texas,Cities,Bryan,0,0,0,0,"78,479",1
+Texas,Cities,Buda,0,0,0,0,"7,797",1
+Texas,Cities,Bullard,0,0,0,0,"2,546",1
+Texas,Cities,Bulverde,0,0,0,0,"4,852",1
+Texas,Cities,Burnet,0,0,0,0,"6,128",1
+Texas,Cities,Cactus,0,0,0,0,"3,234",1
+Texas,Cities,Caddo Mills,0,0,0,0,"1,364",1
+Texas,Cities,Caldwell,0,0,0,0,"4,180",1
+Texas,Cities,Calvert,0,0,0,0,"1,218",1
+Texas,Cities,Cameron,0,0,0,0,"5,621",1
+Texas,Cities,Canton,0,0,0,0,"3,637",1
+Texas,Cities,Canyon,0,0,0,0,"13,773",1
+Texas,Cities,Carrollton,0,0,0,0,"124,477",1
+Texas,Cities,Carthage,0,0,0,0,"6,954",1
+Texas,Cities,Castle Hills,0,0,0,0,"4,280",1
+Texas,Cities,Castroville,0,0,0,0,"2,740",1
+Texas,Cities,Cedar Hill,0,0,0,0,"46,633",1
+Texas,Cities,Cedar Park,0,0,0,0,"52,051",1
+Texas,Cities,Celina,0,0,0,0,"6,350",1
+Texas,Cities,Childress,0,0,0,0,"6,149",1
+Texas,Cities,Chillicothe,0,0,0,0,723,1
+Texas,Cities,Cibolo,0,0,0,0,"19,580",1
+Texas,Cities,Cisco,0,0,0,0,"3,972",1
+Texas,Cities,Clarksville,0,0,0,0,"3,285",1
+Texas,Cities,Cleveland,0,0,0,0,"7,847",1
+Texas,Cities,Clifton,0,0,0,0,"3,509",1
+Texas,Cities,Clint,0,0,0,0,964,1
+Texas,Cities,Clute,0,0,0,0,"11,631",1
+Texas,Cities,Clyde,0,0,0,0,"3,759",1
+Texas,Cities,Cockrell Hill,0,0,0,0,"4,343",1
+Texas,Cities,Coleman,0,0,0,0,"4,709",1
+Texas,Cities,College Station,0,0,0,0,"96,567",1
+Texas,Cities,Colleyville,0,0,0,0,"23,677",1
+Texas,Cities,Collinsville,0,0,0,0,"1,655",1
+Texas,Cities,Colorado City,0,0,0,0,"4,221",1
+Texas,Cities,Columbus,0,0,0,0,"3,699",1
+Texas,Cities,Comanche,0,0,0,0,"4,373",1
+Texas,Cities,Combes,0,0,0,0,"2,996",1
+Texas,Cities,Converse,0,0,0,0,"18,922",1
+Texas,Cities,Coppell,0,0,0,0,"40,053",1
+Texas,Cities,Corinth,0,0,0,0,"20,971",1
+Texas,Cities,Corrigan,0,0,0,0,"1,633",1
+Texas,Cities,Corsicana,0,0,0,0,"24,284",1
+Texas,Cities,Crandall,0,0,0,0,"2,957",1
+Texas,Cities,Crane,0,0,0,0,"3,410",1
+Texas,Cities,Crockett,0,0,0,0,"6,975",1
+Texas,Cities,Crosbyton,0,0,0,0,"1,776",1
+Texas,Cities,Crowell,0,0,0,0,965,1
+Texas,Cities,Crowley,0,0,0,0,"13,328",1
+Texas,Cities,Crystal City,0,0,0,0,"7,355",1
+Texas,Cities,Cuero,0,0,0,0,"7,001",1
+Texas,Cities,Cumby,0,0,0,0,794,1
+Texas,Cities,Daingerfield,0,0,0,0,"2,579",1
+Texas,Cities,Dalhart,0,0,0,0,"8,124",1
+Texas,Cities,Dalworthington Gardens,0,0,0,0,"2,345",1
+Texas,Cities,Danbury,0,0,0,0,"1,780",1
+Texas,Cities,Dayton,0,0,0,0,"7,416",1
+Texas,Cities,Decatur,0,0,0,0,"6,206",1
+Texas,Cities,Deer Park,0,0,0,0,"33,196",1
+Texas,Cities,De Kalb,0,0,0,0,"1,708",1
+Texas,Cities,De Leon,0,0,0,0,"2,266",1
+Texas,Cities,Del Rio,0,0,0,0,"36,302",1
+Texas,Cities,Denver City,0,0,0,0,"4,617",1
+Texas,Cities,Desoto,0,0,0,0,"50,795",1
+Texas,Cities,Devine,0,0,0,0,"4,452",1
+Texas,Cities,Diboll,0,0,0,0,"4,896",1
+Texas,Cities,Dickinson,0,0,0,0,"19,251",1
+Texas,Cities,Dilley,0,0,0,0,"3,988",1
+Texas,Cities,Dimmitt,0,0,0,0,"4,489",1
+Texas,Cities,Donna,0,0,0,0,"16,518",1
+Texas,Cities,Double Oak,0,0,0,0,"3,014",1
+Texas,Cities,Driscoll,0,0,0,0,757,1
+Texas,Cities,Dublin,0,0,0,0,"3,746",1
+Texas,Cities,Dumas,0,0,0,0,"14,946",1
+Texas,Cities,Duncanville,0,0,0,0,"39,899",1
+Texas,Cities,Eagle Lake,0,0,0,0,"3,684",1
+Texas,Cities,Eagle Pass,0,0,0,0,"27,208",1
+Texas,Cities,Early,0,0,0,0,"2,810",1
+Texas,Cities,Eastland,0,0,0,0,"4,029",1
+Texas,Cities,East Mountain,0,0,0,0,815,1
+Texas,Cities,Edcouch,0,0,0,0,"3,305",1
+Texas,Cities,Edgewood,0,0,0,0,"1,467",1
+Texas,Cities,Edinburg,0,0,0,0,"80,332",1
+Texas,Cities,El Campo,0,0,0,0,"11,786",1
+Texas,Cities,Electra,0,0,0,0,"2,814",1
+Texas,Cities,Elgin,0,0,0,0,"8,386",1
+Texas,Cities,Elsa,0,0,0,0,"5,918",1
+Texas,Cities,Ennis,0,0,0,0,"19,184",1
+Texas,Cities,Euless,0,0,0,0,"53,228",1
+Texas,Cities,Fairfield,0,0,0,0,"2,974",1
+Texas,Cities,Fair Oaks Ranch,0,0,0,0,"6,254",1
+Texas,Cities,Falfurrias,0,0,0,0,"5,055",1
+Texas,Cities,Farmers Branch,0,0,0,0,"29,637",1
+Texas,Cities,Farmersville,0,0,0,0,"3,478",1
+Texas,Cities,Farwell,0,0,0,0,"1,393",1
+Texas,Cities,Ferris,0,0,0,0,"2,524",1
+Texas,Cities,Flatonia,0,0,0,0,"1,415",1
+Texas,Cities,Florence,0,0,0,0,"1,209",1
+Texas,Cities,Floresville,0,0,0,0,"6,672",1
+Texas,Cities,Floydada,0,0,0,0,"3,058",1
+Texas,Cities,Forest Hill,0,0,0,0,"12,825",1
+Texas,Cities,Fort Stockton,0,0,0,0,"8,530",1
+Texas,Cities,Frankston,0,0,0,0,"1,243",1
+Texas,Cities,Fredericksburg,0,0,0,0,"10,802",1
+Texas,Cities,Freeport,0,0,0,0,"12,501",1
+Texas,Cities,Freer,0,0,0,0,"2,832",1
+Texas,Cities,Friendswood,0,0,0,0,"36,965",1
+Texas,Cities,Friona,0,0,0,0,"4,211",1
+Texas,Cities,Gainesville,0,0,0,0,"16,223",1
+Texas,Cities,Galena Park,0,0,0,0,"11,290",1
+Texas,Cities,Galveston,0,0,0,0,"49,170",1
+Texas,Cities,Ganado,0,0,0,0,"2,028",1
+Texas,Cities,Garden Ridge,0,0,0,0,"3,413",1
+Texas,Cities,Gatesville,0,0,0,0,"16,224",1
+Texas,Cities,Giddings,0,0,0,0,"4,970",1
+Texas,Cities,Gilmer,0,0,0,0,"5,030",1
+Texas,Cities,Glenn Heights,0,0,0,0,"11,683",1
+Texas,Cities,Godley,0,0,0,0,"1,036",1
+Texas,Cities,Gonzales,0,0,0,0,"7,381",1
+Texas,Cities,Gorman,0,0,0,0,"1,102",1
+Texas,Cities,Graham,0,0,0,0,"9,005",1
+Texas,Cities,Granbury,0,0,0,0,"8,170",1
+Texas,Cities,Grand Prairie,0,0,0,0,"181,782",1
+Texas,Cities,Grand Saline,0,0,0,0,"3,195",1
+Texas,Cities,Granger,0,0,0,0,"1,501",1
+Texas,Cities,Granite Shoals,0,0,0,0,"5,027",1
+Texas,Cities,Grapeland,0,0,0,0,"1,494",1
+Texas,Cities,Grapevine,0,0,0,0,"48,095",1
+Texas,Cities,Gregory,0,0,0,0,"1,934",1
+Texas,Cities,Groesbeck,0,0,0,0,"4,431",1
+Texas,Cities,Groves,0,0,0,0,"16,423",1
+Texas,Cities,Gruver,0,0,0,0,"1,207",1
+Texas,Cities,Gun Barrel City,0,0,0,0,"5,777",1
+Texas,Cities,Hale Center,0,0,0,0,"2,301",1
+Texas,Cities,Hallettsville,0,0,0,0,"2,610",1
+Texas,Cities,Hallsville,0,0,0,0,"3,656",1
+Texas,Cities,Hamlin,0,0,0,0,"2,148",1
+Texas,Cities,Harker Heights,0,0,0,0,"27,542",1
+Texas,Cities,Harlingen,0,0,0,0,"67,112",1
+Texas,Cities,Haskell,0,0,0,0,"3,419",1
+Texas,Cities,Hawk Cove,0,0,0,0,493,1
+Texas,Cities,Hawkins,0,0,0,0,"1,303",1
+Texas,Cities,Hawley,0,0,0,0,639,1
+Texas,Cities,Hearne,0,0,0,0,"4,558",1
+Texas,Cities,Hedwig Village,0,0,0,0,"2,652",1
+Texas,Cities,Helotes,0,0,0,0,"7,636",1
+Texas,Cities,Hemphill,0,0,0,0,"1,206",1
+Texas,Cities,Hempstead,0,0,DNR,0,"5,968",1
+Texas,Cities,Hereford,0,0,0,0,"15,779",1
+Texas,Cities,Hewitt,0,0,0,0,"13,973",1
+Texas,Cities,Hidalgo,0,0,0,0,"11,706",1
+Texas,Cities,Highland Village,0,0,0,0,"15,836",1
+Texas,Cities,Hill Country Village,0,0,0,0,"1,024",1
+Texas,Cities,Hillsboro,0,0,0,0,"8,653",1
+Texas,Cities,Hitchcock,0,0,0,0,"7,174",1
+Texas,Cities,Holliday,0,0,0,0,"1,743",1
+Texas,Cities,Hollywood Park,0,0,0,0,"3,185",1
+Texas,Cities,Hondo,0,0,0,0,"8,992",1
+Texas,Cities,Hooks,0,0,0,0,"2,819",1
+Texas,Cities,Horizon City,0,0,0,0,"17,418",1
+Texas,Cities,Horseshoe Bay,0,0,0,0,"3,459",1
+Texas,Cities,Howe,0,0,0,0,"2,652",1
+Texas,Cities,Hubbard,0,0,0,0,"1,455",1
+Texas,Cities,Hudson,0,0,0,0,"4,849",1
+Texas,Cities,Hudson Oaks,0,0,0,0,"1,702",1
+Texas,Cities,Hughes Springs,0,0,0,0,"1,774",1
+Texas,Cities,Humble,0,0,0,0,"15,684",1
+Texas,Cities,Huntington,0,0,0,0,"2,168",1
+Texas,Cities,Huntsville,0,0,0,0,"39,243",1
+Texas,Cities,Hurst,0,0,0,0,"38,756",1
+Texas,Cities,Hutchins,0,0,0,0,"5,484",1
+Texas,Cities,Hutto,0,0,0,0,"15,635",1
+Texas,Cities,Idalou,0,0,0,0,"2,326",1
+Texas,Cities,Ingleside,0,0,0,0,"9,516",1
+Texas,Cities,Ingram,0,0,0,0,"1,836",1
+Texas,Cities,Irving,0,0,0,0,"224,007",1
+Texas,Cities,Italy,0,0,0,0,"1,930",1
+Texas,Cities,Itasca,0,0,0,0,"1,684",1
+Texas,Cities,Jacinto City,0,0,0,0,"10,941",1
+Texas,Cities,Jacksboro,0,0,0,0,"4,574",1
+Texas,Cities,Jacksonville,0,0,0,0,"14,856",1
+Texas,Cities,Jamaica Beach,0,0,0,0,"1,013",1
+Texas,Cities,Jarrell,0,0,0,0,"1,048",1
+Texas,Cities,Jasper,0,0,0,0,"7,830",1
+Texas,Cities,Jefferson,0,0,0,0,"2,132",1
+Texas,Cities,Jersey Village,0,0,0,0,"7,903",1
+Texas,Cities,Johnson City,0,0,0,0,"1,698",1
+Texas,Cities,Jones Creek,0,0,0,0,"2,095",1
+Texas,Cities,Jonestown,0,0,0,0,"1,935",1
+Texas,Cities,Jourdanton,0,0,0,0,"3,988",1
+Texas,Cities,Junction,0,0,0,0,"2,627",1
+Texas,Cities,Karnes City,0,0,0,0,"3,114",1
+Texas,Cities,Kaufman,0,0,0,0,"6,934",1
+Texas,Cities,Keene,0,0,0,0,"6,259",1
+Texas,Cities,Keller,0,0,0,0,"41,137",1
+Texas,Cities,Kemah,0,0,0,0,"1,827",1
+Texas,Cities,Kenedy,0,0,0,0,"3,380",1
+Texas,Cities,Kennedale,0,0,0,0,"7,020",1
+Texas,Cities,Kerens,0,0,0,0,"1,608",1
+Texas,Cities,Kermit,0,0,0,0,"5,849",1
+Texas,Cities,Kerrville,0,0,0,0,"22,759",1
+Texas,Cities,Killeen,0,0,0,0,"131,965",1
+Texas,Cities,Kingsville,0,0,0,0,"26,716",1
+Texas,Cities,Kirby,0,0,0,0,"8,322",1
+Texas,Cities,Kirbyville,0,0,0,0,"2,214",1
+Texas,Cities,Kountze,0,0,0,0,"2,179",1
+Texas,Cities,Kress,0,0,0,0,720,1
+Texas,Cities,Lacy-Lakeview,0,0,0,0,"6,692",1
+Texas,Cities,La Feria,0,0,0,0,"7,516",1
+Texas,Cities,Lago Vista,0,0,0,0,"6,369",1
+Texas,Cities,La Grange,0,0,0,0,"4,745",1
+Texas,Cities,La Grulla,0,0,0,0,"1,667",1
+Texas,Cities,Laguna Vista,0,0,0,0,"3,222",1
+Texas,Cities,La Joya,0,0,0,0,"4,166",1
+Texas,Cities,Lake Dallas,0,0,0,0,"7,473",1
+Texas,Cities,Lakeside,0,0,0,0,"1,357",1
+Texas,Cities,Lakeview,0,0,0,0,"6,481",1
+Texas,Cities,Lakeway,0,0,0,0,"12,007",1
+Texas,Cities,Lake Worth,0,0,0,0,"4,755",1
+Texas,Cities,La Marque,0,0,0,0,"14,953",1
+Texas,Cities,Lamesa,0,0,0,0,"9,497",1
+Texas,Cities,Lampasas,0,0,0,0,"6,850",1
+Texas,Cities,La Porte,0,0,0,0,"35,054",1
+Texas,Cities,Laredo,0,0,0,0,"245,558",1
+Texas,Cities,La Vernia,0,0,0,0,"1,071",1
+Texas,Cities,La Villa,0,0,0,0,"2,023",1
+Texas,Cities,Lavon,0,0,0,0,"2,337",1
+Texas,Cities,League City,0,0,0,0,"86,127",1
+Texas,Cities,Leander,0,0,0,0,"28,244",1
+Texas,Cities,Leonard,0,0,DNR,DNR,"2,016",1
+Texas,Cities,Leon Valley,0,0,0,0,"10,558",1
+Texas,Cities,Levelland,0,0,0,0,"13,719",1
+Texas,Cities,Lexington,0,0,0,0,"1,200",1
+Texas,Cities,Liberty,0,0,0,0,"8,282",1
+Texas,Cities,Linden,0,0,0,0,"2,004",1
+Texas,Cities,Little Elm,0,0,0,0,"27,246",1
+Texas,Cities,Littlefield,0,0,0,0,"6,560",1
+Texas,Cities,Live Oak,0,0,0,0,"13,657",1
+Texas,Cities,Livingston,0,0,0,0,"5,466",1
+Texas,Cities,Lockhart,0,0,0,0,"13,013",1
+Texas,Cities,Lockney,0,0,0,0,"1,854",1
+Texas,Cities,Lometa,0,0,0,0,879,1
+Texas,Cities,Lone Star,0,0,0,0,"1,594",1
+Texas,Cities,Lorena,0,0,0,0,"1,743",1
+Texas,Cities,Lorenzo,0,0,0,0,"1,171",1
+Texas,Cities,Los Fresnos,0,0,0,0,"5,737",1
+Texas,Cities,Lott,0,0,DNR,DNR,774,1
+Texas,Cities,Lubbock,0,0,0,0,"237,241",1
+Texas,Cities,Lufkin,0,0,0,0,"35,956",1
+Texas,Cities,Luling,0,0,0,0,"5,549",1
+Texas,Cities,Lyford,0,0,0,0,"2,643",1
+Texas,Cities,Lytle,0,0,0,0,"2,562",1
+Texas,Cities,Madisonville,0,0,0,0,"4,494",1
+Texas,Cities,Magnolia,0,0,0,0,"1,464",1
+Texas,Cities,Malakoff,0,0,0,0,"2,367",1
+Texas,Cities,Manor,0,0,0,0,"5,313",1
+Texas,Cities,Mansfield,0,0,0,0,"58,490",1
+Texas,Cities,Manvel,0,0,0,0,"5,375",1
+Texas,Cities,Marlin,0,0,0,0,"6,082",1
+Texas,Cities,Marshall,0,0,0,0,"24,109",1
+Texas,Cities,Martindale,0,0,0,0,"1,143",1
+Texas,Cities,Mathis,0,0,0,0,"5,010",1
+Texas,Cities,McAllen,0,0,0,0,"135,745",1
+Texas,Cities,McGregor,0,0,0,0,"5,142",1
+Texas,Cities,Meadows Place,0,0,0,0,"4,904",1
+Texas,Cities,Melissa,0,0,0,0,"4,936",1
+Texas,Cities,Memorial Villages,0,0,0,0,"11,540",1
+Texas,Cities,Memphis,0,0,0,0,"2,341",1
+Texas,Cities,Mercedes,0,0,0,0,"16,417",1
+Texas,Cities,Meridian,0,0,0,0,"1,523",1
+Texas,Cities,Merkel,0,0,0,0,"2,653",1
+Texas,Cities,Mesquite,0,0,0,0,"144,811",1
+Texas,Cities,Mexia,0,0,0,0,"7,652",1
+Texas,Cities,Midland,0,0,0,0,"115,637",1
+Texas,Cities,Midlothian,0,0,0,0,"18,693",1
+Texas,Cities,Milford,0,0,0,0,753,1
+Texas,Cities,Mineola,0,0,0,0,"4,590",1
+Texas,Cities,Mineral Wells,0,0,0,0,"17,045",1
+Texas,Cities,Mission,0,0,0,0,"80,557",1
+Texas,Cities,Monahans,0,0,0,0,"7,095",1
+Texas,Cities,Mont Belvieu,0,0,0,0,"3,942",1
+Texas,Cities,Montgomery,0,0,0,0,653,1
+Texas,Cities,Morgans Point Resort,0,0,0,0,"4,302",1
+Texas,Cities,Moulton,0,0,0,0,902,1
+Texas,Cities,Mount Pleasant,0,0,0,0,"15,941",1
+Texas,Cities,Muleshoe,0,0,0,0,"5,295",1
+Texas,Cities,Munday,0,0,0,0,"1,333",1
+Texas,Cities,Mustang Ridge,0,0,0,0,900,1
+Texas,Cities,Nacogdoches,0,0,0,0,"33,905",1
+Texas,Cities,Naples,0,0,0,0,"1,394",1
+Texas,Cities,Nash,0,0,0,0,"3,012",1
+Texas,Cities,Nassau Bay,0,0,0,0,"4,151",1
+Texas,Cities,Navasota,0,0,0,0,"7,312",1
+Texas,Cities,Nederland,0,0,0,0,"17,850",1
+Texas,Cities,Needville,0,0,0,0,"2,970",1
+Texas,Cities,New Boston,0,0,0,0,"4,630",1
+Texas,Cities,New Braunfels,0,0,0,0,"60,482",1
+Texas,Cities,New Deal,0,0,0,0,821,1
+Texas,Cities,Nixon,0,0,0,0,"2,433",1
+Texas,Cities,Nocona,0,0,0,0,"3,077",1
+Texas,Cities,Nolanville,0,0,0,0,"4,394",1
+Texas,Cities,Northeast,0,0,0,0,"3,389",1
+Texas,Cities,Northlake,0,0,0,0,"1,815",1
+Texas,Cities,Oak Ridge,0,0,0,0,142,1
+Texas,Cities,Oak Ridge North,0,0,0,0,"3,203",1
+Texas,Cities,Odessa,0,0,0,0,"103,635",1
+Texas,Cities,O'Donnell,0,0,0,0,838,1
+Texas,Cities,Olmos Park,0,0,0,0,"2,327",1
+Texas,Cities,Olney,0,0,0,0,"3,322",1
+Texas,Cities,Olton,0,0,0,0,"2,279",1
+Texas,Cities,Omaha,0,0,0,0,"1,039",1
+Texas,Cities,Onalaska,0,0,0,0,"1,784",1
+Texas,Cities,Orange,0,0,0,0,"19,025",1
+Texas,Cities,Orange Grove,0,0,0,0,"1,356",1
+Texas,Cities,Overton,0,0,0,0,"2,616",1
+Texas,Cities,Ovilla,0,0,0,0,"3,620",1
+Texas,Cities,Oyster Creek,0,0,0,0,"1,153",1
+Texas,Cities,Paducah,0,0,0,0,"1,199",1
+Texas,Cities,Palacios,0,0,0,0,"4,804",1
+Texas,Cities,Palestine,0,0,0,0,"18,936",1
+Texas,Cities,Palmer,0,0,0,0,"2,074",1
+Texas,Cities,Palmhurst,DNR,DNR,0,0,"2,725",1
+Texas,Cities,Palm Valley,0,0,0,0,"1,350",1
+Texas,Cities,Palmview,0,0,0,0,"5,716",1
+Texas,Cities,Pampa,0,0,0,0,"18,452",1
+Texas,Cities,Panhandle,0,0,0,0,"2,520",1
+Texas,Cities,Pantego,0,0,0,0,"2,486",1
+Texas,Cities,Paris,0,0,0,0,"25,693",1
+Texas,Cities,Parker,0,0,0,0,"4,017",1
+Texas,Cities,Pasadena,0,0,0,0,"154,562",1
+Texas,Cities,Pearsall,0,0,0,0,"9,378",1
+Texas,Cities,Pecos,0,0,0,0,"8,891",1
+Texas,Cities,Penitas,0,0,0,0,"4,605",1
+Texas,Cities,Perryton,0,0,0,0,"9,201",1
+Texas,Cities,Pflugerville,0,0,0,0,"49,483",1
+Texas,Cities,Pharr,0,0,0,0,"73,599",1
+Texas,Cities,Pilot Point,0,0,0,0,"4,053",1
+Texas,Cities,Pinehurst,0,0,0,0,"2,142",1
+Texas,Cities,Pittsburg,0,0,0,0,"4,567",1
+Texas,Cities,Plainview,0,0,0,0,"22,678",1
+Texas,Cities,Pleasanton,0,0,0,0,"9,206",1
+Texas,Cities,Point Comfort,0,0,DNR,DNR,750,1
+Texas,Cities,Ponder,0,0,0,0,"1,468",1
+Texas,Cities,Port Aransas,0,0,0,0,"3,565",1
+Texas,Cities,Port Arthur,0,0,0,0,"54,745",1
+Texas,Cities,Port Isabel,0,0,0,0,"5,187",1
+Texas,Cities,Portland,0,0,0,0,"15,306",1
+Texas,Cities,Port Neches,0,0,0,0,"13,266",1
+Texas,Cities,Poteet,0,0,0,0,"3,359",1
+Texas,Cities,Poth,0,0,0,0,"1,976",1
+Texas,Cities,Pottsboro,0,0,0,0,"2,202",1
+Texas,Cities,Premont,0,0,0,0,"2,725",1
+Texas,Cities,Presidio,0,0,0,0,"4,460",1
+Texas,Cities,Primera,0,0,0,0,"4,189",1
+Texas,Cities,Princeton,0,0,0,0,"7,175",1
+Texas,Cities,Progreso,0,0,0,0,"5,756",1
+Texas,Cities,Prosper,0,0,0,0,"10,037",1
+Texas,Cities,Queen City,0,0,0,0,"1,494",1
+Texas,Cities,Quitman,0,0,0,0,"1,845",1
+Texas,Cities,Ralls,0,0,0,0,"1,984",1
+Texas,Cities,Rancho Viejo,0,0,0,0,"2,523",1
+Texas,Cities,Ranger,0,0,0,0,"2,510",1
+Texas,Cities,Ransom Canyon,0,0,0,0,"1,134",1
+Texas,Cities,Raymondville,0,0,0,0,"11,428",1
+Texas,Cities,Red Oak,0,0,0,0,"11,160",1
+Texas,Cities,Refugio,0,0,0,0,"2,900",1
+Texas,Cities,Reno,0,0,0,0,"3,236",1
+Texas,Cities,Richardson,0,0,0,0,"103,266",1
+Texas,Cities,Richland Hills,0,0,0,0,"8,095",1
+Texas,Cities,Richmond,0,0,0,0,"12,248",1
+Texas,Cities,Riesel,0,0,0,0,"1,039",1
+Texas,Cities,Rio Grande City,0,0,0,0,"14,175",1
+Texas,Cities,Rio Hondo,0,0,0,0,"2,480",1
+Texas,Cities,Rising Star,0,0,DNR,DNR,851,1
+Texas,Cities,River Oaks,0,0,0,0,"7,711",1
+Texas,Cities,Roanoke,0,0,0,0,"6,272",1
+Texas,Cities,Robinson,0,0,0,0,"10,840",1
+Texas,Cities,Robstown,0,0,0,0,"11,764",1
+Texas,Cities,Rockdale,0,0,0,0,"5,655",1
+Texas,Cities,Rockport,0,0,0,0,"8,978",1
+Texas,Cities,Rollingwood,0,0,0,0,"1,489",1
+Texas,Cities,Roma,0,0,0,0,"10,034",1
+Texas,Cities,Roman Forest,0,0,0,0,"1,617",1
+Texas,Cities,Roscoe,0,0,0,0,"1,348",1
+Texas,Cities,Rosebud,0,0,0,0,"1,440",1
+Texas,Cities,Rose City,0,0,0,0,515,1
+Texas,Cities,Rosenberg,0,0,0,0,"32,230",1
+Texas,Cities,Runaway Bay,0,0,0,0,"1,321",1
+Texas,Cities,Sabinal,0,0,0,0,"1,729",1
+Texas,Cities,Saginaw,0,0,0,0,"20,561",1
+Texas,Cities,Salado,0,0,0,0,"2,193",1
+Texas,Cities,San Augustine,0,0,0,0,"2,138",1
+Texas,Cities,San Benito,0,0,0,0,"25,099",1
+Texas,Cities,San Diego,0,0,0,0,"4,528",1
+Texas,Cities,San Felipe,0,0,DNR,DNR,764,1
+Texas,Cities,Sanger,0,0,0,0,"7,275",1
+Texas,Cities,San Juan,0,0,0,0,"35,394",1
+Texas,Cities,San Marcos,0,0,0,0,"47,384",1
+Texas,Cities,Sansom Park Village,0,0,0,0,"4,861",1
+Texas,Cities,Santa Anna,0,0,0,0,"1,098",1
+Texas,Cities,Santa Fe,0,0,0,0,"12,597",1
+Texas,Cities,Santa Rosa,0,0,0,0,"2,972",1
+Texas,Cities,Schertz,0,0,0,0,"32,964",1
+Texas,Cities,Schulenburg,0,0,0,0,"2,915",1
+Texas,Cities,Seabrook,0,0,0,0,"12,395",1
+Texas,Cities,Seagoville,0,0,0,0,"15,320",1
+Texas,Cities,Seagraves,0,0,0,0,"2,519",1
+Texas,Cities,Sealy,0,0,0,0,"6,161",1
+Texas,Cities,Seguin,0,0,0,0,"26,332",1
+Texas,Cities,Selma,0,0,0,0,"5,774",1
+Texas,Cities,Seminole,0,0,0,0,"6,703",1
+Texas,Cities,Seven Points,0,0,0,0,"1,493",1
+Texas,Cities,Seymour,0,0,0,0,"2,792",1
+Texas,Cities,Shallowater,0,0,0,0,"2,568",1
+Texas,Cities,Shamrock,0,0,0,0,"1,958",1
+Texas,Cities,Shavano Park,0,0,0,0,"3,156",1
+Texas,Cities,Shenandoah,0,0,0,0,"2,242",1
+Texas,Cities,Sherman,0,0,0,0,"39,269",1
+Texas,Cities,Silsbee,0,0,0,0,"6,783",1
+Texas,Cities,Sinton,0,0,0,0,"5,742",1
+Texas,Cities,Slaton,0,0,0,0,"6,328",1
+Texas,Cities,Smithville,0,0,0,0,"3,924",1
+Texas,Cities,Snyder,0,0,0,0,"11,368",1
+Texas,Cities,Somerset,0,0,0,0,"1,696",1
+Texas,Cities,Somerville,0,0,0,0,"1,403",1
+Texas,Cities,Sonora,0,0,0,0,"2,982",1
+Texas,Cities,Sour Lake,0,0,0,0,"1,860",1
+Texas,Cities,South Houston,0,0,0,0,"17,614",1
+Texas,Cities,Southlake,0,0,0,0,"27,596",1
+Texas,Cities,Southmayd,0,0,0,0,"1,012",1
+Texas,Cities,South Padre Island,0,0,0,0,"2,914",1
+Texas,Cities,Southside Place,0,0,0,0,"1,780",1
+Texas,Cities,Spearman,0,0,0,0,"3,396",1
+Texas,Cities,Splendora,0,0,0,0,"1,696",1
+Texas,Cities,Springtown,0,0,0,0,"2,735",1
+Texas,Cities,Spring Valley,0,0,0,0,"3,853",1
+Texas,Cities,Spur,0,0,0,0,"1,316",1
+Texas,Cities,Stafford,0,0,0,0,"18,623",1
+Texas,Cities,Stagecoach,0,0,0,0,564,1
+Texas,Cities,Stamford,0,0,0,0,"3,160",1
+Texas,Cities,Stanton,0,0,0,0,"2,599",1
+Texas,Cities,Stephenville,0,0,0,0,"17,511",1
+Texas,Cities,Stratford,0,0,0,0,"2,050",1
+Texas,Cities,Sugar Land,0,0,0,0,"82,924",1
+Texas,Cities,Sullivan City,0,0,0,0,"4,184",1
+Texas,Cities,Sulphur Springs,0,0,0,0,"15,774",1
+Texas,Cities,Sunray,0,0,0,0,"1,959",1
+Texas,Cities,Sunrise Beach Village,0,0,0,0,719,1
+Texas,Cities,Sunset Valley,0,0,0,0,789,1
+Texas,Cities,Surfside Beach,0,0,0,0,500,1
+Texas,Cities,Sweeny,0,0,0,0,"3,866",1
+Texas,Cities,Taft,0,0,0,0,"3,090",1
+Texas,Cities,Tahoka,0,0,0,0,"2,702",1
+Texas,Cities,Tatum,0,0,0,0,"1,420",1
+Texas,Cities,Taylor,0,0,0,0,"16,240",1
+Texas,Cities,Teague,0,0,0,0,"3,587",1
+Texas,Cities,Terrell,0,0,0,0,"16,353",1
+Texas,Cities,Terrell Hills,0,0,0,0,"5,073",1
+Texas,Cities,Texarkana,0,0,0,0,"37,048",1
+Texas,Cities,Texas City,0,0,0,0,"46,448",1
+Texas,Cities,The Colony,0,0,0,0,"38,217",1
+Texas,Cities,Thorndale,0,0,0,0,"1,353",1
+Texas,Cities,Thrall,0,0,0,0,892,1
+Texas,Cities,Three Rivers,0,0,0,0,"1,861",1
+Texas,Cities,Timpson,0,0,0,0,"1,189",1
+Texas,Cities,Tioga,0,0,0,0,815,1
+Texas,Cities,Tolar,0,0,0,0,698,1
+Texas,Cities,Tom Bean,0,0,0,0,"1,067",1
+Texas,Cities,Tool,0,0,0,0,"2,277",1
+Texas,Cities,Trenton,0,0,0,0,647,1
+Texas,Cities,Trinity,0,0,0,0,"2,753",1
+Texas,Cities,Trophy Club,0,0,0,0,"8,435",1
+Texas,Cities,Troup,0,0,0,0,"1,930",1
+Texas,Cities,Troy,0,0,0,0,"1,696",1
+Texas,Cities,Tulia,0,0,0,0,"5,010",1
+Texas,Cities,Tye,0,0,0,0,"1,272",1
+Texas,Cities,Universal City,0,0,0,0,"19,271",1
+Texas,Cities,Uvalde,0,0,0,0,"16,065",1
+Texas,Cities,Valley Mills,0,0,0,0,"1,228",1
+Texas,Cities,Valley View,0,0,0,0,768,1
+Texas,Cities,Van Alstyne,0,0,0,0,"3,104",1
+Texas,Cities,Venus,0,0,0,0,"3,027",1
+Texas,Cities,Vernon,0,0,0,0,"11,060",1
+Texas,Cities,Vidor,0,0,0,0,"10,974",1
+Texas,Cities,Waco,0,0,0,0,"128,595",1
+Texas,Cities,Waelder,0,0,0,0,"1,087",1
+Texas,Cities,Wake Village,0,0,0,0,"5,587",1
+Texas,Cities,Waller,0,0,0,0,"2,410",1
+Texas,Cities,Wallis,0,0,0,0,"1,281",1
+Texas,Cities,Watauga,0,0,0,0,"24,390",1
+Texas,Cities,Waxahachie,0,0,0,0,"30,676",1
+Texas,Cities,Weatherford,0,0,0,0,"25,940",1
+Texas,Cities,Webster,0,0,0,0,"10,780",1
+Texas,Cities,Weimar,0,0,0,0,"2,177",1
+Texas,Cities,Weslaco,0,0,0,0,"37,271",1
+Texas,Cities,West,0,0,0,0,"2,849",1
+Texas,Cities,West Columbia,0,0,0,0,"4,052",1
+Texas,Cities,West Lake Hills,0,0,0,0,"3,230",1
+Texas,Cities,West Orange,0,0,0,0,"3,523",1
+Texas,Cities,Westover Hills,0,0,0,0,709,1
+Texas,Cities,West Tawakoni,0,0,0,0,"1,608",1
+Texas,Cities,West University Place,0,0,0,0,"15,335",1
+Texas,Cities,Westworth,0,0,0,0,"2,567",1
+Texas,Cities,Wharton,0,0,0,0,"8,971",1
+Texas,Cities,Whitehouse,0,0,0,0,"7,913",1
+Texas,Cities,White Oak,0,0,0,0,"6,642",1
+Texas,Cities,Whitesboro,0,0,0,0,"3,868",1
+Texas,Cities,White Settlement,0,0,0,0,"16,716",1
+Texas,Cities,Whitewright,0,0,0,0,"1,634",1
+Texas,Cities,Whitney,0,0,0,0,"2,137",1
+Texas,Cities,Willis,0,0,0,0,"6,079",1
+Texas,Cities,Willow Park,0,0,0,0,"4,093",1
+Texas,Cities,Wills Point,0,0,0,0,"3,588",1
+Texas,Cities,Wilmer,0,0,0,0,"3,805",1
+Texas,Cities,Windcrest,0,0,0,0,"5,575",1
+Texas,Cities,Wink,0,0,0,0,962,1
+Texas,Cities,Winnsboro,0,0,0,0,"3,494",1
+Texas,Cities,Winters,0,0,0,0,"2,605",1
+Texas,Cities,Wolfforth,0,0,0,0,"3,795",1
+Texas,Cities,Woodbranch,0,0,0,0,"1,348",1
+Texas,Cities,Woodville,0,0,0,0,"2,613",1
+Texas,Cities,Woodway,0,0,0,0,"8,587",1
+Texas,Cities,Wortham,0,0,0,0,"1,083",1
+Texas,Cities,Yoakum,0,0,0,0,"5,935",1
+Texas,Cities,Yorktown,0,0,0,0,"2,142",1
+Texas,Universities and Colleges,Abilene Christian University,0,0,0,0,"4,558",1
+Texas,Universities and Colleges,Alamo Community College District,0,0,0,0,"61,507",1
+Texas,Universities and Colleges,Alvin Community College,0,0,0,0,"5,129",1
+Texas,Universities and Colleges,Amarillo College,0,0,0,0,"11,616",1
+Texas,Universities and Colleges,Austin College,0,0,0,0,"1,353",1
+Texas,Universities and Colleges,Baylor Health Care System4,0,0,0,0,Not Available,1
+Texas,Universities and Colleges,"Baylor University, Waco",0,0,0,0,"15,029",1
+Texas,Universities and Colleges,Blinn College,0,0,0,0,"18,106",1
+Texas,Universities and Colleges,Brookhaven College,0,0,0,0,"13,705",1
+Texas,Universities and Colleges,Central Texas College,0,0,0,0,"26,995",1
+Texas,Universities and Colleges,College of the Mainland,0,0,0,0,"4,168",1
+Texas,Universities and Colleges,El Paso Community College,0,0,0,0,"30,723",1
+Texas,Universities and Colleges,Grayson College,0,0,0,0,"5,207",1
+Texas,Universities and Colleges,Hardin-Simmons University,0,0,0,0,"2,358",1
+Texas,Universities and Colleges,Houston Baptist University,0,0,0,0,"2,432",1
+Texas,Universities and Colleges,Houston Community College,0,0,0,0,"63,015",1
+Texas,Universities and Colleges,"Lamar University, Beaumont",0,0,0,0,"14,020",1
+Texas,Universities and Colleges,Laredo Community College,0,0,0,0,"10,076",1
+Texas,Universities and Colleges,McLennan Community College,0,0,0,0,"10,185",1
+Texas,Universities and Colleges,Midwestern State University,0,0,0,0,"6,181",1
+Texas,Universities and Colleges,Mountain View College,0,0,0,0,"9,431",1
+Texas,Universities and Colleges,North Lake College,0,0,0,0,"11,865",1
+Texas,Universities and Colleges,Paris Junior College,0,0,0,0,"5,936",1
+Texas,Universities and Colleges,Prairie View A&M University,0,0,0,0,"8,425",1
+Texas,Universities and Colleges,Rice University,0,0,0,0,"6,224",1
+Texas,Universities and Colleges,Richland College,0,0,0,0,"20,000",1
+Texas,Universities and Colleges,South Plains College,0,0,0,0,"10,482",1
+Texas,Universities and Colleges,Southwestern University,0,0,0,0,"1,347",1
+Texas,Universities and Colleges,Stephen F. Austin State University,0,0,0,0,"12,903",1
+Texas,Universities and Colleges,St. Mary's University,0,0,0,0,"4,188",1
+Texas,Universities and Colleges,Tarleton State University,0,0,0,0,"11,693",1
+Texas,Universities and Colleges,Texas A&M International University,0,0,0,0,"7,037",1
+Texas,Universities and Colleges,Texas A&M University:,DNR,DNR,DNR,DNR,Not Available,1
+Texas,Universities and Colleges,College Station,0,0,0,0,"50,230",1
+Texas,Universities and Colleges,Corpus Christi,0,0,0,0,"10,162",1
+Texas,Universities and Colleges,Galveston,0,0,0,0,"2,035",1
+Texas,Universities and Colleges,Kingsville,0,0,0,0,"10,290",1
+Texas,Universities and Colleges,San Antonio4,0,0,0,0,Not Available,1
+Texas,Universities and Colleges,Texas Southern University,0,0,0,0,"9,730",1
+Texas,Universities and Colleges,Texas State Technical College:,DNR,DNR,DNR,DNR,Not Available,1
+Texas,Universities and Colleges,Harlingen,0,0,0,0,"5,807",1
+Texas,Universities and Colleges,Marshall,0,0,DNR,DNR,831,1
+Texas,Universities and Colleges,Waco,0,0,0,0,"4,730",1
+Texas,Universities and Colleges,West Texas,0,0,0,0,856,1
+Texas,Universities and Colleges,"Texas State University, San Marcos",0,0,0,0,"34,087",1
+Texas,Universities and Colleges,"Texas Tech University, Lubbock",0,0,0,0,"32,327",1
+Texas,Universities and Colleges,Texas Woman's University,0,0,0,0,"14,718",1
+Texas,Universities and Colleges,Trinity University,0,0,0,0,"2,535",1
+Texas,Universities and Colleges,University of Houston:,DNR,DNR,DNR,DNR,Not Available,1
+Texas,Universities and Colleges,Central Campus,0,0,0,0,"39,820",1
+Texas,Universities and Colleges,Clearlake,0,0,0,0,"8,185",1
+Texas,Universities and Colleges,Downtown Campus,0,0,0,0,"12,918",1
+Texas,Universities and Colleges,University of Mary Hardin-Baylor,0,0,0,0,"3,137",1
+Texas,Universities and Colleges,University of North Texas:,DNR,DNR,DNR,DNR,Not Available,1
+Texas,Universities and Colleges,Denton,0,0,0,0,"37,818",1
+Texas,Universities and Colleges,Health Science Center,0,0,0,0,"1,760",1
+Texas,Universities and Colleges,University of Texas:,DNR,DNR,DNR,DNR,Not Available,1
+Texas,Universities and Colleges,Arlington,0,0,0,0,"33,439",1
+Texas,Universities and Colleges,Brownsville,0,0,0,0,"14,918",1
+Texas,Universities and Colleges,Dallas,0,0,0,0,"18,864",1
+Texas,Universities and Colleges,El Paso,0,0,0,0,"22,640",1
+Texas,Universities and Colleges,"Health Science Center, San Antonio",0,0,0,0,"3,234",1
+Texas,Universities and Colleges,"Health Science Center, Tyler4",0,0,0,0,Not Available,1
+Texas,Universities and Colleges,Houston,0,0,0,0,"4,916",1
+Texas,Universities and Colleges,Medical Branch,0,0,0,0,"2,825",1
+Texas,Universities and Colleges,Pan American,0,0,0,0,"19,034",1
+Texas,Universities and Colleges,Permian Basin,0,0,0,0,"3,831",1
+Texas,Universities and Colleges,San Antonio,0,0,0,0,"30,968",1
+Texas,Universities and Colleges,Southwestern Medical School,0,0,0,0,"2,487",1
+Texas,Universities and Colleges,Tyler,0,0,0,0,"6,696",1
+Texas,Universities and Colleges,West Texas A&M University,0,0,0,0,"7,886",1
+Texas,Metropolitan Counties,Aransas,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Archer,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Armstrong,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Atascosa,0,DNR,0,0,Not Available,1
+Texas,Metropolitan Counties,Austin,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Bandera,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Bastrop,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Bell,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Bowie,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Brazoria,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Burleson,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Caldwell,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Callahan,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Cameron,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Carson,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Chambers,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Clay,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Comal,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Coryell,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Crosby,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Dallas,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Denton,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Ector,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Ellis,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,El Paso,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Falls,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Galveston,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Grayson,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Gregg,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Guadalupe,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Hardin,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Harris,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Hays,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Hidalgo,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Hood,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Hudspeth,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Irion,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Jefferson,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Johnson,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Jones,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Kendall,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Lampasas,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Liberty,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Lynn,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Martin,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Medina,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Midland,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Montgomery,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Newton,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Nueces,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Orange,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Parker,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Potter,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Robertson,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,San Patricio,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Smith,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Somervell,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Tarrant,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Taylor,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Tom Green,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Travis,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Upshur,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Waller,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Webb,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Wichita,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Wilson,0,0,0,0,Not Available,1
+Texas,Metropolitan Counties,Wise,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Anderson,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Andrews,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Angelina,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Bailey,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Baylor,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Bee,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Blanco,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Borden,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Bosque,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Brewster,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Briscoe,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Brooks,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Brown,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Burnet,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Calhoun,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Camp,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Cass,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Castro,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Cherokee,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Childress,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Cochran,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Coke,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Coleman,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Collingsworth,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Colorado,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Comanche,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Concho,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Cottle,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Crane,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Culberson,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Dallam,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Dawson,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Deaf Smith,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Delta,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Dickens,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Dimmit,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Donley,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Duval,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Eastland,0,0,DNR,DNR,Not Available,1
+Texas,Nonmetropolitan Counties,Edwards,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Erath,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Fannin,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Fayette,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Fisher,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Floyd,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Foard,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Franklin,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Freestone,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Frio,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Gaines,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Garza,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Gillespie,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Glasscock,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Gonzales,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Gray,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Grimes,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hale,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hall,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hamilton,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hansford,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hardeman,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Harrison,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hartley,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Haskell,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hemphill,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Henderson,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hill,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hockley,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hopkins,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Houston,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Howard,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Hutchinson,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Jack,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Jasper,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Jeff Davis,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Jim Hogg,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Jim Wells,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Karnes,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Kenedy,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Kent,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Kerr,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Kimble,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,King,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Kinney,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Kleberg,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Knox,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Lamar,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Lamb,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,La Salle,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Lee,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Leon,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Limestone,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Lipscomb,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Live Oak,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Llano,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Loving,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Madison,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Marion,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Mason,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Matagorda,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Maverick,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,McCulloch,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,McMullen,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Menard,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Milam,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Mills,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Mitchell,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Montague,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Moore,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Morris,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Motley,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Nacogdoches,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Navarro,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Nolan,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Ochiltree,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Palo Pinto,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Panola,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Parmer,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Pecos,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Presidio,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Rains,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Reagan,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Real,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Red River,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Reeves,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Refugio,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Roberts,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Runnels,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Sabine,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,San Augustine,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,San Jacinto,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,San Saba,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Schleicher,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Scurry,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Shackelford,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Shelby,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Sherman,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Starr,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Stephens,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Sterling,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Stonewall,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Sutton,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Swisher,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Terrell,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Terry,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Throckmorton,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Titus,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Trinity,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Upton,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Uvalde,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Val Verde,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Van Zandt,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Walker,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Ward,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Washington,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Wheeler,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Wilbarger,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Willacy,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Winkler,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Wood,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Yoakum,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Young,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Zapata,0,0,0,0,Not Available,1
+Texas,Nonmetropolitan Counties,Zavala,0,0,0,0,Not Available,1
+Texas,Other Agencies,Amarillo International Airport,0,0,0,0,Not Available,1
+Texas,Other Agencies,Department of Public Safety,0,0,0,0,Not Available,1
+Texas,Other Agencies,Hospital District:,DNR,DNR,DNR,DNR,Not Available,1
+Texas,Other Agencies,Dallas County,0,0,0,0,Not Available,1
+Texas,Other Agencies,Tarrant County,0,0,0,0,Not Available,1
+Texas,Other Agencies,Houston Metropolitan Transit Authority,0,0,0,0,Not Available,1
+Texas,Other Agencies,Independent School District:,DNR,DNR,DNR,DNR,Not Available,1
+Texas,Other Agencies,Aldine,0,0,0,0,Not Available,1
+Texas,Other Agencies,Alvin,0,0,0,0,Not Available,1
+Texas,Other Agencies,Angleton,0,0,0,0,Not Available,1
+Texas,Other Agencies,Austin,0,0,0,0,Not Available,1
+Texas,Other Agencies,Barbers Hill,0,0,0,0,Not Available,1
+Texas,Other Agencies,Bay City,0,0,0,0,Not Available,1
+Texas,Other Agencies,Cedar Hill,0,0,0,0,Not Available,1
+Texas,Other Agencies,Columbia-Brazoria,0,0,0,0,Not Available,1
+Texas,Other Agencies,Conroe,0,0,0,0,Not Available,1
+Texas,Other Agencies,Ector County,0,0,0,0,Not Available,1
+Texas,Other Agencies,Edinburg,0,0,0,0,Not Available,1
+Texas,Other Agencies,El Paso,0,0,0,0,Not Available,1
+Texas,Other Agencies,Floresville,0,0,0,0,Not Available,1
+Texas,Other Agencies,Fort Bend,0,0,0,0,Not Available,1
+Texas,Other Agencies,Galveston,0,0,0,0,Not Available,1
+Texas,Other Agencies,Hallsville,0,0,0,0,Not Available,1
+Texas,Other Agencies,Humble,0,0,0,0,Not Available,1
+Texas,Other Agencies,Judson,0,0,0,0,Not Available,1
+Texas,Other Agencies,Katy,0,0,0,0,Not Available,1
+Texas,Other Agencies,Killeen,0,0,0,0,Not Available,1
+Texas,Other Agencies,Klein,0,0,0,0,Not Available,1
+Texas,Other Agencies,Lyford,0,0,0,0,Not Available,1
+Texas,Other Agencies,Mexia,0,0,0,0,Not Available,1
+Texas,Other Agencies,Midland,0,0,0,0,Not Available,1
+Texas,Other Agencies,North East,0,0,0,0,Not Available,1
+Texas,Other Agencies,Pasadena,0,0,0,0,Not Available,1
+Texas,Other Agencies,Pflugerville,0,0,0,0,Not Available,1
+Texas,Other Agencies,Raymondville,0,0,0,0,Not Available,1
+Texas,Other Agencies,Rio Grande City,0,0,0,0,Not Available,1
+Texas,Other Agencies,Sealy,0,0,0,0,Not Available,1
+Texas,Other Agencies,Socorro,0,0,0,0,Not Available,1
+Texas,Other Agencies,Spring,0,0,0,0,Not Available,1
+Texas,Other Agencies,Spring Branch,0,0,0,0,Not Available,1
+Texas,Other Agencies,Taft,0,0,0,0,Not Available,1
+Texas,Other Agencies,United,0,0,0,0,Not Available,1
+Texas,Other Agencies,Port of Brownsville,0,0,0,0,Not Available,1
+Texas,Other Agencies,Port of Houston Authorty,0,0,0,0,Not Available,1
