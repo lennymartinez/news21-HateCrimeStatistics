@@ -1,0 +1,190 @@
+Sampling the police departments
+
+We want to create a sample of 100 police departments. There's a total of 8365 that have submitted something to the FBI for one of the 28 quarters between the start 2010 and the end of 2016.
+We want to ask cities that have reported 0s consecutively or that have dropped off the reporting to the FBI. We know that reporting is voluntary, and that the FBI does not audit the reports they receive. The FBI also does not have a standard way of receiving reports.
+
+Let's start with sampling the cities that report 0s consecutively. There are 2592 cities that have reported 0 to the FBI for every quarter in the period of interest (2010–2016). I've organized the list by their most recently reported population, and found that there are 187 cities that have don't have a population in the system in the period of interest. Let's grab 10 of those people. 
+
+Using a python terminal, I've run the following code:
+
+`import random
+a = random.sample(range(2405, 2592), 10)
+print(a)`
+
+And got these ten cities: [2463, 2522, 2413, 2520, 2561, 2484, 2551, 2481, 2591, 2530]
+
+Now for the rest I want to get 40 from this list but separated by population so we get small, medium, and large cities. 
+
+For the rest of the cities we have a population range of 5–259325.
+
+For small cities, we'll go with anything under 5000. Running the code from above but with new bounds:
+
+`import random
+a = random.sample(range(1, 1493), 10)
+print(a)`
+
+That gives us these 10 cities: [297, 817, 224, 1339, 1237, 172, 680, 383, 906, 1032]
+
+For medium, let's go with cities that have at least 5000 and less than 50000. And for large we'll go with cities that have over 50000. Let's sample 15 of each
+
+For large:
+`import random
+a = random.sample(range(2365, 2404), 15)
+print(a)`
+
+gives us: [2376, 2394, 2382, 2379, 2391, 2397, 2368, 2365, 2402, 2398, 2377, 2366, 2375, 2388, 2396]
+
+For medium: 
+`import random
+a = random.sample(range(1494, 2364), 15)
+print(a)`
+
+give us: [2076, 1787, 1691, 2137, 2354, 1620, 1955, 1555, 1794, 1587, 1956, 2044, 1864, 1517, 2179]
+
+So the 50 places we'll sample from cities that have reported zeroes are: 
+[2463, 2522, 2413, 2520, 2561, 2484, 2551, 2481, 2591, 2530]
+[297, 817, 224, 1339, 1237, 172, 680, 383, 906, 1032]
+[2376, 2394, 2382, 2379, 2391, 2397, 2368, 2365, 2402, 2398, 2377, 2366, 2375, 2388, 2396]
+[2076, 1787, 1691, 2137, 2354, 1620, 1955, 1555, 1794, 1587, 1956, 2044, 1864, 1517, 2179]
+
+Sorted, the list is: 
+0172
+0224
+0297
+0383
+0680
+0817
+0906
+1032
+1237
+1339
+1517
+1555
+1587
+1620
+1691
+1787
+1794
+1864
+1955
+1956
+2044
+2076
+2137
+2179
+2354
+2365
+2366
+2368
+2375
+2376
+2377
+2379
+2382
+2388
+2391
+2394
+2396
+2397
+2398
+2402
+2413
+2463
+2481
+2484
+2520
+2522
+2530
+2551
+2561
+2591
+
+
+
+For the places that do not report frequently, I first picked from the list of 8365 cities those that had not reported to the FBI for 21 or more quarters. These are cities that have reported at some point and for whatever reason dropped off the map or haven't really reported. I can't really go into why they dropped off, but that's the work that's going to *maybe* get done.
+
+So we have 600 cities and we will sample another 50 cities. I sorted by population and assigned IDs from 1 to 600. Population ranges from 99 to 78013. 
+I sampled 50 randomly, and got these: 
+[215, 547, 337, 433, 45, 285, 534, 2, 483, 20, 220, 179, 53, 315, 57, 515, 265, 383, 496, 110, 271, 168, 426, 339, 253, 439, 243, 189, 576, 400, 276, 293, 522, 67, 561, 541, 544, 519, 584, 349, 106, 204, 109, 507, 512, 474, 454, 73, 323, 300]
+
+But let's start with grouping: 
+First let's sample from the cities that have a population greater than 10000.
+
+`import random
+a = random.sample(range(529, 600), 10)
+print(a)`
+
+That sampling gives us: [533, 552, 572, 594, 573, 589, 536, 570, 547, 569]
+
+Let's draw a sample from the cities that have populations less than 10000. We need 40 more cities. Let's draw 20 cities from cities with populations less than 5,000 and cities with populations between 5000 and 9999 inclusive.
+
+For cities with populations less than 5000:
+`import random
+a = random.sample(range(1, 468), 20)
+print(a)`
+
+we get: [438, 9, 151, 73, 354, 214, 194, 130, 377, 143, 284, 325, 191, 222, 18, 393, 28, 441, 260, 256]
+
+For cities with populations greater than or equal to 5000 and less 10000: 
+`import random
+a = random.sample(range(469,528), 20)
+print(a)`
+we get: [520, 491, 477, 519, 511, 475, 478, 469, 501, 500, 513, 504, 479, 495, 497, 525, 472, 492, 489, 509]
+
+
+So we have a total of: 
+[438, 9, 151, 73, 354, 214, 194, 130, 377, 143, 284, 325, 191, 222, 18, 393, 28, 441, 260, 256]
+[520, 491, 477, 519, 511, 475, 478, 469, 501, 500, 513, 504, 479, 495, 497, 525, 472, 492, 489, 509]
+[533, 552, 572, 594, 573, 589, 536, 570, 547, 569]
+
+Sorted: 
+009
+018
+028
+073
+130
+143
+151
+191
+194
+214
+222
+256
+260
+284
+325
+354
+377
+393
+438
+441
+469
+472
+475
+477
+478
+479
+489
+491
+492
+495
+497
+500
+501
+504
+509
+511
+513
+519
+520
+525
+533
+536
+547
+552
+569
+570
+572
+573
+589
+594
