@@ -1,0 +1,2017 @@
+﻿state,agencyType,agencyName,quarter1,quarter2,quarter3,quarter4,population
+Alabama,Total,,,,,,
+,Cities,,,,,,
+,,Birmingham,3,2,2,2,"212,549"
+,,Florence,0,0,1,0,"40,160"
+,,Foley,0,1,0,0,"17,639"
+,,Hoover,1,0,1,1,"85,601"
+Alaska,Total,,,,,,
+,Cities,,,,,,
+,,Anchorage,1,0,2,1,"299,097"
+,,Juneau,1,1,3,1,"32,964"
+,,Wasilla,1,0,0,0,"9,585"
+Arizona,Total, ,,,,,
+,Cities,,,,,,
+,,Apache Junction,1,0,1,0,"38,506"
+,,Chandler,1,0,1,2,"265,922"
+,,Gilbert,1,0,0,0,"255,899"
+,,Glendale,0,1,0,0,"242,938"
+,,Mesa,3,0,0,2,"478,277"
+,,Phoenix2,34,39,45,56,"1,586,611"
+,,Prescott Valley,1,1,,,"42,900"
+,,Sahuarita,0,0,0,1,"25,792"
+,,Scottsdale,0,,2,2,"240,885"
+,,St. Johns,1,0,0,0,"3,482"
+,,Tempe,1,0,0,0,"178,654"
+,,Tucson,2,1,1,1,"533,663"
+,,Williams,0,1,0,0,"3,140"
+,,Yuma,1,1,2,0,"94,696"
+,Universities and Colleges,,,,,,
+,,Arizona State University: Main Campus,0,0,0,1,"90,906"
+,,University of Arizona,0,2,,,"42,595"
+,Metropolitan Counties,,,,,,
+,,Maricopa,,0,3,0,
+,,Pima,0,1,0,,
+Arkansas,Total,,,,,,
+,Cities,,,,,,
+,,Fort Smith,2,0,0,2,"88,573"
+,,Jacksonville,0,0,0,2,"28,684"
+,,Little Rock,0,1,0,0,"198,800"
+,Metropolitan Counties,,,,,,
+,,Sebastian,0,1,0,2,
+,Nonmetropolitan Counties,,,,,,
+,,Sevier,0,0,2,0,
+California,Total,,,,,,
+,Cities,,,,,,
+,,Adelanto,0,1,1,0,"33,479"
+,,Alameda,0,1,0,2,"79,597"
+,,Alhambra,0,0,0,1,"86,035"
+,,Anaheim,1,0,0,0,"353,504"
+,,Antioch,0,0,2,0,"112,090"
+,,Arcata,0,0,1,1,"17,913"
+,,Azusa,2,0,0,0,"50,393"
+,,Bakersfield,0,3,2,3,"378,788"
+,,Baldwin Park,1,0,0,0,"77,400"
+,,Bellflower,1,0,0,0,"78,806"
+,,Berkeley,5,3,2,3,"122,651"
+,,Beverly Hills,0,0,1,0,"35,018"
+,,Brea,0,1,0,0,"42,465"
+,,Buena Park,0,0,2,1,"83,768"
+,,Burbank,0,0,1,0,"105,720"
+,,Calabasas,1,0,2,0,"24,492"
+,,Camarillo,0,1,0,0,"68,072"
+,,Campbell,0,1,0,0,"41,457"
+,,Capitola,0,0,0,1,"10,241"
+,,Central Marin,0,1,1,0,"35,265"
+,,Cerritos,0,0,1,0,"50,159"
+,,Chico,0,1,0,2,"91,122"
+,,Chino,0,1,1,1,"87,081"
+,,Chino Hills,1,0,0,0,"78,990"
+,,Chula Vista,1,1,3,0,"270,175"
+,,Citrus Heights,1,0,0,1,"87,811"
+,,Claremont,1,0,1,7,"36,553"
+,,Clayton,0,2,0,0,"12,057"
+,,Clearlake,0,0,0,1,"15,165"
+,,Clovis,0,0,1,0,"105,865"
+,,Coalinga,1,0,0,0,"16,282"
+,,Compton,0,0,1,0,"98,861"
+,,Concord,1,0,0,2,"129,903"
+,,Culver City,0,1,0,0,"39,880"
+,,Cupertino,0,0,3,0,"60,948"
+,,Danville,1,0,0,0,"44,897"
+,,Davis,2,0,1,5,"68,087"
+,,Desert Hot Springs,0,1,0,0,"28,573"
+,,Downey,0,1,0,0,"114,704"
+,,East Palo Alto,0,0,0,1,"29,957"
+,,Eastvale,0,1,0,0,"60,115"
+,,Elk Grove,1,0,0,0,"169,742"
+,,El Segundo,1,0,1,0,"17,113"
+,,Encinitas,0,0,0,1,"63,597"
+,,Escondido,0,1,0,0,"152,897"
+,,Fairfield,2,0,1,0,"114,521"
+,,Farmersville,0,0,1,0,"10,812"
+,,Folsom,0,1,0,0,"77,245"
+,,Fort Bragg,0,2,1,0,"7,292"
+,,Fremont,1,0,0,0,"235,881"
+,,Fresno,3,3,4,3,"524,796"
+,,Fullerton,1,0,0,1,"141,968"
+,,Garden Grove,1,0,0,1,"176,230"
+,,Glendale,0,1,0,1,"202,903"
+,,Hanford,0,1,0,0,"55,973"
+,,Hawaiian Gardens,0,1,0,0,"14,654"
+,,Hawthorne,0,0,0,1,"89,299"
+,,Hayward,0,0,1,1,"161,122"
+,,Highland,0,0,1,0,"55,184"
+,,Hollister,0,0,1,0,"37,953"
+,,Huntington Beach,1,1,3,1,"204,071"
+,,Huntington Park,1,0,0,0,"59,692"
+,,Irvine,1,0,0,1,"266,663"
+,,Jurupa Valley,0,1,0,0,"101,316"
+,,Kingsburg,1,0,0,0,"11,905"
+,,Laguna Beach,0,0,0,1,"23,486"
+,,La Habra,0,1,0,0,"62,483"
+,,Lake Elsinore,1,1,0,0,"63,907"
+,,Lakewood,2,0,1,1,"81,921"
+,,La Mesa,0,0,1,2,"60,681"
+,,La Mirada,0,2,0,0,"49,715"
+,,Lancaster,1,4,1,2,"161,963"
+,,La Puente,1,0,0,0,"40,928"
+,,Loma Linda,0,1,0,0,"24,190"
+,,Long Beach,2,0,3,3,"476,476"
+,,Los Angeles,55,56,52,64,"4,007,905"
+,,Malibu,1,0,0,1,"13,030"
+,,Mammoth Lakes,0,1,0,0,"7,891"
+,,Manteca,1,1,3,0,"77,104"
+,,Merced,0,0,1,1,"83,106"
+,,Modesto,2,4,2,3,"212,880"
+,,Montclair,0,1,0,1,"39,085"
+,,Monterey,0,0,0,1,"28,506"
+,,Mountain View,1,0,0,0,"81,726"
+,,Murrieta,0,0,0,1,"111,043"
+,,Napa,0,0,0,1,"81,115"
+,,National City,1,0,0,0,"61,550"
+,,Newark,0,1,0,0,"45,893"
+,,Norco,1,0,0,1,"26,132"
+,,Norwalk,0,0,1,0,"107,453"
+,,Novato,0,0,0,2,"56,263"
+,,Oakland,3,2,2,2,"424,998"
+,,Oceanside,1,3,1,2,"177,340"
+,,Orange,0,1,0,0,"141,841"
+,,Oxnard,2,1,1,2,"209,048"
+,,Pacific Grove,0,1,0,0,"15,795"
+,,Palmdale,5,0,2,1,"159,441"
+,,Palm Springs,1,2,0,0,"47,909"
+,,Palo Alto,1,2,1,0,"67,317"
+,,Paradise,0,1,0,0,"26,532"
+,,Parlier,0,1,0,0,"15,262"
+,,Pasadena,1,0,1,0,"143,288"
+,,Perris,0,0,0,1,"76,260"
+,,Petaluma,1,0,0,0,"60,933"
+,,Placentia,0,1,0,0,"52,800"
+,,Pomona,2,1,2,0,"154,109"
+,,Poway,0,0,0,1,"50,606"
+,,Rancho Cucamonga,0,2,1,1,"177,089"
+,,Rancho Palos Verdes,0,0,1,0,"42,947"
+,,Redding,0,1,7,2,"91,918"
+,,Redlands,1,2,3,0,"71,485"
+,,Redwood City,0,0,1,3,"87,046"
+,,Rialto,0,0,0,1,"103,893"
+,,Richmond,0,1,1,2,"110,868"
+,,Ridgecrest,0,1,0,0,"29,003"
+,,Riverside,2,2,2,2,"325,896"
+,,Roseville,0,1,4,6,"132,566"
+,,Sacramento,4,1,1,0,"495,471"
+,,Salinas,0,1,0,0,"158,729"
+,,San Bernardino2,0,1,4,1,"217,303"
+,,San Bruno,0,0,1,1,"43,613"
+,,San Diego,7,10,6,12,"1,413,414"
+,,San Fernando,1,0,0,1,"25,194"
+,,San Francisco2,9,12,10,5,"871,155"
+,,San Jose,5,1,4,9,"1,041,844"
+,,San Leandro,4,5,5,8,"91,870"
+,,San Luis Obispo,2,0,0,0,"47,774"
+,,San Marcos,1,0,0,1,"94,840"
+,,San Mateo,0,1,0,1,"104,802"
+,,San Rafael,0,0,0,1,"59,435"
+,,San Ramon,0,0,0,4,"76,901"
+,,Santa Ana,3,2,0,1,"337,419"
+,,Santa Clarita,3,1,2,4,"219,611"
+,,Santa Cruz,4,1,2,5,"64,969"
+,,Santa Monica,0,2,1,0,"93,921"
+,,Santa Rosa,1,0,0,0,"176,383"
+,,Santee,0,0,0,1,"58,651"
+,,Sebastopol,0,1,0,0,"7,734"
+,,Simi Valley,0,1,0,1,"127,252"
+,,Solvang,0,0,1,0,"5,844"
+,,Sonoma,1,0,0,0,"11,113"
+,,Sonora,0,0,0,1,"4,802"
+,,South Gate,0,0,1,1,"96,791"
+,,South San Francisco,0,0,0,4,"67,995"
+,,Stockton,0,0,2,1,"308,348"
+,,Suisun City,0,1,0,0,"29,768"
+,,Sunnyvale,0,0,1,0,"154,108"
+,,Thousand Oaks,0,1,0,0,"129,853"
+,,Torrance,0,0,1,0,"149,078"
+,,Turlock,3,0,0,0,"73,031"
+,,Twentynine Palms,0,0,0,1,"26,213"
+,,Ukiah,0,1,0,0,"15,897"
+,,Union City,0,1,0,0,"75,501"
+,,Vacaville,1,0,0,0,"97,671"
+,,Vallejo,0,0,1,1,"122,293"
+,,Ventura,0,1,1,1,"110,228"
+,,Victorville,0,1,0,1,"123,438"
+,,Walnut Creek,0,1,1,1,"69,860"
+,,Watsonville,1,0,0,0,"54,110"
+,,West Covina,1,0,0,0,"108,950"
+,,West Hollywood,0,2,2,3,"36,594"
+,,Westminster,3,0,1,0,"92,582"
+,,Wildomar,0,0,0,1,"36,310"
+,,Windsor,1,0,0,1,"27,594"
+,Universities and Colleges,,,,,,
+,,California State Polytechnic University: San Luis Obispo,1,0,0,0,"20,944"
+,,California State University:,,,,,
+,,Dominguez Hills,2,0,0,2,"14,635"
+,,Fullerton,0,1,0,0,"38,948"
+,,Long Beach,0,0,2,0,"37,446"
+,,San Jose,0,0,1,4,"32,773"
+,,Stanislaus,1,0,0,0,"9,282"
+,,Foothill-De Anza College,1,1,0,0,"37,960"
+,,Humboldt State University,0,2,1,0,"8,790"
+,,Riverside Community College,0,0,0,1,"37,594"
+,,San Diego State University,1,1,0,1,"34,254"
+,,University of California:,,,,,
+,,Berkeley,1,1,0,2,"38,189"
+,,Davis,1,0,0,0,"35,186"
+,,Los Angeles,2,0,1,1,"41,908"
+,,Riverside,1,0,0,0,"21,385"
+,,San Diego,0,2,0,1,"32,906"
+,,San Francisco,0,0,0,1,"3,107"
+,,Santa Cruz,0,0,0,1,"17,868"
+,,Ventura County Community College District,0,0,0,1,"34,022"
+,Metropolitan Counties,,,,,,
+,,Butte,0,0,1,0,
+,,El Dorado,1,0,0,0,
+,,Fresno,0,1,0,0,
+,,Los Angeles,5,4,6,11,
+,,Orange,2,0,0,0,
+,,Riverside,0,1,3,1,
+,,Sacramento,5,3,1,1,
+,,San Bernardino,4,3,0,0,
+,,San Diego,1,7,8,2,
+,,San Mateo,1,1,1,0,
+,,Santa Barbara,0,0,0,1,
+,,Santa Clara,1,0,1,0,
+,,Shasta,1,1,0,0,
+,,Solano,0,0,1,0,
+,,Sonoma,0,1,3,0,
+,,Sutter,0,0,0,1,
+,,Ventura,0,1,1,0,
+,,Yuba,0,0,0,2,
+,Nonmetropolitan Counties,,,,,,
+,,Amador,0,0,1,0,
+,,Humboldt,0,0,0,1,
+,,Lake,0,1,0,0,
+,,Mendocino,1,0,0,1,
+,,Tuolumne,0,0,1,0,
+,Other Agencies,,,,,,
+,,California State Fair,0,0,1,0,
+,,East Bay Regional Parks: Alameda County,0,0,0,1,
+,,Fontana Unified School District,0,0,0,1,
+,,Los Angeles Transportation Services Bureau2,7,2,3,3,
+,,Port of San Diego Harbor,2,0,1,0,
+,,San Francisco Bay Area Rapid Transit: ,,,,,
+,,Alameda County,1,0,0,1,
+,,Contra Costa County,1,0,0,1,
+,,Santa Clara Transit District,0,0,1,1,
+Colorado,Total,,,,,,
+,Cities,,,,,,
+,,Aspen,0,0,0,1,"6,926"
+,,Aurora,1,3,6,8,"366,477"
+,,Boulder,1,1,2,0,"109,189"
+,,Breckenridge,0,0,1,0,"4,971"
+,,Carbondale,0,1,0,0,"6,728"
+,,Centennial,0,0,2,0,"111,479"
+,,Colorado Springs,0,2,1,3,"464,113"
+,,Delta,1,0,0,0,"8,778"
+,,Denver,4,2,1,12,"699,259"
+,,Dillon,0,0,0,1,972
+,,Erie,0,0,1,0,"22,115"
+,,Florence,0,0,1,0,"3,861"
+,,Fort Collins,2,0,0,0,"164,670"
+,,Fort Lupton,0,1,0,0,"7,903"
+,,Fountain,0,0,0,1,"28,115"
+,,Golden,0,0,1,0,"20,616"
+,,Grand Junction,0,0,3,0,"60,628"
+,,Longmont,0,0,1,2,"93,268"
+,,Loveland,0,0,1,0,"76,936"
+,,Nederland,0,0,1,0,"1,534"
+,,Pueblo,0,0,0,1,"109,927"
+,,Sterling,0,0,0,1,"14,087"
+,Universities and Colleges,,,,,,
+,,Auraria Higher Education Center 3,0,1,0,0,
+,,University of Colorado: Boulder,2,0,2,2,"33,056"
+,,University of Northern Colorado,0,0,1,0,"12,216"
+,Metropolitan Counties,,,,,,
+,,Adams,0,0,1,0,
+,,Arapahoe,0,3,1,1,
+,,Boulder,0,0,0,2,
+,,Douglas,0,0,1,1,
+,,El Paso,1,0,0,0,
+,,Larimer2,0,2,1,5,
+,,Mesa,1,0,0,0,
+,,Teller,0,1,0,0,
+,Nonmetropolitan Counties,,,,,,
+,,Custer,0,0,1,0,
+,,Garfield,1,0,0,0,
+,,San Juan,0,0,1,0,
+,,Summit,0,0,0,1,
+Connecticut,Total,,,,,,
+,Cities,,,,,,
+,,Bloomfield,1,1,0,0,"20,801"
+,,Bridgeport,0,4,2,0,"148,180"
+,,Bristol,0,0,1,1,"60,445"
+,,Clinton,0,0,1,0,"13,008"
+,,Danbury,1,1,1,6,"85,335"
+,,Darien,0,0,1,0,"21,995"
+,,Greenwich,0,0,1,0,"62,970"
+,,Groton,0,0,0,1,"9,189"
+,,Groton Town,0,0,1,0,"29,910"
+,,Guilford,1,0,0,0,"22,343"
+,,Hartford,2,2,1,1,"123,736"
+,,Ledyard,0,0,0,1,"15,021"
+,,Madison,0,0,0,1,"18,212"
+,,Manchester,1,2,1,3,"57,957"
+,,Middletown,0,2,0,0,"46,580"
+,,Naugatuck,0,1,0,0,"31,469"
+,,New Haven,5,1,0,3,"130,425"
+,,Newington,1,0,0,1,"30,610"
+,,New London,2,0,0,0,"27,092"
+,,Norwalk,1,5,0,1,"88,989"
+,,Norwich,1,0,0,0,"39,771"
+,,Old Saybrook,0,0,0,1,"10,145"
+,,Ridgefield,0,0,0,1,"25,358"
+,,Rocky Hill,0,0,0,1,"20,085"
+,,Shelton,0,0,0,1,"41,638"
+,,Southington,0,1,0,0,"43,948"
+,,Stamford,4,2,1,1,"130,116"
+,,Stratford,0,1,0,0,"52,841"
+,,Torrington,0,1,1,1,"34,626"
+,,Trumbull,1,0,0,0,"36,741"
+,,Vernon,0,0,0,1,"28,915"
+,,Wallingford,0,0,1,0,"44,840"
+,,Waterbury,2,3,0,1,"108,491"
+,,Waterford,0,0,1,0,"19,236"
+,,West Hartford,0,0,0,2,"62,979"
+,,Westport,0,2,0,0,"28,198"
+,,Wethersfield,1,0,0,0,"26,306"
+,,Willimantic,0,0,1,0,"17,766"
+,,Woodbridge,0,0,1,0,"8,864"
+,Universities and Colleges,,,,,,
+,,Southern Connecticut State University,1,0,1,0,"10,473"
+,State Police Agencies,,,,,,
+,,Connecticut State Police,0,1,3,1,
+,Tribal Agencies,,,,,,
+,,Mashantucket Pequot Tribal,0,0,0,1,
+Delaware,Total,,,,,,
+,Cities,,,,,,
+,,Camden,0,0,0,1,"3,512"
+,,Newark,0,0,0,1,"34,297"
+,,Rehoboth Beach,1,0,0,0,"1,485"
+,,Smyrna,0,1,0,0,"11,573"
+,Metropolitan Counties,,,,,,
+,,New Castle County Police Department,1,0,2,1,
+,State Police Agencies,,,,,,
+,,State Police:,,,,,
+,,Kent County,0,0,1,0,
+,,New Castle County,1,2,0,1,
+,Other Agencies,,,,,,
+,,Park Rangers,0,0,0,2,
+District of Columbia,Total,,,,,,
+,Cities,,,,,,
+,,Washington,20,35,25,24,"681,170"
+,Other Agencies,,,,,,
+,,Metro Transit Police,0,4,3,4,
+Florida,Total,,,,,,
+,Cities,,,,,,
+,,Arcadia,,,1,,"7,893"
+,,Cape Coral,,,,1,"179,631"
+,,Casselberry,,,1,,"27,220"
+,,Cocoa,1,,,,"17,825"
+,,Coral Gables,1,,,,"51,980"
+,,Davie,2,3,,,"102,692"
+,,Fort Myers,1,,1,1,"76,579"
+,,Gainesville,1,,,3,"131,242"
+,,Homestead,2,,,,"67,700"
+,,Largo,,1,,1,"81,402"
+,,Miami Beach,6,4,4,3,"93,165"
+,,New Port Richey,,2,,,"16,038"
+,,North Miami,,1,,,"62,974"
+,,North Miami Beach,,2,,,"44,442"
+,,Oakland Park,,1,,,"44,903"
+,,Orlando,,2,1,2,"277,719"
+,,Palm Bay,,2,1,1,"108,823"
+,,Pinellas Park,,,1,,"52,113"
+,,Southwest Ranches,1,,1,,"7,953"
+,,Sunrise,,1,,,"94,400"
+,,Tamarac,1,,,,"65,516"
+,,Tampa,,,2,1,"375,904"
+,,Temple Terrace,,,,1,"25,972"
+,,Titusville,1,,,,"45,723"
+,,West Palm Beach,,,1,,"108,074"
+,,West Park,1,,,,"15,285"
+,Universities and Colleges,,,,,,
+,,University of Florida,,,1,,"50,645"
+,Metropolitan Counties,,,,,,
+,,Brevard,,1,1,1,
+,,Charlotte,1,,,,
+,,Clay,1,,,1,
+,,Escambia,1,1,,,
+,,Hillsborough,,,1,,
+,,Lake,1,,,,
+,,Lee,2,,,,
+,,Miami-Dade,,1,,,
+,,Orange,2,,,1,
+,,Osceola,1,,,,
+,,Palm Beach,,,,1,
+,,Pasco,,,,1,
+,,Pinellas,,2,,,
+,,Seminole,,1,,,
+,,St. Johns,,,1,,
+,,St. Lucie,,,1,,
+,,Volusia,,2,1,3,
+Georgia,Total,,,,,,
+,Cities,,,,,,
+,,Atlanta,1,4,0,0,"472,579"
+,,Conyers,0,0,0,1,"16,004"
+,Universities and Colleges,,,,,,
+,,University of Georgia,1,0,0,0,"36,130"
+,Metropolitan Counties,,,,,,
+,,Cobb County Police Department,6,7,12,0,
+,,Fulton County Police Department,0,1,0,0,
+,,Gwinnett County Police Department,2,1,3,0,
+Idaho,Total,,,,,,
+,Cities,,,,,,
+,,Blackfoot,0,0,1,0,"11,700"
+,,Boise,1,1,1,0,"220,749"
+,,Chubbuck,0,0,0,1,"14,515"
+,,Coeur d'Alene,0,3,1,1,"50,155"
+,,Meridian,0,0,0,2,"94,113"
+,,Moscow,0,0,0,1,"25,307"
+,,Mountain Home,0,0,0,1,"13,627"
+,,Nampa,0,1,1,0,"91,520"
+,,Payette,0,0,1,0,"7,360"
+,,Pocatello,1,2,0,0,"54,462"
+,,Twin Falls,0,2,0,0,"48,083"
+,Metropolitan Counties,,,,,,
+,,Ada,1,0,0,0,
+,,Canyon,0,2,1,0,
+,Nonmetropolitan Counties,,,,,,
+,,Benewah,1,0,0,0,
+Illinois,Total,,,,,,
+,Cities,,,,,,
+,,Algonquin,0,1,1,0,"30,673"
+,,Aurora,0,1,0,2,"201,159"
+,,Berwyn,0,0,1,2,"56,305"
+,,Bradley,,1,1,1,"15,561"
+,,Braidwood,0,0,1,0,"6,160"
+,,Centralia,0,0,0,1,"12,580"
+,,Champaign,0,0,1,1,"87,071"
+,,Charleston,0,0,1,0,"21,067"
+,,Chicago,5,19,10,17,"2,725,153"
+,,Collinsville,0,0,0,1,"24,599"
+,,Crete,0,0,0,1,"8,171"
+,,Crystal Lake,1,0,0,0,"40,374"
+,,De Kalb,0,0,1,0,"43,034"
+,,Downers Grove,0,0,1,0,"49,894"
+,,Effingham,0,0,0,2,"12,660"
+,,Elk Grove Village,0,1,0,0,"33,255"
+,,Flossmoor,0,0,1,0,"9,479"
+,,Glenwood,0,0,1,0,"8,996"
+,,Grayslake,1,0,0,0,"20,916"
+,,Homewood,1,0,0,0,"19,379"
+,,Joliet,0,0,1,1,"147,886"
+,,Mokena,0,0,0,1,"20,156"
+,,Monmouth,0,1,0,0,"9,261"
+,,Morrison,0,1,0,0,"4,137"
+,,New Lenox,0,0,0,1,"26,085"
+,,Normal,,0,2,1,"54,727"
+,,Oak Lawn,1,0,0,0,"56,791"
+,,Pekin,0,0,0,1,"33,052"
+,,Peoria,1,0,0,0,"115,099"
+,,Plainfield,0,0,0,2,"43,063"
+,,Robinson,0,0,1,0,"7,616"
+,,Rockford,1,2,1,1,"147,363"
+,,Salem,0,1,0,0,"7,249"
+,,Springfield,0,1,1,0,"116,563"
+,,Urbana,0,0,0,1,"42,461"
+,,West Chicago,0,0,1,0,"27,490"
+,,Wheeling,1,0,0,0,"38,158"
+,,Woodstock,0,0,0,1,"25,259"
+,Universities and Colleges,,,,,,
+,,Southern Illinois University: Carbondale,0,0,1,0,"17,292"
+,Metropolitan Counties,,,,,,
+,,Champaign,0,1,1,0,
+,,Sangamon,0,0,0,1,
+,,Will,0,1,0,0,
+Indiana,Total,,,,,,
+,Cities,,,,,,
+,,Anderson,,1,,,"55,134"
+,,Bloomington,3,1,1,4,"84,772"
+,,Fort Wayne,1,1,1,1,"261,642"
+,,Indianapolis,5,11,8,4,"866,351"
+,,La Porte,,2,,,"21,891"
+,,Muncie,0,0,1,0,"70,065"
+,,Munster,1,,,,"22,865"
+,,Plainfield,1,0,0,,"31,198"
+,,South Bend,3,2,5,0,"101,621"
+,,Westville,,,1,,"5,641"
+,Universities and Colleges,,,,,,
+,,Ball State University,,,,1,"21,196"
+,,Indiana University: Indianapolis,,1,,,"30,105"
+,,Purdue University,1,1,0,1,"40,472"
+,Metropolitan Counties,,,,,,
+,,Brown,,,,1,
+,,Porter,,,1,,
+,Nonmetropolitan Counties,,,,,,
+,,Dubois,1,,,,
+,State Police Agencies,,,,,,
+,,Indiana State Police ,,,2,1,
+,,State Police:,,,,,
+,,Daviess County,0,0,0,1,
+,,Marion County,0,1,0,1,
+,,Monroe County,2,0,0,0,
+,,Putnam County,0,0,1,0,
+,,Scott County,0,1,0,0,
+,,Vanderburgh County,0,0,1,0,
+,,Washington County,0,1,0,0,
+Iowa,Total,,,,,,
+,Cities,,,,,,
+,,Boone,0,0,1,0,"12,702"
+,,Clinton,0,0,0,1,"25,906"
+,,Des Moines,0,1,1,1,"211,501"
+,,Dubuque,0,1,0,0,"59,026"
+,,Iowa City,1,0,0,2,"75,527"
+,,Newton,0,0,1,0,"15,102"
+,,North Liberty,0,0,1,0,"16,458"
+,,Oskaloosa,0,0,1,0,"11,626"
+,,West Des Moines,0,0,0,1,"65,631"
+,Universities and Colleges,,,,,,
+,,Iowa State University,0,0,0,1,"35,714"
+,,University of Iowa,0,0,0,2,"30,844"
+,Metropolitan Counties,,,,,,
+,,Linn,0,1,0,0,
+Kansas,Total,,,,,,
+,Cities,,,,,,
+,,Andover,0,0,0,1,"12,937"
+,,Chanute,0,1,0,0,"9,279"
+,,Coffeyville,0,0,1,0,"9,555"
+,,Dodge City,1,1,1,0,"27,997"
+,,Edwardsville,0,1,0,0,"4,377"
+,,El Dorado,2,0,0,0,"12,913"
+,,Elwood,0,0,1,0,"1,181"
+,,Garden City,0,0,0,1,"27,038"
+,,Hays,1,0,0,0,"21,206"
+,,Hiawatha,0,1,0,0,"3,080"
+,,Hutchinson,0,0,1,0,"41,439"
+,,Independence,0,0,1,0,"8,860"
+,,Lenexa,0,0,0,1,"53,376"
+,,Newton,0,0,1,1,"19,226"
+,,Oakley,0,1,0,0,"2,104"
+,,Ottawa,0,0,0,1,"12,334"
+,,Overland Park,2,0,1,1,"189,104"
+,,Pittsburg,0,0,1,0,"20,439"
+,,Pratt,0,1,0,0,"6,854"
+,,Salina,0,0,1,2,"47,805"
+,,Wichita,1,1,3,2,"391,399"
+,Universities and Colleges,,,,,,
+,,University of Kansas: Medical Center3,0,1,0,0,
+,,Washburn University,0,0,0,1,"6,615"
+,,Wichita State University,0,0,1,0,"14,240"
+,Metropolitan Counties,,,,,,
+,,Linn,0,0,0,1,
+,,Riley County Police Department,2,1,1,0,
+,,Shawnee,0,1,0,1,
+,,Wabaunsee,0,0,1,0,
+,Nonmetropolitan Counties,,,,,,
+,,Greeley,0,0,1,0,
+,,Reno,1,0,0,,
+Kentucky,Total,,,,,,
+,Cities,,,,,,
+,,Alexandria,0,1,0,0,"9,112"
+,,Ashland,1,0,0,0,"20,987"
+,,Audubon Park,1,0,0,0,"1,515"
+,,Bellevue,0,0,0,2,"5,879"
+,,Benton,0,0,0,2,"4,346"
+,,Berea,1,0,1,1,"15,135"
+,,Bowling Green,1,3,4,3,"64,561"
+,,Cave City,0,1,0,0,"2,411"
+,,Cloverport,0,0,1,0,"1,157"
+,,Covington,2,3,3,2,"41,094"
+,,Cynthiana,1,0,0,0,"6,421"
+,,Elizabethtown,0,0,0,1,"29,821"
+,,Elkton,1,0,0,0,"2,181"
+,,Elsmere,1,1,0,1,"8,563"
+,,Fort Mitchell,0,0,1,0,"8,334"
+,,Frankfort,0,1,1,1,"27,926"
+,,Franklin,0,0,1,1,"8,852"
+,,Georgetown,1,1,1,0,"33,007"
+,,Glasgow,0,1,1,0,"14,560"
+,,Henderson,1,0,0,1,"28,904"
+,,Highland Heights,0,0,0,1,"7,216"
+,,Hopkinsville,3,1,0,1,"32,222"
+,,Lakeside Park-Crestview Hills,0,0,0,1,"6,159"
+,,Lancaster,1,0,0,0,"3,873"
+,,Lexington,7,9,14,11,"317,853"
+,,Louisville Metro,2,1,3,5,"683,825"
+,,Loyall,0,0,0,1,648
+,,Madisonville,4,0,0,0,"19,467"
+,,Mayfield,1,0,1,0,"10,086"
+,,Mount Washington,1,0,0,2,"14,162"
+,,Murray,1,1,0,0,"19,182"
+,,Nicholasville,2,0,3,1,"30,093"
+,,Owensboro,1,0,0,3,"59,359"
+,,Paducah,0,1,1,1,"24,836"
+,,Paris,0,0,1,0,"9,883"
+,,Radcliff,1,0,2,1,"22,346"
+,,Richmond,0,0,0,1,"33,965"
+,,Shelbyville,1,1,0,0,"15,488"
+,,Shively,0,1,0,0,"15,800"
+,,Stanton,0,0,1,0,"2,651"
+,,St. Matthews,0,0,2,1,"18,127"
+,,Versailles,0,1,0,0,"25,923"
+,,Winchester,1,0,2,0,"18,461"
+,Universities and Colleges,,,,,,
+,,Eastern Kentucky University,0,1,0,0,"16,844"
+,,Murray State University,0,0,0,1,"10,998"
+,,University of Kentucky,0,0,0,1,"29,727"
+,,University of Louisville,1,1,0,0,"21,294"
+,,Western Kentucky University,0,0,1,0,"20,063"
+,Metropolitan Counties,,,,,,
+,,Boone,0,1,1,0,
+,,Boyd,1,0,0,0,
+,,Bracken,0,0,0,1,
+,,Bullitt,0,2,2,0,
+,,Campbell County Police Department,0,1,0,0,
+,,Christian,0,0,1,0,
+,,Daviess,0,0,0,2,
+,,Hardin,1,0,0,0,
+,,Jefferson,1,0,0,0,
+,,Kenton,1,0,0,0,
+,,Oldham County Police Department,0,0,1,0,
+,,Pendleton,0,0,0,1,
+,,Shelby,1,0,1,0,
+,,Spencer,0,0,1,0,
+,Nonmetropolitan Counties,,,,,,
+,,Anderson,0,0,0,1,
+,,Franklin,0,1,1,0,
+,,Letcher,1,0,0,0,
+,,Mason,0,0,0,1,
+,,McCracken,1,0,0,0,
+,,McCreary,0,1,0,0,
+,,Muhlenberg County Police Department,2,0,0,0,
+,,Nelson,0,0,1,0,
+,,Wolfe,1,0,0,0,
+,State Police Agencies,,,,,,
+,,State Police:,,,,,
+,,Bowling Green,0,0,2,2,
+,,Harlan,0,1,0,0,
+,,Hazard,0,0,1,1,
+,,Henderson,0,0,2,0,
+,,Mayfield,0,0,1,0,
+,,Richmond,1,0,0,0,
+,Other Agencies,,,,,,
+,,Fayette County Schools,1,0,0,1,
+,,Jefferson County School District,1,0,1,0,
+Louisiana,Total,,,,,,
+,Cities,,,,,,
+,,Baton Rouge,0,0,1,2,"228,389"
+,,New Orleans2,3,1,0,1,"397,208"
+,,Thibodaux,0,0,1,0,"14,588"
+,,Westlake,1,0,0,0,"4,626"
+,Metropolitan Counties,,,,,,
+,,Bossier,1,0,1,0,
+,,Caddo,0,0,0,1,
+,,St. Charles,0,0,6,,
+,,St. John the Baptist,0,3,2,0,
+,Nonmetropolitan Counties,,,,,,
+,,Avoyelles,,,1,,
+,,Madison,0,0,1,0,
+Maine,Total,,,,,,
+,Cities,,,,,,
+,,Augusta,1,0,1,0,"18,347"
+,,Biddeford,0,0,1,0,"21,285"
+,,Farmington,0,0,1,0,"7,401"
+,,Lewiston,0,1,1,0,"36,126"
+,,Lincoln,0,0,0,1,"5,020"
+,,Old Orchard Beach,0,0,0,1,"8,807"
+,,Portland,2,3,6,0,"67,041"
+,,Saco,1,2,1,2,"19,197"
+,,Sanford,0,1,0,1,"20,914"
+,,Scarborough,0,1,0,0,"19,851"
+,,South Portland,0,1,1,1,"25,674"
+,,Waterville,0,0,0,1,"16,370"
+,Universities and Colleges,,,,,,
+,,University of Southern Maine,2,0,3,2,"7,739"
+,State Police Agencies,,,,,,
+,,State Police: Kennebec County,1,0,0,0,
+Maryland,Total,,,,,,
+,Cities,,,,,,
+,,Baltimore,0,1,2,0,"618,385"
+,,Laurel,0,2,0,0,"26,424"
+,Universities and Colleges,,,,,,
+,,University of Maryland: College Park,0,0,0,1,"38,140"
+,Metropolitan Counties,,,,,,
+,,Anne Arundel County Police Department,2,1,3,10,
+,,Baltimore County Police Department,0,0,1,0,
+,,Harford2,1,1,0,2,
+,,Howard County Police Department,0,,0,1,
+,,Montgomery County Police Department,2,,3,2,
+,State Police Agencies,,,,,,
+,,State Police: Anne Arundel County,0,0,0,1,
+,Other Agencies,,,,,,
+,,National Capitol Park Police: Montgomery County,0,1,0,0,
+Massachusetts,Total,,,,,,
+,Cities,,,,,,
+,,Acton,1,2,0,0,"23,770"
+,,Andover,1,2,0,0,"35,558"
+,,Arlington2,2,4,3,1,"45,004"
+,,Barnstable,1,0,3,0,"43,974"
+,,Belmont,0,0,0,1,"25,637"
+,,Beverly,1,1,1,0,"41,303"
+,,Billerica,1,0,0,1,"42,965"
+,,Boston2,29,34,27,30,"673,880"
+,,Boxford,0,0,0,1,"8,271"
+,,Braintree2,3,1,2,1,"37,673"
+,,Cambridge2,5,7,3,10,"111,030"
+,,Chelmsford,0,1,0,0,"35,251"
+,,Chelsea,0,0,1,0,"40,096"
+,,Chicopee,1,0,0,0,"56,887"
+,,Cohasset,0,0,0,1,"8,538"
+,,Danvers,0,0,1,2,"27,997"
+,,Dartmouth,0,0,1,0,"34,630"
+,,Dennis,0,0,1,1,"13,905"
+,,Dudley,0,0,0,1,"11,558"
+,,Everett2,1,0,4,3,"46,754"
+,,Fitchburg,0,0,0,1,"40,391"
+,,Framingham,1,1,1,0,"71,422"
+,,Freetown,0,0,1,0,"9,199"
+,,Greenfield,0,0,1,0,"17,456"
+,,Haverhill2,0,1,1,3,"62,851"
+,,Holliston,0,1,0,0,"14,656"
+,,Hopkinton,1,2,0,0,"16,960"
+,,Lancaster,1,0,0,0,"8,150"
+,,Lawrence,0,0,0,1,"80,622"
+,,Lenox,0,0,1,0,"4,971"
+,,Lexington,0,0,2,0,"33,643"
+,,Lowell,1,0,0,1,"111,027"
+,,Lynn2,2,1,3,1,"92,443"
+,,Malden,0,0,2,1,"61,102"
+,,Manchester-by-the-Sea,0,0,1,0,"5,387"
+,,Mansfield,0,0,0,1,"23,681"
+,,Mattapoisett,0,1,0,0,"6,282"
+,,Medford,0,0,1,2,"57,367"
+,,Methuen2,0,0,2,0,"49,912"
+,,Milford,0,0,0,1,"28,606"
+,,Millbury,1,0,0,0,"13,532"
+,,Milton,0,0,2,0,"27,317"
+,,Nahant,1,1,0,0,"3,484"
+,,Newburyport,0,1,0,0,"18,011"
+,,Newton2,8,6,4,3,"89,116"
+,,Northampton2,1,0,2,1,"28,521"
+,,Pepperell,0,0,1,0,"12,242"
+,,Pittsfield,0,0,0,1,"43,031"
+,,Provincetown,0,1,0,0,"2,959"
+,,Quincy,1,1,2,1,"93,437"
+,,Randolph,0,1,2,0,"33,807"
+,,Salem,0,2,3,0,"42,888"
+,,Saugus,1,0,0,0,"28,131"
+,,Sharon,0,0,0,1,"18,200"
+,,Shelburne,0,0,0,1,"1,839"
+,,Somerville,2,2,2,5,"80,899"
+,,Southbridge,0,0,1,0,"16,819"
+,,Springfield,3,1,4,2,"154,102"
+,,Stoughton,0,0,1,0,"28,583"
+,,Sturbridge,0,1,0,0,"9,520"
+,,Sudbury,0,0,0,1,"19,035"
+,,Swampscott,0,2,0,1,"14,551"
+,,Taunton,2,1,2,0,"56,720"
+,,Topsfield,1,0,0,0,"6,590"
+,,Waltham,2,1,1,2,"63,613"
+,,Watertown2,0,0,2,1,"34,655"
+,,Westfield,0,1,0,0,"41,700"
+,,West Tisbury,0,0,1,0,"2,927"
+,,Williamstown,0,0,1,0,"7,591"
+,,Worcester,0,1,2,3,"184,595"
+,Universities and Colleges,,,,,,
+,,Boston University2,3,3,9,4,"32,158"
+,,Brandeis University,0,0,0,1,"5,752"
+,,Bridgewater State University,1,0,0,0,"11,089"
+,,Bristol Community College,0,0,0,1,"8,761"
+,,Clark University,2,0,0,1,"3,485"
+,,Hampshire College,0,0,0,1,"1,410"
+,,Massachusetts Institute of Technology,1,0,0,0,"11,331"
+,,Northeastern University,,1,,,"19,940"
+,,Salem State University,2,1,0,0,"9,215"
+,,Tufts University: Suffolk3,0,1,0,0,
+,,University of Massachusetts:,,,,,
+,,Amherst2,6,4,1,0,"29,269"
+,,Medical Center: Worcester,0,0,0,1,"1,079"
+,Other Agencies,,,,,,
+,,Massachusetts Bay Transportation Authority:,,,,,
+,,Middlesex County,0,0,1,,
+,,Suffolk County,1,1,1,2,
+Michigan,Total,,,,,,
+,Cities,,,,,,
+,,Albion,0,0,0,3,"8,155"
+,,Allegan,0,1,0,0,"5,086"
+,,Ann Arbor,0,0,0,1,"117,688"
+,,Auburn Hills,0,1,0,0,"22,933"
+,,Battle Creek,0,1,1,1,"60,904"
+,,Belleville,0,0,0,1,"3,860"
+,,Benton Harbor,1,0,0,0,"9,963"
+,,Benton Township,0,0,2,0,"14,413"
+,,Berkley,0,0,1,0,"15,328"
+,,Big Rapids,0,0,0,1,"10,389"
+,,Birmingham,0,1,0,0,"21,012"
+,,Blackman Township,0,0,2,1,"37,522"
+,,Bloomfield Hills,0,1,0,1,"4,031"
+,,Bloomfield Township,0,0,0,2,"42,313"
+,,Buena Vista Township,0,1,1,0,"8,158"
+,,Burton,0,0,1,0,"28,563"
+,,Cadillac,0,0,0,1,"10,372"
+,,Caro,0,0,0,1,"4,074"
+,,Chesterfield Township,1,0,0,0,"44,963"
+,,Clawson,0,0,1,1,"12,053"
+,,Clinton Township,1,0,0,0,"100,514"
+,,Clio,0,0,1,0,"2,516"
+,,Coldwater,0,1,0,0,"10,827"
+,,Commerce Township,0,0,1,0,"38,218"
+,,Dearborn,3,5,5,1,"94,646"
+,,Dearborn Heights,0,0,1,1,"55,852"
+,,Detroit,6,6,7,13,"669,673"
+,,East Lansing,2,0,0,1,"48,451"
+,,Eastpointe,0,1,0,2,"32,701"
+,,Eaton Rapids,0,0,1,0,"5,226"
+,,Escanaba,0,0,2,0,"12,278"
+,,Evart,0,0,1,0,"1,853"
+,,Farmington,0,0,1,0,"10,553"
+,,Ferndale,0,1,0,1,"20,232"
+,,Flint,1,4,8,3,"97,548"
+,,Flushing,0,1,0,0,"8,028"
+,,Forsyth Township,1,0,0,0,"6,196"
+,,Fruitport Township,0,0,1,0,"13,879"
+,,Galesburg,0,1,0,1,"2,050"
+,,Garden City,0,0,1,2,"26,781"
+,,Gaylord,0,0,1,0,"3,662"
+,,Genesee Township,1,0,0,0,"20,393"
+,,Grand Rapids,0,1,0,1,"196,538"
+,,Grandville,0,1,0,0,"16,070"
+,,Grant,0,2,0,1,880
+,,Grosse Pointe Park,0,0,1,1,"11,160"
+,,Grosse Pointe Woods,0,1,0,0,"15,699"
+,,Hampton Township,0,0,0,1,"9,401"
+,,Hamtramck,2,2,1,0,"21,929"
+,,Harper Woods,0,1,0,0,"13,764"
+,,Hart,0,0,1,0,"2,093"
+,,Hastings,0,1,0,0,"7,274"
+,,Highland Park,1,0,3,3,"10,810"
+,,Houghton,1,0,0,1,"8,020"
+,,Huntington Woods,1,0,0,0,"6,360"
+,,Huron Township,0,0,1,0,"15,622"
+,,Independence Township,1,0,0,1,"36,689"
+,,Inkster,2,1,2,1,"24,548"
+,,Ishpeming,1,0,0,1,"6,485"
+,,Kalamazoo,0,1,0,0,"76,389"
+,,Lansing,2,0,0,0,"115,199"
+,,Lapeer,1,0,1,0,"8,782"
+,,Lawton,0,1,0,1,"1,860"
+,,Leslie,0,1,0,0,"1,869"
+,,Lincoln Park,0,1,0,0,"36,808"
+,,Lincoln Township,0,0,0,2,"14,500"
+,,Livonia,0,0,3,1,"94,226"
+,,Ludington,0,2,1,0,"8,054"
+,,Mackinac Island,0,1,0,0,479
+,,Marysville,0,1,0,0,"9,722"
+,,Mason,0,1,0,0,"8,461"
+,,Melvindale,0,1,1,0,"10,348"
+,,Meridian Township,2,0,0,4,"42,700"
+,,Monroe,0,1,1,0,"19,971"
+,,Montrose Township,0,2,0,0,"7,524"
+,,Mount Pleasant,0,1,0,0,"26,069"
+,,Muskegon,0,0,0,2,"38,442"
+,,Muskegon Township,0,0,0,1,"17,791"
+,,Niles,0,0,2,0,"11,282"
+,,Norton Shores,0,1,1,1,"24,256"
+,,Ontwa Township-Edwardsburg,0,0,1,0,"6,481"
+,,Owosso,0,0,1,0,"14,605"
+,,Oxford Township,1,0,0,0,"18,164"
+,,Pittsfield Township,0,0,2,1,"38,704"
+,,Plymouth,0,0,1,0,"8,865"
+,,Plymouth Township,0,0,0,1,"26,870"
+,,Pontiac,1,0,1,0,"60,003"
+,,Portage,0,0,1,0,"48,550"
+,,Port Huron,0,0,1,0,"29,182"
+,,Redford Township,0,1,1,0,"47,218"
+,,Richland,0,1,0,0,793
+,,River Rouge,0,0,0,1,"7,480"
+,,Rochester Hills,1,0,1,0,"73,913"
+,,Romulus,0,2,1,1,"23,315"
+,,Roseville,1,1,1,0,"47,704"
+,,Royal Oak,1,0,0,0,"59,367"
+,,Saginaw,2,2,0,1,"48,942"
+,,Saginaw Township,0,1,1,0,"39,421"
+,,Saline,0,0,1,0,"9,158"
+,,Sault Ste. Marie,2,0,0,0,"13,763"
+,,Shelby Township,0,1,1,2,"78,427"
+,,Southfield,1,1,0,1,"73,438"
+,,Southgate,1,2,1,0,"29,158"
+,,South Lyon,0,1,1,0,"11,801"
+,,St. Charles,0,0,2,0,"1,940"
+,,St. Joseph Township,0,1,0,0,"9,850"
+,,Sturgis,0,1,0,0,"10,876"
+,,Taylor,0,1,1,1,"61,290"
+,,Tittabawassee Township,0,0,1,0,"9,782"
+,,Traverse City,0,2,2,3,"15,330"
+,,Troy,0,1,3,3,"83,743"
+,,Van Buren Township,0,0,2,2,"28,090"
+,,Warren,2,2,2,4,"135,620"
+,,Waterford Township,1,0,0,0,"73,308"
+,,West Bloomfield Township,1,2,4,2,"66,123"
+,,Wyoming,1,0,0,0,"75,917"
+,Universities and Colleges,,,,,,
+,,Eastern Michigan University,0,0,2,4,"21,824"
+,,Grand Valley State University,0,0,1,0,"25,325"
+,,Michigan State University,0,0,1,3,"50,538"
+,,Mott Community College,0,0,1,0,"8,617"
+,,Schoolcraft College,0,0,1,0,"11,687"
+,,University of Michigan:,,,,,
+,,Ann Arbor,2,2,1,3,"43,651"
+,,Flint,0,0,0,1,"8,470"
+,,Western Michigan University,0,0,1,0,"23,529"
+,Metropolitan Counties,,,,,,
+,,Barry,0,2,0,0,
+,,Calhoun,0,0,2,0,
+,,Eaton,0,0,1,0,
+,,Genesee,0,0,0,1,
+,,Ingham,0,2,0,0,
+,,Jackson,0,0,3,0,
+,,Kent,1,1,0,0,
+,,Lapeer,2,0,0,1,
+,,Livingston,1,0,0,1,
+,,Macomb,0,1,0,0,
+,,Monroe,0,1,1,1,
+,,Montcalm,1,0,1,0,
+,,Muskegon,0,0,1,0,
+,,Oakland,1,0,1,0,
+,,Saginaw,1,1,0,0,
+,,St. Clair,0,0,0,1,
+,,Van Buren,0,0,0,2,
+,,Washtenaw,0,0,1,1,
+,Nonmetropolitan Counties,,,,,,
+,,Benzie,1,0,0,0,
+,,Clare,0,0,1,0,
+,,Emmet,0,1,0,0,
+,,Gratiot,0,1,0,1,
+,,Hillsdale,0,1,0,0,
+,,Huron,0,0,0,1,
+,,Ionia,0,0,1,0,
+,,Luce,0,0,1,0,
+,,Marquette,0,1,0,0,
+,,Mason,0,0,0,1,
+,,Mecosta,0,1,1,0,
+,,Menominee,1,2,0,0,
+,,Oceana,1,1,0,0,
+,,Sanilac,0,0,1,0,
+,,Tuscola,0,0,2,2,
+,State Police Agencies,,,,,,
+,,State Police:,,,,,
+,,Ingham County,0,0,0,2,
+,,Isabella County,1,1,2,1,
+,,Jackson County,0,0,0,1,
+,,Kent County,0,0,1,2,
+,,Livingston County,0,0,0,2,
+,,Mecosta County,0,1,0,0,
+,,Muskegon County,1,0,0,0,
+,,Oceana County,0,2,1,1,
+,Other Agencies,,,,,,
+,,Gerald R. Ford International Airport,0,0,1,0,
+Minnesota,Total,,,,,,
+,Cities,,,,,,
+,,Blaine,1,0,0,1,"63,115"
+,,Bloomington,0,0,0,1,"87,134"
+,,Brooklyn Center,1,0,0,0,"30,893"
+,,Brooklyn Park,4,2,2,2,"79,800"
+,,Cottage Grove,1,1,0,0,"36,164"
+,,Crystal,1,0,1,0,"23,102"
+,,Eagan,0,0,0,2,"66,698"
+,,Inver Grove Heights2,1,1,3,2,"35,049"
+,,Little Falls,0,0,1,0,"8,611"
+,,Mankato,0,0,2,3,"41,300"
+,,Maplewood,1,0,0,1,"41,071"
+,,Minneapolis,5,16,11,6,"416,751"
+,,Minnetonka,1,1,0,0,"52,055"
+,,Moorhead,1,0,0,0,"42,507"
+,,New Hope,0,1,0,0,"21,168"
+,,Oakdale2,0,1,0,0,"28,211"
+,,Orono,0,1,0,0,"19,799"
+,,Plymouth,2,1,2,1,"76,996"
+,,Roseville2,0,1,1,0,"35,954"
+,,Sauk Centre,0,1,0,0,"4,367"
+,,Savage,0,1,0,0,"31,118"
+,,South St. Paul,0,0,1,0,"20,452"
+,,Spring Lake Park,0,0,0,1,"6,484"
+,,St. Cloud,2,2,1,,"67,341"
+,,St. Louis Park,0,0,1,4,"48,770"
+,,St. Paul,3,1,3,2,"303,920"
+,,Wayzata,0,0,1,0,"6,627"
+,Universities and Colleges,,,,,,
+,,University of Minnesota: Twin Cities,0,0,0,1,"50,678"
+,Metropolitan Counties,,,,,,
+,,Carver,0,0,1,0,
+,,Mille Lacs,1,0,0,0,
+,,Ramsey,0,0,0,2,
+,,Wright,0,1,0,0,
+,Nonmetropolitan Counties,,,,,,
+,,Crow Wing,1,0,0,0,
+,Other Agencies,,,,,,
+,,Minneapolis-St. Paul International Airport,0,1,,0,
+Mississippi,Total,,,,,,
+,Cities,,,,,,
+,,Biloxi,1,0,0,0,"45,952"
+,,Olive Branch,1,0,0,3,"36,513"
+,Metropolitan Counties,,,,,,
+,,DeSoto,1,0,0,0,
+,Nonmetropolitan Counties,,,,,,
+,,Stone,,,,1,
+Missouri,Total,,,,,,
+,Cities,,,,,,
+,,Battlefield,0,0,1,0,"6,083"
+,,Blue Springs,0,1,0,0,"54,445"
+,,Bolivar,0,1,0,0,"10,790"
+,,Branson,1,0,0,0,"11,593"
+,,Bridgeton,0,0,0,1,"11,835"
+,,Cameron,0,0,1,0,"9,817"
+,,Chesterfield,2,0,0,0,"47,939"
+,,Clayton,1,0,0,0,"15,873"
+,,Columbia,0,1,5,1,"121,143"
+,,Gladstone,0,0,1,0,"27,138"
+,,Independence,1,1,0,0,"117,335"
+,,Kansas City,7,7,16,13,"478,364"
+,,Lee's Summit,0,1,1,0,"95,821"
+,,Marionville,0,1,0,0,"2,181"
+,,North Kansas City,0,0,0,1,"4,387"
+,,Rolla,2,0,0,0,"20,093"
+,,St. Charles,0,0,1,0,"69,364"
+,,St. Joseph,0,1,0,0,"76,577"
+,,St. Louis,,3,3,3,"314,507"
+,,St. Peters2,0,1,2,0,"57,835"
+,,University City,1,0,0,,"35,002"
+,Universities and Colleges,,,,,,
+,,University of Missouri:,,,,,
+,,Kansas City,0,0,0,2,"16,685"
+,,St. Louis,0,0,1,0,"16,738"
+,Metropolitan Counties,,,,,,
+,,St. Louis County Police Department,2,0,0,0,
+Montana,Total,,,,,,
+,Cities,,,,,,
+,,Billings,3,0,0,1,"111,447"
+,,Columbia Falls,1,0,0,0,"5,175"
+,,Conrad,0,1,0,0,"2,594"
+,,Havre,0,0,0,1,"9,896"
+,,Helena,1,2,0,0,"31,052"
+,,Whitefish,0,0,1,0,"7,226"
+,Nonmetropolitan Counties,,,,,,
+,,Big Horn,2,1,0,1,
+,,Broadwater,0,0,1,0,
+,,Lewis and Clark,0,0,3,0,
+,,Richland,0,0,1,0,
+Nebraska,Total,,,,,,
+,Cities,,,,,,
+,,Crete,2,0,0,0,"7,047"
+,,Grand Island,1,1,0,0,"51,980"
+,,Kearney,0,1,0,0,"33,471"
+,,Lincoln,6,6,4,3,"281,138"
+,,Norfolk,0,1,0,0,"24,389"
+,,Omaha,3,0,2,0,"446,163"
+,,Papillion,0,0,1,0,"19,576"
+Nevada,Total,,,,,,
+,Cities,,,,,,
+,,Henderson,2,4,3,2,"291,584"
+,,Las Vegas Metropolitan Police Department2,3,10,2,10,"1,592,178"
+,,North Las Vegas,0,1,3,0,"238,554"
+,,Reno,0,0,0,1,"244,554"
+New Hampshire,Total,,,,,,
+,Cities,,,,,,
+,,Belmont,1,0,0,0,"7,315"
+,,Boscawen,0,1,0,0,"3,950"
+,,Bow,0,0,1,0,"7,779"
+,,Brookline,0,1,0,0,"5,256"
+,,Claremont,0,1,0,0,"12,913"
+,,Concord,0,1,1,0,"42,610"
+,,Derry,0,0,0,1,"33,249"
+,,Dover,1,0,0,0,"31,054"
+,,Durham,0,0,0,1,"17,078"
+,,Exeter,1,1,1,0,"14,635"
+,,Farmington,0,0,3,0,"6,841"
+,,Hillsborough,0,0,0,1,"5,974"
+,,Keene,0,0,1,2,"23,244"
+,,Laconia,0,2,0,1,"16,300"
+,,Manchester,0,0,0,1,"110,353"
+,,Pembroke,1,0,0,0,"7,118"
+,,Sandown,0,0,0,1,"6,348"
+,,Troy,0,0,1,0,"2,075"
+,Universities and Colleges,,,,,,
+,,University of New Hampshire,1,0,0,0,"15,351"
+New Jersey,Total,,,,,,
+,Cities,,,,,,
+,,Aberdeen Township,,0,1,1,"18,562"
+,,Allendale,0,1,0,0,"6,849"
+,,Atlantic City,0,0,1,0,"39,202"
+,,Bergenfield,0,1,0,0,"27,646"
+,,Blairstown Township,0,2,0,0,"5,791"
+,,Bloomfield,0,1,0,0,"48,215"
+,,Brick Township,,1,1,0,"74,818"
+,,Cinnaminson Township,0,1,0,0,"16,871"
+,,Colts Neck Township,,0,1,0,"10,018"
+,,Cresskill,0,1,0,0,"8,815"
+,,Dunellen,,0,0,1,"7,434"
+,,East Brunswick Township,,6,2,1,"49,016"
+,,East Hanover Township,,0,0,1,"11,233"
+,,East Orange,1,0,0,0,"64,787"
+,,East Rutherford,0,1,0,0,"9,166"
+,,East Windsor Township,,1,0,1,"27,537"
+,,Edgewater,0,0,0,1,"12,079"
+,,Edison Township,,2,0,1,"102,679"
+,,Evesham Township,2,1,1,2,"45,581"
+,,Ewing Township,,0,1,0,"36,435"
+,,Florence Township,0,1,0,0,"12,805"
+,,Fort Lee,1,0,1,1,"36,739"
+,,Freehold Borough,,0,0,2,"11,941"
+,,Freehold Township,,1,1,0,"35,736"
+,,Galloway Township,0,0,1,0,"37,280"
+,,Glassboro,,1,0,2,"19,245"
+,,Hackensack,2,2,0,1,"44,968"
+,,Hamilton Township: Mercer County,,2,0,0,"88,665"
+,,Hammonton,0,0,1,0,"14,585"
+,,Hanover Township,,0,0,1,"14,468"
+,,Harrison Township,,1,0,1,"13,023"
+,,Highland Park,,3,0,0,"14,346"
+,,Highlands,,0,1,0,"4,838"
+,,Hillsborough Township,,0,0,1,"40,037"
+,,Hoboken,,0,1,2,"54,095"
+,,Holmdel Township,,1,0,2,"16,651"
+,,Hopewell Township,,0,0,1,"18,570"
+,,Howell Township,,3,7,1,"52,306"
+,,Jackson Township,,2,0,0,"56,563"
+,,Jersey City,,0,1,3,"266,179"
+,,Keansburg,,1,2,2,"9,828"
+,,Lacey Township,,0,1,0,"28,540"
+,,Lakewood Township,2,6,7,2,"100,269"
+,,Lindenwold,0,0,1,0,"17,340"
+,,Linwood,0,0,1,0,"6,950"
+,,Little Falls Township,,0,0,3,"14,478"
+,,Livingston Township,1,0,0,1,"29,788"
+,,Lodi,0,1,0,0,"24,841"
+,,Long Branch,,0,0,3,"30,959"
+,,Madison,,1,0,0,"16,098"
+,,Magnolia,0,1,1,0,"4,267"
+,,Manalapan Township,,1,0,3,"40,407"
+,,Manasquan,,0,0,1,"5,798"
+,,Manchester Township,,0,0,1,"43,525"
+,,Medford Township,0,0,3,,"23,481"
+,,Metuchen,,0,0,1,"13,879"
+,,Middletown Township,,0,0,1,"65,919"
+,,Monmouth Beach,,2,0,0,"3,233"
+,,Montclair,2,0,0,4,"38,108"
+,,Montville Township,,1,0,0,"21,801"
+,,Moonachie,0,0,0,1,"2,790"
+,,Moorestown Township,0,0,1,0,"20,530"
+,,Mount Arlington,,0,1,0,"5,324"
+,,Mount Laurel Township,0,0,1,1,"41,828"
+,,Mount Olive Township,,1,0,0,"29,095"
+,,Neptune Township,,3,7,2,"27,505"
+,,Newark,2,0,0,1,"281,450"
+,,New Brunswick,,1,5,3,"57,158"
+,,New Providence,0,1,0,0,"12,461"
+,,Newton,,0,0,1,"7,950"
+,,North Brunswick Township,,1,0,0,"42,777"
+,,Northfield,0,0,2,0,"8,502"
+,,North Haledon,,1,0,0,"8,529"
+,,Nutley Township,0,0,0,1,"28,673"
+,,Ocean Township: Monmouth County,,1,5,3,"27,070"
+,,Paramus,0,1,0,0,"26,958"
+,,Passaic,,0,1,0,"70,972"
+,,Pemberton Township,0,1,1,1,"27,739"
+,,Pequannock Township,,1,0,0,"15,425"
+,,Piscataway Township,,0,1,0,"58,181"
+,,Plainsboro Township,,0,0,1,"23,621"
+,,Point Pleasant Beach,,0,1,0,"4,519"
+,,Pompton Lakes,,0,1,0,"11,164"
+,,Princeton,,2,2,0,"29,660"
+,,Randolph Township,,2,0,0,"25,877"
+,,Raritan Township,,0,1,0,"22,011"
+,,Readington Township,,1,0,0,"15,893"
+,,Robbinsville Township,,0,0,1,"14,209"
+,,Rockaway Township,,0,0,1,"24,655"
+,,Saddle Brook Township,1,0,0,0,"14,108"
+,,Scotch Plains Township,0,0,1,0,"24,144"
+,,Sea Isle City,0,0,1,0,"2,080"
+,,Secaucus,,0,3,1,"19,528"
+,,Somerville,,0,1,0,"12,198"
+,,South Brunswick Township,,4,5,6,"45,862"
+,,South Orange,1,0,0,2,"16,332"
+,,South River,,1,0,0,"16,391"
+,,Spotswood,,1,0,0,"8,477"
+,,Toms River Township,,0,2,0,"90,504"
+,,Trenton,,0,1,0,"83,644"
+,,Union Township,0,0,0,1,"58,109"
+,,Vineland,0,0,0,4,"60,823"
+,,Voorhees Township,1,0,0,1,"29,235"
+,,Washington,0,0,0,1,"6,508"
+,,Washington Township: Gloucester County,,0,2,0,"47,477"
+,,Washington Township: Warren County,0,0,0,1,"6,430"
+,,West Deptford Township,,1,0,0,"21,257"
+,,West Long Branch,,2,0,1,"7,975"
+,,Winslow Township,0,0,0,1,"38,724"
+,,Woodbridge Township,,0,1,0,"102,124"
+,,Woodbury,,6,5,,"9,937"
+,,Woolwich Township,,0,0,1,"12,675"
+,State Police Agencies,,,,,,
+,,State Police:,,,,,
+,,Burlington County,1,0,1,0,
+,,Cumberland County,0,0,1,0,
+,,Salem County,,1,0,0,
+,,Sussex County,3,0,0,0,
+,,Warren County ,0,0,1,0,
+New Mexico,Total,,,, ,,
+,Cities,,,,,,
+,,Albuquerque,2,2,11,10,"561,560"
+,,Los Lunas,,1,,,"15,398"
+New York,Total,,,,,,
+,Cities,,,,,,
+,,Albany,0,1,0,0,"98,617"
+,,Amherst Town,0,2,0,0,"120,436"
+,,Auburn,0,0,1,,"26,854"
+,,Bedford Town,0,0,1,0,"18,063"
+,,Binghamton,0,0,1,0,"45,780"
+,,Brighton Town,0,1,0,0,"36,889"
+,,Buffalo,1,1,4,1,"257,446"
+,,Cheektowaga Town,0,0,0,1,"78,100"
+,,Clarkstown Town,0,0,3,0,"82,171"
+,,Colonie Town,0,0,1,0,"80,075"
+,,Cooperstown Village,0,0,1,0,"1,780"
+,,Crawford Town,0,0,0,1,"9,202"
+,,Dobbs Ferry Village,0,1,0,0,"11,180"
+,,Elmira,0,1,0,0,"27,995"
+,,Glen Cove,0,1,0,0,"27,480"
+,,Hamburg Town,1,0,0,0,"46,028"
+,,Lake Placid Village,0,1,0,0,"2,453"
+,,Larchmont Village,0,1,0,1,"6,186"
+,,Middletown,0,1,0,0,"27,752"
+,,Monroe Village,1,1,1,0,"8,680"
+,,New Rochelle,1,0,0,4,"80,389"
+,,New York,66,85,85,125,"8,566,917"
+,,Niagara Falls,0,0,1,0,"48,675"
+,,North Tonawanda,0,0,2,0,"30,634"
+,,Norwich,0,0,0,1,"6,929"
+,,Peekskill,1,0,0,0,"24,129"
+,,Ramapo Town,1,1,1,0,"92,620"
+,,Rochester,0,1,0,1,"209,643"
+,,Saratoga Springs,0,0,0,1,"28,005"
+,,Schenectady,0,0,0,1,"65,138"
+,,Southampton Town,1,0,0,0,"51,191"
+,,Spring Valley Village,0,0,1,0,"32,844"
+,,Utica,0,1,0,0,"60,879"
+,,Wellsville Village,0,0,0,1,"4,506"
+,,Yonkers,0,1,1,3,"202,075"
+,Universities and Colleges,,,,,,
+,,Cornell University,0,1,1,0,"21,904"
+,,State University of New York:,,,,,
+,,Binghamton,0,1,1,0,"16,913"
+,,Buffalo,3,3,0,1,"29,796"
+,,Downstate Medical Center,0,0,1,0,"1,858"
+,,State University of New York Agricultural and Technical College: Morrisville,0,0,6,0,"2,940"
+,,State University of New York College:,,,,,
+,,Brockport,0,0,1,0,"8,161"
+,,Buffalo,1,0,0,1,"10,330"
+,,Geneseo,0,0,0,3,"5,699"
+,,New Paltz,0,0,0,3,"7,751"
+,,Plattsburgh,1,0,0,1,"5,718"
+,,Potsdam,0,0,0,1,"3,904"
+,,Purchase,1,1,0,0,"4,169"
+,Metropolitan Counties,,,,,,
+,,Albany,0,0,0,1,
+,,Monroe,2,0,0,0,
+,,Nassau,8,10,9,25,
+,,Oswego,0,0,0,1,
+,,Saratoga,0,1,0,0,
+,,Schoharie,1,0,0,0,
+,,Suffolk County Police Department,10,12,8,12,
+,,Westchester Public Safety,0,0,1,0,
+,Nonmetropolitan Counties,,,,,,
+,,Chenango,0,1,0,,
+,State Police Agencies,,,,,,
+,,State Police:,,,,,
+,,Albany County,0,0,0,3,
+,,Chemung County,1,0,0,0,
+,,Dutchess County,0,0,,1,
+,,Franklin County,0,0,1,0,
+,,Jefferson County,0,1,0,1,
+,,Montgomery County,0,0,0,1,
+,,New York County,0,0,0,3,
+,,Niagara County,0,0,0,1,
+,,Orange County,1,0,0,0,
+,,Oswego County,1,0,0,0,
+,,Rockland County,0,1,0,0,
+,,Schoharie County,0,1,0,0,
+,,Wayne County,0,1,0,0,
+,,Westchester County,0,0,0,1,
+,Other Agencies,,,,,,
+,,New York City Metropolitan Transportation Authority,3,2,2,15,
+,,State Park: Finger Lakes Region,0,0,1,0,
+North Carolina,Total,,,,,,
+,Cities,,,,,,
+,,Apex,0,1,1,1,"47,324"
+,,Asheville,1,0,2,0,"89,546"
+,,Boone,0,1,0,0,"18,374"
+,,Charlotte-Mecklenburg,6,11,5,5,"896,379"
+,,Concord,0,0,1,0,"89,446"
+,,Durham,0,1,1,1,"263,716"
+,,Fayetteville,0,1,4,2,"202,200"
+,,Gastonia,0,0,2,1,"75,118"
+,,Greensboro,0,1,4,1,"288,618"
+,,Greenville,2,2,1,1,"91,766"
+,,Hickory,0,0,0,1,"40,437"
+,,High Point,1,1,0,3,"111,435"
+,,Huntersville,1,0,0,0,"53,932"
+,,Jacksonville,0,0,1,0,"66,686"
+,,Littleton,0,1,0,0,641
+,,Morganton,0,0,1,3,"16,656"
+,,Raleigh,8,6,9,5,"460,593"
+,,Roanoke Rapids2,1,1,2,0,"15,273"
+,,Rockingham,0,0,0,1,"9,155"
+,,Rocky Mount,0,0,1,0,"55,431"
+,,Salisbury,0,1,0,2,"34,121"
+,,Siler City,0,0,0,1,"8,498"
+,,Wilmington,2,1,1,1,"117,852"
+,,Wilson,0,0,1,0,"49,734"
+,Universities and Colleges,,,,,,
+,,Duke University,0,0,0,1,"15,984"
+,,East Carolina University,1,0,0,0,"28,289"
+,,North Carolina Central University,0,0,1,1,"8,011"
+,,North Carolina School of the Arts,1,1,0,0,970
+,,University of North Carolina: Greensboro,0,1,0,1,"19,393"
+,Metropolitan Counties,,,,,,
+,,Forsyth,1,3,1,1,
+,,Franklin,2,1,0,1,
+,,Gaston County Police Department,0,0,1,0,
+,,Iredell,1,0,0,1,
+,,New Hanover,0,0,0,1,
+,,Randolph,0,0,1,0,
+,,Yadkin,1,0,0,1,
+,Nonmetropolitan Counties,,,,,,
+,,Jackson2,0,0,0,1,
+,,Moore,1,0,0,0,
+,,Sampson2,0,0,0,2,
+,,Surry,0,0,0,1,
+,Other Agencies,,,,,,
+,,University of North Carolina Hospitals,0,0,1,0,
+North Dakota,Total,,,,,,
+,Cities,,,,,,
+,,Bismarck,0,0,0,2,"73,248"
+,,Grand Forks,0,0,1,0,"57,853"
+,,Watford City,0,0,1,1,"8,819"
+,,Williston,0,0,1,0,"29,929"
+,Universities and Colleges,,,,,,
+,,University of North Dakota,0,0,1,0,"14,951"
+,Nonmetropolitan Counties,,,,,,
+,,Hettinger,0,0,0,1,
+Ohio,Total,,,,,,
+,Cities,,,,,,
+,,Akron,1,2,1,0,"197,257"
+,,Albany,0,0,0,1,918
+,,Athens,0,0,1,0,"25,203"
+,,Aurora,0,1,1,1,"15,897"
+,,Barberton,0,0,0,1,"26,172"
+,,Beaver Township,0,1,0,0,"6,492"
+,,Bellbrook,2,0,0,0,"7,074"
+,,Bellefontaine,0,1,1,0,"13,073"
+,,Bexley,0,0,1,0,"13,775"
+,,Blue Ash,3,0,0,1,"12,169"
+,,Boardman2,0,1,0,0,"39,692"
+,,Canton,0,1,0,0,"71,652"
+,,Chillicothe,0,0,1,0,"21,692"
+,,Cincinnati,7,10,10,15,"298,880"
+,,Circleville,0,0,1,0,"13,930"
+,,Cleveland,2,5,1,0,"386,227"
+,,Colerain Township,3,1,0,0,"58,907"
+,,Columbus2,42,29,49,31,"862,515"
+,,Dayton,0,4,0,1,"140,260"
+,,Defiance,0,0,0,1,"16,697"
+,,Delhi Township,1,1,1,0,"29,573"
+,,East Palestine,0,1,1,0,"4,548"
+,,Elyria,1,2,0,0,"53,633"
+,,Fairborn,1,0,0,1,"33,587"
+,,Fairview Park,0,0,0,1,"16,318"
+,,Findlay,1,0,,,"41,156"
+,,Gahanna,1,2,0,0,"34,859"
+,,Garfield Heights,1,,,0,"27,938"
+,,Green Township,0,0,0,1,"58,764"
+,,Greenville,0,1,0,0,"12,962"
+,,Grove City,1,2,1,1,"40,161"
+,,Hamilton,1,3,3,2,"62,423"
+,,Heath,0,0,1,0,"10,528"
+,,Hilliard,0,2,1,0,"34,832"
+,,Huber Heights,1,1,2,1,"38,180"
+,,Independence,0,0,0,1,"7,132"
+,,Jackson Township: Stark County,2,0,1,0,"40,780"
+,,Lockland,1,0,0,0,"3,422"
+,,Lyndhurst,0,1,1,1,"13,624"
+,,Mansfield,2,1,0,0,"46,656"
+,,Marietta,0,1,0,,"13,867"
+,,Massillon,1,2,0,0,"32,268"
+,,Maumee,0,0,1,0,"13,875"
+,,Mayfield Heights,0,1,0,0,"18,770"
+,,Medina Township,1,0,0,0,"9,015"
+,,Miamisburg,0,1,0,0,"20,000"
+,,Miami Township: Montgomery County,0,0,0,1,"29,140"
+,,Monroe,0,1,0,0,"15,933"
+,,Montgomery,1,0,0,0,"10,558"
+,,Montpelier,1,0,0,0,"3,980"
+,,Montville Township,0,1,0,0,"11,815"
+,,Moraine,1,0,1,1,"6,385"
+,,Mount Healthy,0,0,1,0,"6,028"
+,,Napoleon,2,0,1,1,"8,566"
+,,New Franklin,0,1,0,0,"14,285"
+,,Newton Falls,0,0,1,0,"4,628"
+,,North College Hill,0,0,1,0,"9,320"
+,,Oberlin,0,0,0,1,"8,342"
+,,Parma,1,1,0,1,"79,576"
+,,Portsmouth,0,1,0,,"20,442"
+,,Powell,0,1,0,0,"13,273"
+,,Reynoldsburg,0,0,1,0,"37,406"
+,,Salem,1,0,3,0,"11,943"
+,,Shelby,0,1,1,0,"9,012"
+,,Sidney,0,1,2,0,"20,797"
+,,South Euclid,0,1,0,0,"21,686"
+,,Springfield Township: Hamilton County,0,1,0,0,"36,527"
+,,Springfield Township: Summit County,0,1,0,1,"17,813"
+,,Steubenville,,0,1,0,"18,137"
+,,Streetsboro,0,0,0,1,"16,364"
+,,Toledo,3,3,17,12,"278,366"
+,,Troy,2,0,0,0,"25,745"
+,,Upper Arlington,1,0,0,0,"35,150"
+,,Upper Sandusky,0,0,1,0,"6,515"
+,,Urbana,0,0,0,9,"11,482"
+,,Vienna Township,0,0,0,1,"3,817"
+,,Wadsworth,0,0,1,0,"21,910"
+,,Wapakoneta,0,1,1,1,"9,815"
+,,Warren,0,0,0,1,"40,005"
+,,West Chester Township,0,1,0,0,"61,080"
+,,West Jefferson,0,0,1,0,"4,291"
+,,Wilmington,0,1,1,0,"12,443"
+,,Wooster,1,0,0,0,"26,883"
+,,Xenia,1,0,0,0,"26,037"
+,,Yellow Springs,1,1,0,0,"3,857"
+,,Youngstown,0,1,2,0,"64,181"
+,,Zanesville,1,0,1,1,"25,494"
+,Universities and Colleges,,,,,,
+,,Capital University,0,0,0,1,"3,465"
+,,Kent State University,,,1,,"30,067"
+,,Ohio State University: Columbus,0,0,0,2,"58,663"
+,,Otterbein University,0,1,0,0,"2,808"
+,,University of Akron,0,0,1,0,"23,101"
+,Metropolitan Counties,,,,,,
+,,Butler,1,0,1,0,
+,,Clark,0,2,0,0,
+,,Clermont,0,1,0,0,
+,,Delaware,0,0,1,0,
+,,Geauga,0,0,0,1,
+,,Greene,2,1,2,2,
+,,Lawrence,0,0,1,0,
+,,Lorain,0,0,1,0,
+,,Montgomery,0,0,2,0,
+,,Summit,0,0,1,0,
+,,Trumbull,1,0,1,0,
+,,Warren,1,0,0,0,
+,Nonmetropolitan Counties,,,,,,
+,,Ashland,0,1,0,0,
+,,Ashtabula,0,0,1,0,
+,,Champaign,0,0,0,1,
+,,Fayette,0,1,0,0,
+,,Gallia,0,0,1,0,
+,,Highland,1,0,0,0,
+,,Mercer,0,1,0,0,
+,,Pike,0,1,0,0,
+,,Ross,0,1,0,0,
+,Other Agencies,,,,,,
+,,Cleveland Metropolitan Park District,1,1,1,0,
+,,Ohio Department of Natural Resources,0,0,1,0,
+Oklahoma,Total,,,,,,
+,Cities,,,,,,
+,,Anadarko,0,0,1,0,"6,702"
+,,Blanchard,0,1,0,0,"8,461"
+,,Collinsville,0,1,0,1,"6,678"
+,,Cushing,0,0,0,2,"7,874"
+,,Heavener,1,0,0,0,"3,321"
+,,Norman,1,0,1,0,"122,143"
+,,Nowata,0,0,0,1,"3,747"
+,,Oklahoma City,1,0,0,2,"641,681"
+,,Perry,1,0,0,0,"5,091"
+,,Tulsa,0,1,0,0,"405,748"
+,,Union City,0,0,0,1,"2,004"
+,,Woodward,0,0,0,1,"13,223"
+,Metropolitan Counties,,,,,,
+,,Lincoln,0,0,1,0,
+,,Okmulgee,0,1,0,0,
+,,Wagoner,1,0,3,1,
+,Nonmetropolitan Counties,,,,,,
+,,Craig,0,0,1,0,
+,,Delaware,0,1,2,0,
+,,Garvin,1,0,0,0,
+,,Kingfisher,1,0,0,0,
+,,Payne,0,0,0,1,
+,,Seminole,1,0,0,0,
+,,Woodward,0,0,1,0,
+Oregon,Total,,,,,,
+,Cities,,,,,,
+,,Ashland,1,0,0,1,"21,017"
+,,Beaverton,0,0,0,2,"97,907"
+,,Coos Bay,0,0,1,0,"16,224"
+,,Cornelius,0,0,0,1,"12,402"
+,,Corvallis,1,1,0,0,"56,061"
+,,Eugene,2,12,11,13,"164,883"
+,,Gervais,1,0,0,0,"2,663"
+,,Gresham,2,1,1,2,"111,491"
+,,Hood River,1,0,,,"7,719"
+,,Lincoln City,0,0,0,3,"8,588"
+,,Medford,0,1,0,0,"80,794"
+,,Newberg-Dundee,0,1,0,0,"26,105"
+,,Oregon City,1,1,0,0,"36,485"
+,,Portland,2,2,4,2,"642,129"
+,,Salem,3,1,2,2,"166,508"
+,,Springfield,2,1,2,2,"61,164"
+,,Talent,0,1,0,0,"6,483"
+,,Tigard,0,1,0,2,"51,885"
+,,Tualatin,0,1,0,0,"27,370"
+,Metropolitan Counties,,,,,,
+,,Jackson,0,0,1,0,
+,,Lane,0,1,0,0,
+,,Washington,0,0,0,1,
+,Nonmetropolitan Counties,,,,,,
+,,Crook,2,0,0,0,
+,,Hood River,1,0,0,0,
+,,Jefferson,0,0,1,0,
+,,Morrow,0,0,2,0,
+,,Umatilla,0,0,2,1,
+,,Union,0,1,0,0,
+Pennsylvania,Total,,,,,,
+,Cities,,,,,,
+,,Abington Township: Montgomery County,0,2,0,0,"55,623"
+,,Camp Hill,0,0,1,0,"7,929"
+,,Carlisle,0,1,0,0,"19,225"
+,,Ferguson Township,0,1,0,0,"19,222"
+,,Hamburg,0,0,0,1,"4,420"
+,,Johnstown,1,0,0,0,"21,227"
+,,Lancaster,0,1,0,0,"59,340"
+,,Mechanicsburg,0,0,0,2,"9,003"
+,,Philadelphia,3,3,2,10,"1,570,826"
+,,Pittsburgh,2,2,6,4,"302,443"
+,,Reading,1,0,0,0,"87,834"
+,,Scranton,0,1,1,0,"77,332"
+,,State College,2,,1,0,"58,119"
+,,Washington Township: Franklin County,1,0,0,0,"14,631"
+,,Whitemarsh Township,0,0,1,0,"17,721"
+,Universities and Colleges,,,,,,
+,,Pennsylvania State University: University Park,5,0,0,1,"47,307"
+,Metropolitan Counties,,,,,,
+,,Allegheny,0,1,0,0,
+,State Police Agencies,,,,,,
+,,State Police: ,,,,,
+,,Delaware County,0,0,0,1,
+,,Monroe County,1,0,0,0,
+,,Skippack,0,0,0,2,
+Rhode Island,Total,,,,,,
+,Cities,,,,,,
+,,Cranston,0,1,0,0,"81,162"
+,,Pawtucket,0,1,0,1,"71,640"
+,,Portsmouth,0,0,1,0,"17,362"
+,,Providence,0,1,0,0,"179,340"
+,,South Kingstown,0,0,1,0,"30,872"
+,,Tiverton,0,0,0,1,"15,768"
+,Universities and Colleges,,,,,,
+,,Brown University,1,1,0,0,"9,458"
+,,University of Rhode Island,1,0,0,0,"16,613"
+,State Police Agencies,,,,,,
+,,State Police: ,,,,,
+,,Chepachet,1,0,0,0,
+,,Lincoln,0,1,0,0,
+South Carolina,Total,,,,,,
+,Cities,,,,,,
+,,Andrews,0,0,0,1,"2,894"
+,,Blackville,1,0,0,0,"2,273"
+,,Chester,0,0,1,0,"5,462"
+,,Cottageville,0,0,1,0,733
+,,Florence,0,1,0,0,"38,382"
+,,Folly Beach,0,1,1,0,"2,806"
+,,Greer,0,1,0,0,"28,927"
+,,Moncks Corner,0,1,0,0,"10,298"
+,,North Myrtle Beach,0,0,0,1,"15,945"
+,,Pageland,0,1,0,0,"2,745"
+,,Simpsonville,0,1,0,0,"21,223"
+,Universities and Colleges,,,,,,
+,,Clemson University,0,0,0,1,"22,698"
+,,Coastal Carolina University,0,0,0,1,"10,263"
+,,Trident Technical College,0,0,0,1,"15,043"
+,Metropolitan Counties,,,,,,
+,,Anderson,0,1,0,0,
+,,Darlington,0,1,0,0,
+,,Greenville,0,0,1,0,
+,,Horry County Police Department,0,2,0,0,
+,,Sumter,0,1,0,0,
+,Nonmetropolitan Counties,,,,,,
+,,Abbeville,1,0,0,0,
+,,Georgetown,1,0,0,0,
+South Dakota,Total,,,,,,
+,Cities,,,,,,
+,,Aberdeen,0,0,0,1,"28,498"
+,,Brandon,0,1,0,0,"10,042"
+,,Brookings,0,1,0,0,"23,971"
+,,Chamberlain,0,1,0,0,"2,383"
+,,Madison,0,0,1,0,"7,411"
+,,Rapid City,0,1,1,1,"74,573"
+,,Sioux Falls,0,2,0,2,"175,152"
+,Metropolitan Counties,,,,,,
+,,Meade,0,0,1,0,
+,,Minnehaha,0,1,1,0,
+,,Union,1,0,0,0,
+,Nonmetropolitan Counties,,,,,,
+,,Hamlin,0,1,0,0,
+,,Jerauld,1,0,0,0,
+Tennessee,Total,,,,,,
+,Cities,,,,,,
+,,Alcoa,0,0,1,5,"9,503"
+,,Alexandria,0,0,2,0,978
+,,Bristol,0,0,1,0,"26,656"
+,,Chattanooga,1,1,0,1,"177,801"
+,,Clarksville,0,0,0,1,"152,526"
+,,Cleveland,1,0,2,1,"44,423"
+,,Coopertown,1,0,0,0,"4,426"
+,,Covington,0,1,1,0,"9,039"
+,,Cowan,0,1,0,0,"1,698"
+,,Dyersburg,0,0,0,1,"16,711"
+,,East Ridge,0,0,1,0,"21,311"
+,,Franklin,0,0,1,0,"74,771"
+,,Gallaway,2,0,0,0,654
+,,Greenbrier,1,0,0,0,"6,807"
+,,Hendersonville,0,0,1,0,"56,965"
+,,Humboldt,0,0,1,0,"8,287"
+,,Jackson,1,0,2,0,"66,990"
+,,Jamestown,7,0,0,0,"1,945"
+,,Jasper,0,0,1,0,"3,323"
+,,Johnson City,1,0,0,1,"66,511"
+,,Kingsport,0,0,0,1,"53,059"
+,,Knoxville,0,1,0,0,"186,583"
+,,Lebanon,2,0,0,1,"31,125"
+,,Lenoir City,0,0,0,1,"9,175"
+,,Livingston,0,0,1,0,"4,073"
+,,Memphis,3,3,2,1,"656,434"
+,,Milan,0,1,0,0,"7,803"
+,,Millington,0,1,0,0,"11,002"
+,,Morristown,1,0,0,0,"29,576"
+,,Murfreesboro2,0,1,1,1,"129,730"
+,,Nashville Metropolitan,3,4,5,0,"668,685"
+,,Newport,0,0,1,0,"6,812"
+,,Oak Ridge,0,1,0,0,"29,296"
+,,Pigeon Forge,1,2,0,0,"6,230"
+,,Portland,0,0,1,0,"12,502"
+,,Spring Hill,1,0,0,1,"37,599"
+,,White House,1,0,0,0,"11,419"
+,Universities and Colleges,,,,,,
+,,Pellissippi State Community College,0,0,0,1,"10,325"
+,,Tennessee Technological University,0,0,2,0,"10,900"
+,,University of Tennessee: Knoxville,0,0,1,0,"27,845"
+,,University of the South,1,0,0,0,"1,797"
+,Metropolitan Counties,,,,,,
+,,Anderson,0,0,1,0,
+,,Bradley,1,0,1,1,
+,,Dickson,0,2,0,0,
+,,Hamblen,0,0,0,1,
+,,Hamilton,3,2,0,3,
+,,Knox,0,0,1,0,
+,,Montgomery,0,0,0,1,
+,,Roane,0,0,1,0,
+,,Rutherford,0,0,0,1,
+,,Shelby,6,5,2,5,
+,,Sullivan,0,2,0,0,
+,Nonmetropolitan Counties,,,,,,
+,,Lawrence,0,0,0,1,
+,,Sevier,1,0,0,0,
+,Other Agencies,,,,,,
+,,Department of Safety,1,1,7,2,
+Texas,Total,,,,,,
+,Cities,,,,,,
+,,Arlington,0,2,2,1,"392,666"
+,,Austin,7,6,4,2,"956,911"
+,,Beaumont,3,0,0,1,"118,283"
+,,Bedford,0,0,0,6,"49,803"
+,,Borger,0,0,1,0,"12,894"
+,,Burleson,0,1,0,0,"45,116"
+,,Cedar Hill,0,0,1,0,"49,215"
+,,Cedar Park,0,2,0,0,"69,051"
+,,Center,0,0,0,1,"5,218"
+,,College Station,0,0,1,0,"110,785"
+,,Converse,0,1,0,0,"22,782"
+,,Dallas,1,5,4,1,"1,320,939"
+,,Denison,0,1,0,0,"23,237"
+,,Denton,1,1,1,0,"134,054"
+,,El Paso,0,0,0,1,"687,193"
+,,Fort Worth,7,5,3,5,"851,849"
+,,Frankston,0,1,0,0,"1,163"
+,,Galveston,1,1,3,1,"50,667"
+,,Gilmer,0,1,0,0,"5,246"
+,,Grand Prairie,0,1,0,0,"190,270"
+,,Hedwig Village,0,1,0,0,"2,724"
+,,Houston,1,1,3,3,"2,334,348"
+,,League City,0,1,0,0,"101,436"
+,,Levelland,0,0,1,1,"13,997"
+,,Lewisville,1,0,0,1,"105,762"
+,,Livingston,1,0,0,0,"5,140"
+,,Longview,0,0,1,2,"82,632"
+,,McKinney,0,3,2,2,"169,689"
+,,Odessa,1,0,1,1,"123,209"
+,,Plano,0,0,1,0,"288,242"
+,,Pleasanton,0,0,1,0,"10,013"
+,,Reno,0,0,1,0,"3,302"
+,,Rockwall,0,1,0,0,"43,542"
+,,Round Rock,0,1,1,0,"119,308"
+,,San Angelo,0,0,0,1,"101,870"
+,,San Antonio,2,1,4,2,"1,498,642"
+,,San Marcos,0,0,0,1,"64,380"
+,,Seabrook,0,1,0,0,"14,091"
+,,Sealy,0,1,0,0,"6,469"
+,,Sugar Land,0,0,0,1,"90,088"
+,,Teague,0,0,1,0,"3,575"
+,,Temple,0,0,0,1,"73,411"
+,,Texas City,0,0,0,2,"48,095"
+,,Tomball,0,0,0,1,"11,700"
+,,Tyler,1,3,0,0,"105,044"
+,,Weslaco,0,2,0,0,"39,987"
+,,Wichita Falls,0,1,0,1,"104,685"
+,,Willis,0,0,1,0,"6,401"
+,Universities and Colleges,,,,,,
+,,Amarillo College,1,0,0,0,"9,936"
+,,Baylor University: Waco,0,0,0,1,"16,787"
+,,Southwestern University,0,0,0,2,"1,515"
+,,Texas State Technical College: West Texas3,1,0,0,0,
+,,Texas Tech University: Lubbock,0,0,0,1,"35,859"
+,,Tyler Junior College,0,1,0,0,"10,934"
+,,University of Texas: Dallas,2,0,0,0,"24,554"
+,Metropolitan Counties,,,,,,
+,,Bexar,1,0,0,0,
+,,Lubbock,0,0,0,1,
+,,Parker,0,1,1,0,
+,,Travis,1,4,1,1,
+,,Williamson,1,1,0,1,
+,Nonmetropolitan Counties,,,,,,
+,,Brewster,1,0,0,0,
+,,San Jacinto,1,0,0,0,
+,,Zavala,0,0,1,0,
+,Other Agencies,,,,,,
+,,Dallas-Fort Worth International Airport,0,0,1,0,
+,,Hospital District: Dallas County,0,0,1,0,
+,,Independent School District: El Paso,0,0,0,1,
+Utah,Total,,,,,,
+,Cities,,,,,,
+,,Bountiful,0,0,0,3,"44,003"
+,,Centerville,0,0,1,0,"17,204"
+,,Draper,0,1,0,0,"47,696"
+,,Farmington,0,1,0,0,"23,505"
+,,Grantsville,0,2,0,0,"10,253"
+,,Helper,1,0,0,0,"2,094"
+,,Hurricane,0,0,1,0,"15,869"
+,,Layton,0,0,1,0,"75,482"
+,,Lindon,0,0,0,1,"10,958"
+,,Moab,0,0,1,0,"5,262"
+,,North Ogden,0,1,1,0,"18,654"
+,,Ogden2,1,1,3,3,"85,930"
+,,Payson,1,1,0,0,"19,738"
+,,Pleasant View,0,1,0,0,"9,548"
+,,Roosevelt,0,0,0,1,"7,179"
+,,Salt Lake City,0,0,1,0,"193,918"
+,,Santa Clara/Ivins,0,0,0,1,"15,107"
+,,Saratoga Springs,0,2,0,0,"27,211"
+,,South Jordan,0,1,0,0,"70,226"
+,,South Ogden,0,1,0,0,"17,026"
+,,South Salt Lake,0,0,1,0,"25,022"
+,,St. George,0,0,0,2,"81,755"
+,,Tooele,1,2,0,0,"33,448"
+,,West Jordan,0,0,2,0,"113,595"
+,,West Valley,3,0,0,1,"137,558"
+,Universities and Colleges,,,,,,
+,,Brigham Young University,0,0,1,1,"33,469"
+,,Utah State University: Logan,0,0,0,1,"28,622"
+,Metropolitan Counties,,,,,,
+,,Salt Lake County Unified Police Department,1,0,0,0,
+,,Utah,0,0,1,0,
+,,Washington,0,0,1,0,
+,State Police Agencies,,,,,,
+,,Utah Highway Patrol,3,3,1,3,
+,Other Agencies,,,,,,
+,,Utah Transit Authority,2,0,2,1,
+Vermont,Total,,,,,,
+,Cities,,,,,,
+,,Barre,0,0,1,0,"8,687"
+,,Barre Town,0,1,0,0,"7,791"
+,,Brandon,1,0,0,0,"3,801"
+,,Burlington,2,0,1,2,"42,454"
+,,Chester,0,1,0,0,"3,069"
+,,Colchester,0,1,0,0,"17,437"
+,,Middlebury,0,0,0,1,"8,570"
+,,Milton,0,1,1,0,"10,921"
+,,Rutland,0,0,0,1,"15,698"
+,,Springfield,0,0,0,1,"9,132"
+,,St. Albans,0,2,0,0,"6,799"
+,,St. Johnsbury,0,3,0,1,"7,414"
+,,Williston,0,0,0,1,"9,556"
+,Universities and Colleges,,,,,,
+,,University of Vermont,0,0,2,0,"12,815"
+,Nonmetropolitan Counties,,,,,,
+,,Lamoille,1,0,0,0,
+Virginia,Total,,,,,,
+,Cities,,,,,,
+,,Alexandria,0,1,1,0,"155,319"
+,,Chesapeake,2,1,1,0,"236,570"
+,,Clifton Forge,1,0,0,0,"3,713"
+,,Covington,0,0,1,0,"5,570"
+,,Front Royal,1,0,1,1,"15,193"
+,,Hampton,0,1,0,0,"135,504"
+,,Harrisonburg,1,0,3,0,"52,972"
+,,Herndon,0,0,1,0,"24,806"
+,,Manassas,0,0,1,0,"42,267"
+,,Newport News,0,1,2,1,"181,676"
+,,Norfolk,0,0,1,0,"245,734"
+,,Portsmouth,0,1,1,1,"95,813"
+,,Purcellville,0,0,1,0,"9,547"
+,,Radford,0,0,0,1,"17,504"
+,,Richmond,1,0,0,0,"222,430"
+,,Rocky Mount,1,0,0,0,"4,803"
+,,Virginia Beach,0,0,3,2,"453,017"
+,,Waynesboro,1,0,0,0,"21,464"
+,,Williamsburg,0,0,0,1,"15,256"
+,,Woodstock,0,1,0,0,"5,277"
+,Universities and Colleges,,,,,,
+,,College of William and Mary,1,0,0,0,"8,484"
+,,Emory and Henry College,0,1,0,0,"1,117"
+,,George Mason University,1,0,0,0,"33,929"
+,,Hampton University,0,0,1,,"4,269"
+,,Old Dominion University,2,0,0,0,"24,672"
+,,Radford University,1,0,0,0,"9,743"
+,,University of Virginia,0,0,0,1,"23,883"
+,,Virginia Commonwealth University,0,0,0,2,"30,918"
+,Metropolitan Counties,,,,,,
+,,Albemarle County Police Department,1,2,1,0,
+,,Amelia,0,0,1,0,
+,,Arlington County Police Department,0,0,1,2,
+,,Fairfax County Police Department,7,7,3,7,
+,,Franklin,0,0,0,1,
+,,Frederick,0,0,0,1,
+,,Hanover,0,0,0,1,
+,,Henrico County Police Department,1,0,0,0,
+,,Loudoun,0,0,1,7,
+,,Mathews,0,0,1,0,
+,,Montgomery,1,0,0,0,
+,,Powhatan,0,0,1,0,
+,,Prince William County Police Department,1,0,2,3,
+,,Spotsylvania,0,0,0,1,
+,,Stafford,0,2,0,2,
+,,Washington,0,1,1,0,
+,,York,0,0,0,1,
+,Nonmetropolitan Counties,,,,,,
+,,Accomack,0,0,2,0,
+,,Grayson,0,0,0,1,
+,,Louisa,0,1,1,0,
+,,Shenandoah,0,1,0,0,
+,State Police Agencies,,,,,,
+,,State Police:,,,,,
+,,Chesapeake,0,0,1,0,
+,,Fairfax County,0,1,0,1,
+,,Goochland County,0,0,0,1,
+,,Newport News,0,0,0,1,
+,,Rockingham County,0,0,1,0,
+,,Surry County,0,0,0,1,
+Washington,Total,,,,,,
+,Cities,,,,,,
+,,Aberdeen,2,0,0,0,"16,155"
+,,Algona,0,0,1,0,"3,166"
+,,Arlington,0,0,0,1,"19,142"
+,,Auburn,1,2,1,1,"78,400"
+,,Bainbridge Island,0,0,1,0,"23,998"
+,,Battle Ground,0,0,0,1,"19,734"
+,,Bellevue,6,5,3,4,"142,238"
+,,Bellingham,3,0,1,4,"86,005"
+,,Bothell,0,0,0,1,"43,828"
+,,Brier,1,0,0,0,"6,753"
+,,Centralia,1,0,4,0,"16,785"
+,,Darrington,1,0,0,0,"1,381"
+,,Des Moines,0,0,0,1,"31,523"
+,,Edmonds,0,0,3,2,"41,705"
+,,Enumclaw,0,0,1,0,"11,709"
+,,Everett,2,0,0,3,"108,988"
+,,Federal Way,1,0,0,1,"96,338"
+,,Forks,0,1,1,0,"3,787"
+,,Granite Falls,0,0,1,0,"3,516"
+,,Kent,3,5,5,3,"128,604"
+,,Kettle Falls,0,0,1,0,"1,596"
+,,Kirkland,0,1,0,0,"88,627"
+,,Lake Forest Park,0,0,0,1,"13,369"
+,,Lake Stevens,0,1,1,0,"31,440"
+,,Lakewood,0,0,1,2,"60,153"
+,,Longview2,2,1,1,2,"36,854"
+,,Lynnwood,0,0,1,1,"37,217"
+,,Marysville,2,0,1,1,"68,172"
+,,Mill Creek,0,0,0,1,"20,419"
+,,Milton,0,1,0,0,"7,785"
+,,Mountlake Terrace,0,0,1,0,"21,212"
+,,Mount Vernon,0,1,0,0,"34,521"
+,,Mukilteo,0,1,0,0,"21,416"
+,,Oak Harbor,0,2,1,0,"22,795"
+,,Olympia,0,0,1,0,"50,972"
+,,Orting,0,1,2,0,"7,594"
+,,Pasco,0,1,0,0,"71,077"
+,,Port Angeles,0,2,2,1,"19,525"
+,,Port Townsend,0,0,0,1,"9,378"
+,,Pullman,1,0,1,0,"33,456"
+,,Puyallup,1,2,0,0,"40,167"
+,,Redmond2,0,1,0,5,"61,893"
+,,Renton,0,4,2,2,"101,908"
+,,Richland,0,0,1,1,"55,475"
+,,Sammamish,0,0,6,1,"53,387"
+,,Seattle,30,27,33,28,"700,313"
+,,Snohomish,0,0,1,0,"9,773"
+,,Spokane,1,2,,5,"214,028"
+,,Spokane Valley,2,1,1,6,"95,923"
+,,Stanwood,0,0,0,1,"6,888"
+,,Tacoma,2,2,3,2,"209,914"
+,,Tenino,0,0,1,0,"1,761"
+,,Tukwila,1,0,0,0,"20,195"
+,,Vancouver,0,4,0,0,"174,912"
+,,Walla Walla,4,2,0,1,"32,326"
+,,White Salmon,1,1,0,0,"2,364"
+,,Woodinville,0,0,1,0,"11,953"
+,,Yakima,0,2,1,2,"94,111"
+,Universities and Colleges,,,,,,
+,,Eastern Washington University,1,0,0,0,"12,361"
+,,Evergreen State College,1,1,0,0,"4,190"
+,,University of Washington,0,2,1,1,"45,408"
+,,Washington State University: Pullman,1,0,0,0,"29,686"
+,,Western Washington University,0,0,0,2,"15,332"
+,Metropolitan Counties,,,,,,
+,,Clark,0,0,0,1,
+,,Cowlitz,1,0,3,1,
+,,King,2,4,4,4,
+,,Pierce,3,2,0,6,
+,,Skagit,0,1,0,0,
+,,Snohomish,2,2,1,1,
+,,Spokane,0,0,0,1,
+,,Walla Walla,0,0,1,0,
+,,Whatcom2,5,3,3,2,
+,,Yakima,0,1,1,2,
+,Nonmetropolitan Counties,,,,,,
+,,Grays Harbor,1,0,0,0,
+,,Island,0,0,0,1,
+,,Lewis,0,0,1,0,
+,,Mason,0,0,1,0,
+,,San Juan,0,0,0,1,
+,Tribal Agencies,,,,,,
+,,Lummi Tribal,0,0,0,1,
+,Other Agencies,,,,,,
+,,Port of Seattle,1,0,0,0,
+West Virginia,Total,,,,,,
+,Cities,,,,,,
+,,Beckley,0,0,1,0,"16,940"
+,,Buckhannon,0,0,0,1,"5,662"
+,,Charleston,4,5,4,2,"49,429"
+,,Fairmont,1,0,0,0,"18,733"
+,,Fayetteville,1,1,0,0,"2,885"
+,,Huntington,1,1,0,0,"48,540"
+,,Moundsville,1,0,0,0,"8,644"
+,,Oak Hill,0,1,1,0,"8,104"
+,,Parkersburg,1,0,0,0,"30,913"
+,,Philippi,0,0,1,0,"3,320"
+,,Ranson,0,1,0,,"5,053"
+,,Wheeling,0,1,0,0,"27,486"
+,Metropolitan Counties,,,,,,
+,,Berkeley,0,0,1,0,
+,,Brooke,0,0,0,1,
+,,Cabell,0,0,0,1,
+,,Hancock,1,1,0,0,
+,,Jefferson,0,0,0,1,
+,,Kanawha,1,1,1,0,
+,Nonmetropolitan Counties,,,,,,
+,,Mason,0,0,2,1,
+Wisconsin,Total,,,,,,
+,Cities,,,,,,
+,,Appleton,1,0,0,0,"74,439"
+,,Cross Plains,1,0,0,0,"4,072"
+,,Fox Valley Metro,0,0,1,0,"21,515"
+,,Green Bay,1,0,0,0,"105,452"
+,,Hudson,0,0,0,1,"13,740"
+,,Janesville,0,1,0,0,"64,234"
+,,La Crosse,0,1,0,0,"52,498"
+,,Madison,0,8,2,5,"252,136"
+,,Manitowoc,0,1,0,0,"32,877"
+,,Milwaukee,0,1,1,0,"600,193"
+,,New Richmond,0,0,1,0,"8,913"
+,,Onalaska,0,1,0,0,"18,600"
+,,Osceola,0,0,0,1,"2,502"
+,,Stoughton,0,0,0,1,"13,148"
+,Metropolitan Counties,,,,,,
+,,Fond du Lac,1,0,0,1,
+,,Outagamie,0,0,1,0,
+,,St. Croix,0,0,0,1,
+,Nonmetropolitan Counties,,,,,,
+,,Rusk,0,0,1,0,
+Wyoming,Total,,,,,,
+,Cities,,,,,,
+,,Gillette,0,2,0,1,"33,218"
