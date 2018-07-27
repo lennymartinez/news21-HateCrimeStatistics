@@ -6,24 +6,24 @@ with open('../hcs_untidy.csv', encoding='utf-8') as f:
 	rows = [row for row in reader]
 
 tidy = []
-header = ["year","state","city","quarter","incidentsReported","population"]
+header = ["year","state","city","population","quarter","incidentsReported"]
 tidy.append(header)
 # print(header)
 
 for row in rows[1:]:
-	state = row[0]
-	city = row[1]
-	q1 = row[2]
-	q2 = row[3]
-	q3 = row[4]
-	q4 = row[5]
-	population = row[5]
-	year = row[6]
+	state = row[1]
+	city = row[2]
+	q1 = row[4]
+	q2 = row[5]
+	q3 = row[6]
+	q4 = row[7]
+	population = row[3]
+	year = row[0]
 
-	out1 = [year,state,city,1,q1,population]
-	out2 = [year,state,city,2,q2,population]
-	out3 = [year,state,city,3,q3,population]
-	out4 = [year,state,city,4,q4,population]
+	out1 = [year,state,city,population,1,q1]
+	out2 = [year,state,city,population,2,q2]
+	out3 = [year,state,city,population,3,q3]
+	out4 = [year,state,city,population,4,q4]
 	# print(out1)
 	# print(out2)
 	# print(out3)
